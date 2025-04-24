@@ -1,0 +1,8 @@
+{
+    "bearish_divergence": false,
+    "bullish_divergence": false,
+    "bearish_divergence_strength": 0,
+    "bullish_divergence_strength": 0,
+    "rsi_divergences": [],
+    "macd_divergences": []
+}

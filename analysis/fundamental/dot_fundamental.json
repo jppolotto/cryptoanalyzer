@@ -1,0 +1,18 @@
+{
+    "symbol": "DOT",
+    "market_cap_usd": 6378274048.182275,
+    "volume_24h_usd": 258949726.60055828,
+    "volume_mcap_ratio": 0.040598714424062037,
+    "market_share": 0.23548682703058696,
+    "cmc_rank": 20,
+    "price_change_30d": -13.81461676,
+    "fundamental_score": 45,
+    "score_components": {
+        "market_cap_score": 15,
+        "volume_mcap_score": 5,
+        "rank_score": 10,
+        "stability_score": 9,
+        "growth_score": 2,
+        "market_position_score": 4
+    }
+}

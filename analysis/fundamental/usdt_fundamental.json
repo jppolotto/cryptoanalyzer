@@ -1,0 +1,18 @@
+{
+    "symbol": "USDT",
+    "market_cap_usd": 145302102886.78735,
+    "volume_24h_usd": 102460018672.91284,
+    "volume_mcap_ratio": 0.7051516573902921,
+    "market_share": 5.407306366772049,
+    "cmc_rank": 3,
+    "price_change_30d": -0.00443066,
+    "fundamental_score": 86,
+    "score_components": {
+        "market_cap_score": 25,
+        "volume_mcap_score": 20,
+        "rank_score": 15,
+        "stability_score": 15,
+        "growth_score": 3,
+        "market_position_score": 8
+    }
+}

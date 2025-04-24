@@ -1,0 +1,2641 @@
+{
+    "symbol": "BCH",
+    "name": "Bitcoin Cash",
+    "price_usd": 357.7084379459156,
+    "market_cap_usd": 7104126466.288547,
+    "volume_24h_usd": 320182446.893842,
+    "percent_change_24h": -0.65701045,
+    "percent_change_7d": 10.83410885,
+    "technical_score": 62,
+    "fundamental_score": 50,
+    "sentiment_score": 45,
+    "total_score": 54.2,
+    "technical_weight": 0.45,
+    "fundamental_weight": 0.3,
+    "sentiment_weight": 0.25,
+    "risk_profile": "Moderate",
+    "market_opportunity": "Moderate",
+    "recommendation": "Hold",
+    "rank": 9,
+    "technical_data": {
+        "symbol": "BCH",
+        "price": 337.47057155302014,
+        "ma_7": 333.52858092475884,
+        "ma_30": 314.72479706571704,
+        "ma_90": 337.23396159187666,
+        "ma_200": 393.8494149296329,
+        "rsi_14": 77.1525793532272,
+        "macd": 5.8818915554167575,
+        "macd_signal": 1.8532046511412985,
+        "bb_upper": 364.38126562051104,
+        "bb_middle": 313.62920640200343,
+        "bb_lower": 262.8771471834958,
+        "bb_width": 0.32364370525782393,
+        "roc_7": 1.8355822878614259,
+        "roc_30": 4.006357879831635,
+        "obv": 5287717437.413722,
+        "tenkan_sen": 331.4258274009477,
+        "kijun_sen": 297.7545760634806,
+        "adx": 24.312459024232616,
+        "stoch_k": 94.16999965917164,
+        "stoch_d": 94.68367089388236,
+        "mfi": 56.20842667834942,
+        "psar": 304.0639524239605,
+        "technical_score": 62,
+        "score_components": {
+            "trend_score": 14,
+            "momentum_score": 10,
+            "volatility_score": 4,
+            "support_resistance_score": 6,
+            "volume_score": 5,
+            "ichimoku_score": 5,
+            "obv_score": 5,
+            "adx_score": 3,
+            "psar_score": 5,
+            "ma_cross_score": 5
+        }
+    },
+    "fundamental_data": {
+        "symbol": "BCH",
+        "market_cap_usd": 7104126466.288547,
+        "volume_24h_usd": 320182446.893842,
+        "volume_mcap_ratio": 0.045069924981377324,
+        "market_share": 0.26228540632352865,
+        "cmc_rank": 19,
+        "price_change_30d": 7.84256937,
+        "fundamental_score": 50,
+        "score_components": {
+            "market_cap_score": 15,
+            "volume_mcap_score": 5,
+            "rank_score": 10,
+            "stability_score": 9,
+            "growth_score": 7,
+            "market_position_score": 4
+        }
+    },
+    "sentiment_data": {
+        "symbol": "BCH",
+        "price_change_1h": 0.4256181,
+        "price_change_24h": -0.65701045,
+        "price_change_7d": 10.83410885,
+        "market_avg_change_24h": 3.4300381724999993,
+        "market_avg_change_7d": 10.064568308,
+        "relative_performance_24h": -4.087048622499999,
+        "relative_performance_7d": 0.7695405419999997,
+        "fear_greed_value": 72,
+        "fear_greed_classification": "Greed",
+        "market_trend": "Strong Bullish",
+        "sentiment_score": 45,
+        "score_components": {
+            "momentum_score": 17,
+            "market_sentiment_score": 10,
+            "relative_score": 8,
+            "alignment_score": 10
+        }
+    },
+    "pattern_data": {
+        "head_and_shoulders": true,
+        "inverse_head_and_shoulders": true,
+        "double_top": false,
+        "double_bottom": true,
+        "ascending_triangle": false,
+        "descending_triangle": false,
+        "symmetric_triangle": false,
+        "bullish_flag": false,
+        "bearish_flag": false,
+        "pattern_strength": 4
+    },
+    "divergence_data": {
+        "bearish_divergence": false,
+        "bullish_divergence": false,
+        "bearish_divergence_strength": 0,
+        "bullish_divergence_strength": 0,
+        "rsi_divergences": [],
+        "macd_divergences": []
+    },
+    "historical_data": [
+        {
+            "timestamp": "2024-04-28 07:15:00",
+            "symbol": "BCH",
+            "price": 483.8486878703699,
+            "volume_24h": 270230632.46,
+            "market_cap": 9530955785.96311
+        },
+        {
+            "timestamp": "2024-04-29 07:15:00",
+            "symbol": "BCH",
+            "price": 454.13640927248446,
+            "volume_24h": 272054806.89,
+            "market_cap": 8945899723.688448
+        },
+        {
+            "timestamp": "2024-04-30 07:15:00",
+            "symbol": "BCH",
+            "price": 461.1309016109421,
+            "volume_24h": 310617326.16,
+            "market_cap": 9083899772.081451
+        },
+        {
+            "timestamp": "2024-05-01 07:15:00",
+            "symbol": "BCH",
+            "price": 415.1759028566973,
+            "volume_24h": 472360483.63,
+            "market_cap": 8178791431.367616
+        },
+        {
+            "timestamp": "2024-05-02 07:15:00",
+            "symbol": "BCH",
+            "price": 416.2009702245493,
+            "volume_24h": 496842876.13,
+            "market_cap": 8199187727.240325
+        },
+        {
+            "timestamp": "2024-05-03 07:15:00",
+            "symbol": "BCH",
+            "price": 435.2841778732992,
+            "volume_24h": 307080295.47,
+            "market_cap": 8575328190.736853
+        },
+        {
+            "timestamp": "2024-05-04 07:15:00",
+            "symbol": "BCH",
+            "price": 465.771452653492,
+            "volume_24h": 401616080.83,
+            "market_cap": 9176161935.519512
+        },
+        {
+            "timestamp": "2024-05-05 07:15:00",
+            "symbol": "BCH",
+            "price": 459.97873048367353,
+            "volume_24h": 292241356.27,
+            "market_cap": 9062217775.883276
+        },
+        {
+            "timestamp": "2024-05-06 07:15:00",
+            "symbol": "BCH",
+            "price": 473.3710881411298,
+            "volume_24h": 231185384.55,
+            "market_cap": 9326299488.822027
+        },
+        {
+            "timestamp": "2024-05-07 07:15:00",
+            "symbol": "BCH",
+            "price": 468.2782269132277,
+            "volume_24h": 349779677.97,
+            "market_cap": 9226158110.112488
+        },
+        {
+            "timestamp": "2024-05-08 07:15:00",
+            "symbol": "BCH",
+            "price": 459.24222568067046,
+            "volume_24h": 391090297.86,
+            "market_cap": 9048340502.557652
+        },
+        {
+            "timestamp": "2024-05-09 07:15:00",
+            "symbol": "BCH",
+            "price": 451.30882798681415,
+            "volume_24h": 317505799.48,
+            "market_cap": 8892253485.71137
+        },
+        {
+            "timestamp": "2024-05-10 07:15:00",
+            "symbol": "BCH",
+            "price": 454.4810105694243,
+            "volume_24h": 269349405.39,
+            "market_cap": 8954913462.381271
+        },
+        {
+            "timestamp": "2024-05-11 07:15:00",
+            "symbol": "BCH",
+            "price": 429.615437651321,
+            "volume_24h": 294437497.61,
+            "market_cap": 8465137213.288658
+        },
+        {
+            "timestamp": "2024-05-12 07:15:00",
+            "symbol": "BCH",
+            "price": 432.5991101954921,
+            "volume_24h": 156340033.04,
+            "market_cap": 8524147817.137849
+        },
+        {
+            "timestamp": "2024-05-13 07:15:00",
+            "symbol": "BCH",
+            "price": 433.4565458557414,
+            "volume_24h": 208685017.75,
+            "market_cap": 8541228726.846445
+        },
+        {
+            "timestamp": "2024-05-14 07:15:00",
+            "symbol": "BCH",
+            "price": 432.9011949142409,
+            "volume_24h": 244823132.14,
+            "market_cap": 8530477678.100742
+        },
+        {
+            "timestamp": "2024-05-15 07:15:00",
+            "symbol": "BCH",
+            "price": 429.36562495772085,
+            "volume_24h": 232827517.39,
+            "market_cap": 8461001182.897324
+        },
+        {
+            "timestamp": "2024-05-16 07:15:00",
+            "symbol": "BCH",
+            "price": 457.94429132428286,
+            "volume_24h": 392775353.56,
+            "market_cap": 9024371848.578424
+        },
+        {
+            "timestamp": "2024-05-17 07:15:00",
+            "symbol": "BCH",
+            "price": 452.7680535832437,
+            "volume_24h": 257010002.45,
+            "market_cap": 8922559959.112247
+        },
+        {
+            "timestamp": "2024-05-18 07:15:00",
+            "symbol": "BCH",
+            "price": 483.407536043888,
+            "volume_24h": 551852329.51,
+            "market_cap": 9526619571.280998
+        },
+        {
+            "timestamp": "2024-05-19 07:15:00",
+            "symbol": "BCH",
+            "price": 492.0005435936928,
+            "volume_24h": 417362413.88,
+            "market_cap": 9696203727.946518
+        },
+        {
+            "timestamp": "2024-05-20 07:15:00",
+            "symbol": "BCH",
+            "price": 479.0422975198475,
+            "volume_24h": 419542584.66,
+            "market_cap": 9441034461.851423
+        },
+        {
+            "timestamp": "2024-05-21 07:15:00",
+            "symbol": "BCH",
+            "price": 518.6570552850945,
+            "volume_24h": 720043160.27,
+            "market_cap": 10221994714.972029
+        },
+        {
+            "timestamp": "2024-05-22 07:15:00",
+            "symbol": "BCH",
+            "price": 508.5453623660178,
+            "volume_24h": 528302337.31,
+            "market_cap": 10022942795.73145
+        },
+        {
+            "timestamp": "2024-05-23 07:15:00",
+            "symbol": "BCH",
+            "price": 508.99726994939806,
+            "volume_24h": 434714594.51,
+            "market_cap": 10032068967.135912
+        },
+        {
+            "timestamp": "2024-05-24 07:15:00",
+            "symbol": "BCH",
+            "price": 481.183667119436,
+            "volume_24h": 471720682.01,
+            "market_cap": 9484103012.342808
+        },
+        {
+            "timestamp": "2024-05-25 07:15:00",
+            "symbol": "BCH",
+            "price": 494.9376223355304,
+            "volume_24h": 358333962.17,
+            "market_cap": 9755421604.642378
+        },
+        {
+            "timestamp": "2024-05-26 07:15:00",
+            "symbol": "BCH",
+            "price": 491.9259977187659,
+            "volume_24h": 273587685.12,
+            "market_cap": 9696271868.250853
+        },
+        {
+            "timestamp": "2024-05-27 07:15:00",
+            "symbol": "BCH",
+            "price": 482.5991631808728,
+            "volume_24h": 267540682.14,
+            "market_cap": 9512646330.76344
+        },
+        {
+            "timestamp": "2024-05-28 07:15:00",
+            "symbol": "BCH",
+            "price": 464.0564152166644,
+            "volume_24h": 386513606.51,
+            "market_cap": 9147332138.768538
+        },
+        {
+            "timestamp": "2024-05-29 07:15:00",
+            "symbol": "BCH",
+            "price": 469.8800069847823,
+            "volume_24h": 363469935.63,
+            "market_cap": 9262327559.184814
+        },
+        {
+            "timestamp": "2024-05-30 07:15:00",
+            "symbol": "BCH",
+            "price": 463.8391847561031,
+            "volume_24h": 297061841.4,
+            "market_cap": 9143454573.28057
+        },
+        {
+            "timestamp": "2024-05-31 07:15:00",
+            "symbol": "BCH",
+            "price": 465.5079495093804,
+            "volume_24h": 252217634.16,
+            "market_cap": 9176543661.554993
+        },
+        {
+            "timestamp": "2024-06-01 07:15:00",
+            "symbol": "BCH",
+            "price": 459.6782258419329,
+            "volume_24h": 255076811.45,
+            "market_cap": 9061820737.31236
+        },
+        {
+            "timestamp": "2024-06-02 07:15:00",
+            "symbol": "BCH",
+            "price": 463.708677643622,
+            "volume_24h": 178748772.5,
+            "market_cap": 9141502155.248293
+        },
+        {
+            "timestamp": "2024-06-03 07:15:00",
+            "symbol": "BCH",
+            "price": 466.8358411744469,
+            "volume_24h": 241236585.01,
+            "market_cap": 9203356412.285437
+        },
+        {
+            "timestamp": "2024-06-04 07:15:00",
+            "symbol": "BCH",
+            "price": 461.99484340353416,
+            "volume_24h": 221863893.51,
+            "market_cap": 9108121501.39314
+        },
+        {
+            "timestamp": "2024-06-05 07:15:00",
+            "symbol": "BCH",
+            "price": 484.6014645080626,
+            "volume_24h": 306460154.8,
+            "market_cap": 9554019338.631092
+        },
+        {
+            "timestamp": "2024-06-06 07:15:00",
+            "symbol": "BCH",
+            "price": 492.7601177898565,
+            "volume_24h": 306894719.33,
+            "market_cap": 9715076777.051374
+        },
+        {
+            "timestamp": "2024-06-07 07:15:00",
+            "symbol": "BCH",
+            "price": 511.6141315265838,
+            "volume_24h": 364900779.89,
+            "market_cap": 10087049770.296797
+        },
+        {
+            "timestamp": "2024-06-08 07:15:00",
+            "symbol": "BCH",
+            "price": 481.7212457212989,
+            "volume_24h": 479293485.65,
+            "market_cap": 9497813287.684702
+        },
+        {
+            "timestamp": "2024-06-09 07:15:00",
+            "symbol": "BCH",
+            "price": 468.2123213777154,
+            "volume_24h": 275916617.28,
+            "market_cap": 9231698445.699286
+        },
+        {
+            "timestamp": "2024-06-10 07:15:00",
+            "symbol": "BCH",
+            "price": 463.6493761017494,
+            "volume_24h": 255977074.22,
+            "market_cap": 9141968901.774437
+        },
+        {
+            "timestamp": "2024-06-11 07:15:00",
+            "symbol": "BCH",
+            "price": 454.43598896745806,
+            "volume_24h": 340245248.98,
+            "market_cap": 8960472262.812683
+        },
+        {
+            "timestamp": "2024-06-12 07:15:00",
+            "symbol": "BCH",
+            "price": 444.3156900589426,
+            "volume_24h": 317510255.05,
+            "market_cap": 8761152848.26231
+        },
+        {
+            "timestamp": "2024-06-13 07:15:00",
+            "symbol": "BCH",
+            "price": 446.1615830507329,
+            "volume_24h": 313974925.83,
+            "market_cap": 8797750112.267393
+        },
+        {
+            "timestamp": "2024-06-14 07:15:00",
+            "symbol": "BCH",
+            "price": 436.9979832764564,
+            "volume_24h": 289772110.43,
+            "market_cap": 8617226050.68854
+        },
+        {
+            "timestamp": "2024-06-15 07:15:00",
+            "symbol": "BCH",
+            "price": 425.86858762652975,
+            "volume_24h": 280444806.77,
+            "market_cap": 8397960862.238789
+        },
+        {
+            "timestamp": "2024-06-16 07:15:00",
+            "symbol": "BCH",
+            "price": 431.6639818432628,
+            "volume_24h": 180043426.65,
+            "market_cap": 8512460937.355475
+        },
+        {
+            "timestamp": "2024-06-17 07:15:00",
+            "symbol": "BCH",
+            "price": 416.4970710141781,
+            "volume_24h": 184554472.66,
+            "market_cap": 8213552617.424482
+        },
+        {
+            "timestamp": "2024-06-18 07:15:00",
+            "symbol": "BCH",
+            "price": 394.539566655896,
+            "volume_24h": 390630396.23,
+            "market_cap": 7780688904.33456
+        },
+        {
+            "timestamp": "2024-06-19 07:15:00",
+            "symbol": "BCH",
+            "price": 396.0848486953532,
+            "volume_24h": 311010625.11,
+            "market_cap": 7811340308.469625
+        },
+        {
+            "timestamp": "2024-06-20 07:15:00",
+            "symbol": "BCH",
+            "price": 394.1911003667397,
+            "volume_24h": 215283331.75,
+            "market_cap": 7774161740.725288
+        },
+        {
+            "timestamp": "2024-06-21 07:15:00",
+            "symbol": "BCH",
+            "price": 391.2047089111367,
+            "volume_24h": 211493072.14,
+            "market_cap": 7715457855.028849
+        },
+        {
+            "timestamp": "2024-06-22 07:15:00",
+            "symbol": "BCH",
+            "price": 384.776260043311,
+            "volume_24h": 225264523.4,
+            "market_cap": 7588841173.065962
+        },
+        {
+            "timestamp": "2024-06-23 07:15:00",
+            "symbol": "BCH",
+            "price": 394.6076139720092,
+            "volume_24h": 173162052.01,
+            "market_cap": 7782929824.487906
+        },
+        {
+            "timestamp": "2024-06-24 07:15:00",
+            "symbol": "BCH",
+            "price": 370.81005599791695,
+            "volume_24h": 203475753.66,
+            "market_cap": 7313725443.420464
+        },
+        {
+            "timestamp": "2024-06-25 07:15:00",
+            "symbol": "BCH",
+            "price": 372.5534791031543,
+            "volume_24h": 432004741.73,
+            "market_cap": 7348293719.474747
+        },
+        {
+            "timestamp": "2024-06-26 07:15:00",
+            "symbol": "BCH",
+            "price": 378.0614392357065,
+            "volume_24h": 276813352.48,
+            "market_cap": 7457103575.696631
+        },
+        {
+            "timestamp": "2024-06-27 07:15:00",
+            "symbol": "BCH",
+            "price": 371.2738084503204,
+            "volume_24h": 194573457.8,
+            "market_cap": 7323385153.527781
+        },
+        {
+            "timestamp": "2024-06-28 07:15:00",
+            "symbol": "BCH",
+            "price": 394.3166196642653,
+            "volume_24h": 257525218.0,
+            "market_cap": 7778098644.356231
+        },
+        {
+            "timestamp": "2024-06-29 07:15:00",
+            "symbol": "BCH",
+            "price": 383.1099782689839,
+            "volume_24h": 275122048.93,
+            "market_cap": 7557216658.281386
+        },
+        {
+            "timestamp": "2024-06-30 07:15:00",
+            "symbol": "BCH",
+            "price": 388.6368352773867,
+            "volume_24h": 155669856.58,
+            "market_cap": 7666409312.829355
+        },
+        {
+            "timestamp": "2024-07-01 07:15:00",
+            "symbol": "BCH",
+            "price": 390.96243073595537,
+            "volume_24h": 180681823.97,
+            "market_cap": 7712453563.445604
+        },
+        {
+            "timestamp": "2024-07-02 07:15:00",
+            "symbol": "BCH",
+            "price": 386.3450482827001,
+            "volume_24h": 196909242.32,
+            "market_cap": 7621541050.934206
+        },
+        {
+            "timestamp": "2024-07-03 07:15:00",
+            "symbol": "BCH",
+            "price": 374.9446888274991,
+            "volume_24h": 180592302.96,
+            "market_cap": 7396936942.040564
+        },
+        {
+            "timestamp": "2024-07-04 07:15:00",
+            "symbol": "BCH",
+            "price": 358.56923722184484,
+            "volume_24h": 362187675.21,
+            "market_cap": 7074103791.64259
+        },
+        {
+            "timestamp": "2024-07-05 07:15:00",
+            "symbol": "BCH",
+            "price": 292.5898811877607,
+            "volume_24h": 422058372.95,
+            "market_cap": 5772496622.519544
+        },
+        {
+            "timestamp": "2024-07-06 07:15:00",
+            "symbol": "BCH",
+            "price": 327.0655477667252,
+            "volume_24h": 314783360.09,
+            "market_cap": 6452712986.7638445
+        },
+        {
+            "timestamp": "2024-07-07 07:15:00",
+            "symbol": "BCH",
+            "price": 332.303221004866,
+            "volume_24h": 221753475.01,
+            "market_cap": 6556142131.707353
+        },
+        {
+            "timestamp": "2024-07-08 07:15:00",
+            "symbol": "BCH",
+            "price": 312.11287175152233,
+            "volume_24h": 231804294.97,
+            "market_cap": 6157928438.494082
+        },
+        {
+            "timestamp": "2024-07-09 07:15:00",
+            "symbol": "BCH",
+            "price": 337.40112561756246,
+            "volume_24h": 273222122.79,
+            "market_cap": 6657031755.043298
+        },
+        {
+            "timestamp": "2024-07-10 07:15:00",
+            "symbol": "BCH",
+            "price": 343.9532544609992,
+            "volume_24h": 212904927.45,
+            "market_cap": 6786453525.748519
+        },
+        {
+            "timestamp": "2024-07-11 07:15:00",
+            "symbol": "BCH",
+            "price": 342.8840214107596,
+            "volume_24h": 195838676.24,
+            "market_cap": 6765519632.3353815
+        },
+        {
+            "timestamp": "2024-07-12 07:15:00",
+            "symbol": "BCH",
+            "price": 349.3165046468883,
+            "volume_24h": 281546805.48,
+            "market_cap": 6892618301.014281
+        },
+        {
+            "timestamp": "2024-07-13 07:15:00",
+            "symbol": "BCH",
+            "price": 376.6854741687177,
+            "volume_24h": 255892427.84,
+            "market_cap": 7432842530.528826
+        },
+        {
+            "timestamp": "2024-07-14 07:15:00",
+            "symbol": "BCH",
+            "price": 383.58185896935765,
+            "volume_24h": 270851472.43,
+            "market_cap": 7569096158.9381695
+        },
+        {
+            "timestamp": "2024-07-15 07:15:00",
+            "symbol": "BCH",
+            "price": 388.99001409550107,
+            "volume_24h": 271175724.38,
+            "market_cap": 7675970339.936323
+        },
+        {
+            "timestamp": "2024-07-16 07:15:00",
+            "symbol": "BCH",
+            "price": 384.4874338529239,
+            "volume_24h": 322712763.08,
+            "market_cap": 7587286382.428802
+        },
+        {
+            "timestamp": "2024-07-17 07:15:00",
+            "symbol": "BCH",
+            "price": 388.6658232506965,
+            "volume_24h": 383426797.59,
+            "market_cap": 7669900993.4551325
+        },
+        {
+            "timestamp": "2024-07-18 07:15:00",
+            "symbol": "BCH",
+            "price": 381.8681257768362,
+            "volume_24h": 297569552.2,
+            "market_cap": 7535927603.1987
+        },
+        {
+            "timestamp": "2024-07-19 07:15:00",
+            "symbol": "BCH",
+            "price": 376.9119953012672,
+            "volume_24h": 265575306.31,
+            "market_cap": 7438308757.571125
+        },
+        {
+            "timestamp": "2024-07-20 07:15:00",
+            "symbol": "BCH",
+            "price": 393.3355499944013,
+            "volume_24h": 283575932.83,
+            "market_cap": 7762601227.639154
+        },
+        {
+            "timestamp": "2024-07-21 07:15:00",
+            "symbol": "BCH",
+            "price": 391.4128505538094,
+            "volume_24h": 204121958.42,
+            "market_cap": 7724833504.308291
+        },
+        {
+            "timestamp": "2024-07-22 07:15:00",
+            "symbol": "BCH",
+            "price": 387.8028080040869,
+            "volume_24h": 263427583.27,
+            "market_cap": 7653756203.09781
+        },
+        {
+            "timestamp": "2024-07-23 07:15:00",
+            "symbol": "BCH",
+            "price": 376.4540912085138,
+            "volume_24h": 387927252.46,
+            "market_cap": 7429943817.551819
+        },
+        {
+            "timestamp": "2024-07-24 07:15:00",
+            "symbol": "BCH",
+            "price": 370.12599329822064,
+            "volume_24h": 286666174.68,
+            "market_cap": 7305199862.601562
+        },
+        {
+            "timestamp": "2024-07-25 07:15:00",
+            "symbol": "BCH",
+            "price": 353.0464591530632,
+            "volume_24h": 228123163.22,
+            "market_cap": 6968246766.407523
+        },
+        {
+            "timestamp": "2024-07-26 07:15:00",
+            "symbol": "BCH",
+            "price": 372.0104576766872,
+            "volume_24h": 254682058.47,
+            "market_cap": 7342720327.361579
+        },
+        {
+            "timestamp": "2024-07-27 07:15:00",
+            "symbol": "BCH",
+            "price": 383.3210409323331,
+            "volume_24h": 199788069.09,
+            "market_cap": 7566145234.133622
+        },
+        {
+            "timestamp": "2024-07-28 07:15:00",
+            "symbol": "BCH",
+            "price": 394.78048656418576,
+            "volume_24h": 338863483.29,
+            "market_cap": 7792536249.28277
+        },
+        {
+            "timestamp": "2024-07-29 07:15:00",
+            "symbol": "BCH",
+            "price": 450.8914733219645,
+            "volume_24h": 454812292.06,
+            "market_cap": 8900365194.714104
+        },
+        {
+            "timestamp": "2024-07-30 07:15:00",
+            "symbol": "BCH",
+            "price": 435.6611875375241,
+            "volume_24h": 500058486.11,
+            "market_cap": 8599931422.550865
+        },
+        {
+            "timestamp": "2024-07-31 07:15:00",
+            "symbol": "BCH",
+            "price": 431.564789044962,
+            "volume_24h": 362985770.9,
+            "market_cap": 8519265609.740888
+        },
+        {
+            "timestamp": "2024-08-01 07:15:00",
+            "symbol": "BCH",
+            "price": 419.97915952642535,
+            "volume_24h": 301909690.89,
+            "market_cap": 8290798088.732175
+        },
+        {
+            "timestamp": "2024-08-02 07:15:00",
+            "symbol": "BCH",
+            "price": 399.89370956144967,
+            "volume_24h": 310267280.58,
+            "market_cap": 7894451680.593663
+        },
+        {
+            "timestamp": "2024-08-03 07:15:00",
+            "symbol": "BCH",
+            "price": 382.3284799450043,
+            "volume_24h": 372462468.36,
+            "market_cap": 7547863140.278426
+        },
+        {
+            "timestamp": "2024-08-04 07:15:00",
+            "symbol": "BCH",
+            "price": 360.614683323948,
+            "volume_24h": 250545867.43,
+            "market_cap": 7119331708.801589
+        },
+        {
+            "timestamp": "2024-08-05 07:15:00",
+            "symbol": "BCH",
+            "price": 291.56612812124695,
+            "volume_24h": 582630888.77,
+            "market_cap": 5756278907.911432
+        },
+        {
+            "timestamp": "2024-08-06 07:15:00",
+            "symbol": "BCH",
+            "price": 323.9710465816563,
+            "volume_24h": 546670513.68,
+            "market_cap": 6396189734.157592
+        },
+        {
+            "timestamp": "2024-08-07 07:15:00",
+            "symbol": "BCH",
+            "price": 321.52573171377406,
+            "volume_24h": 297584178.18,
+            "market_cap": 6348045293.626721
+        },
+        {
+            "timestamp": "2024-08-08 07:15:00",
+            "symbol": "BCH",
+            "price": 324.5142363287195,
+            "volume_24h": 286566834.77,
+            "market_cap": 6407206041.375843
+        },
+        {
+            "timestamp": "2024-08-09 07:15:00",
+            "symbol": "BCH",
+            "price": 350.3682931502259,
+            "volume_24h": 396165444.44,
+            "market_cap": 6917819393.333574
+        },
+        {
+            "timestamp": "2024-08-10 07:15:00",
+            "symbol": "BCH",
+            "price": 350.96350994342635,
+            "volume_24h": 244992819.22,
+            "market_cap": 6929738312.475807
+        },
+        {
+            "timestamp": "2024-08-11 07:15:00",
+            "symbol": "BCH",
+            "price": 355.37255351840867,
+            "volume_24h": 171203423.95,
+            "market_cap": 7016953228.536251
+        },
+        {
+            "timestamp": "2024-08-12 07:15:00",
+            "symbol": "BCH",
+            "price": 339.7194761628403,
+            "volume_24h": 194022331.19,
+            "market_cap": 6708028585.92276
+        },
+        {
+            "timestamp": "2024-08-13 07:15:00",
+            "symbol": "BCH",
+            "price": 349.47002825848955,
+            "volume_24h": 335767223.97,
+            "market_cap": 6900728007.71574
+        },
+        {
+            "timestamp": "2024-08-14 07:15:00",
+            "symbol": "BCH",
+            "price": 345.21861712132005,
+            "volume_24h": 208838292.13,
+            "market_cap": 6816917678.627786
+        },
+        {
+            "timestamp": "2024-08-15 07:15:00",
+            "symbol": "BCH",
+            "price": 333.92708192641766,
+            "volume_24h": 212925953.97,
+            "market_cap": 6594093566.553424
+        },
+        {
+            "timestamp": "2024-08-16 07:15:00",
+            "symbol": "BCH",
+            "price": 342.1289427117585,
+            "volume_24h": 283714072.55,
+            "market_cap": 6756206264.341695
+        },
+        {
+            "timestamp": "2024-08-17 07:15:00",
+            "symbol": "BCH",
+            "price": 338.13649389973057,
+            "volume_24h": 198507833.88,
+            "market_cap": 6677506801.413358
+        },
+        {
+            "timestamp": "2024-08-18 07:15:00",
+            "symbol": "BCH",
+            "price": 340.6722477899688,
+            "volume_24h": 181335090.85,
+            "market_cap": 6727743530.567299
+        },
+        {
+            "timestamp": "2024-08-19 07:15:00",
+            "symbol": "BCH",
+            "price": 334.2988071917559,
+            "volume_24h": 167846047.19,
+            "market_cap": 6602033713.349268
+        },
+        {
+            "timestamp": "2024-08-20 07:15:00",
+            "symbol": "BCH",
+            "price": 344.05625809773096,
+            "volume_24h": 173021026.71,
+            "market_cap": 6794877786.000444
+        },
+        {
+            "timestamp": "2024-08-21 07:15:00",
+            "symbol": "BCH",
+            "price": 338.63494802108875,
+            "volume_24h": 216583309.13,
+            "market_cap": 6687955564.679498
+        },
+        {
+            "timestamp": "2024-08-22 07:15:00",
+            "symbol": "BCH",
+            "price": 346.64230903275205,
+            "volume_24h": 225780211.06,
+            "market_cap": 6846261431.401954
+        },
+        {
+            "timestamp": "2024-08-23 07:15:00",
+            "symbol": "BCH",
+            "price": 352.0612773042571,
+            "volume_24h": 161171549.09,
+            "market_cap": 6953443467.355291
+        },
+        {
+            "timestamp": "2024-08-24 07:15:00",
+            "symbol": "BCH",
+            "price": 360.6393887329118,
+            "volume_24h": 232576253.52,
+            "market_cap": 7123023505.607721
+        },
+        {
+            "timestamp": "2024-08-25 07:15:00",
+            "symbol": "BCH",
+            "price": 355.84630044186645,
+            "volume_24h": 210195469.59,
+            "market_cap": 7028514885.2520895
+        },
+        {
+            "timestamp": "2024-08-26 07:15:00",
+            "symbol": "BCH",
+            "price": 352.33115318645906,
+            "volume_24h": 200973652.56,
+            "market_cap": 6959236129.46011
+        },
+        {
+            "timestamp": "2024-08-27 07:15:00",
+            "symbol": "BCH",
+            "price": 344.62591578204405,
+            "volume_24h": 239544635.46,
+            "market_cap": 6807191092.805221
+        },
+        {
+            "timestamp": "2024-08-28 07:15:00",
+            "symbol": "BCH",
+            "price": 323.81635863443097,
+            "volume_24h": 231406078.16,
+            "market_cap": 6396300007.356603
+        },
+        {
+            "timestamp": "2024-08-29 07:15:00",
+            "symbol": "BCH",
+            "price": 326.74155136155537,
+            "volume_24h": 213155341.7,
+            "market_cap": 6454235119.884748
+        },
+        {
+            "timestamp": "2024-08-30 07:15:00",
+            "symbol": "BCH",
+            "price": 324.7307885616643,
+            "volume_24h": 164414603.47,
+            "market_cap": 6414666037.929344
+        },
+        {
+            "timestamp": "2024-08-31 07:15:00",
+            "symbol": "BCH",
+            "price": 325.65243865574604,
+            "volume_24h": 156733472.41,
+            "market_cap": 6433023756.970755
+        },
+        {
+            "timestamp": "2024-09-01 07:15:00",
+            "symbol": "BCH",
+            "price": 319.43045344702443,
+            "volume_24h": 114166509.67,
+            "market_cap": 6310255774.9675865
+        },
+        {
+            "timestamp": "2024-09-02 07:15:00",
+            "symbol": "BCH",
+            "price": 313.9429489066251,
+            "volume_24h": 143629759.05,
+            "market_cap": 6201987105.447283
+        },
+        {
+            "timestamp": "2024-09-03 07:15:00",
+            "symbol": "BCH",
+            "price": 320.4273397843861,
+            "volume_24h": 167715210.01,
+            "market_cap": 6330230348.502671
+        },
+        {
+            "timestamp": "2024-09-04 07:15:00",
+            "symbol": "BCH",
+            "price": 311.98425309580546,
+            "volume_24h": 219590657.22,
+            "market_cap": 6163575529.982517
+        },
+        {
+            "timestamp": "2024-09-05 07:15:00",
+            "symbol": "BCH",
+            "price": 310.140766956514,
+            "volume_24h": 154933754.96,
+            "market_cap": 6127293156.357382
+        },
+        {
+            "timestamp": "2024-09-06 07:15:00",
+            "symbol": "BCH",
+            "price": 309.72124801855944,
+            "volume_24h": 141311343.23,
+            "market_cap": 6119144308.952184
+        },
+        {
+            "timestamp": "2024-09-07 07:15:00",
+            "symbol": "BCH",
+            "price": 298.7458280992852,
+            "volume_24h": 213727759.25,
+            "market_cap": 5902440824.088817
+        },
+        {
+            "timestamp": "2024-09-08 07:15:00",
+            "symbol": "BCH",
+            "price": 304.587311439119,
+            "volume_24h": 145896660.94,
+            "market_cap": 6017997075.687771
+        },
+        {
+            "timestamp": "2024-09-09 07:15:00",
+            "symbol": "BCH",
+            "price": 306.5832395583807,
+            "volume_24h": 136382489.13,
+            "market_cap": 6057565538.311601
+        },
+        {
+            "timestamp": "2024-09-10 07:15:00",
+            "symbol": "BCH",
+            "price": 321.9139047818574,
+            "volume_24h": 180253423.4,
+            "market_cap": 6360627433.508572
+        },
+        {
+            "timestamp": "2024-09-11 07:15:00",
+            "symbol": "BCH",
+            "price": 324.3334976465097,
+            "volume_24h": 168846361.61,
+            "market_cap": 6408598825.877959
+        },
+        {
+            "timestamp": "2024-09-12 07:15:00",
+            "symbol": "BCH",
+            "price": 335.149691624856,
+            "volume_24h": 212092241.95,
+            "market_cap": 6622477262.788355
+        },
+        {
+            "timestamp": "2024-09-13 07:15:00",
+            "symbol": "BCH",
+            "price": 328.5293849047734,
+            "volume_24h": 155033164.73,
+            "market_cap": 6491801219.966311
+        },
+        {
+            "timestamp": "2024-09-14 07:15:00",
+            "symbol": "BCH",
+            "price": 331.8525608614391,
+            "volume_24h": 167823718.18,
+            "market_cap": 6557625419.563617
+        },
+        {
+            "timestamp": "2024-09-15 07:15:00",
+            "symbol": "BCH",
+            "price": 327.2120196018575,
+            "volume_24h": 238480989.41,
+            "market_cap": 6466058194.277152
+        },
+        {
+            "timestamp": "2024-09-16 07:15:00",
+            "symbol": "BCH",
+            "price": 314.47022982485686,
+            "volume_24h": 215112153.63,
+            "market_cap": 6214402465.536792
+        },
+        {
+            "timestamp": "2024-09-17 07:15:00",
+            "symbol": "BCH",
+            "price": 315.78245642438435,
+            "volume_24h": 171227498.18,
+            "market_cap": 6240462314.01213
+        },
+        {
+            "timestamp": "2024-09-18 07:15:00",
+            "symbol": "BCH",
+            "price": 314.9123754402825,
+            "volume_24h": 187169459.75,
+            "market_cap": 6223396773.568188
+        },
+        {
+            "timestamp": "2024-09-19 07:15:00",
+            "symbol": "BCH",
+            "price": 343.7501073167615,
+            "volume_24h": 336675217.12,
+            "market_cap": 6793482884.322896
+        },
+        {
+            "timestamp": "2024-09-20 07:15:00",
+            "symbol": "BCH",
+            "price": 342.52828271903195,
+            "volume_24h": 255700697.72,
+            "market_cap": 6769449606.740995
+        },
+        {
+            "timestamp": "2024-09-21 07:15:00",
+            "symbol": "BCH",
+            "price": 335.38473342376733,
+            "volume_24h": 190228645.14,
+            "market_cap": 6628449544.431062
+        },
+        {
+            "timestamp": "2024-09-22 07:15:00",
+            "symbol": "BCH",
+            "price": 341.00658449640974,
+            "volume_24h": 158119024.72,
+            "market_cap": 6739723404.654551
+        },
+        {
+            "timestamp": "2024-09-23 07:15:00",
+            "symbol": "BCH",
+            "price": 342.4061430316792,
+            "volume_24h": 181308529.25,
+            "market_cap": 6767533294.794291
+        },
+        {
+            "timestamp": "2024-09-24 07:15:00",
+            "symbol": "BCH",
+            "price": 342.01799027934715,
+            "volume_24h": 168737320.61,
+            "market_cap": 6760016574.961755
+        },
+        {
+            "timestamp": "2024-09-25 07:15:00",
+            "symbol": "BCH",
+            "price": 347.58257165596973,
+            "volume_24h": 234340211.98,
+            "market_cap": 6870154182.021434
+        },
+        {
+            "timestamp": "2024-09-26 07:15:00",
+            "symbol": "BCH",
+            "price": 348.2923532729501,
+            "volume_24h": 191372572.46,
+            "market_cap": 6884317269.367286
+        },
+        {
+            "timestamp": "2024-09-27 07:15:00",
+            "symbol": "BCH",
+            "price": 359.9850049404032,
+            "volume_24h": 280451452.17,
+            "market_cap": 7115603101.841424
+        },
+        {
+            "timestamp": "2024-09-28 07:15:00",
+            "symbol": "BCH",
+            "price": 352.6789588997601,
+            "volume_24h": 225766564.71,
+            "market_cap": 6971337752.908412
+        },
+        {
+            "timestamp": "2024-09-29 07:15:00",
+            "symbol": "BCH",
+            "price": 348.8884762603415,
+            "volume_24h": 181274051.64,
+            "market_cap": 6896570093.463189
+        },
+        {
+            "timestamp": "2024-09-30 07:15:00",
+            "symbol": "BCH",
+            "price": 347.1448400776939,
+            "volume_24h": 214619581.79,
+            "market_cap": 6862263733.824832
+        },
+        {
+            "timestamp": "2024-10-01 07:15:00",
+            "symbol": "BCH",
+            "price": 346.1914162084112,
+            "volume_24h": 204003335.71,
+            "market_cap": 6843581153.891113
+        },
+        {
+            "timestamp": "2024-10-02 07:15:00",
+            "symbol": "BCH",
+            "price": 322.77743525749446,
+            "volume_24h": 309613602.15,
+            "market_cap": 6380861034.283648
+        },
+        {
+            "timestamp": "2024-10-03 07:15:00",
+            "symbol": "BCH",
+            "price": 318.571115296296,
+            "volume_24h": 215991470.7,
+            "market_cap": 6297845321.83689
+        },
+        {
+            "timestamp": "2024-10-04 07:15:00",
+            "symbol": "BCH",
+            "price": 320.0170633773104,
+            "volume_24h": 251486225.56,
+            "market_cap": 6326579334.544383
+        },
+        {
+            "timestamp": "2024-10-05 07:15:00",
+            "symbol": "BCH",
+            "price": 324.53990850797175,
+            "volume_24h": 170793316.72,
+            "market_cap": 6416135735.832747
+        },
+        {
+            "timestamp": "2024-10-06 07:15:00",
+            "symbol": "BCH",
+            "price": 322.96593832056243,
+            "volume_24h": 123212225.03,
+            "market_cap": 6385159731.361504
+        },
+        {
+            "timestamp": "2024-10-07 07:15:00",
+            "symbol": "BCH",
+            "price": 329.1542698051737,
+            "volume_24h": 145963739.48,
+            "market_cap": 6507649409.106688
+        },
+        {
+            "timestamp": "2024-10-08 07:15:00",
+            "symbol": "BCH",
+            "price": 323.75279858220193,
+            "volume_24h": 230397720.16,
+            "market_cap": 6401003589.333333
+        },
+        {
+            "timestamp": "2024-10-09 07:15:00",
+            "symbol": "BCH",
+            "price": 326.82574887759364,
+            "volume_24h": 194932900.38,
+            "market_cap": 6461915980.674225
+        },
+        {
+            "timestamp": "2024-10-10 07:15:00",
+            "symbol": "BCH",
+            "price": 323.1984055870576,
+            "volume_24h": 162273213.24,
+            "market_cap": 6390350586.529534
+        },
+        {
+            "timestamp": "2024-10-11 07:15:00",
+            "symbol": "BCH",
+            "price": 323.4120279981898,
+            "volume_24h": 172258565.59,
+            "market_cap": 6394717890.328404
+        },
+        {
+            "timestamp": "2024-10-12 07:15:00",
+            "symbol": "BCH",
+            "price": 327.70844625905283,
+            "volume_24h": 154415301.21,
+            "market_cap": 6479793445.124776
+        },
+        {
+            "timestamp": "2024-10-13 07:15:00",
+            "symbol": "BCH",
+            "price": 326.2211991866401,
+            "volume_24h": 145142998.12,
+            "market_cap": 6450551193.176989
+        },
+        {
+            "timestamp": "2024-10-14 07:15:00",
+            "symbol": "BCH",
+            "price": 327.2194595466539,
+            "volume_24h": 169553306.4,
+            "market_cap": 6470431457.710669
+        },
+        {
+            "timestamp": "2024-10-15 07:15:00",
+            "symbol": "BCH",
+            "price": 370.2832574462354,
+            "volume_24h": 550502506.96,
+            "market_cap": 7322183633.249691
+        },
+        {
+            "timestamp": "2024-10-16 07:15:00",
+            "symbol": "BCH",
+            "price": 355.82421164028864,
+            "volume_24h": 588866959.07,
+            "market_cap": 7036407107.705908
+        },
+        {
+            "timestamp": "2024-10-17 07:15:00",
+            "symbol": "BCH",
+            "price": 364.2072187791073,
+            "volume_24h": 358738053.09,
+            "market_cap": 7202320671.293184
+        },
+        {
+            "timestamp": "2024-10-18 07:15:00",
+            "symbol": "BCH",
+            "price": 374.3374484124861,
+            "volume_24h": 314090915.67,
+            "market_cap": 7402840061.255223
+        },
+        {
+            "timestamp": "2024-10-19 07:15:00",
+            "symbol": "BCH",
+            "price": 364.95707439642894,
+            "volume_24h": 281518384.68,
+            "market_cap": 7217498309.404383
+        },
+        {
+            "timestamp": "2024-10-20 07:15:00",
+            "symbol": "BCH",
+            "price": 360.0174222133559,
+            "volume_24h": 174204674.64,
+            "market_cap": 7119959930.850296
+        },
+        {
+            "timestamp": "2024-10-21 07:15:00",
+            "symbol": "BCH",
+            "price": 376.1521330112212,
+            "volume_24h": 275565771.59,
+            "market_cap": 7439237142.345699
+        },
+        {
+            "timestamp": "2024-10-22 07:15:00",
+            "symbol": "BCH",
+            "price": 363.8022360872845,
+            "volume_24h": 228597231.51,
+            "market_cap": 7195146473.259755
+        },
+        {
+            "timestamp": "2024-10-23 07:15:00",
+            "symbol": "BCH",
+            "price": 354.8392437046821,
+            "volume_24h": 196342635.16,
+            "market_cap": 7018046045.915572
+        },
+        {
+            "timestamp": "2024-10-24 07:15:00",
+            "symbol": "BCH",
+            "price": 355.91619611805095,
+            "volume_24h": 227299743.76,
+            "market_cap": 7039514068.177048
+        },
+        {
+            "timestamp": "2024-10-25 07:15:00",
+            "symbol": "BCH",
+            "price": 366.7079707644889,
+            "volume_24h": 345083483.06,
+            "market_cap": 7253094034.502653
+        },
+        {
+            "timestamp": "2024-10-26 07:15:00",
+            "symbol": "BCH",
+            "price": 355.5130885073229,
+            "volume_24h": 329780493.07,
+            "market_cap": 7031865581.01615
+        },
+        {
+            "timestamp": "2024-10-27 07:15:00",
+            "symbol": "BCH",
+            "price": 349.9391790774281,
+            "volume_24h": 162368007.01,
+            "market_cap": 6921768529.593228
+        },
+        {
+            "timestamp": "2024-10-28 07:15:00",
+            "symbol": "BCH",
+            "price": 347.93020110387226,
+            "volume_24h": 172788365.6,
+            "market_cap": 6882178978.841223
+        },
+        {
+            "timestamp": "2024-10-29 07:15:00",
+            "symbol": "BCH",
+            "price": 378.11094896058665,
+            "volume_24h": 419998101.83,
+            "market_cap": 7479351238.360159
+        },
+        {
+            "timestamp": "2024-10-30 07:15:00",
+            "symbol": "BCH",
+            "price": 379.1344298683882,
+            "volume_24h": 348129399.4511447,
+            "market_cap": 7499765973.580081
+        },
+        {
+            "timestamp": "2024-10-31 07:15:00",
+            "symbol": "BCH",
+            "price": 371.91002536727024,
+            "volume_24h": 384873187.49,
+            "market_cap": 7357002090.697816
+        },
+        {
+            "timestamp": "2024-11-01 07:15:00",
+            "symbol": "BCH",
+            "price": 344.8936347628199,
+            "volume_24h": 324905788.5088282,
+            "market_cap": 6822728994.582448
+        },
+        {
+            "timestamp": "2024-11-02 07:15:00",
+            "symbol": "BCH",
+            "price": 349.44585978093534,
+            "volume_24h": 244617439.54,
+            "market_cap": 6912937839.284754
+        },
+        {
+            "timestamp": "2024-11-03 07:15:00",
+            "symbol": "BCH",
+            "price": 344.57690564306967,
+            "volume_24h": 264000720.01640117,
+            "market_cap": 6816774615.562319
+        },
+        {
+            "timestamp": "2024-11-04 07:15:00",
+            "symbol": "BCH",
+            "price": 336.54839907024706,
+            "volume_24h": 245763726.2,
+            "market_cap": 6658085272.12778
+        },
+        {
+            "timestamp": "2024-11-05 07:15:00",
+            "symbol": "BCH",
+            "price": 337.44416746402953,
+            "volume_24h": 267208973.21,
+            "market_cap": 6675981702.126278
+        },
+        {
+            "timestamp": "2024-11-06 07:15:00",
+            "symbol": "BCH",
+            "price": 376.6809603691588,
+            "volume_24h": 535609275.38,
+            "market_cap": 7452423272.1196
+        },
+        {
+            "timestamp": "2024-11-07 07:15:00",
+            "symbol": "BCH",
+            "price": 374.2607994081586,
+            "volume_24h": 471104215.806128,
+            "market_cap": 7404708981.515483
+        },
+        {
+            "timestamp": "2024-11-08 07:15:00",
+            "symbol": "BCH",
+            "price": 372.4438189878468,
+            "volume_24h": 333146369.4360692,
+            "market_cap": 7368927822.350391
+        },
+        {
+            "timestamp": "2024-11-09 07:15:00",
+            "symbol": "BCH",
+            "price": 374.1554005342912,
+            "volume_24h": 370480505.36,
+            "market_cap": 7402945216.121353
+        },
+        {
+            "timestamp": "2024-11-10 07:15:00",
+            "symbol": "BCH",
+            "price": 427.7080336127806,
+            "volume_24h": 756917621.26,
+            "market_cap": 8462775504.523821
+        },
+        {
+            "timestamp": "2024-11-11 07:15:00",
+            "symbol": "BCH",
+            "price": 427.8380300217597,
+            "volume_24h": 899008140.1,
+            "market_cap": 8465542858.446868
+        },
+        {
+            "timestamp": "2024-11-12 07:15:00",
+            "symbol": "BCH",
+            "price": 459.7886926394697,
+            "volume_24h": 1015653256.64,
+            "market_cap": 9097917889.737677
+        },
+        {
+            "timestamp": "2024-11-13 07:15:00",
+            "symbol": "BCH",
+            "price": 410.0047086160956,
+            "volume_24h": 1003273915.68,
+            "market_cap": 8112986109.446994
+        },
+        {
+            "timestamp": "2024-11-14 07:15:00",
+            "symbol": "BCH",
+            "price": 434.3876353222839,
+            "volume_24h": 899806860.93,
+            "market_cap": 8595662527.757353
+        },
+        {
+            "timestamp": "2024-11-15 07:15:00",
+            "symbol": "BCH",
+            "price": 419.8756506489545,
+            "volume_24h": 594731669.79,
+            "market_cap": 8308673887.95819
+        },
+        {
+            "timestamp": "2024-11-16 07:15:00",
+            "symbol": "BCH",
+            "price": 437.3537978566187,
+            "volume_24h": 493785434.67,
+            "market_cap": 8654730071.632336
+        },
+        {
+            "timestamp": "2024-11-17 07:15:00",
+            "symbol": "BCH",
+            "price": 450.0700339904511,
+            "volume_24h": 1118302843.68,
+            "market_cap": 8906634216.996113
+        },
+        {
+            "timestamp": "2024-11-18 07:15:00",
+            "symbol": "BCH",
+            "price": 453.715949895146,
+            "volume_24h": 523953997.92,
+            "market_cap": 8978966339.714005
+        },
+        {
+            "timestamp": "2024-11-19 07:15:00",
+            "symbol": "BCH",
+            "price": 458.6534372326549,
+            "volume_24h": 617215271.01,
+            "market_cap": 9076883385.697445
+        },
+        {
+            "timestamp": "2024-11-20 07:15:00",
+            "symbol": "BCH",
+            "price": 438.3662904364701,
+            "volume_24h": 445998370.5,
+            "market_cap": 8675556565.61584
+        },
+        {
+            "timestamp": "2024-11-21 07:15:00",
+            "symbol": "BCH",
+            "price": 522.7687782448853,
+            "volume_24h": 1410771614.89,
+            "market_cap": 10346208374.780718
+        },
+        {
+            "timestamp": "2024-11-22 07:15:00",
+            "symbol": "BCH",
+            "price": 494.56765616443226,
+            "volume_24h": 1533576735.38,
+            "market_cap": 9788306861.078936
+        },
+        {
+            "timestamp": "2024-11-23 07:15:00",
+            "symbol": "BCH",
+            "price": 538.5892108170736,
+            "volume_24h": 1507529476.71,
+            "market_cap": 10659862012.151115
+        },
+        {
+            "timestamp": "2024-11-24 07:15:00",
+            "symbol": "BCH",
+            "price": 514.8123452059724,
+            "volume_24h": 1073562352.3,
+            "market_cap": 10189476435.086369
+        },
+        {
+            "timestamp": "2024-11-25 07:15:00",
+            "symbol": "BCH",
+            "price": 510.35154398679,
+            "volume_24h": 888291193.23,
+            "market_cap": 10101426386.496332
+        },
+        {
+            "timestamp": "2024-11-26 07:15:00",
+            "symbol": "BCH",
+            "price": 497.2156030420157,
+            "volume_24h": 930254398.94,
+            "market_cap": 9841649469.202215
+        },
+        {
+            "timestamp": "2024-11-27 07:15:00",
+            "symbol": "BCH",
+            "price": 502.5267438917608,
+            "volume_24h": 683950303.55,
+            "market_cap": 9947009659.917925
+        },
+        {
+            "timestamp": "2024-11-28 07:15:00",
+            "symbol": "BCH",
+            "price": 510.69914634976095,
+            "volume_24h": 966943775.82,
+            "market_cap": 10108992758.114702
+        },
+        {
+            "timestamp": "2024-11-29 07:15:00",
+            "symbol": "BCH",
+            "price": 506.6251608800664,
+            "volume_24h": 507528329.34,
+            "market_cap": 10028572232.254038
+        },
+        {
+            "timestamp": "2024-11-30 07:15:00",
+            "symbol": "BCH",
+            "price": 515.3635496241482,
+            "volume_24h": 582916371.72,
+            "market_cap": 10201792178.985826
+        },
+        {
+            "timestamp": "2024-12-01 07:15:00",
+            "symbol": "BCH",
+            "price": 519.2633204223683,
+            "volume_24h": 771692365.23,
+            "market_cap": 10279234463.711311
+        },
+        {
+            "timestamp": "2024-12-02 07:15:00",
+            "symbol": "BCH",
+            "price": 531.6656644830621,
+            "volume_24h": 1025998418.94,
+            "market_cap": 10524984751.725945
+        },
+        {
+            "timestamp": "2024-12-03 07:15:00",
+            "symbol": "BCH",
+            "price": 534.2061036773632,
+            "volume_24h": 1400989866.93,
+            "market_cap": 10575554699.339285
+        },
+        {
+            "timestamp": "2024-12-04 07:15:00",
+            "symbol": "BCH",
+            "price": 574.8712459154917,
+            "volume_24h": 1970627634.38,
+            "market_cap": 11380885944.328615
+        },
+        {
+            "timestamp": "2024-12-05 07:15:00",
+            "symbol": "BCH",
+            "price": 598.2627656542245,
+            "volume_24h": 1752734222.17,
+            "market_cap": 11844224889.012812
+        },
+        {
+            "timestamp": "2024-12-06 07:15:00",
+            "symbol": "BCH",
+            "price": 594.0691837443628,
+            "volume_24h": 1406724706.12,
+            "market_cap": 11761509798.908983
+        },
+        {
+            "timestamp": "2024-12-07 07:15:00",
+            "symbol": "BCH",
+            "price": 614.6948962704694,
+            "volume_24h": 1001522683.63,
+            "market_cap": 12170142557.569658
+        },
+        {
+            "timestamp": "2024-12-08 07:15:00",
+            "symbol": "BCH",
+            "price": 614.8973635381274,
+            "volume_24h": 729090945.28,
+            "market_cap": 12174427844.382051
+        },
+        {
+            "timestamp": "2024-12-09 07:15:00",
+            "symbol": "BCH",
+            "price": 601.3394861239025,
+            "volume_24h": 685796700.22,
+            "market_cap": 11906262497.599878
+        },
+        {
+            "timestamp": "2024-12-10 07:15:00",
+            "symbol": "BCH",
+            "price": 544.5363568072706,
+            "volume_24h": 1340510101.9,
+            "market_cap": 10781792637.966118
+        },
+        {
+            "timestamp": "2024-12-11 07:15:00",
+            "symbol": "BCH",
+            "price": 522.8746869217879,
+            "volume_24h": 864285475.28,
+            "market_cap": 10353083835.988832
+        },
+        {
+            "timestamp": "2024-12-12 07:15:00",
+            "symbol": "BCH",
+            "price": 555.9301034420272,
+            "volume_24h": 622698776.89,
+            "market_cap": 11007838210.35409
+        },
+        {
+            "timestamp": "2024-12-13 07:15:00",
+            "symbol": "BCH",
+            "price": 527.4072935401322,
+            "volume_24h": 519357468.11,
+            "market_cap": 10443302247.92728
+        },
+        {
+            "timestamp": "2024-12-14 07:15:00",
+            "symbol": "BCH",
+            "price": 543.8251969052923,
+            "volume_24h": 455813586.64,
+            "market_cap": 10768636210.29968
+        },
+        {
+            "timestamp": "2024-12-15 07:15:00",
+            "symbol": "BCH",
+            "price": 535.0257193618174,
+            "volume_24h": 404255326.02,
+            "market_cap": 10594624440.272907
+        },
+        {
+            "timestamp": "2024-12-16 07:15:00",
+            "symbol": "BCH",
+            "price": 542.9765570721694,
+            "volume_24h": 496126481.89,
+            "market_cap": 10752323813.85297
+        },
+        {
+            "timestamp": "2024-12-17 07:15:00",
+            "symbol": "BCH",
+            "price": 535.770201183216,
+            "volume_24h": 500626804.64,
+            "market_cap": 10609863991.158745
+        },
+        {
+            "timestamp": "2024-12-18 07:15:00",
+            "symbol": "BCH",
+            "price": 521.3422449298063,
+            "volume_24h": 587052012.96,
+            "market_cap": 10324365305.18808
+        },
+        {
+            "timestamp": "2024-12-19 07:15:00",
+            "symbol": "BCH",
+            "price": 481.6081089885182,
+            "volume_24h": 722702931.46,
+            "market_cap": 9537685719.040222
+        },
+        {
+            "timestamp": "2024-12-20 07:15:00",
+            "symbol": "BCH",
+            "price": 441.487725477598,
+            "volume_24h": 650383316.03,
+            "market_cap": 8743325009.394867
+        },
+        {
+            "timestamp": "2024-12-21 07:15:00",
+            "symbol": "BCH",
+            "price": 468.44756586288986,
+            "volume_24h": 713646373.65,
+            "market_cap": 9277462046.08837
+        },
+        {
+            "timestamp": "2024-12-22 07:15:00",
+            "symbol": "BCH",
+            "price": 453.2818892323175,
+            "volume_24h": 501570877.24,
+            "market_cap": 8977322893.325361
+        },
+        {
+            "timestamp": "2024-12-23 07:15:00",
+            "symbol": "BCH",
+            "price": 440.0749568245772,
+            "volume_24h": 398207932.33,
+            "market_cap": 8715954065.821806
+        },
+        {
+            "timestamp": "2024-12-24 07:15:00",
+            "symbol": "BCH",
+            "price": 454.1199899437284,
+            "volume_24h": 388846166.44,
+            "market_cap": 8994340256.324604
+        },
+        {
+            "timestamp": "2024-12-25 07:15:00",
+            "symbol": "BCH",
+            "price": 464.5278418251067,
+            "volume_24h": 324205787.94,
+            "market_cap": 9200676505.707
+        },
+        {
+            "timestamp": "2024-12-26 07:15:00",
+            "symbol": "BCH",
+            "price": 454.3341512548391,
+            "volume_24h": 305339017.44,
+            "market_cap": 8998965298.4317
+        },
+        {
+            "timestamp": "2024-12-27 07:15:00",
+            "symbol": "BCH",
+            "price": 446.63506359503526,
+            "volume_24h": 304906395.21,
+            "market_cap": 8846670984.24486
+        },
+        {
+            "timestamp": "2024-12-28 07:15:00",
+            "symbol": "BCH",
+            "price": 440.6668137207577,
+            "volume_24h": 311961224.6,
+            "market_cap": 8728658017.110666
+        },
+        {
+            "timestamp": "2024-12-29 07:15:00",
+            "symbol": "BCH",
+            "price": 451.7560011989647,
+            "volume_24h": 206173919.33,
+            "market_cap": 8948526868.974474
+        },
+        {
+            "timestamp": "2024-12-30 07:15:00",
+            "symbol": "BCH",
+            "price": 449.5204474236344,
+            "volume_24h": 252063780.03,
+            "market_cap": 8904456426.918695
+        },
+        {
+            "timestamp": "2024-12-31 07:15:00",
+            "symbol": "BCH",
+            "price": 437.4745904079276,
+            "volume_24h": 350131380.1,
+            "market_cap": 8666029858.95729
+        },
+        {
+            "timestamp": "2025-01-01 07:15:00",
+            "symbol": "BCH",
+            "price": 435.09829307095663,
+            "volume_24h": 255917776.62,
+            "market_cap": 8619148982.555065
+        },
+        {
+            "timestamp": "2025-01-02 07:15:00",
+            "symbol": "BCH",
+            "price": 457.3771422986469,
+            "volume_24h": 315358126.21,
+            "market_cap": 9060709795.50754
+        },
+        {
+            "timestamp": "2025-01-03 07:15:00",
+            "symbol": "BCH",
+            "price": 458.1971582829079,
+            "volume_24h": 281369005.08,
+            "market_cap": 9077164921.76872
+        },
+        {
+            "timestamp": "2025-01-04 07:15:00",
+            "symbol": "BCH",
+            "price": 477.7000764958001,
+            "volume_24h": 339422136.92,
+            "market_cap": 9463747566.914316
+        },
+        {
+            "timestamp": "2025-01-05 07:15:00",
+            "symbol": "BCH",
+            "price": 474.281986319924,
+            "volume_24h": 316766657.06,
+            "market_cap": 9396239056.479792
+        },
+        {
+            "timestamp": "2025-01-06 07:15:00",
+            "symbol": "BCH",
+            "price": 472.08679701292783,
+            "volume_24h": 285378038.98,
+            "market_cap": 9352964446.25443
+        },
+        {
+            "timestamp": "2025-01-07 07:15:00",
+            "symbol": "BCH",
+            "price": 478.7504741454734,
+            "volume_24h": 334918382.6,
+            "market_cap": 9485186917.388388
+        },
+        {
+            "timestamp": "2025-01-08 07:15:00",
+            "symbol": "BCH",
+            "price": 430.6607479618111,
+            "volume_24h": 458437527.26,
+            "market_cap": 8532592575.588096
+        },
+        {
+            "timestamp": "2025-01-09 07:15:00",
+            "symbol": "BCH",
+            "price": 429.7450072874527,
+            "volume_24h": 336446474.86,
+            "market_cap": 8514646610.739994
+        },
+        {
+            "timestamp": "2025-01-10 07:15:00",
+            "symbol": "BCH",
+            "price": 432.0241020764327,
+            "volume_24h": 310315036.08,
+            "market_cap": 8560004051.763729
+        },
+        {
+            "timestamp": "2025-01-11 07:15:00",
+            "symbol": "BCH",
+            "price": 439.4300555209695,
+            "volume_24h": 430304180.27,
+            "market_cap": 8706945395.768278
+        },
+        {
+            "timestamp": "2025-01-12 07:15:00",
+            "symbol": "BCH",
+            "price": 439.89018993827744,
+            "volume_24h": 211991855.14,
+            "market_cap": 8716264653.433115
+        },
+        {
+            "timestamp": "2025-01-13 07:15:00",
+            "symbol": "BCH",
+            "price": 429.7755367839695,
+            "volume_24h": 400686492.66,
+            "market_cap": 8516037180.63672
+        },
+        {
+            "timestamp": "2025-01-14 07:15:00",
+            "symbol": "BCH",
+            "price": 432.8949841998903,
+            "volume_24h": 339574757.6,
+            "market_cap": 8578026503.186924
+        },
+        {
+            "timestamp": "2025-01-15 07:15:00",
+            "symbol": "BCH",
+            "price": 439.4767734298442,
+            "volume_24h": 247189220.74,
+            "market_cap": 8708648397.279587
+        },
+        {
+            "timestamp": "2025-01-16 07:15:00",
+            "symbol": "BCH",
+            "price": 458.87473481765744,
+            "volume_24h": 386530939.41,
+            "market_cap": 9093259634.87609
+        },
+        {
+            "timestamp": "2025-01-17 07:15:00",
+            "symbol": "BCH",
+            "price": 479.6715079418768,
+            "volume_24h": 437310793.08,
+            "market_cap": 9505603807.105198
+        },
+        {
+            "timestamp": "2025-01-18 07:15:00",
+            "symbol": "BCH",
+            "price": 468.0709513594637,
+            "volume_24h": 584690735.59,
+            "market_cap": 9275906854.881424
+        },
+        {
+            "timestamp": "2025-01-19 07:15:00",
+            "symbol": "BCH",
+            "price": 456.1521877844911,
+            "volume_24h": 484317888.4,
+            "market_cap": 9039895764.71023
+        },
+        {
+            "timestamp": "2025-01-20 07:15:00",
+            "symbol": "BCH",
+            "price": 471.2751808495551,
+            "volume_24h": 775051773.47,
+            "market_cap": 9339783082.155764
+        },
+        {
+            "timestamp": "2025-01-21 07:15:00",
+            "symbol": "BCH",
+            "price": 425.3370818865274,
+            "volume_24h": 493357007.99,
+            "market_cap": 8429548274.081667
+        },
+        {
+            "timestamp": "2025-01-22 07:15:00",
+            "symbol": "BCH",
+            "price": 448.84950481429706,
+            "volume_24h": 280838064.17,
+            "market_cap": 8895742725.295744
+        },
+        {
+            "timestamp": "2025-01-23 07:15:00",
+            "symbol": "BCH",
+            "price": 429.0485656036095,
+            "volume_24h": 250256496.36,
+            "market_cap": 8503502573.367397
+        },
+        {
+            "timestamp": "2025-01-24 07:15:00",
+            "symbol": "BCH",
+            "price": 436.9954016086169,
+            "volume_24h": 347026121.45,
+            "market_cap": 8661198334.474451
+        },
+        {
+            "timestamp": "2025-01-25 07:15:00",
+            "symbol": "BCH",
+            "price": 436.4721799400222,
+            "volume_24h": 268140605.66,
+            "market_cap": 8651017731.918596
+        },
+        {
+            "timestamp": "2025-01-26 07:15:00",
+            "symbol": "BCH",
+            "price": 442.2008624337345,
+            "volume_24h": 255223609.01,
+            "market_cap": 8764774854.126566
+        },
+        {
+            "timestamp": "2025-01-27 07:15:00",
+            "symbol": "BCH",
+            "price": 407.6029070560474,
+            "volume_24h": 290086207.86,
+            "market_cap": 8079177469.618257
+        },
+        {
+            "timestamp": "2025-01-28 07:15:00",
+            "symbol": "BCH",
+            "price": 428.1869378763983,
+            "volume_24h": 349000493.59,
+            "market_cap": 8487391690.561357
+        },
+        {
+            "timestamp": "2025-01-29 07:15:00",
+            "symbol": "BCH",
+            "price": 417.28663788223474,
+            "volume_24h": 238794615.1,
+            "market_cap": 8271511811.080055
+        },
+        {
+            "timestamp": "2025-01-30 07:15:00",
+            "symbol": "BCH",
+            "price": 428.9954107032821,
+            "volume_24h": 289962570.64,
+            "market_cap": 8503766891.108443
+        },
+        {
+            "timestamp": "2025-01-31 07:15:00",
+            "symbol": "BCH",
+            "price": 431.92669999024105,
+            "volume_24h": 252185702.79,
+            "market_cap": 8562080274.364674
+        },
+        {
+            "timestamp": "2025-02-01 07:15:00",
+            "symbol": "BCH",
+            "price": 428.9028904668081,
+            "volume_24h": 289616960.02,
+            "market_cap": 8502347069.062555
+        },
+        {
+            "timestamp": "2025-02-02 07:15:00",
+            "symbol": "BCH",
+            "price": 398.38663437842985,
+            "volume_24h": 318501112.45,
+            "market_cap": 7897559371.839301
+        },
+        {
+            "timestamp": "2025-02-03 07:15:00",
+            "symbol": "BCH",
+            "price": 314.4462449110245,
+            "volume_24h": 824313696.13,
+            "market_cap": 6233646232.581879
+        },
+        {
+            "timestamp": "2025-02-04 07:15:00",
+            "symbol": "BCH",
+            "price": 329.8657796652662,
+            "volume_24h": 535366731.77,
+            "market_cap": 6539451983.048557
+        },
+        {
+            "timestamp": "2025-02-05 07:15:00",
+            "symbol": "BCH",
+            "price": 331.17803219199925,
+            "volume_24h": 305558099.13,
+            "market_cap": 6565605524.793626
+        },
+        {
+            "timestamp": "2025-02-06 07:15:00",
+            "symbol": "BCH",
+            "price": 333.5725280575665,
+            "volume_24h": 258063379.8,
+            "market_cap": 6613230690.117495
+        },
+        {
+            "timestamp": "2025-02-07 07:15:00",
+            "symbol": "BCH",
+            "price": 320.4575655512974,
+            "volume_24h": 283927921.37,
+            "market_cap": 6353343625.98519
+        },
+        {
+            "timestamp": "2025-02-08 07:15:00",
+            "symbol": "BCH",
+            "price": 316.3963435963145,
+            "volume_24h": 257752583.64,
+            "market_cap": 6272973772.31846
+        },
+        {
+            "timestamp": "2025-02-09 07:15:00",
+            "symbol": "BCH",
+            "price": 326.2598153728997,
+            "volume_24h": 193295613.85,
+            "market_cap": 6468684029.187716
+        },
+        {
+            "timestamp": "2025-02-10 07:15:00",
+            "symbol": "BCH",
+            "price": 328.94207329360614,
+            "volume_24h": 228394984.45,
+            "market_cap": 6522037281.590233
+        },
+        {
+            "timestamp": "2025-02-11 07:15:00",
+            "symbol": "BCH",
+            "price": 341.73947163680884,
+            "volume_24h": 233097147.46,
+            "market_cap": 6775941895.720319
+        },
+        {
+            "timestamp": "2025-02-12 07:15:00",
+            "symbol": "BCH",
+            "price": 328.7796941077454,
+            "volume_24h": 223648039.37,
+            "market_cap": 6519122889.026169
+        },
+        {
+            "timestamp": "2025-02-13 07:15:00",
+            "symbol": "BCH",
+            "price": 335.7357231627743,
+            "volume_24h": 284615828.01,
+            "market_cap": 6657209228.922512
+        },
+        {
+            "timestamp": "2025-02-14 07:15:00",
+            "symbol": "BCH",
+            "price": 338.1993180027665,
+            "volume_24h": 247567659.22,
+            "market_cap": 6706214520.121373
+        },
+        {
+            "timestamp": "2025-02-15 07:15:00",
+            "symbol": "BCH",
+            "price": 340.1381908853158,
+            "volume_24h": 243095219.29,
+            "market_cap": 6744817025.161616
+        },
+        {
+            "timestamp": "2025-02-16 07:15:00",
+            "symbol": "BCH",
+            "price": 332.1584962344597,
+            "volume_24h": 187158789.43,
+            "market_cap": 6586718551.919639
+        },
+        {
+            "timestamp": "2025-02-17 07:15:00",
+            "symbol": "BCH",
+            "price": 328.37945495994614,
+            "volume_24h": 199891122.14,
+            "market_cap": 6511925704.667719
+        },
+        {
+            "timestamp": "2025-02-18 07:15:00",
+            "symbol": "BCH",
+            "price": 314.42249713195247,
+            "volume_24h": 276787117.87,
+            "market_cap": 6235287977.938273
+        },
+        {
+            "timestamp": "2025-02-19 07:15:00",
+            "symbol": "BCH",
+            "price": 318.7895184069791,
+            "volume_24h": 252125445.42,
+            "market_cap": 6322025521.236947
+        },
+        {
+            "timestamp": "2025-02-20 07:15:00",
+            "symbol": "BCH",
+            "price": 322.35802144097806,
+            "volume_24h": 212214424.17,
+            "market_cap": 6392939809.613189
+        },
+        {
+            "timestamp": "2025-02-21 07:15:00",
+            "symbol": "BCH",
+            "price": 328.01874130108143,
+            "volume_24h": 213340698.35,
+            "market_cap": 6505342508.3985
+        },
+        {
+            "timestamp": "2025-02-22 07:15:00",
+            "symbol": "BCH",
+            "price": 317.76300697769176,
+            "volume_24h": 301434249.39,
+            "market_cap": 6302081508.915536
+        },
+        {
+            "timestamp": "2025-02-23 07:15:00",
+            "symbol": "BCH",
+            "price": 329.7371963032012,
+            "volume_24h": 241356803.45,
+            "market_cap": 6539727274.860833
+        },
+        {
+            "timestamp": "2025-02-24 07:15:00",
+            "symbol": "BCH",
+            "price": 318.72716906188964,
+            "volume_24h": 290078026.97,
+            "market_cap": 6321480289.294641
+        },
+        {
+            "timestamp": "2025-02-25 07:15:00",
+            "symbol": "BCH",
+            "price": 284.790986284801,
+            "volume_24h": 476128372.77,
+            "market_cap": 5648517722.81778
+        },
+        {
+            "timestamp": "2025-02-26 07:15:00",
+            "symbol": "BCH",
+            "price": 296.4687685500435,
+            "volume_24h": 486193003.81,
+            "market_cap": 5880301453.104066
+        },
+        {
+            "timestamp": "2025-02-27 07:15:00",
+            "symbol": "BCH",
+            "price": 299.6752511808056,
+            "volume_24h": 382721127.82,
+            "market_cap": 5944047369.349359
+        },
+        {
+            "timestamp": "2025-02-28 07:15:00",
+            "symbol": "BCH",
+            "price": 276.5838822074354,
+            "volume_24h": 412537295.28,
+            "market_cap": 5486152802.844915
+        },
+        {
+            "timestamp": "2025-03-01 07:15:00",
+            "symbol": "BCH",
+            "price": 313.55803010123213,
+            "volume_24h": 413675073.11,
+            "market_cap": 6219714549.672417
+        },
+        {
+            "timestamp": "2025-03-02 07:15:00",
+            "symbol": "BCH",
+            "price": 317.9257983259296,
+            "volume_24h": 247958731.24,
+            "market_cap": 6306501318.87623
+        },
+        {
+            "timestamp": "2025-03-03 07:15:00",
+            "symbol": "BCH",
+            "price": 316.0452470169822,
+            "volume_24h": 463658378.11,
+            "market_cap": 6269323394.682508
+        },
+        {
+            "timestamp": "2025-03-04 07:15:00",
+            "symbol": "BCH",
+            "price": 306.874458544702,
+            "volume_24h": 723660471.11,
+            "market_cap": 6087559739.040506
+        },
+        {
+            "timestamp": "2025-03-05 07:15:00",
+            "symbol": "BCH",
+            "price": 355.0504088853647,
+            "volume_24h": 572141777.76,
+            "market_cap": 7043422331.758923
+        },
+        {
+            "timestamp": "2025-03-06 07:15:00",
+            "symbol": "BCH",
+            "price": 404.8266523384325,
+            "volume_24h": 1084518921.92,
+            "market_cap": 8031109266.525025
+        },
+        {
+            "timestamp": "2025-03-07 07:15:00",
+            "symbol": "BCH",
+            "price": 406.0662695229149,
+            "volume_24h": 676829109.27,
+            "market_cap": 8055911923.339765
+        },
+        {
+            "timestamp": "2025-03-08 07:15:00",
+            "symbol": "BCH",
+            "price": 383.0764634445427,
+            "volume_24h": 514619926.96,
+            "market_cap": 7599971275.4432125
+        },
+        {
+            "timestamp": "2025-03-09 07:15:00",
+            "symbol": "BCH",
+            "price": 379.4077598754671,
+            "volume_24h": 317278912.37,
+            "market_cap": 7527351548.938588
+        },
+        {
+            "timestamp": "2025-03-10 07:15:00",
+            "symbol": "BCH",
+            "price": 359.21270254841045,
+            "volume_24h": 409577211.05,
+            "market_cap": 7126857475.595513
+        },
+        {
+            "timestamp": "2025-03-11 07:15:00",
+            "symbol": "BCH",
+            "price": 334.4475394146992,
+            "volume_24h": 460548800.99,
+            "market_cap": 6635636716.737836
+        },
+        {
+            "timestamp": "2025-03-12 07:15:00",
+            "symbol": "BCH",
+            "price": 333.7156537264927,
+            "volume_24h": 281755184.44,
+            "market_cap": 6621254371.310177
+        },
+        {
+            "timestamp": "2025-03-13 07:15:00",
+            "symbol": "BCH",
+            "price": 338.82280576497607,
+            "volume_24h": 385521125.79,
+            "market_cap": 6722742112.373093
+        },
+        {
+            "timestamp": "2025-03-14 07:15:00",
+            "symbol": "BCH",
+            "price": 325.9996815148599,
+            "volume_24h": 270892142.16,
+            "market_cap": 6468445951.036664
+        },
+        {
+            "timestamp": "2025-03-15 07:15:00",
+            "symbol": "BCH",
+            "price": 332.52065941915106,
+            "volume_24h": 308732492.73,
+            "market_cap": 6597985071.663228
+        },
+        {
+            "timestamp": "2025-03-16 07:15:00",
+            "symbol": "BCH",
+            "price": 338.9928372681347,
+            "volume_24h": 474047022.53,
+            "market_cap": 6726564952.63891
+        },
+        {
+            "timestamp": "2025-03-17 07:15:00",
+            "symbol": "BCH",
+            "price": 333.4410937150263,
+            "volume_24h": 273987966.08,
+            "market_cap": 6616551858.517647
+        },
+        {
+            "timestamp": "2025-03-18 07:15:00",
+            "symbol": "BCH",
+            "price": 332.715850840974,
+            "volume_24h": 264582835.76,
+            "market_cap": 6602316650.207716
+        },
+        {
+            "timestamp": "2025-03-19 07:15:00",
+            "symbol": "BCH",
+            "price": 333.08991555278897,
+            "volume_24h": 250990080.09,
+            "market_cap": 6609884165.904905
+        },
+        {
+            "timestamp": "2025-03-20 07:15:00",
+            "symbol": "BCH",
+            "price": 343.207759889004,
+            "volume_24h": 355081510.03,
+            "market_cap": 6810828221.279114
+        },
+        {
+            "timestamp": "2025-03-21 07:15:00",
+            "symbol": "BCH",
+            "price": 331.53628682290326,
+            "volume_24h": 234054940.1,
+            "market_cap": 6579342793.912678
+        },
+        {
+            "timestamp": "2025-03-22 07:15:00",
+            "symbol": "BCH",
+            "price": 324.71876020360094,
+            "volume_24h": 224061856.57,
+            "market_cap": 6444188906.56002
+        },
+        {
+            "timestamp": "2025-03-23 07:15:00",
+            "symbol": "BCH",
+            "price": 324.4710981447228,
+            "volume_24h": 180854572.4,
+            "market_cap": 6439413870.487436
+        },
+        {
+            "timestamp": "2025-03-24 07:15:00",
+            "symbol": "BCH",
+            "price": 329.5841160589474,
+            "volume_24h": 230958397.72,
+            "market_cap": 6541038633.543324
+        },
+        {
+            "timestamp": "2025-03-25 07:15:00",
+            "symbol": "BCH",
+            "price": 328.9224071561566,
+            "volume_24h": 205772475.16,
+            "market_cap": 6528052092.578809
+        },
+        {
+            "timestamp": "2025-03-26 07:15:00",
+            "symbol": "BCH",
+            "price": 335.2588523680813,
+            "volume_24h": 321587223.88,
+            "market_cap": 6653965211.654782
+        },
+        {
+            "timestamp": "2025-03-27 07:15:00",
+            "symbol": "BCH",
+            "price": 336.8946920085794,
+            "volume_24h": 276199110.79,
+            "market_cap": 6686587938.650892
+        },
+        {
+            "timestamp": "2025-03-28 07:15:00",
+            "symbol": "BCH",
+            "price": 314.3348109819838,
+            "volume_24h": 250265078.46,
+            "market_cap": 6238949745.719471
+        },
+        {
+            "timestamp": "2025-03-29 07:15:00",
+            "symbol": "BCH",
+            "price": 306.20728593815835,
+            "volume_24h": 204031560.99,
+            "market_cap": 6077770625.307833
+        },
+        {
+            "timestamp": "2025-03-30 07:15:00",
+            "symbol": "BCH",
+            "price": 307.5918395750808,
+            "volume_24h": 120151417.47,
+            "market_cap": 6105392346.174775
+        },
+        {
+            "timestamp": "2025-03-31 07:15:00",
+            "symbol": "BCH",
+            "price": 297.23819334365646,
+            "volume_24h": 188476992.61,
+            "market_cap": 5900012799.1265335
+        },
+        {
+            "timestamp": "2025-04-01 07:15:00",
+            "symbol": "BCH",
+            "price": 309.53968700690416,
+            "volume_24h": 204708287.35,
+            "market_cap": 6144333767.74139
+        },
+        {
+            "timestamp": "2025-04-02 07:15:00",
+            "symbol": "BCH",
+            "price": 303.5878994938943,
+            "volume_24h": 200851173.36,
+            "market_cap": 6026322265.869882
+        },
+        {
+            "timestamp": "2025-04-03 07:15:00",
+            "symbol": "BCH",
+            "price": 303.4904169950061,
+            "volume_24h": 332194206.88,
+            "market_cap": 6024524725.97926
+        },
+        {
+            "timestamp": "2025-04-04 07:15:00",
+            "symbol": "BCH",
+            "price": 308.53590859421547,
+            "volume_24h": 234230060.03,
+            "market_cap": 6124828277.897171
+        },
+        {
+            "timestamp": "2025-04-05 07:15:00",
+            "symbol": "BCH",
+            "price": 300.1270703397307,
+            "volume_24h": 217538684.5,
+            "market_cap": 5958041941.23418
+        },
+        {
+            "timestamp": "2025-04-06 07:15:00",
+            "symbol": "BCH",
+            "price": 295.3251707669004,
+            "volume_24h": 169391149.13,
+            "market_cap": 5862858971.031078
+        },
+        {
+            "timestamp": "2025-04-07 07:15:00",
+            "symbol": "BCH",
+            "price": 254.35711223766464,
+            "volume_24h": 284774006.57,
+            "market_cap": 5049661134.533121
+        },
+        {
+            "timestamp": "2025-04-08 07:15:00",
+            "symbol": "BCH",
+            "price": 276.0204695483995,
+            "volume_24h": 283634629.19,
+            "market_cap": 5479853358.351657
+        },
+        {
+            "timestamp": "2025-04-09 07:15:00",
+            "symbol": "BCH",
+            "price": 275.38751153419685,
+            "volume_24h": 236721074.2,
+            "market_cap": 5467418008.447806
+        },
+        {
+            "timestamp": "2025-04-10 07:15:00",
+            "symbol": "BCH",
+            "price": 299.34450678944745,
+            "volume_24h": 327587964.4,
+            "market_cap": 5943191450.507192
+        },
+        {
+            "timestamp": "2025-04-11 07:15:00",
+            "symbol": "BCH",
+            "price": 296.9193344678702,
+            "volume_24h": 182355099.72,
+            "market_cap": 5895179358.954808
+        },
+        {
+            "timestamp": "2025-04-12 07:15:00",
+            "symbol": "BCH",
+            "price": 316.58767264879907,
+            "volume_24h": 257567401.72,
+            "market_cap": 6285842304.423043
+        },
+        {
+            "timestamp": "2025-04-13 07:15:00",
+            "symbol": "BCH",
+            "price": 339.24916972430094,
+            "volume_24h": 309019488.32,
+            "market_cap": 6735961889.460857
+        },
+        {
+            "timestamp": "2025-04-14 07:15:00",
+            "symbol": "BCH",
+            "price": 341.15203988929665,
+            "volume_24h": 359323588.28,
+            "market_cap": 6773915971.847758
+        },
+        {
+            "timestamp": "2025-04-15 07:15:00",
+            "symbol": "BCH",
+            "price": 331.3876780309292,
+            "volume_24h": 272677871.95,
+            "market_cap": 6580151791.842428
+        },
+        {
+            "timestamp": "2025-04-16 07:15:00",
+            "symbol": "BCH",
+            "price": 321.69961491259875,
+            "volume_24h": 210414968.09,
+            "market_cap": 6387925920.316285
+        },
+        {
+            "timestamp": "2025-04-17 07:15:00",
+            "symbol": "BCH",
+            "price": 332.758290152908,
+            "volume_24h": 226209461.04,
+            "market_cap": 6607671837.890221
+        },
+        {
+            "timestamp": "2025-04-18 07:15:00",
+            "symbol": "BCH",
+            "price": 331.0847148133104,
+            "volume_24h": 205728425.32,
+            "market_cap": 6574585079.907209
+        },
+        {
+            "timestamp": "2025-04-19 07:15:00",
+            "symbol": "BCH",
+            "price": 336.9461522688497,
+            "volume_24h": 194760481.21,
+            "market_cap": 6691137763.244916
+        },
+        {
+            "timestamp": "2025-04-20 07:15:00",
+            "symbol": "BCH",
+            "price": 336.2734863256238,
+            "volume_24h": 155034215.43,
+            "market_cap": 6677941672.638928
+        },
+        {
+            "timestamp": "2025-04-21 07:15:00",
+            "symbol": "BCH",
+            "price": 338.4672364470009,
+            "volume_24h": 186927141.42,
+            "market_cap": 6721644118.223496
+        },
+        {
+            "timestamp": "2025-04-22 07:15:00",
+            "symbol": "BCH",
+            "price": 337.47057155302014,
+            "volume_24h": 232724741.97,
+            "market_cap": 6702005252.521492
+        }
+    ],
+    "investment_thesis": "BCH represents a moderate opportunity with a balanced risk-reward profile (score: 54.2/100). Technical indicators are moderately positive (62.0/100), suggesting potential for price appreciation. Fundamental factors are average (50.0/100), suggesting a moderate market foundation. Sentiment indicators are neutral (45.0/100), showing balanced market perception. Multiple bullish patterns (inverse head and shoulders, double bottom) have been identified, strengthening the positive case. Chart analysis reveals a head and shoulders pattern, suggesting potential downside risk. This analysis is set against a broader market that is currently in a strong bullish trend with sentiment showing greed. The current recommendation for BCH is Hold, suggesting investors maintain existing positions while monitoring for changes in market conditions.",
+    "risk_assessment": "BCH is classified as a moderate risk investment. With a market cap of $7.10B and global rank of #9, it balances growth potential with reasonable stability. Annualized volatility of 84.8% indicates moderate price fluctuations. Daily trading volume of $320.18M and liquidity ratio of 0.045 suggest adequate liquidity for most trading activities. Investors should be aware of risks including increased competition, potential regulatory impacts, and higher sensitivity to market sentiment. The RSI of 77.2 indicates overbought conditions, increasing the risk of a short-term correction. The current bullish market environment potentially reduces short-term downside risk, though caution is warranted for any sudden sentiment changes. High Bitcoin dominance (63.3%) may limit altcoin performance in the near term.",
+    "analysis_time": "2025-04-23 12:42:25"
+}

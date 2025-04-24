@@ -1,0 +1,20 @@
+{
+    "symbol": "USDT",
+    "price_change_1h": 0.01118422,
+    "price_change_24h": -0.0525816,
+    "price_change_7d": 0.01615434,
+    "market_avg_change_24h": 3.7310203413333327,
+    "market_avg_change_7d": 11.602763898000001,
+    "relative_performance_24h": -3.7836019413333326,
+    "relative_performance_7d": -11.586609558000001,
+    "fear_greed_value": 72,
+    "fear_greed_classification": "Greed",
+    "market_trend": "Strong Bullish",
+    "sentiment_score": 37,
+    "score_components": {
+        "momentum_score": 15,
+        "market_sentiment_score": 10,
+        "relative_score": 5,
+        "alignment_score": 7
+    }
+}

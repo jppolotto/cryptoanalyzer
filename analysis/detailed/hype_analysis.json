@@ -1,0 +1,1129 @@
+{
+    "symbol": "HYPE",
+    "name": "Hyperliquid",
+    "price_usd": 17.963135930955055,
+    "market_cap_usd": 5998397288.516427,
+    "volume_24h_usd": 128423971.63948543,
+    "percent_change_24h": -0.26121315,
+    "percent_change_7d": 14.2246763,
+    "technical_score": 57,
+    "fundamental_score": 49,
+    "sentiment_score": 54,
+    "total_score": 52.8,
+    "technical_weight": 0.35,
+    "fundamental_weight": 0.45,
+    "sentiment_weight": 0.2,
+    "risk_profile": "Aggressive",
+    "market_opportunity": "Moderate",
+    "recommendation": "Hold",
+    "rank": 9,
+    "technical_data": {
+        "symbol": "HYPE",
+        "price": 18.007017077299544,
+        "ma_7": 17.013683024639967,
+        "ma_30": 14.504112477812132,
+        "ma_90": 18.60592549356866,
+        "ma_200": NaN,
+        "rsi_14": 79.11146519300283,
+        "macd": 0.891842378953811,
+        "macd_signal": 0.3675195894717129,
+        "bb_upper": 19.582634284470288,
+        "bb_middle": 14.61999566283886,
+        "bb_lower": 9.657357041207431,
+        "bb_width": 0.6788837337681946,
+        "roc_7": 14.475777710630467,
+        "roc_30": 14.033595378900232,
+        "obv": 67820330.32000075,
+        "tenkan_sen": 16.644881837247482,
+        "kijun_sen": 14.231222986441448,
+        "adx": 31.232336068642756,
+        "stoch_k": 99.45060304543146,
+        "stoch_d": 98.33184087113257,
+        "mfi": 77.36298416136242,
+        "psar": 15.262293766427696,
+        "technical_score": 57,
+        "score_components": {
+            "trend_score": 8,
+            "momentum_score": 10,
+            "volatility_score": 1,
+            "support_resistance_score": 6,
+            "volume_score": 5,
+            "ichimoku_score": 7,
+            "obv_score": 5,
+            "adx_score": 5,
+            "psar_score": 5,
+            "ma_cross_score": 5
+        }
+    },
+    "fundamental_data": {
+        "symbol": "HYPE",
+        "market_cap_usd": 5998397288.516427,
+        "volume_24h_usd": 128423971.63948543,
+        "volume_mcap_ratio": 0.02140971420571716,
+        "market_share": 0.2351654612857832,
+        "cmc_rank": 20,
+        "price_change_30d": 14.61489701,
+        "fundamental_score": 49,
+        "score_components": {
+            "market_cap_score": 15,
+            "volume_mcap_score": 5,
+            "rank_score": 10,
+            "stability_score": 6,
+            "growth_score": 9,
+            "market_position_score": 4
+        }
+    },
+    "sentiment_data": {
+        "symbol": "HYPE",
+        "price_change_1h": -0.87782417,
+        "price_change_24h": -0.26121315,
+        "price_change_7d": 14.2246763,
+        "market_avg_change_24h": -1.144852533,
+        "market_avg_change_7d": 1.3021946,
+        "relative_performance_24h": 0.8836393829999999,
+        "relative_performance_7d": 12.9224817,
+        "fear_greed_value": 47,
+        "fear_greed_classification": "Neutral",
+        "market_trend": "Neutral",
+        "sentiment_score": 54,
+        "score_components": {
+            "momentum_score": 16,
+            "market_sentiment_score": 15,
+            "relative_score": 13,
+            "alignment_score": 10
+        }
+    },
+    "pattern_data": {
+        "head_and_shoulders": false,
+        "inverse_head_and_shoulders": false,
+        "double_top": false,
+        "double_bottom": false,
+        "ascending_triangle": false,
+        "descending_triangle": false,
+        "symmetric_triangle": false,
+        "bullish_flag": false,
+        "bearish_flag": false,
+        "pattern_strength": 0
+    },
+    "divergence_data": {
+        "bearish_divergence": false,
+        "bullish_divergence": false,
+        "bearish_divergence_strength": 0,
+        "bullish_divergence_strength": 0,
+        "rsi_divergences": [],
+        "macd_divergences": []
+    },
+    "historical_data": [
+        {
+            "timestamp": "2024-11-29 21:35:00",
+            "symbol": "HYPE",
+            "price": 5.85408567088384,
+            "volume_24h": 532850444.82,
+            "market_cap": 5854050136.5838175
+        },
+        {
+            "timestamp": "2024-11-30 21:35:00",
+            "symbol": "HYPE",
+            "price": 8.540807962412169,
+            "volume_24h": 382394816.87,
+            "market_cap": 8540756119.707837
+        },
+        {
+            "timestamp": "2024-12-01 21:35:00",
+            "symbol": "HYPE",
+            "price": 9.124388958358852,
+            "volume_24h": 326890947.0,
+            "market_cap": 9124333573.317877
+        },
+        {
+            "timestamp": "2024-12-02 21:35:00",
+            "symbol": "HYPE",
+            "price": 8.099090661741869,
+            "volume_24h": 279997217.22,
+            "market_cap": 2194113045.1755714
+        },
+        {
+            "timestamp": "2024-12-03 21:35:00",
+            "symbol": "HYPE",
+            "price": 10.28412477343847,
+            "volume_24h": 189054958.22,
+            "market_cap": 2786057505.221416
+        },
+        {
+            "timestamp": "2024-12-04 21:35:00",
+            "symbol": "HYPE",
+            "price": 12.21942912575102,
+            "volume_24h": 326067870.37,
+            "market_cap": 3310348034.015272
+        },
+        {
+            "timestamp": "2024-12-05 21:35:00",
+            "symbol": "HYPE",
+            "price": 12.700168979841129,
+            "volume_24h": 257012555.7,
+            "market_cap": 3440584578.986612
+        },
+        {
+            "timestamp": "2024-12-06 21:35:00",
+            "symbol": "HYPE",
+            "price": 13.909089667308256,
+            "volume_24h": 190361281.93,
+            "market_cap": 3768091550.044986
+        },
+        {
+            "timestamp": "2024-12-07 21:35:00",
+            "symbol": "HYPE",
+            "price": 14.518107597352117,
+            "volume_24h": 162512720.9,
+            "market_cap": 3933079724.750475
+        },
+        {
+            "timestamp": "2024-12-08 21:35:00",
+            "symbol": "HYPE",
+            "price": 14.110084320014872,
+            "volume_24h": 120460835.22,
+            "market_cap": 3822542723.3843994
+        },
+        {
+            "timestamp": "2024-12-09 21:35:00",
+            "symbol": "HYPE",
+            "price": 12.858002571301478,
+            "volume_24h": 201076337.56,
+            "market_cap": 3483343051.073599
+        },
+        {
+            "timestamp": "2024-12-10 21:35:00",
+            "symbol": "HYPE",
+            "price": 13.563037942258868,
+            "volume_24h": 196773531.89,
+            "market_cap": 3674343173.1039786
+        },
+        {
+            "timestamp": "2024-12-11 21:35:00",
+            "symbol": "HYPE",
+            "price": 16.09707893676338,
+            "volume_24h": 177438420.55,
+            "market_cap": 4360836587.644451
+        },
+        {
+            "timestamp": "2024-12-12 21:35:00",
+            "symbol": "HYPE",
+            "price": 18.370219699736182,
+            "volume_24h": 237881338.61,
+            "market_cap": 4976649894.330701
+        },
+        {
+            "timestamp": "2024-12-13 21:35:00",
+            "symbol": "HYPE",
+            "price": 19.402569834410077,
+            "volume_24h": 175046318.45,
+            "market_cap": 5256322389.95746
+        },
+        {
+            "timestamp": "2024-12-14 21:35:00",
+            "symbol": "HYPE",
+            "price": 23.15453732057418,
+            "volume_24h": 332464081.28,
+            "market_cap": 6272762525.064771
+        },
+        {
+            "timestamp": "2024-12-15 21:35:00",
+            "symbol": "HYPE",
+            "price": 23.75028602633444,
+            "volume_24h": 378197397.68,
+            "market_cap": 6434155953.234386
+        },
+        {
+            "timestamp": "2024-12-16 21:35:00",
+            "symbol": "HYPE",
+            "price": 28.39091327798436,
+            "volume_24h": 356275555.77,
+            "market_cap": 7691341631.960014
+        },
+        {
+            "timestamp": "2024-12-17 21:35:00",
+            "symbol": "HYPE",
+            "price": 25.77829377836099,
+            "volume_24h": 382331448.43,
+            "market_cap": 6983560627.200791
+        },
+        {
+            "timestamp": "2024-12-18 21:35:00",
+            "symbol": "HYPE",
+            "price": 25.588038982328428,
+            "volume_24h": 450964396.83,
+            "market_cap": 6932018973.042732
+        },
+        {
+            "timestamp": "2024-12-19 21:35:00",
+            "symbol": "HYPE",
+            "price": 24.576735627167896,
+            "volume_24h": 521444588.33,
+            "market_cap": 6658048230.2939005
+        },
+        {
+            "timestamp": "2024-12-20 21:35:00",
+            "symbol": "HYPE",
+            "price": 29.53122144681477,
+            "volume_24h": 579195821.72,
+            "market_cap": 8000260883.916257
+        },
+        {
+            "timestamp": "2024-12-21 21:35:00",
+            "symbol": "HYPE",
+            "price": 33.93288073565461,
+            "volume_24h": 488501425.47,
+            "market_cap": 9192708094.278095
+        },
+        {
+            "timestamp": "2024-12-22 21:35:00",
+            "symbol": "HYPE",
+            "price": 29.167353080581155,
+            "volume_24h": 493215159.3,
+            "market_cap": 7901685826.243276
+        },
+        {
+            "timestamp": "2024-12-23 21:35:00",
+            "symbol": "HYPE",
+            "price": 28.678246234581668,
+            "volume_24h": 690599872.26,
+            "market_cap": 7769182591.483665
+        },
+        {
+            "timestamp": "2024-12-24 21:35:00",
+            "symbol": "HYPE",
+            "price": 29.838460915332696,
+            "volume_24h": 414090613.42,
+            "market_cap": 8083494688.05829
+        },
+        {
+            "timestamp": "2024-12-25 21:35:00",
+            "symbol": "HYPE",
+            "price": 27.41424303070945,
+            "volume_24h": 308627575.03,
+            "market_cap": 7426753294.839234
+        },
+        {
+            "timestamp": "2024-12-26 21:35:00",
+            "symbol": "HYPE",
+            "price": 26.044804161627408,
+            "volume_24h": 335654680.16,
+            "market_cap": 8697094052.148666
+        },
+        {
+            "timestamp": "2024-12-27 21:35:00",
+            "symbol": "HYPE",
+            "price": 26.61613730567733,
+            "volume_24h": 234022163.22,
+            "market_cap": 8887878289.114937
+        },
+        {
+            "timestamp": "2024-12-28 21:35:00",
+            "symbol": "HYPE",
+            "price": 28.656360880762907,
+            "volume_24h": 172917330.86,
+            "market_cap": 9569166434.336355
+        },
+        {
+            "timestamp": "2024-12-29 21:35:00",
+            "symbol": "HYPE",
+            "price": 27.19668215400819,
+            "volume_24h": 147023762.54,
+            "market_cap": 9081738573.726437
+        },
+        {
+            "timestamp": "2024-12-30 21:35:00",
+            "symbol": "HYPE",
+            "price": 27.056448876520097,
+            "volume_24h": 190982623.42,
+            "market_cap": 9034910730.5994
+        },
+        {
+            "timestamp": "2024-12-31 21:35:00",
+            "symbol": "HYPE",
+            "price": 24.232751227193056,
+            "volume_24h": 178355398.81,
+            "market_cap": 8091998513.689343
+        },
+        {
+            "timestamp": "2025-01-01 21:35:00",
+            "symbol": "HYPE",
+            "price": 26.392019344614926,
+            "volume_24h": 188449518.2,
+            "market_cap": 8813038986.272055
+        },
+        {
+            "timestamp": "2025-01-02 21:35:00",
+            "symbol": "HYPE",
+            "price": 23.03375306709816,
+            "volume_24h": 213765045.37,
+            "market_cap": 7691619240.265506
+        },
+        {
+            "timestamp": "2025-01-03 21:35:00",
+            "symbol": "HYPE",
+            "price": 23.641788152044573,
+            "volume_24h": 224688965.39,
+            "market_cap": 7894659289.557807
+        },
+        {
+            "timestamp": "2025-01-04 21:35:00",
+            "symbol": "HYPE",
+            "price": 25.19105756893946,
+            "volume_24h": 118373503.8,
+            "market_cap": 8412004006.271178
+        },
+        {
+            "timestamp": "2025-01-05 21:35:00",
+            "symbol": "HYPE",
+            "price": 24.282214976452178,
+            "volume_24h": 113408027.68,
+            "market_cap": 8108515853.455419
+        },
+        {
+            "timestamp": "2025-01-06 21:35:00",
+            "symbol": "HYPE",
+            "price": 25.765335283131638,
+            "volume_24h": 134605332.66,
+            "market_cap": 8603771518.185932
+        },
+        {
+            "timestamp": "2025-01-07 21:35:00",
+            "symbol": "HYPE",
+            "price": 23.909846144653848,
+            "volume_24h": 161570737.14,
+            "market_cap": 7984171407.164276
+        },
+        {
+            "timestamp": "2025-01-08 21:35:00",
+            "symbol": "HYPE",
+            "price": 23.19003652612363,
+            "volume_24h": 289077690.85,
+            "market_cap": 7743806691.301987
+        },
+        {
+            "timestamp": "2025-01-09 21:35:00",
+            "symbol": "HYPE",
+            "price": 20.0022492324842,
+            "volume_24h": 329742583.2,
+            "market_cap": 6679314682.109846
+        },
+        {
+            "timestamp": "2025-01-10 21:35:00",
+            "symbol": "HYPE",
+            "price": 21.16745237271859,
+            "volume_24h": 225764670.18,
+            "market_cap": 7068408846.0586
+        },
+        {
+            "timestamp": "2025-01-11 21:35:00",
+            "symbol": "HYPE",
+            "price": 20.993806311687703,
+            "volume_24h": 104914763.59,
+            "market_cap": 7010423532.934388
+        },
+        {
+            "timestamp": "2025-01-12 21:35:00",
+            "symbol": "HYPE",
+            "price": 21.30011307404205,
+            "volume_24h": 94791972.4,
+            "market_cap": 7112707992.609068
+        },
+        {
+            "timestamp": "2025-01-13 21:35:00",
+            "symbol": "HYPE",
+            "price": 21.54884516563474,
+            "volume_24h": 247248795.46,
+            "market_cap": 7195766647.262208
+        },
+        {
+            "timestamp": "2025-01-14 21:35:00",
+            "symbol": "HYPE",
+            "price": 22.82882376246521,
+            "volume_24h": 192937109.11,
+            "market_cap": 7623187570.540758
+        },
+        {
+            "timestamp": "2025-01-15 21:35:00",
+            "symbol": "HYPE",
+            "price": 23.87546693068673,
+            "volume_24h": 185571271.68,
+            "market_cap": 7972691218.814407
+        },
+        {
+            "timestamp": "2025-01-16 21:35:00",
+            "symbol": "HYPE",
+            "price": 23.51890807396803,
+            "volume_24h": 146694117.84,
+            "market_cap": 7853626168.72745
+        },
+        {
+            "timestamp": "2025-01-17 21:35:00",
+            "symbol": "HYPE",
+            "price": 23.4465856086961,
+            "volume_24h": 142428162.04,
+            "market_cap": 7829475659.526081
+        },
+        {
+            "timestamp": "2025-01-18 21:35:00",
+            "symbol": "HYPE",
+            "price": 20.53521228047919,
+            "volume_24h": 329418929.35,
+            "market_cap": 6857286062.734065
+        },
+        {
+            "timestamp": "2025-01-19 21:35:00",
+            "symbol": "HYPE",
+            "price": 21.70530356109396,
+            "volume_24h": 368701458.02,
+            "market_cap": 7248012514.503625
+        },
+        {
+            "timestamp": "2025-01-20 21:35:00",
+            "symbol": "HYPE",
+            "price": 20.76945181914558,
+            "volume_24h": 401868562.86,
+            "market_cap": 6935505245.564973
+        },
+        {
+            "timestamp": "2025-01-21 21:35:00",
+            "symbol": "HYPE",
+            "price": 23.214886929389664,
+            "volume_24h": 258284532.95,
+            "market_cap": 7752104941.236879
+        },
+        {
+            "timestamp": "2025-01-22 21:35:00",
+            "symbol": "HYPE",
+            "price": 25.38133624577247,
+            "volume_24h": 208110180.08,
+            "market_cap": 8475543418.518833
+        },
+        {
+            "timestamp": "2025-01-23 21:35:00",
+            "symbol": "HYPE",
+            "price": 21.95075031917823,
+            "volume_24h": 300553261.38,
+            "market_cap": 7329974103.717606
+        },
+        {
+            "timestamp": "2025-01-24 21:35:00",
+            "symbol": "HYPE",
+            "price": 23.609129667520765,
+            "volume_24h": 201244166.51,
+            "market_cap": 7883753701.259214
+        },
+        {
+            "timestamp": "2025-01-25 21:35:00",
+            "symbol": "HYPE",
+            "price": 23.764677027091967,
+            "volume_24h": 116177578.39,
+            "market_cap": 7935695347.944632
+        },
+        {
+            "timestamp": "2025-01-26 21:35:00",
+            "symbol": "HYPE",
+            "price": 23.40256520830224,
+            "volume_24h": 99613006.39,
+            "market_cap": 7814776007.339687
+        },
+        {
+            "timestamp": "2025-01-27 21:35:00",
+            "symbol": "HYPE",
+            "price": 22.74016064431166,
+            "volume_24h": 284120438.31,
+            "market_cap": 7593580456.86262
+        },
+        {
+            "timestamp": "2025-01-28 21:35:00",
+            "symbol": "HYPE",
+            "price": 22.09815041472296,
+            "volume_24h": 179908703.34,
+            "market_cap": 7379195149.354683
+        },
+        {
+            "timestamp": "2025-01-29 21:35:00",
+            "symbol": "HYPE",
+            "price": 23.70197140586466,
+            "volume_24h": 157848975.78,
+            "market_cap": 7914756173.972427
+        },
+        {
+            "timestamp": "2025-01-30 21:35:00",
+            "symbol": "HYPE",
+            "price": 27.312138776341992,
+            "volume_24h": 282886119.16,
+            "market_cap": 9120292793.491308
+        },
+        {
+            "timestamp": "2025-01-31 21:35:00",
+            "symbol": "HYPE",
+            "price": 26.12025875526395,
+            "volume_24h": 220215790.54,
+            "market_cap": 8722290467.274357
+        },
+        {
+            "timestamp": "2025-02-01 21:35:00",
+            "symbol": "HYPE",
+            "price": 25.063481490627478,
+            "volume_24h": 229529897.47,
+            "market_cap": 8369402758.62892
+        },
+        {
+            "timestamp": "2025-02-02 21:35:00",
+            "symbol": "HYPE",
+            "price": 21.04548333507432,
+            "volume_24h": 356370429.32,
+            "market_cap": 7027679947.301697
+        },
+        {
+            "timestamp": "2025-02-03 21:35:00",
+            "symbol": "HYPE",
+            "price": 25.25408301589332,
+            "volume_24h": 583316280.71,
+            "market_cap": 8433049979.066167
+        },
+        {
+            "timestamp": "2025-02-04 21:35:00",
+            "symbol": "HYPE",
+            "price": 25.386988150394288,
+            "volume_24h": 311251402.68,
+            "market_cap": 8477430748.742731
+        },
+        {
+            "timestamp": "2025-02-05 21:35:00",
+            "symbol": "HYPE",
+            "price": 25.728705710380755,
+            "volume_24h": 239344085.47,
+            "market_cap": 8591539871.623053
+        },
+        {
+            "timestamp": "2025-02-06 21:35:00",
+            "symbol": "HYPE",
+            "price": 24.28175946420337,
+            "volume_24h": 227085859.54,
+            "market_cap": 8108363745.079207
+        },
+        {
+            "timestamp": "2025-02-07 21:35:00",
+            "symbol": "HYPE",
+            "price": 22.745615122956018,
+            "volume_24h": 210114174.67,
+            "market_cap": 7595401860.98918
+        },
+        {
+            "timestamp": "2025-02-08 21:35:00",
+            "symbol": "HYPE",
+            "price": 23.746424013921636,
+            "volume_24h": 115559828.56,
+            "market_cap": 7929600152.477145
+        },
+        {
+            "timestamp": "2025-02-09 21:35:00",
+            "symbol": "HYPE",
+            "price": 22.52617851038849,
+            "volume_24h": 76535644.18,
+            "market_cap": 7522125792.329141
+        },
+        {
+            "timestamp": "2025-02-10 21:35:00",
+            "symbol": "HYPE",
+            "price": 23.673285045010783,
+            "volume_24h": 116317626.95,
+            "market_cap": 7905176989.701669
+        },
+        {
+            "timestamp": "2025-02-11 21:35:00",
+            "symbol": "HYPE",
+            "price": 23.488503515575648,
+            "volume_24h": 133050495.29,
+            "market_cap": 7843473229.879778
+        },
+        {
+            "timestamp": "2025-02-12 21:35:00",
+            "symbol": "HYPE",
+            "price": 24.98863847691042,
+            "volume_24h": 153974110.17,
+            "market_cap": 8344410567.272669
+        },
+        {
+            "timestamp": "2025-02-13 21:35:00",
+            "symbol": "HYPE",
+            "price": 25.89436687870491,
+            "volume_24h": 155090378.75,
+            "market_cap": 8646858804.058212
+        },
+        {
+            "timestamp": "2025-02-14 21:35:00",
+            "symbol": "HYPE",
+            "price": 26.303424793798357,
+            "volume_24h": 210623232.66,
+            "market_cap": 8783454769.15996
+        },
+        {
+            "timestamp": "2025-02-15 21:35:00",
+            "symbol": "HYPE",
+            "price": 25.88646765373381,
+            "volume_24h": 122565588.53,
+            "market_cap": 8644221030.240202
+        },
+        {
+            "timestamp": "2025-02-16 21:35:00",
+            "symbol": "HYPE",
+            "price": 26.42658180124612,
+            "volume_24h": 71310313.23,
+            "market_cap": 8824580364.51124
+        },
+        {
+            "timestamp": "2025-02-17 21:35:00",
+            "symbol": "HYPE",
+            "price": 25.51367504052732,
+            "volume_24h": 135847375.43,
+            "market_cap": 8519735071.394714
+        },
+        {
+            "timestamp": "2025-02-18 21:35:00",
+            "symbol": "HYPE",
+            "price": 23.802677587482343,
+            "volume_24h": 392332006.51,
+            "market_cap": 7948384805.914769
+        },
+        {
+            "timestamp": "2025-02-19 21:35:00",
+            "symbol": "HYPE",
+            "price": 24.0145353609497,
+            "volume_24h": 173744840.06,
+            "market_cap": 8019130086.627577
+        },
+        {
+            "timestamp": "2025-02-20 21:35:00",
+            "symbol": "HYPE",
+            "price": 24.475216587393135,
+            "volume_24h": 149767176.95,
+            "market_cap": 8172964530.134002
+        },
+        {
+            "timestamp": "2025-02-21 21:35:00",
+            "symbol": "HYPE",
+            "price": 24.437072686855597,
+            "volume_24h": 258943974.41,
+            "market_cap": 8160227206.849399
+        },
+        {
+            "timestamp": "2025-02-22 21:35:00",
+            "symbol": "HYPE",
+            "price": 24.854663444810942,
+            "volume_24h": 102642774.99,
+            "market_cap": 8299672528.638249
+        },
+        {
+            "timestamp": "2025-02-23 21:35:00",
+            "symbol": "HYPE",
+            "price": 23.299525143364225,
+            "volume_24h": 93609275.46,
+            "market_cap": 7780368025.987855
+        },
+        {
+            "timestamp": "2025-02-24 21:35:00",
+            "symbol": "HYPE",
+            "price": 20.661959518255536,
+            "volume_24h": 337320512.37,
+            "market_cap": 6899610537.164748
+        },
+        {
+            "timestamp": "2025-02-25 21:35:00",
+            "symbol": "HYPE",
+            "price": 20.44559360220224,
+            "volume_24h": 568008278.2,
+            "market_cap": 6827359860.603038
+        },
+        {
+            "timestamp": "2025-02-26 21:35:00",
+            "symbol": "HYPE",
+            "price": 19.42858937871055,
+            "volume_24h": 306846444.71,
+            "market_cap": 6487753491.200145
+        },
+        {
+            "timestamp": "2025-02-27 21:35:00",
+            "symbol": "HYPE",
+            "price": 20.50593804332197,
+            "volume_24h": 228993310.33,
+            "market_cap": 6847510569.999268
+        },
+        {
+            "timestamp": "2025-02-28 21:35:00",
+            "symbol": "HYPE",
+            "price": 19.736895626393224,
+            "volume_24h": 264211402.68,
+            "market_cap": 6590705635.371449
+        },
+        {
+            "timestamp": "2025-03-01 21:35:00",
+            "symbol": "HYPE",
+            "price": 19.470205317969896,
+            "volume_24h": 114732035.61,
+            "market_cap": 6501650226.056008
+        },
+        {
+            "timestamp": "2025-03-02 21:35:00",
+            "symbol": "HYPE",
+            "price": 19.835326939483306,
+            "volume_24h": 225206381.03,
+            "market_cap": 6623574624.60663
+        },
+        {
+            "timestamp": "2025-03-03 21:35:00",
+            "symbol": "HYPE",
+            "price": 17.816157795254117,
+            "volume_24h": 288803627.72,
+            "market_cap": 5949317147.16202
+        },
+        {
+            "timestamp": "2025-03-04 21:35:00",
+            "symbol": "HYPE",
+            "price": 17.526972703051246,
+            "volume_24h": 361861434.68,
+            "market_cap": 5852750095.639584
+        },
+        {
+            "timestamp": "2025-03-05 21:35:00",
+            "symbol": "HYPE",
+            "price": 17.256374995193685,
+            "volume_24h": 167350816.49,
+            "market_cap": 5762389895.542536
+        },
+        {
+            "timestamp": "2025-03-06 21:35:00",
+            "symbol": "HYPE",
+            "price": 15.33952955651249,
+            "volume_24h": 173854546.45,
+            "market_cap": 5122301186.862423
+        },
+        {
+            "timestamp": "2025-03-07 21:35:00",
+            "symbol": "HYPE",
+            "price": 15.666215038492249,
+            "volume_24h": 194013079.27,
+            "market_cap": 5231390675.292347
+        },
+        {
+            "timestamp": "2025-03-08 21:35:00",
+            "symbol": "HYPE",
+            "price": 15.694629062163026,
+            "volume_24h": 77807360.34,
+            "market_cap": 5240878918.503206
+        },
+        {
+            "timestamp": "2025-03-09 21:35:00",
+            "symbol": "HYPE",
+            "price": 14.600903659176048,
+            "volume_24h": 105242972.91,
+            "market_cap": 4875653185.263998
+        },
+        {
+            "timestamp": "2025-03-10 21:35:00",
+            "symbol": "HYPE",
+            "price": 13.887330794313922,
+            "volume_24h": 188572689.21,
+            "market_cap": 4637371097.203202
+        },
+        {
+            "timestamp": "2025-03-11 21:35:00",
+            "symbol": "HYPE",
+            "price": 14.044092087065527,
+            "volume_24h": 174855982.13,
+            "market_cap": 4689718110.386193
+        },
+        {
+            "timestamp": "2025-03-12 21:35:00",
+            "symbol": "HYPE",
+            "price": 13.068626718297027,
+            "volume_24h": 192041243.21,
+            "market_cap": 4363982735.140299
+        },
+        {
+            "timestamp": "2025-03-13 21:35:00",
+            "symbol": "HYPE",
+            "price": 12.142634052984,
+            "volume_24h": 151629475.86,
+            "market_cap": 4054767689.71897
+        },
+        {
+            "timestamp": "2025-03-14 21:35:00",
+            "symbol": "HYPE",
+            "price": 13.86123857516633,
+            "volume_24h": 132122102.83,
+            "market_cap": 4628658169.951086
+        },
+        {
+            "timestamp": "2025-03-15 21:35:00",
+            "symbol": "HYPE",
+            "price": 14.481433611747264,
+            "volume_24h": 58149719.92,
+            "market_cap": 4835758769.76159
+        },
+        {
+            "timestamp": "2025-03-16 21:35:00",
+            "symbol": "HYPE",
+            "price": 13.26521476614095,
+            "volume_24h": 61767452.51,
+            "market_cap": 4429629024.166574
+        },
+        {
+            "timestamp": "2025-03-17 21:35:00",
+            "symbol": "HYPE",
+            "price": 13.386300122525729,
+            "volume_24h": 68283695.78,
+            "market_cap": 4470062836.848794
+        },
+        {
+            "timestamp": "2025-03-18 21:35:00",
+            "symbol": "HYPE",
+            "price": 13.469068808232263,
+            "volume_24h": 52999897.14,
+            "market_cap": 4497701633.427769
+        },
+        {
+            "timestamp": "2025-03-19 21:35:00",
+            "symbol": "HYPE",
+            "price": 15.111155656852532,
+            "volume_24h": 136238432.37,
+            "market_cap": 5046040706.18947
+        },
+        {
+            "timestamp": "2025-03-20 21:35:00",
+            "symbol": "HYPE",
+            "price": 14.34358108116265,
+            "volume_24h": 106306116.77,
+            "market_cap": 4789725925.115076
+        },
+        {
+            "timestamp": "2025-03-21 21:35:00",
+            "symbol": "HYPE",
+            "price": 15.654485808540851,
+            "volume_24h": 87397487.25,
+            "market_cap": 5227473954.881876
+        },
+        {
+            "timestamp": "2025-03-22 21:35:00",
+            "symbol": "HYPE",
+            "price": 15.79097547303275,
+            "volume_24h": 85923743.54,
+            "market_cap": 5273051700.134465
+        },
+        {
+            "timestamp": "2025-03-23 21:35:00",
+            "symbol": "HYPE",
+            "price": 15.922212670809271,
+            "volume_24h": 56820376.29,
+            "market_cap": 5316875498.73628
+        },
+        {
+            "timestamp": "2025-03-24 21:35:00",
+            "symbol": "HYPE",
+            "price": 17.07897308315567,
+            "volume_24h": 147042085.53,
+            "market_cap": 5703150397.927161
+        },
+        {
+            "timestamp": "2025-03-25 21:35:00",
+            "symbol": "HYPE",
+            "price": 16.132838936363914,
+            "volume_24h": 86251857.81,
+            "market_cap": 5387209544.253138
+        },
+        {
+            "timestamp": "2025-03-26 21:35:00",
+            "symbol": "HYPE",
+            "price": 14.108460082629438,
+            "volume_24h": 456838883.48,
+            "market_cap": 4711212397.995098
+        },
+        {
+            "timestamp": "2025-03-27 21:35:00",
+            "symbol": "HYPE",
+            "price": 14.922418044987891,
+            "volume_24h": 104099653.66,
+            "market_cap": 4983015898.961965
+        },
+        {
+            "timestamp": "2025-03-28 21:35:00",
+            "symbol": "HYPE",
+            "price": 13.118240823866428,
+            "volume_24h": 109269661.33,
+            "market_cap": 4380550283.115417
+        },
+        {
+            "timestamp": "2025-03-29 21:35:00",
+            "symbol": "HYPE",
+            "price": 12.537848313147595,
+            "volume_24h": 77597829.81,
+            "market_cap": 4186740868.325447
+        },
+        {
+            "timestamp": "2025-03-30 21:35:00",
+            "symbol": "HYPE",
+            "price": 12.526861421896903,
+            "volume_24h": 42873427.94,
+            "market_cap": 4183072035.726245
+        },
+        {
+            "timestamp": "2025-03-31 21:35:00",
+            "symbol": "HYPE",
+            "price": 13.062282657888142,
+            "volume_24h": 77219148.64,
+            "market_cap": 4361864274.59415
+        },
+        {
+            "timestamp": "2025-04-01 21:35:00",
+            "symbol": "HYPE",
+            "price": 13.313325042841528,
+            "volume_24h": 73042305.28,
+            "market_cap": 4445694401.304494
+        },
+        {
+            "timestamp": "2025-04-02 21:35:00",
+            "symbol": "HYPE",
+            "price": 12.755835539408348,
+            "volume_24h": 103870613.85,
+            "market_cap": 4259532946.053948
+        },
+        {
+            "timestamp": "2025-04-03 21:35:00",
+            "symbol": "HYPE",
+            "price": 11.776349619672542,
+            "volume_24h": 172737702.31,
+            "market_cap": 3932454995.540944
+        },
+        {
+            "timestamp": "2025-04-04 21:35:00",
+            "symbol": "HYPE",
+            "price": 12.2684759034406,
+            "volume_24h": 127938790.4,
+            "market_cap": 4096789829.809775
+        },
+        {
+            "timestamp": "2025-04-05 21:35:00",
+            "symbol": "HYPE",
+            "price": 11.83776811267446,
+            "volume_24h": 50493252.18,
+            "market_cap": 3952964361.127417
+        },
+        {
+            "timestamp": "2025-04-06 21:35:00",
+            "symbol": "HYPE",
+            "price": 10.426891977283992,
+            "volume_24h": 89387520.15,
+            "market_cap": 3481833061.031045
+        },
+        {
+            "timestamp": "2025-04-07 21:35:00",
+            "symbol": "HYPE",
+            "price": 11.559816876680165,
+            "volume_24h": 253106272.48,
+            "market_cap": 3860148610.763091
+        },
+        {
+            "timestamp": "2025-04-08 21:35:00",
+            "symbol": "HYPE",
+            "price": 11.214557742526862,
+            "volume_24h": 159680166.21,
+            "market_cap": 3744856856.466904
+        },
+        {
+            "timestamp": "2025-04-09 21:35:00",
+            "symbol": "HYPE",
+            "price": 13.923159151103215,
+            "volume_24h": 257099723.48,
+            "market_cap": 4649335195.178242
+        },
+        {
+            "timestamp": "2025-04-10 21:35:00",
+            "symbol": "HYPE",
+            "price": 14.290177481226827,
+            "volume_24h": 156623521.37,
+            "market_cap": 4771892958.183059
+        },
+        {
+            "timestamp": "2025-04-11 21:35:00",
+            "symbol": "HYPE",
+            "price": 15.75652977831351,
+            "volume_24h": 148735995.97,
+            "market_cap": 5261549311.988034
+        },
+        {
+            "timestamp": "2025-04-12 21:35:00",
+            "symbol": "HYPE",
+            "price": 16.51038010202088,
+            "volume_24h": 115912745.68,
+            "market_cap": 5513281178.576046
+        },
+        {
+            "timestamp": "2025-04-13 21:35:00",
+            "symbol": "HYPE",
+            "price": 15.25420967889606,
+            "volume_24h": 133591084.1,
+            "market_cap": 5093810475.412146
+        },
+        {
+            "timestamp": "2025-04-14 21:35:00",
+            "symbol": "HYPE",
+            "price": 15.729980121049987,
+            "volume_24h": 122760681.7,
+            "market_cap": 5252683633.258402
+        },
+        {
+            "timestamp": "2025-04-15 21:35:00",
+            "symbol": "HYPE",
+            "price": 15.30578759715839,
+            "volume_24h": 104120279.44,
+            "market_cap": 5111033795.785675
+        },
+        {
+            "timestamp": "2025-04-16 21:35:00",
+            "symbol": "HYPE",
+            "price": 16.07219857300071,
+            "volume_24h": 128012244.37,
+            "market_cap": 5366960018.080724
+        },
+        {
+            "timestamp": "2025-04-17 21:35:00",
+            "symbol": "HYPE",
+            "price": 16.850552209460368,
+            "volume_24h": 155401886.09,
+            "market_cap": 5626874231.300079
+        },
+        {
+            "timestamp": "2025-04-18 21:35:00",
+            "symbol": "HYPE",
+            "price": 17.076545929488784,
+            "volume_24h": 121400544.65,
+            "market_cap": 5702339902.920598
+        },
+        {
+            "timestamp": "2025-04-19 21:35:00",
+            "symbol": "HYPE",
+            "price": 18.035553995598907,
+            "volume_24h": 110795027.97,
+            "market_cap": 6022579721.042071
+        },
+        {
+            "timestamp": "2025-04-20 21:35:00",
+            "symbol": "HYPE",
+            "price": 17.748125790473058,
+            "volume_24h": 74657755.07,
+            "market_cap": 5926599343.62373
+        },
+        {
+            "timestamp": "2025-04-21 21:35:00",
+            "symbol": "HYPE",
+            "price": 18.007017077299544,
+            "volume_24h": 128030302.83,
+            "market_cap": 6013050439.851556
+        }
+    ],
+    "investment_thesis": "HYPE represents a moderate opportunity with a balanced risk-reward profile (score: 52.8/100). Technical factors are balanced (57.0/100), showing mixed price signals. Fundamental factors are average (49.0/100), suggesting a moderate market foundation. Sentiment indicators are neutral (54.0/100), showing balanced market perception. This analysis is set against a broader market that is currently in a neutral trend with sentiment showing neutral. The current recommendation for HYPE is Hold, suggesting investors maintain existing positions while monitoring for changes in market conditions.",
+    "risk_assessment": "HYPE is classified as a aggressive risk investment. With a market cap of $6.00B and rank #9, it offers higher growth potential with corresponding volatility. Annualized volatility of 146.4% indicates significant price swings are common. Daily trading volume of $128.42M and liquidity ratio of 0.021 suggest moderate liquidity. Key risks include high competition, technological challenges, potential regulatory scrutiny, and pronounced market cycle effects. The RSI of 79.1 indicates overbought conditions, increasing the risk of a short-term correction. High Bitcoin dominance (63.6%) may limit altcoin performance in the near term.",
+    "analysis_time": "2025-04-22 07:17:22"
+}

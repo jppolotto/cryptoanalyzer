@@ -1,0 +1,18 @@
+{
+    "symbol": "HYPE",
+    "market_cap_usd": 5998397288.516427,
+    "volume_24h_usd": 128423971.63948543,
+    "volume_mcap_ratio": 0.02140971420571716,
+    "market_share": 0.2351654612857832,
+    "cmc_rank": 20,
+    "price_change_30d": 14.61489701,
+    "fundamental_score": 49,
+    "score_components": {
+        "market_cap_score": 15,
+        "volume_mcap_score": 5,
+        "rank_score": 10,
+        "stability_score": 6,
+        "growth_score": 9,
+        "market_position_score": 4
+    }
+}

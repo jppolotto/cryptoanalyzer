@@ -1,0 +1,20 @@
+{
+    "symbol": "LEO",
+    "price_change_1h": -0.01320115,
+    "price_change_24h": 0.72862397,
+    "price_change_7d": -3.49971121,
+    "market_avg_change_24h": 3.7310203413333327,
+    "market_avg_change_7d": 11.602763898000001,
+    "relative_performance_24h": -3.0023963713333326,
+    "relative_performance_7d": -15.102475108,
+    "fear_greed_value": 72,
+    "fear_greed_classification": "Greed",
+    "market_trend": "Strong Bullish",
+    "sentiment_score": 28,
+    "score_components": {
+        "momentum_score": 14,
+        "market_sentiment_score": 10,
+        "relative_score": 4,
+        "alignment_score": 0
+    }
+}

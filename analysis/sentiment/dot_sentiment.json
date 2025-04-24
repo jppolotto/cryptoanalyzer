@@ -1,0 +1,20 @@
+{
+    "symbol": "DOT",
+    "price_change_1h": -0.74438177,
+    "price_change_24h": 4.89721793,
+    "price_change_7d": 13.0174794,
+    "market_avg_change_24h": 3.4300381724999993,
+    "market_avg_change_7d": 10.064568308,
+    "relative_performance_24h": 1.4671797575000007,
+    "relative_performance_7d": 2.952911091999999,
+    "fear_greed_value": 72,
+    "fear_greed_classification": "Greed",
+    "market_trend": "Strong Bullish",
+    "sentiment_score": 47,
+    "score_components": {
+        "momentum_score": 18,
+        "market_sentiment_score": 10,
+        "relative_score": 9,
+        "alignment_score": 10
+    }
+}

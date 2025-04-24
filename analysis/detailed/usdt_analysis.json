@@ -1,0 +1,2641 @@
+{
+    "symbol": "USDT",
+    "name": "Tether USDt",
+    "price_usd": 1.0001579418312223,
+    "market_cap_usd": 145302102886.78735,
+    "volume_24h_usd": 102460018672.91284,
+    "percent_change_24h": -0.0525816,
+    "percent_change_7d": 0.01615434,
+    "technical_score": 81,
+    "fundamental_score": 86,
+    "sentiment_score": 37,
+    "total_score": 71.5,
+    "technical_weight": 0.45,
+    "fundamental_weight": 0.3,
+    "sentiment_weight": 0.25,
+    "risk_profile": "Conservative",
+    "market_opportunity": "Good",
+    "recommendation": "Buy",
+    "rank": 1,
+    "technical_data": {
+        "symbol": "USDT",
+        "price": 1.0000800182534255,
+        "ma_7": 0.9999856309409544,
+        "ma_30": 0.9997551878938001,
+        "ma_90": 0.9998780309275943,
+        "ma_200": 0.9998756354578924,
+        "rsi_14": 66.68691568991767,
+        "macd": 0.00010247236986793418,
+        "macd_signal": 2.92864314641821e-05,
+        "bb_upper": 1.000348970838413,
+        "bb_middle": 0.9997227278448678,
+        "bb_lower": 0.9990964848513225,
+        "bb_width": 0.0012528333628970423,
+        "roc_7": 0.014409301139739483,
+        "roc_30": -0.030449381221742122,
+        "obv": 1255662118642.7102,
+        "tenkan_sen": 1.0000427033726291,
+        "kijun_sen": 0.9998649154734628,
+        "adx": 11.619968520297467,
+        "stoch_k": 58.63912422758336,
+        "stoch_d": 70.47908417496764,
+        "mfi": 68.78507305366233,
+        "psar": 1.000979888650375,
+        "technical_score": 81,
+        "score_components": {
+            "trend_score": 20,
+            "momentum_score": 20,
+            "volatility_score": 7,
+            "support_resistance_score": 4,
+            "volume_score": 10,
+            "ichimoku_score": 10,
+            "obv_score": 5,
+            "adx_score": 0,
+            "psar_score": 0,
+            "ma_cross_score": 5
+        }
+    },
+    "fundamental_data": {
+        "symbol": "USDT",
+        "market_cap_usd": 145302102886.78735,
+        "volume_24h_usd": 102460018672.91284,
+        "volume_mcap_ratio": 0.7051516573902921,
+        "market_share": 5.407306366772049,
+        "cmc_rank": 3,
+        "price_change_30d": -0.00443066,
+        "fundamental_score": 86,
+        "score_components": {
+            "market_cap_score": 25,
+            "volume_mcap_score": 20,
+            "rank_score": 15,
+            "stability_score": 15,
+            "growth_score": 3,
+            "market_position_score": 8
+        }
+    },
+    "sentiment_data": {
+        "symbol": "USDT",
+        "price_change_1h": 0.01118422,
+        "price_change_24h": -0.0525816,
+        "price_change_7d": 0.01615434,
+        "market_avg_change_24h": 3.7310203413333327,
+        "market_avg_change_7d": 11.602763898000001,
+        "relative_performance_24h": -3.7836019413333326,
+        "relative_performance_7d": -11.586609558000001,
+        "fear_greed_value": 72,
+        "fear_greed_classification": "Greed",
+        "market_trend": "Strong Bullish",
+        "sentiment_score": 37,
+        "score_components": {
+            "momentum_score": 15,
+            "market_sentiment_score": 10,
+            "relative_score": 5,
+            "alignment_score": 7
+        }
+    },
+    "pattern_data": {
+        "head_and_shoulders": false,
+        "inverse_head_and_shoulders": false,
+        "double_top": true,
+        "double_bottom": true,
+        "ascending_triangle": false,
+        "descending_triangle": false,
+        "symmetric_triangle": false,
+        "bullish_flag": false,
+        "bearish_flag": false,
+        "pattern_strength": 5
+    },
+    "divergence_data": {
+        "bearish_divergence": false,
+        "bullish_divergence": false,
+        "bearish_divergence_strength": 0,
+        "bullish_divergence_strength": 0,
+        "rsi_divergences": [],
+        "macd_divergences": []
+    },
+    "historical_data": [
+        {
+            "timestamp": "2024-04-29 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9999041851267256,
+            "volume_24h": 47593379301.75,
+            "market_cap": 110552318727.24928
+        },
+        {
+            "timestamp": "2024-04-30 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9992621383696076,
+            "volume_24h": 57615556608.75,
+            "market_cap": 110561590187.5992
+        },
+        {
+            "timestamp": "2024-05-01 16:20:00",
+            "symbol": "USDT",
+            "price": 0.998494520408792,
+            "volume_24h": 71378356729.45,
+            "market_cap": 110429228429.10016
+        },
+        {
+            "timestamp": "2024-05-02 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001043149566395,
+            "volume_24h": 67270095717.03,
+            "market_cap": 110607264829.11508
+        },
+        {
+            "timestamp": "2024-05-03 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0002139433855632,
+            "volume_24h": 52090526395.22,
+            "market_cap": 110628847571.62512
+        },
+        {
+            "timestamp": "2024-05-04 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0003428474752285,
+            "volume_24h": 44934269116.96,
+            "market_cap": 110807065297.25958
+        },
+        {
+            "timestamp": "2024-05-05 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0002021658950966,
+            "volume_24h": 36581125966.22,
+            "market_cap": 110923431168.0586
+        },
+        {
+            "timestamp": "2024-05-06 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000218993087831,
+            "volume_24h": 49764674246.57,
+            "market_cap": 110931113260.95302
+        },
+        {
+            "timestamp": "2024-05-07 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999964936693326,
+            "volume_24h": 45788183856.65,
+            "market_cap": 110967109747.14851
+        },
+        {
+            "timestamp": "2024-05-08 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9997700202406536,
+            "volume_24h": 45500516867.89,
+            "market_cap": 110930458882.024
+        },
+        {
+            "timestamp": "2024-05-09 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9996389082442622,
+            "volume_24h": 46569296216.37,
+            "market_cap": 110915911222.43211
+        },
+        {
+            "timestamp": "2024-05-10 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999731582394472,
+            "volume_24h": 49806944721.7,
+            "market_cap": 110780268037.94258
+        },
+        {
+            "timestamp": "2024-05-11 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9999667643290688,
+            "volume_24h": 36097950882.98,
+            "market_cap": 110836317554.0576
+        },
+        {
+            "timestamp": "2024-05-12 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9996707730263484,
+            "volume_24h": 24735734846.17,
+            "market_cap": 110803509867.6142
+        },
+        {
+            "timestamp": "2024-05-13 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998292966280748,
+            "volume_24h": 47802368443.29,
+            "market_cap": 110821080623.80923
+        },
+        {
+            "timestamp": "2024-05-14 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9995313823242304,
+            "volume_24h": 58626890717.71,
+            "market_cap": 110794978822.31293
+        },
+        {
+            "timestamp": "2024-05-15 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0003455554917733,
+            "volume_24h": 61568910577.32,
+            "market_cap": 110990613517.62093
+        },
+        {
+            "timestamp": "2024-05-16 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001753751086055,
+            "volume_24h": 67482715774.33,
+            "market_cap": 110971731617.22884
+        },
+        {
+            "timestamp": "2024-05-17 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0007810031609936,
+            "volume_24h": 58820535870.28,
+            "market_cap": 111292334957.68956
+        },
+        {
+            "timestamp": "2024-05-18 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000186143151492,
+            "volume_24h": 44429219005.29,
+            "market_cap": 111356040887.80077
+        },
+        {
+            "timestamp": "2024-05-19 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0002795963498583,
+            "volume_24h": 35109601897.3,
+            "market_cap": 111466073375.71246
+        },
+        {
+            "timestamp": "2024-05-20 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0000162120882938,
+            "volume_24h": 48256018440.19,
+            "market_cap": 111436723172.4966
+        },
+        {
+            "timestamp": "2024-05-21 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9994349475644424,
+            "volume_24h": 128337018704.05,
+            "market_cap": 111301289777.38974
+        },
+        {
+            "timestamp": "2024-05-22 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998265483705776,
+            "volume_24h": 78194718666.18,
+            "market_cap": 111736242314.52472
+        },
+        {
+            "timestamp": "2024-05-23 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999482547855475,
+            "volume_24h": 86478075788.32,
+            "market_cap": 111694796872.07011
+        },
+        {
+            "timestamp": "2024-05-24 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9996569867540748,
+            "volume_24h": 96900922385.11,
+            "market_cap": 111858655420.52802
+        },
+        {
+            "timestamp": "2024-05-25 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9999398838400146,
+            "volume_24h": 48154939831.57,
+            "market_cap": 111930631213.63036
+        },
+        {
+            "timestamp": "2024-05-26 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999856980497374,
+            "volume_24h": 41884304078.12,
+            "market_cap": 111921351227.21278
+        },
+        {
+            "timestamp": "2024-05-27 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9991396483980076,
+            "volume_24h": 58707518363.73,
+            "market_cap": 111842853416.17926
+        },
+        {
+            "timestamp": "2024-05-28 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9988181301424712,
+            "volume_24h": 74610011764.46,
+            "market_cap": 111833000932.8766
+        },
+        {
+            "timestamp": "2024-05-29 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999220657126209,
+            "volume_24h": 67946896830.56,
+            "market_cap": 111875563919.5041
+        },
+        {
+            "timestamp": "2024-05-30 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9999276153060008,
+            "volume_24h": 62606986980.53,
+            "market_cap": 111955658971.7448
+        },
+        {
+            "timestamp": "2024-05-31 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9991277279320588,
+            "volume_24h": 61068806476.59,
+            "market_cap": 111898481487.6666
+        },
+        {
+            "timestamp": "2024-06-01 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9991378131609132,
+            "volume_24h": 39903875051.39,
+            "market_cap": 112044653946.63097
+        },
+        {
+            "timestamp": "2024-06-02 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9992710808251892,
+            "volume_24h": 41575484494.91,
+            "market_cap": 112128218706.29971
+        },
+        {
+            "timestamp": "2024-06-03 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9997130464789068,
+            "volume_24h": 68327765805.95,
+            "market_cap": 112177811676.63788
+        },
+        {
+            "timestamp": "2024-06-04 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000101217356261,
+            "volume_24h": 58496530980.31,
+            "market_cap": 112297729587.04433
+        },
+        {
+            "timestamp": "2024-06-05 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0000313155746394,
+            "volume_24h": 69845668080.53,
+            "market_cap": 112320291112.3947
+        },
+        {
+            "timestamp": "2024-06-06 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9999197131848232,
+            "volume_24h": 58276238151.31,
+            "market_cap": 112383038634.74194
+        },
+        {
+            "timestamp": "2024-06-07 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9992775670510916,
+            "volume_24h": 62344442216.22,
+            "market_cap": 112351390029.63214
+        },
+        {
+            "timestamp": "2024-06-08 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9999976248673476,
+            "volume_24h": 70488457207.26,
+            "market_cap": 112452847640.26537
+        },
+        {
+            "timestamp": "2024-06-09 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0000849564192946,
+            "volume_24h": 39282606851.05,
+            "market_cap": 112461518233.69504
+        },
+        {
+            "timestamp": "2024-06-10 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9997902353572312,
+            "volume_24h": 46241549380.28,
+            "market_cap": 112457370827.75354
+        },
+        {
+            "timestamp": "2024-06-11 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998974718454756,
+            "volume_24h": 69420526226.18,
+            "market_cap": 112484731322.752
+        },
+        {
+            "timestamp": "2024-06-12 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0002081611378808,
+            "volume_24h": 60915780871.53,
+            "market_cap": 112519682707.83408
+        },
+        {
+            "timestamp": "2024-06-13 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0000083925863077,
+            "volume_24h": 66901189510.87,
+            "market_cap": 112544975102.59991
+        },
+        {
+            "timestamp": "2024-06-14 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999572290107396,
+            "volume_24h": 49272778460.73,
+            "market_cap": 112511306980.47702
+        },
+        {
+            "timestamp": "2024-06-15 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9994487603542554,
+            "volume_24h": 45823898720.97,
+            "market_cap": 112497901764.55876
+        },
+        {
+            "timestamp": "2024-06-16 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9993884058464004,
+            "volume_24h": 31344806889.63,
+            "market_cap": 112491108264.21632
+        },
+        {
+            "timestamp": "2024-06-17 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9997415790537432,
+            "volume_24h": 50572841310.61,
+            "market_cap": 112531804544.76315
+        },
+        {
+            "timestamp": "2024-06-18 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9997713930275406,
+            "volume_24h": 78190553682.72,
+            "market_cap": 112526858712.4019
+        },
+        {
+            "timestamp": "2024-06-19 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999570864491263,
+            "volume_24h": 56618258854.6,
+            "market_cap": 112557753118.36395
+        },
+        {
+            "timestamp": "2024-06-20 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9993391123333084,
+            "volume_24h": 51850939814.51,
+            "market_cap": 112531656417.16312
+        },
+        {
+            "timestamp": "2024-06-21 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9993669422356468,
+            "volume_24h": 52383036046.87,
+            "market_cap": 112819887853.12103
+        },
+        {
+            "timestamp": "2024-06-22 16:20:00",
+            "symbol": "USDT",
+            "price": 0.99960678203786,
+            "volume_24h": 33143517639.45,
+            "market_cap": 112897280860.90308
+        },
+        {
+            "timestamp": "2024-06-23 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999187557573684,
+            "volume_24h": 24760550963.38,
+            "market_cap": 112849932940.77457
+        },
+        {
+            "timestamp": "2024-06-24 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998282118601688,
+            "volume_24h": 59669805381.37,
+            "market_cap": 112931860303.9973
+        },
+        {
+            "timestamp": "2024-06-25 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9996600369316894,
+            "volume_24h": 65495582913.53,
+            "market_cap": 112895970468.63312
+        },
+        {
+            "timestamp": "2024-06-26 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998219145419784,
+            "volume_24h": 44639769442.25,
+            "market_cap": 112809532788.41684
+        },
+        {
+            "timestamp": "2024-06-27 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9991126615038192,
+            "volume_24h": 47863651714.14,
+            "market_cap": 112680708606.8252
+        },
+        {
+            "timestamp": "2024-06-28 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9981427144321176,
+            "volume_24h": 45900069259.37,
+            "market_cap": 112571317216.28276
+        },
+        {
+            "timestamp": "2024-06-29 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9984096959921448,
+            "volume_24h": 34727069980.59,
+            "market_cap": 112632088507.82686
+        },
+        {
+            "timestamp": "2024-06-30 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9982776166590656,
+            "volume_24h": 30174934369.24,
+            "market_cap": 112717016201.64532
+        },
+        {
+            "timestamp": "2024-07-01 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9987066669081758,
+            "volume_24h": 45269873714.2,
+            "market_cap": 112729004562.89178
+        },
+        {
+            "timestamp": "2024-07-02 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9987323005234258,
+            "volume_24h": 42027852576.05,
+            "market_cap": 112644355402.73956
+        },
+        {
+            "timestamp": "2024-07-03 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9984953279293076,
+            "volume_24h": 50915609424.89,
+            "market_cap": 112475279681.87796
+        },
+        {
+            "timestamp": "2024-07-04 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999311287055336,
+            "volume_24h": 74527012660.16,
+            "market_cap": 112407405593.17484
+        },
+        {
+            "timestamp": "2024-07-05 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000155447698391,
+            "volume_24h": 103348978352.16,
+            "market_cap": 112318747531.62302
+        },
+        {
+            "timestamp": "2024-07-06 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001193838418552,
+            "volume_24h": 47417816281.05,
+            "market_cap": 112237187463.44864
+        },
+        {
+            "timestamp": "2024-07-07 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9997521668305052,
+            "volume_24h": 43260287475.93,
+            "market_cap": 112195976978.77196
+        },
+        {
+            "timestamp": "2024-07-08 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0000057808973135,
+            "volume_24h": 72519974491.92,
+            "market_cap": 112210431262.57074
+        },
+        {
+            "timestamp": "2024-07-09 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001025903041758,
+            "volume_24h": 54515406138.15,
+            "market_cap": 112218661930.56715
+        },
+        {
+            "timestamp": "2024-07-10 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0003968238686136,
+            "volume_24h": 49409023529.73,
+            "market_cap": 112304356156.75194
+        },
+        {
+            "timestamp": "2024-07-11 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001576302674786,
+            "volume_24h": 50591699534.93,
+            "market_cap": 112277504328.8259
+        },
+        {
+            "timestamp": "2024-07-12 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001550207284913,
+            "volume_24h": 46651792053.29,
+            "market_cap": 112386321582.23914
+        },
+        {
+            "timestamp": "2024-07-13 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000085075617172,
+            "volume_24h": 35298312092.54,
+            "market_cap": 112426924470.10486
+        },
+        {
+            "timestamp": "2024-07-14 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0002932174129575,
+            "volume_24h": 40531137881.71,
+            "market_cap": 112499902719.70631
+        },
+        {
+            "timestamp": "2024-07-15 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000578569883548,
+            "volume_24h": 54483315826.25,
+            "market_cap": 112602035934.0472
+        },
+        {
+            "timestamp": "2024-07-16 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0004400919328165,
+            "volume_24h": 79117123996.83,
+            "market_cap": 112911849960.19716
+        },
+        {
+            "timestamp": "2024-07-17 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0004050238016182,
+            "volume_24h": 66144439680.28,
+            "market_cap": 113270413778.3988
+        },
+        {
+            "timestamp": "2024-07-18 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000094839165192,
+            "volume_24h": 56003944357.57,
+            "market_cap": 113643193439.57253
+        },
+        {
+            "timestamp": "2024-07-19 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000537960212621,
+            "volume_24h": 56820868668.82,
+            "market_cap": 113757393668.80109
+        },
+        {
+            "timestamp": "2024-07-20 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0006576347256246,
+            "volume_24h": 47279170245.19,
+            "market_cap": 113952494681.73686
+        },
+        {
+            "timestamp": "2024-07-21 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0006182258760166,
+            "volume_24h": 38755968027.17,
+            "market_cap": 114109706801.57654
+        },
+        {
+            "timestamp": "2024-07-22 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001055661098688,
+            "volume_24h": 62597167975.8,
+            "market_cap": 114096748291.86269
+        },
+        {
+            "timestamp": "2024-07-23 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0004390647379873,
+            "volume_24h": 62077658506.36,
+            "market_cap": 114290375218.07697
+        },
+        {
+            "timestamp": "2024-07-24 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000176131478097,
+            "volume_24h": 54915913104.71,
+            "market_cap": 114439848803.9912
+        },
+        {
+            "timestamp": "2024-07-25 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998505188052348,
+            "volume_24h": 67692670439.19,
+            "market_cap": 114384078805.59628
+        },
+        {
+            "timestamp": "2024-07-26 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0002274995711664,
+            "volume_24h": 59203517188.67,
+            "market_cap": 114310179232.46709
+        },
+        {
+            "timestamp": "2024-07-27 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001967871197108,
+            "volume_24h": 41675695867.18,
+            "market_cap": 114351707802.7144
+        },
+        {
+            "timestamp": "2024-07-28 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000075767713269,
+            "volume_24h": 51021724224.12,
+            "market_cap": 114426521328.84454
+        },
+        {
+            "timestamp": "2024-07-29 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998335159246524,
+            "volume_24h": 53291255169.51,
+            "market_cap": 114398803391.51292
+        },
+        {
+            "timestamp": "2024-07-30 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9996383145312246,
+            "volume_24h": 54762213075.68,
+            "market_cap": 114420203878.13062
+        },
+        {
+            "timestamp": "2024-07-31 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9996088866599292,
+            "volume_24h": 47293446261.3,
+            "market_cap": 114421367484.83328
+        },
+        {
+            "timestamp": "2024-08-01 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000361699252674,
+            "volume_24h": 60148835404.41,
+            "market_cap": 114536909522.1099
+        },
+        {
+            "timestamp": "2024-08-02 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9993470485328854,
+            "volume_24h": 69987403624.95,
+            "market_cap": 114426516351.89214
+        },
+        {
+            "timestamp": "2024-08-03 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999606935297495,
+            "volume_24h": 60423478074.47,
+            "market_cap": 114497643623.82552
+        },
+        {
+            "timestamp": "2024-08-04 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9992926610519594,
+            "volume_24h": 51883178959.98,
+            "market_cap": 114446656422.34686
+        },
+        {
+            "timestamp": "2024-08-05 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0008240717323014,
+            "volume_24h": 186988470508.87,
+            "market_cap": 114622045313.46518
+        },
+        {
+            "timestamp": "2024-08-06 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0005710232342162,
+            "volume_24h": 92183780570.89,
+            "market_cap": 114593064259.5185
+        },
+        {
+            "timestamp": "2024-08-07 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0002816490269235,
+            "volume_24h": 69953995175.44,
+            "market_cap": 114583433854.23048
+        },
+        {
+            "timestamp": "2024-08-08 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000375304046764,
+            "volume_24h": 71820944567.39,
+            "market_cap": 115061035713.39153
+        },
+        {
+            "timestamp": "2024-08-09 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000199369105471,
+            "volume_24h": 64581916283.0,
+            "market_cap": 115427660580.5978
+        },
+        {
+            "timestamp": "2024-08-10 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0002933880717335,
+            "volume_24h": 36130617010.86,
+            "market_cap": 115693491979.577
+        },
+        {
+            "timestamp": "2024-08-11 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0003578742777404,
+            "volume_24h": 34810814568.32,
+            "market_cap": 115679942910.35548
+        },
+        {
+            "timestamp": "2024-08-12 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0002934327306288,
+            "volume_24h": 62919243209.93,
+            "market_cap": 115672490982.63774
+        },
+        {
+            "timestamp": "2024-08-13 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0004305150724544,
+            "volume_24h": 49878470795.16,
+            "market_cap": 115688342987.0895
+        },
+        {
+            "timestamp": "2024-08-14 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0004540757484126,
+            "volume_24h": 56735302216.93,
+            "market_cap": 116236615679.53352
+        },
+        {
+            "timestamp": "2024-08-15 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0003775139690616,
+            "volume_24h": 47188790700.01,
+            "market_cap": 116576182358.79588
+        },
+        {
+            "timestamp": "2024-08-16 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001384264991169,
+            "volume_24h": 56474089739.68,
+            "market_cap": 116729952200.18756
+        },
+        {
+            "timestamp": "2024-08-17 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000074438124191,
+            "volume_24h": 34808817621.33,
+            "market_cap": 116845543823.73534
+        },
+        {
+            "timestamp": "2024-08-18 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000167511842744,
+            "volume_24h": 32236307245.89,
+            "market_cap": 116904756359.3698
+        },
+        {
+            "timestamp": "2024-08-19 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0002103413333598,
+            "volume_24h": 43842957356.31,
+            "market_cap": 116911421340.79988
+        },
+        {
+            "timestamp": "2024-08-20 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0008008511511168,
+            "volume_24h": 53615159998.65,
+            "market_cap": 117087328903.63606
+        },
+        {
+            "timestamp": "2024-08-21 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001191551837258,
+            "volume_24h": 46077378070.29,
+            "market_cap": 117308430195.1808
+        },
+        {
+            "timestamp": "2024-08-22 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001631489789238,
+            "volume_24h": 54231749475.85,
+            "market_cap": 117445299343.12642
+        },
+        {
+            "timestamp": "2024-08-23 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001242877970165,
+            "volume_24h": 49136462102.21,
+            "market_cap": 117690672482.72664
+        },
+        {
+            "timestamp": "2024-08-24 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000384255712078,
+            "volume_24h": 57488613070.08,
+            "market_cap": 117721264479.26231
+        },
+        {
+            "timestamp": "2024-08-25 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000526837182308,
+            "volume_24h": 45207035186.73,
+            "market_cap": 117922309678.54506
+        },
+        {
+            "timestamp": "2024-08-26 16:20:00",
+            "symbol": "USDT",
+            "price": 1.00038193921206,
+            "volume_24h": 47187245318.34,
+            "market_cap": 117907110315.5753
+        },
+        {
+            "timestamp": "2024-08-27 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9999227205043772,
+            "volume_24h": 55125151077.4,
+            "market_cap": 118030210658.117
+        },
+        {
+            "timestamp": "2024-08-28 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001373918751892,
+            "volume_24h": 74028619387.03,
+            "market_cap": 118055550323.47276
+        },
+        {
+            "timestamp": "2024-08-29 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000212705255097,
+            "volume_24h": 55329951915.42,
+            "market_cap": 118129717324.5498
+        },
+        {
+            "timestamp": "2024-08-30 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001453208729247,
+            "volume_24h": 55193743461.56,
+            "market_cap": 118243023763.48875
+        },
+        {
+            "timestamp": "2024-08-31 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9999756717726987,
+            "volume_24h": 33110761506.45,
+            "market_cap": 118225926019.31367
+        },
+        {
+            "timestamp": "2024-09-01 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0002907933103409,
+            "volume_24h": 34129041626.7,
+            "market_cap": 118263182461.28322
+        },
+        {
+            "timestamp": "2024-09-02 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001367503146663,
+            "volume_24h": 47499670131.76,
+            "market_cap": 118245170169.73949
+        },
+        {
+            "timestamp": "2024-09-03 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9997711866956186,
+            "volume_24h": 43512902102.51,
+            "market_cap": 118114769425.38509
+        },
+        {
+            "timestamp": "2024-09-04 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9999808583630484,
+            "volume_24h": 56988527989.76,
+            "market_cap": 118140025898.0672
+        },
+        {
+            "timestamp": "2024-09-05 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9997565330037856,
+            "volume_24h": 47053271379.58,
+            "market_cap": 118126002460.62294
+        },
+        {
+            "timestamp": "2024-09-06 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999379397410505,
+            "volume_24h": 59611715136.82,
+            "market_cap": 118062971137.00462
+        },
+        {
+            "timestamp": "2024-09-07 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0000398022288757,
+            "volume_24h": 53210546734.47,
+            "market_cap": 118196190855.48962
+        },
+        {
+            "timestamp": "2024-09-08 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0000079145869802,
+            "volume_24h": 30697797608.18,
+            "market_cap": 118196322038.31767
+        },
+        {
+            "timestamp": "2024-09-09 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999949302978348,
+            "volume_24h": 44885890889.65,
+            "market_cap": 118189394416.24788
+        },
+        {
+            "timestamp": "2024-09-10 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001572807180763,
+            "volume_24h": 51138884597.73,
+            "market_cap": 118387934066.69324
+        },
+        {
+            "timestamp": "2024-09-11 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001184593803507,
+            "volume_24h": 52881901961.03,
+            "market_cap": 118390439302.83742
+        },
+        {
+            "timestamp": "2024-09-12 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999935935461904,
+            "volume_24h": 49520301042.49,
+            "market_cap": 118369832662.3037
+        },
+        {
+            "timestamp": "2024-09-13 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0006530853040785,
+            "volume_24h": 46359502915.65,
+            "market_cap": 118403988705.27975
+        },
+        {
+            "timestamp": "2024-09-14 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0003051767117757,
+            "volume_24h": 40530759852.83,
+            "market_cap": 118617681895.01962
+        },
+        {
+            "timestamp": "2024-09-15 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001836011194385,
+            "volume_24h": 27531307259.74,
+            "market_cap": 118832351539.08958
+        },
+        {
+            "timestamp": "2024-09-16 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999805465106124,
+            "volume_24h": 52789740276.62,
+            "market_cap": 118762056677.51276
+        },
+        {
+            "timestamp": "2024-09-17 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998788550562896,
+            "volume_24h": 53198616494.74,
+            "market_cap": 118686747856.03249
+        },
+        {
+            "timestamp": "2024-09-18 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001679237134329,
+            "volume_24h": 50215296791.83,
+            "market_cap": 118861085038.86584
+        },
+        {
+            "timestamp": "2024-09-19 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0006040667539802,
+            "volume_24h": 79257232875.32,
+            "market_cap": 118963416512.0798
+        },
+        {
+            "timestamp": "2024-09-20 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0000141223158787,
+            "volume_24h": 67816269422.6,
+            "market_cap": 119074523697.6489
+        },
+        {
+            "timestamp": "2024-09-21 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0005585241514974,
+            "volume_24h": 37483010367.6,
+            "market_cap": 119232799137.7019
+        },
+        {
+            "timestamp": "2024-09-22 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0000878012437888,
+            "volume_24h": 35626288902.03,
+            "market_cap": 119149698713.63277
+        },
+        {
+            "timestamp": "2024-09-23 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0002596789184968,
+            "volume_24h": 61388361652.36,
+            "market_cap": 119193182061.46593
+        },
+        {
+            "timestamp": "2024-09-24 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0003648781514454,
+            "volume_24h": 52539711720.84,
+            "market_cap": 119287083205.84122
+        },
+        {
+            "timestamp": "2024-09-25 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0000224850217128,
+            "volume_24h": 54194753180.36,
+            "market_cap": 119237487108.47432
+        },
+        {
+            "timestamp": "2024-09-26 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000175430492854,
+            "volume_24h": 62630572398.16,
+            "market_cap": 119302232881.99852
+        },
+        {
+            "timestamp": "2024-09-27 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000171656927187,
+            "volume_24h": 65933735327.31,
+            "market_cap": 119374794797.12244
+        },
+        {
+            "timestamp": "2024-09-28 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0003154155943688,
+            "volume_24h": 44047002634.29,
+            "market_cap": 119450471109.07095
+        },
+        {
+            "timestamp": "2024-09-29 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001344351523962,
+            "volume_24h": 36626389279.65,
+            "market_cap": 119534869978.94164
+        },
+        {
+            "timestamp": "2024-09-30 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998211714119876,
+            "volume_24h": 58422634353.18,
+            "market_cap": 119607881310.0162
+        },
+        {
+            "timestamp": "2024-10-01 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9996917801552238,
+            "volume_24h": 69100549564.49,
+            "market_cap": 119595150820.64888
+        },
+        {
+            "timestamp": "2024-10-02 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000263408356607,
+            "volume_24h": 82799643608.91,
+            "market_cap": 119689193992.20952
+        },
+        {
+            "timestamp": "2024-10-03 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998925128625632,
+            "volume_24h": 71997017369.73,
+            "market_cap": 119627715333.28514
+        },
+        {
+            "timestamp": "2024-10-04 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9997868237520215,
+            "volume_24h": 54343622254.71,
+            "market_cap": 119616485056.99512
+        },
+        {
+            "timestamp": "2024-10-05 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0000091469992285,
+            "volume_24h": 34180495381.0,
+            "market_cap": 119643084252.6892
+        },
+        {
+            "timestamp": "2024-10-06 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998502458449088,
+            "volume_24h": 29603076330.21,
+            "market_cap": 119659422642.01266
+        },
+        {
+            "timestamp": "2024-10-07 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998959399728884,
+            "volume_24h": 54445778366.51,
+            "market_cap": 119664891182.76436
+        },
+        {
+            "timestamp": "2024-10-08 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9994092266010194,
+            "volume_24h": 56773224538.39,
+            "market_cap": 119786436531.30692
+        },
+        {
+            "timestamp": "2024-10-09 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9993121903642376,
+            "volume_24h": 48478097369.15,
+            "market_cap": 119765720641.81303
+        },
+        {
+            "timestamp": "2024-10-10 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9994707966692048,
+            "volume_24h": 51725439474.9,
+            "market_cap": 119792826488.2739
+        },
+        {
+            "timestamp": "2024-10-11 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0000000085813263,
+            "volume_24h": 54632868125.08,
+            "market_cap": 119732255842.08154
+        },
+        {
+            "timestamp": "2024-10-12 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998475391903732,
+            "volume_24h": 43563261308.93,
+            "market_cap": 119718249438.42249
+        },
+        {
+            "timestamp": "2024-10-13 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999679515719344,
+            "volume_24h": 33886838222.64,
+            "market_cap": 119699730333.64774
+        },
+        {
+            "timestamp": "2024-10-14 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9997637908418808,
+            "volume_24h": 67090476570.72,
+            "market_cap": 119709821277.06796
+        },
+        {
+            "timestamp": "2024-10-15 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9997730830048874,
+            "volume_24h": 79362299825.98,
+            "market_cap": 119738897153.2763
+        },
+        {
+            "timestamp": "2024-10-16 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999756093055602,
+            "volume_24h": 72070992037.0,
+            "market_cap": 119942914234.6204
+        },
+        {
+            "timestamp": "2024-10-17 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9997238317691384,
+            "volume_24h": 53257295440.18,
+            "market_cap": 119940443391.2382
+        },
+        {
+            "timestamp": "2024-10-18 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998400849002872,
+            "volume_24h": 59852876474.94,
+            "market_cap": 119991135150.22302
+        },
+        {
+            "timestamp": "2024-10-19 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9999303439975876,
+            "volume_24h": 38088596421.3,
+            "market_cap": 120095613704.84251
+        },
+        {
+            "timestamp": "2024-10-20 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9997251215620188,
+            "volume_24h": 38167841879.81,
+            "market_cap": 120135947802.4962
+        },
+        {
+            "timestamp": "2024-10-21 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9997731371010122,
+            "volume_24h": 67074115112.01,
+            "market_cap": 120168711655.52676
+        },
+        {
+            "timestamp": "2024-10-22 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9995013394988576,
+            "volume_24h": 61149176710.03,
+            "market_cap": 120159594762.531
+        },
+        {
+            "timestamp": "2024-10-23 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9989716841411976,
+            "volume_24h": 52325007756.91,
+            "market_cap": 120083870313.98116
+        },
+        {
+            "timestamp": "2024-10-24 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999159785518369,
+            "volume_24h": 62844002895.64,
+            "market_cap": 120120655400.7059
+        },
+        {
+            "timestamp": "2024-10-25 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9992844595047358,
+            "volume_24h": 58340757740.14,
+            "market_cap": 120215846090.42972
+        },
+        {
+            "timestamp": "2024-10-26 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9991466786341776,
+            "volume_24h": 69927468193.81,
+            "market_cap": 120201811405.56274
+        },
+        {
+            "timestamp": "2024-10-27 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9987182783141362,
+            "volume_24h": 32399709750.94,
+            "market_cap": 120185079341.45334
+        },
+        {
+            "timestamp": "2024-10-28 16:20:00",
+            "symbol": "USDT",
+            "price": 0.99910999103785,
+            "volume_24h": 53149304762.74,
+            "market_cap": 120232217781.99904
+        },
+        {
+            "timestamp": "2024-10-29 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999808134279448,
+            "volume_24h": 82820140004.2,
+            "market_cap": 120222512207.21368
+        },
+        {
+            "timestamp": "2024-10-30 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9997367718603496,
+            "volume_24h": 79739049665.15,
+            "market_cap": 120472418201.33
+        },
+        {
+            "timestamp": "2024-10-31 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9993463837585682,
+            "volume_24h": 65500323217.56,
+            "market_cap": 120494704297.84854
+        },
+        {
+            "timestamp": "2024-11-01 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9996066691589952,
+            "volume_24h": 77364110634.0,
+            "market_cap": 120525404262.93884
+        },
+        {
+            "timestamp": "2024-11-02 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9996964603087024,
+            "volume_24h": 46518696625.72,
+            "market_cap": 120539701212.09544
+        },
+        {
+            "timestamp": "2024-11-03 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9997955885980164,
+            "volume_24h": 49187111228.67,
+            "market_cap": 120552093923.6179
+        },
+        {
+            "timestamp": "2024-11-04 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999624741066386,
+            "volume_24h": 56389419713.72,
+            "market_cap": 120531493684.89456
+        },
+        {
+            "timestamp": "2024-11-05 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998999998725768,
+            "volume_24h": 70124080464.59,
+            "market_cap": 120484579654.98264
+        },
+        {
+            "timestamp": "2024-11-06 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0003112008832338,
+            "volume_24h": 159686437677.29,
+            "market_cap": 120537498126.27808
+        },
+        {
+            "timestamp": "2024-11-07 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0007214978537995,
+            "volume_24h": 111749331386.8,
+            "market_cap": 121466229139.47356
+        },
+        {
+            "timestamp": "2024-11-08 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0007760402345376,
+            "volume_24h": 106888520727.38,
+            "market_cap": 122048378791.72298
+        },
+        {
+            "timestamp": "2024-11-09 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0002682388224762,
+            "volume_24h": 87353107921.28,
+            "market_cap": 123061342137.64404
+        },
+        {
+            "timestamp": "2024-11-10 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0006993112029992,
+            "volume_24h": 137631550598.39,
+            "market_cap": 123287137043.27544
+        },
+        {
+            "timestamp": "2024-11-11 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0012980173544372,
+            "volume_24h": 202081869997.05,
+            "market_cap": 123546558890.04916
+        },
+        {
+            "timestamp": "2024-11-12 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0009110591733286,
+            "volume_24h": 292355281635.21,
+            "market_cap": 124125853506.89851
+        },
+        {
+            "timestamp": "2024-11-13 16:20:00",
+            "symbol": "USDT",
+            "price": 1.00222553218537,
+            "volume_24h": 227118774281.23,
+            "market_cap": 125516907131.41924
+        },
+        {
+            "timestamp": "2024-11-14 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0000285623935026,
+            "volume_24h": 221317653515.34,
+            "market_cap": 126629300927.49953
+        },
+        {
+            "timestamp": "2024-11-15 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998853011792708,
+            "volume_24h": 165329419029.9,
+            "market_cap": 127269909140.63522
+        },
+        {
+            "timestamp": "2024-11-16 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0003453766244992,
+            "volume_24h": 148779462180.47,
+            "market_cap": 127408473312.02094
+        },
+        {
+            "timestamp": "2024-11-17 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0000542066887954,
+            "volume_24h": 131117605523.71,
+            "market_cap": 127544216933.4738
+        },
+        {
+            "timestamp": "2024-11-18 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0003195373537104,
+            "volume_24h": 141927253956.87,
+            "market_cap": 127579946233.69894
+        },
+        {
+            "timestamp": "2024-11-19 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0008158799151723,
+            "volume_24h": 147130613226.78,
+            "market_cap": 128255983412.56334
+        },
+        {
+            "timestamp": "2024-11-20 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000903088661479,
+            "volume_24h": 146543625048.5,
+            "market_cap": 128883420181.32043
+        },
+        {
+            "timestamp": "2024-11-21 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0000415791932933,
+            "volume_24h": 188208019717.56,
+            "market_cap": 130156462923.75133
+        },
+        {
+            "timestamp": "2024-11-22 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0012056078274023,
+            "volume_24h": 172501779309.69,
+            "market_cap": 130876378743.9011
+        },
+        {
+            "timestamp": "2024-11-23 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0020948488961785,
+            "volume_24h": 169318969730.59,
+            "market_cap": 132381910096.1424
+        },
+        {
+            "timestamp": "2024-11-24 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0004190416657277,
+            "volume_24h": 171696662062.57,
+            "market_cap": 132492666416.38544
+        },
+        {
+            "timestamp": "2024-11-25 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0000462263272134,
+            "volume_24h": 169252014086.58,
+            "market_cap": 132596498885.656
+        },
+        {
+            "timestamp": "2024-11-26 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0003795945609208,
+            "volume_24h": 193486016789.04,
+            "market_cap": 132794394462.25533
+        },
+        {
+            "timestamp": "2024-11-27 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0009319339501752,
+            "volume_24h": 160109151434.35,
+            "market_cap": 132796147116.8122
+        },
+        {
+            "timestamp": "2024-11-28 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000257272330511,
+            "volume_24h": 150504150680.9,
+            "market_cap": 133239337964.40668
+        },
+        {
+            "timestamp": "2024-11-29 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0012138239053057,
+            "volume_24h": 127311593296.16,
+            "market_cap": 133594137639.3762
+        },
+        {
+            "timestamp": "2024-11-30 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0004788453609426,
+            "volume_24h": 128878407888.13,
+            "market_cap": 133496067854.00842
+        },
+        {
+            "timestamp": "2024-12-01 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0006720006027765,
+            "volume_24h": 116982322835.17,
+            "market_cap": 134128183463.42238
+        },
+        {
+            "timestamp": "2024-12-02 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0008031279001706,
+            "volume_24h": 204351248354.34,
+            "market_cap": 134229927019.12706
+        },
+        {
+            "timestamp": "2024-12-03 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0003193366156875,
+            "volume_24h": 233692786819.64,
+            "market_cap": 134701030894.35512
+        },
+        {
+            "timestamp": "2024-12-04 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0010663626771796,
+            "volume_24h": 206934830868.9,
+            "market_cap": 135127846540.7676
+        },
+        {
+            "timestamp": "2024-12-05 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0007886949925286,
+            "volume_24h": 296086549118.37,
+            "market_cap": 135798120124.39264
+        },
+        {
+            "timestamp": "2024-12-06 16:20:00",
+            "symbol": "USDT",
+            "price": 1.001275344128722,
+            "volume_24h": 248101417291.61,
+            "market_cap": 136805198280.19872
+        },
+        {
+            "timestamp": "2024-12-07 16:20:00",
+            "symbol": "USDT",
+            "price": 1.001028409801502,
+            "volume_24h": 157717088574.04,
+            "market_cap": 137846103296.05396
+        },
+        {
+            "timestamp": "2024-12-08 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0005419599256933,
+            "volume_24h": 129966349411.01,
+            "market_cap": 138003238359.29416
+        },
+        {
+            "timestamp": "2024-12-09 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9995720329548146,
+            "volume_24h": 182548966465.25,
+            "market_cap": 138005669480.89362
+        },
+        {
+            "timestamp": "2024-12-10 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0004138584181466,
+            "volume_24h": 292840855707.49,
+            "market_cap": 138366125116.38727
+        },
+        {
+            "timestamp": "2024-12-11 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0005412375942215,
+            "volume_24h": 214959537297.84,
+            "market_cap": 138694002977.39
+        },
+        {
+            "timestamp": "2024-12-12 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0003687260927443,
+            "volume_24h": 177222627864.72,
+            "market_cap": 139794015356.16187
+        },
+        {
+            "timestamp": "2024-12-13 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001054680968071,
+            "volume_24h": 150285091952.79,
+            "market_cap": 140105354791.41205
+        },
+        {
+            "timestamp": "2024-12-14 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9996874211243052,
+            "volume_24h": 113661917567.35,
+            "market_cap": 140089870023.6637
+        },
+        {
+            "timestamp": "2024-12-15 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9995574016824528,
+            "volume_24h": 102164769193.55,
+            "market_cap": 140191596809.847
+        },
+        {
+            "timestamp": "2024-12-16 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998365580687456,
+            "volume_24h": 158013913737.87,
+            "market_cap": 140230749518.28397
+        },
+        {
+            "timestamp": "2024-12-17 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998467295401524,
+            "volume_24h": 169929220109.83,
+            "market_cap": 140432619016.8802
+        },
+        {
+            "timestamp": "2024-12-18 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9997772576516882,
+            "volume_24h": 158540343811.47,
+            "market_cap": 140576596681.41476
+        },
+        {
+            "timestamp": "2024-12-19 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999230064304223,
+            "volume_24h": 226976070177.47,
+            "market_cap": 140521199377.316
+        },
+        {
+            "timestamp": "2024-12-20 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999362621401949,
+            "volume_24h": 305489177870.29,
+            "market_cap": 140533655844.3812
+        },
+        {
+            "timestamp": "2024-12-21 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9995688573234396,
+            "volume_24h": 163204077858.97,
+            "market_cap": 139812510506.82394
+        },
+        {
+            "timestamp": "2024-12-22 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9992618347937302,
+            "volume_24h": 116793443007.75,
+            "market_cap": 139769566400.93658
+        },
+        {
+            "timestamp": "2024-12-23 16:20:00",
+            "symbol": "USDT",
+            "price": 0.998601413034112,
+            "volume_24h": 131751574002.53,
+            "market_cap": 139652679963.6323
+        },
+        {
+            "timestamp": "2024-12-24 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999455025928868,
+            "volume_24h": 123649237344.81,
+            "market_cap": 139772056250.15488
+        },
+        {
+            "timestamp": "2024-12-25 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9991681048696708,
+            "volume_24h": 102759383822.31,
+            "market_cap": 139307993963.3691
+        },
+        {
+            "timestamp": "2024-12-26 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9994356790911793,
+            "volume_24h": 103445055605.41,
+            "market_cap": 139349197664.24466
+        },
+        {
+            "timestamp": "2024-12-27 16:20:00",
+            "symbol": "USDT",
+            "price": 0.998481161828542,
+            "volume_24h": 106485992553.58,
+            "market_cap": 139228793629.53055
+        },
+        {
+            "timestamp": "2024-12-28 16:20:00",
+            "symbol": "USDT",
+            "price": 0.998243620790672,
+            "volume_24h": 77346421385.26,
+            "market_cap": 138760931155.4585
+        },
+        {
+            "timestamp": "2024-12-29 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9984996236165504,
+            "volume_24h": 62811615904.98,
+            "market_cap": 138796516832.43948
+        },
+        {
+            "timestamp": "2024-12-30 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9979933731392772,
+            "volume_24h": 100678130784.09,
+            "market_cap": 138674249789.83115
+        },
+        {
+            "timestamp": "2024-12-31 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9985948038839368,
+            "volume_24h": 107845714418.65,
+            "market_cap": 137611510688.16855
+        },
+        {
+            "timestamp": "2025-01-01 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9980021050284535,
+            "volume_24h": 68588669814.29,
+            "market_cap": 137168068158.47664
+        },
+        {
+            "timestamp": "2025-01-02 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9991430821539689,
+            "volume_24h": 103255653795.26,
+            "market_cap": 137314895657.93327
+        },
+        {
+            "timestamp": "2025-01-03 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999324875182689,
+            "volume_24h": 93194744456.09,
+            "market_cap": 137157951030.6681
+        },
+        {
+            "timestamp": "2025-01-04 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999992335734179,
+            "volume_24h": 87364645159.05,
+            "market_cap": 137275129623.82222
+        },
+        {
+            "timestamp": "2025-01-05 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999843847610658,
+            "volume_24h": 64428223094.19,
+            "market_cap": 137249715740.61006
+        },
+        {
+            "timestamp": "2025-01-06 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001431372556673,
+            "volume_24h": 95269607597.43,
+            "market_cap": 137290799572.2902
+        },
+        {
+            "timestamp": "2025-01-07 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9993228198136728,
+            "volume_24h": 117510851187.59,
+            "market_cap": 137426918720.63434
+        },
+        {
+            "timestamp": "2025-01-08 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9996931583541866,
+            "volume_24h": 132720794974.69,
+            "market_cap": 137477847693.2318
+        },
+        {
+            "timestamp": "2025-01-09 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001438949904664,
+            "volume_24h": 132158076393.15,
+            "market_cap": 137621165601.51022
+        },
+        {
+            "timestamp": "2025-01-10 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0000393194550767,
+            "volume_24h": 126704387961.67,
+            "market_cap": 137451565448.76843
+        },
+        {
+            "timestamp": "2025-01-11 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999585978819822,
+            "volume_24h": 71008600111.69,
+            "market_cap": 137390148888.07664
+        },
+        {
+            "timestamp": "2025-01-12 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9996819255158056,
+            "volume_24h": 57257701946.23,
+            "market_cap": 137407635110.89484
+        },
+        {
+            "timestamp": "2025-01-13 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9995462306400312,
+            "volume_24h": 121860435586.1,
+            "market_cap": 137387348463.43127
+        },
+        {
+            "timestamp": "2025-01-14 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9996041774786236,
+            "volume_24h": 110422459086.73,
+            "market_cap": 137186453969.86797
+        },
+        {
+            "timestamp": "2025-01-15 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9999885972191316,
+            "volume_24h": 112406560528.8,
+            "market_cap": 137246201004.30948
+        },
+        {
+            "timestamp": "2025-01-16 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998181920233372,
+            "volume_24h": 124695633368.94,
+            "market_cap": 137425574725.5072
+        },
+        {
+            "timestamp": "2025-01-17 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001778378016952,
+            "volume_24h": 126784457382.03,
+            "market_cap": 137485159882.70773
+        },
+        {
+            "timestamp": "2025-01-18 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9992540896435383,
+            "volume_24h": 145820993022.21,
+            "market_cap": 138194852590.8332
+        },
+        {
+            "timestamp": "2025-01-19 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9985939226594418,
+            "volume_24h": 188251323233.09,
+            "market_cap": 138161270440.00604
+        },
+        {
+            "timestamp": "2025-01-20 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9989194869500032,
+            "volume_24h": 283940180565.61,
+            "market_cap": 138218800612.06317
+        },
+        {
+            "timestamp": "2025-01-21 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999328608354144,
+            "volume_24h": 208272927603.04,
+            "market_cap": 138336690774.75458
+        },
+        {
+            "timestamp": "2025-01-22 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998265333189992,
+            "volume_24h": 127211430279.22,
+            "market_cap": 138522308770.648
+        },
+        {
+            "timestamp": "2025-01-23 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000242500944559,
+            "volume_24h": 128808431963.77,
+            "market_cap": 138641933444.63675
+        },
+        {
+            "timestamp": "2025-01-24 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998888510106638,
+            "volume_24h": 136606607062.59,
+            "market_cap": 138922322844.54886
+        },
+        {
+            "timestamp": "2025-01-25 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998885059017132,
+            "volume_24h": 78195852473.07,
+            "market_cap": 139315272534.1392
+        },
+        {
+            "timestamp": "2025-01-26 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998713027749924,
+            "volume_24h": 59360035990.91,
+            "market_cap": 139311944850.17004
+        },
+        {
+            "timestamp": "2025-01-27 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998861272242652,
+            "volume_24h": 147715399494.73,
+            "market_cap": 139319184929.6601
+        },
+        {
+            "timestamp": "2025-01-28 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9999934383037928,
+            "volume_24h": 99469458302.93,
+            "market_cap": 139456443186.3612
+        },
+        {
+            "timestamp": "2025-01-29 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9997003146946708,
+            "volume_24h": 81332677038.73,
+            "market_cap": 139426961522.44702
+        },
+        {
+            "timestamp": "2025-01-30 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000106721394319,
+            "volume_24h": 105986592400.95,
+            "market_cap": 139420635824.2063
+        },
+        {
+            "timestamp": "2025-01-31 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0002000182901905,
+            "volume_24h": 81677858942.31,
+            "market_cap": 139422027691.35797
+        },
+        {
+            "timestamp": "2025-02-01 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000083367259487,
+            "volume_24h": 81565457344.97,
+            "market_cap": 139415868062.17593
+        },
+        {
+            "timestamp": "2025-02-02 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9994977911573844,
+            "volume_24h": 99946052638.49,
+            "market_cap": 139334236262.98584
+        },
+        {
+            "timestamp": "2025-02-03 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0015915830353674,
+            "volume_24h": 307172864356.24,
+            "market_cap": 139621111782.1045
+        },
+        {
+            "timestamp": "2025-02-04 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000765613298351,
+            "volume_24h": 160250249585.7,
+            "market_cap": 140586292607.24466
+        },
+        {
+            "timestamp": "2025-02-05 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9995411096079212,
+            "volume_24h": 121344382351.99,
+            "market_cap": 140414275871.42374
+        },
+        {
+            "timestamp": "2025-02-06 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000591010168652,
+            "volume_24h": 99540257690.17,
+            "market_cap": 141250300250.04092
+        },
+        {
+            "timestamp": "2025-02-07 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0004379941991832,
+            "volume_24h": 106408535280.85,
+            "market_cap": 141417113572.9413
+        },
+        {
+            "timestamp": "2025-02-08 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0000574898314447,
+            "volume_24h": 79149966815.48,
+            "market_cap": 141672765828.80478
+        },
+        {
+            "timestamp": "2025-02-09 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000149197269236,
+            "volume_24h": 60431035744.72,
+            "market_cap": 141758288309.34335
+        },
+        {
+            "timestamp": "2025-02-10 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000185012837856,
+            "volume_24h": 87233722325.94,
+            "market_cap": 141644661273.2748
+        },
+        {
+            "timestamp": "2025-02-11 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000527484989904,
+            "volume_24h": 75502784853.27,
+            "market_cap": 141954350141.25717
+        },
+        {
+            "timestamp": "2025-02-12 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998869373846998,
+            "volume_24h": 94243663922.91,
+            "market_cap": 141937200902.08722
+        },
+        {
+            "timestamp": "2025-02-13 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001104944046253,
+            "volume_24h": 95491905912.19,
+            "market_cap": 141941011530.45273
+        },
+        {
+            "timestamp": "2025-02-14 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0000659754101486,
+            "volume_24h": 72558353312.92,
+            "market_cap": 141814544682.05722
+        },
+        {
+            "timestamp": "2025-02-15 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001094408954412,
+            "volume_24h": 67824080718.43,
+            "market_cap": 142012045368.31244
+        },
+        {
+            "timestamp": "2025-02-16 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000153156694468,
+            "volume_24h": 44006122924.81,
+            "market_cap": 142018252858.99384
+        },
+        {
+            "timestamp": "2025-02-17 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0003845619150693,
+            "volume_24h": 66923682083.3,
+            "market_cap": 142051111591.5912
+        },
+        {
+            "timestamp": "2025-02-18 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999754453318868,
+            "volume_24h": 74887286079.88,
+            "market_cap": 141727575318.6417
+        },
+        {
+            "timestamp": "2025-02-19 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999990054292874,
+            "volume_24h": 76788956721.88,
+            "market_cap": 141778283944.15665
+        },
+        {
+            "timestamp": "2025-02-20 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001599402870351,
+            "volume_24h": 68736438560.63,
+            "market_cap": 141802370328.43106
+        },
+        {
+            "timestamp": "2025-02-21 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001044031861204,
+            "volume_24h": 90147687607.32,
+            "market_cap": 142229244490.7238
+        },
+        {
+            "timestamp": "2025-02-22 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000021762246892,
+            "volume_24h": 85525914746.25,
+            "market_cap": 142492647017.51227
+        },
+        {
+            "timestamp": "2025-02-23 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0001337629443572,
+            "volume_24h": 53870173460.96,
+            "market_cap": 142508605939.37888
+        },
+        {
+            "timestamp": "2025-02-24 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999974816763422,
+            "volume_24h": 78537934870.77,
+            "market_cap": 142408959697.54974
+        },
+        {
+            "timestamp": "2025-02-25 16:20:00",
+            "symbol": "USDT",
+            "price": 0.998938376107076,
+            "volume_24h": 164583286860.25,
+            "market_cap": 142199352830.13428
+        },
+        {
+            "timestamp": "2025-02-26 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9987664354374478,
+            "volume_24h": 104045466642.91,
+            "market_cap": 141928929349.4704
+        },
+        {
+            "timestamp": "2025-02-27 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9991063470319916,
+            "volume_24h": 120686600223.64,
+            "market_cap": 142177443016.49594
+        },
+        {
+            "timestamp": "2025-02-28 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999855732750816,
+            "volume_24h": 147669037391.03,
+            "market_cap": 142172075630.4781
+        },
+        {
+            "timestamp": "2025-03-01 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999589472850765,
+            "volume_24h": 76621938647.83,
+            "market_cap": 142134215445.84598
+        },
+        {
+            "timestamp": "2025-03-02 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000766755596145,
+            "volume_24h": 71241903973.07,
+            "market_cap": 142524119189.27716
+        },
+        {
+            "timestamp": "2025-03-03 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9993295646509076,
+            "volume_24h": 161876850713.44,
+            "market_cap": 142340427647.10568
+        },
+        {
+            "timestamp": "2025-03-04 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9993534431390187,
+            "volume_24h": 138687327754.56,
+            "market_cap": 142416545248.68362
+        },
+        {
+            "timestamp": "2025-03-05 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999869252789526,
+            "volume_24h": 108094778972.0,
+            "market_cap": 142476764243.22284
+        },
+        {
+            "timestamp": "2025-03-06 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999953284739899,
+            "volume_24h": 85078493909.81,
+            "market_cap": 142711751204.0964
+        },
+        {
+            "timestamp": "2025-03-07 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999870440968462,
+            "volume_24h": 102324591216.51,
+            "market_cap": 142781293445.94733
+        },
+        {
+            "timestamp": "2025-03-08 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9997835719034628,
+            "volume_24h": 68687030318.09,
+            "market_cap": 142768888561.32147
+        },
+        {
+            "timestamp": "2025-03-09 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9997006907951252,
+            "volume_24h": 47807988985.11,
+            "market_cap": 142757053156.08716
+        },
+        {
+            "timestamp": "2025-03-10 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9994119471742496,
+            "volume_24h": 97332523111.14,
+            "market_cap": 142846647044.15582
+        },
+        {
+            "timestamp": "2025-03-11 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9993485294314024,
+            "volume_24h": 120729479460.47,
+            "market_cap": 142903751617.3826
+        },
+        {
+            "timestamp": "2025-03-12 16:20:00",
+            "symbol": "USDT",
+            "price": 0.99979149732049,
+            "volume_24h": 85250430284.35,
+            "market_cap": 143152298675.54782
+        },
+        {
+            "timestamp": "2025-03-13 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9997350847830604,
+            "volume_24h": 66550800296.97,
+            "market_cap": 143307459976.43835
+        },
+        {
+            "timestamp": "2025-03-14 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000060941889934,
+            "volume_24h": 65003875575.2,
+            "market_cap": 143355501538.36862
+        },
+        {
+            "timestamp": "2025-03-15 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0000823334162998,
+            "volume_24h": 44066899987.67,
+            "market_cap": 143476838322.38947
+        },
+        {
+            "timestamp": "2025-03-16 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9999060222573573,
+            "volume_24h": 42886413411.82,
+            "market_cap": 143451543833.51517
+        },
+        {
+            "timestamp": "2025-03-17 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0000877018025105,
+            "volume_24h": 58536364854.3,
+            "market_cap": 143477608478.957
+        },
+        {
+            "timestamp": "2025-03-18 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999838176445619,
+            "volume_24h": 56207565716.03,
+            "market_cap": 143402672039.99887
+        },
+        {
+            "timestamp": "2025-03-19 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0002435258756992,
+            "volume_24h": 63402286785.05,
+            "market_cap": 143473999135.65686
+        },
+        {
+            "timestamp": "2025-03-20 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9996219347769376,
+            "volume_24h": 73889104301.67,
+            "market_cap": 143599198638.13333
+        },
+        {
+            "timestamp": "2025-03-21 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9994829156571904,
+            "volume_24h": 51298961282.6,
+            "market_cap": 143453362536.33807
+        },
+        {
+            "timestamp": "2025-03-22 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9996808874949876,
+            "volume_24h": 36188330933.75,
+            "market_cap": 143441197295.6088
+        },
+        {
+            "timestamp": "2025-03-23 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999994957406834,
+            "volume_24h": 37125534134.46,
+            "market_cap": 143486561937.52478
+        },
+        {
+            "timestamp": "2025-03-24 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000384629182849,
+            "volume_24h": 62081682216.91,
+            "market_cap": 143542474879.73434
+        },
+        {
+            "timestamp": "2025-03-25 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000102081606354,
+            "volume_24h": 58829072751.14,
+            "market_cap": 143792792577.13635
+        },
+        {
+            "timestamp": "2025-03-26 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000116510107195,
+            "volume_24h": 60088128021.67,
+            "market_cap": 144032917937.13626
+        },
+        {
+            "timestamp": "2025-03-27 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9997994122327722,
+            "volume_24h": 59085548935.8,
+            "market_cap": 144142063908.27234
+        },
+        {
+            "timestamp": "2025-03-28 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9994502147083716,
+            "volume_24h": 68688500701.6,
+            "market_cap": 144103079785.93094
+        },
+        {
+            "timestamp": "2025-03-29 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9996057994694988,
+            "volume_24h": 47563443703.96,
+            "market_cap": 144125512362.27768
+        },
+        {
+            "timestamp": "2025-03-30 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999713653816434,
+            "volume_24h": 38800320396.4,
+            "market_cap": 144141063055.3817
+        },
+        {
+            "timestamp": "2025-03-31 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998628883911406,
+            "volume_24h": 59279492742.3,
+            "market_cap": 143917810784.11255
+        },
+        {
+            "timestamp": "2025-04-01 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998950917516204,
+            "volume_24h": 57773196841.43,
+            "market_cap": 143977873459.62054
+        },
+        {
+            "timestamp": "2025-04-02 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9999388352322957,
+            "volume_24h": 63553940973.23,
+            "market_cap": 144025471140.1434
+        },
+        {
+            "timestamp": "2025-04-03 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999716592600963,
+            "volume_24h": 101255355990.81,
+            "market_cap": 144203651167.7457
+        },
+        {
+            "timestamp": "2025-04-04 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9995180087139016,
+            "volume_24h": 78397424026.92,
+            "market_cap": 144017231473.66818
+        },
+        {
+            "timestamp": "2025-04-05 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9995925158824543,
+            "volume_24h": 43767210873.8,
+            "market_cap": 144027966964.221
+        },
+        {
+            "timestamp": "2025-04-06 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999668378567895,
+            "volume_24h": 34354357389.5,
+            "market_cap": 144038897766.70184
+        },
+        {
+            "timestamp": "2025-04-07 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9994161158981004,
+            "volume_24h": 179176545834.22,
+            "market_cap": 144179758413.0438
+        },
+        {
+            "timestamp": "2025-04-08 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999743783367715,
+            "volume_24h": 80387980851.23,
+            "market_cap": 144155146352.4822
+        },
+        {
+            "timestamp": "2025-04-09 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9992501821209636,
+            "volume_24h": 105363069423.22,
+            "market_cap": 143906412965.5691
+        },
+        {
+            "timestamp": "2025-04-10 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9993038845405324,
+            "volume_24h": 119544159419.62,
+            "market_cap": 144270509002.70663
+        },
+        {
+            "timestamp": "2025-04-11 16:20:00",
+            "symbol": "USDT",
+            "price": 0.999403384220294,
+            "volume_24h": 72569898406.24,
+            "market_cap": 144256369097.24948
+        },
+        {
+            "timestamp": "2025-04-12 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9995534363010872,
+            "volume_24h": 57598839287.09,
+            "market_cap": 144324807087.2554
+        },
+        {
+            "timestamp": "2025-04-13 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9995140224604816,
+            "volume_24h": 51933034378.62,
+            "market_cap": 144319336043.91287
+        },
+        {
+            "timestamp": "2025-04-14 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9997909128800022,
+            "volume_24h": 71432991050.37,
+            "market_cap": 144313324107.29895
+        },
+        {
+            "timestamp": "2025-04-15 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998645808838268,
+            "volume_24h": 56121452727.02,
+            "market_cap": 144554027845.64035
+        },
+        {
+            "timestamp": "2025-04-16 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9999359344734228,
+            "volume_24h": 52923611612.08,
+            "market_cap": 144622444699.37027
+        },
+        {
+            "timestamp": "2025-04-17 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9998474629619796,
+            "volume_24h": 53515864748.29,
+            "market_cap": 144782908038.28464
+        },
+        {
+            "timestamp": "2025-04-18 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9999065676589008,
+            "volume_24h": 39504749931.14,
+            "market_cap": 144782993028.9139
+        },
+        {
+            "timestamp": "2025-04-19 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9997098412885678,
+            "volume_24h": 33332563228.03,
+            "market_cap": 144598144259.1646
+        },
+        {
+            "timestamp": "2025-04-20 16:20:00",
+            "symbol": "USDT",
+            "price": 0.9996057579192964,
+            "volume_24h": 36463975322.39,
+            "market_cap": 144583089623.97958
+        },
+        {
+            "timestamp": "2025-04-21 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0002701196785488,
+            "volume_24h": 62555340806.81,
+            "market_cap": 144666153812.18118
+        },
+        {
+            "timestamp": "2025-04-22 16:20:00",
+            "symbol": "USDT",
+            "price": 1.000479648825962,
+            "volume_24h": 82604509839.0,
+            "market_cap": 144794534002.39597
+        },
+        {
+            "timestamp": "2025-04-23 16:20:00",
+            "symbol": "USDT",
+            "price": 1.0000800182534255,
+            "volume_24h": 103770612133.0,
+            "market_cap": 145290782215.08075
+        }
+    ],
+    "investment_thesis": "USDT presents a good investment opportunity based on its overall score of 71.5/100. Technically, USDT shows very strong indicators with a score of 81.0/100, suggesting positive price momentum. Fundamentally strong (86.0/100), this cryptocurrency demonstrates solid market presence and stability. Despite mixed sentiment (37.0/100), other factors suggest potential upside. Chart analysis reveals a double bottom pattern, supporting a bullish outlook. Chart analysis reveals a double top pattern, suggesting potential downside risk. This analysis is set against a broader market that is currently in a strong bullish trend with sentiment showing greed. Overall, USDT merits a Buy rating, suggesting positive but measured price appreciation potential.",
+    "risk_assessment": "USDT is classified as a conservative risk investment. As a large-cap cryptocurrency (market cap: $145.30B) ranked #1 globally, it presents relatively lower volatility compared to smaller cryptocurrencies. Historical volatility (0.5% annualized) is moderate for the crypto market. With a daily trading volume of $102460.02M and liquidity ratio of 0.705, USDT offers sufficient liquidity for most investors. Primary risks include regulatory changes, market-wide corrections, and competition from other established cryptocurrencies. The current bullish market environment potentially reduces short-term downside risk, though caution is warranted for any sudden sentiment changes. High Bitcoin dominance (63.5%) may limit altcoin performance in the near term.",
+    "analysis_time": "2025-04-23 20:16:22"
+}

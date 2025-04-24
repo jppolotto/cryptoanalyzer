@@ -1,0 +1,18 @@
+{
+    "symbol": "ETH",
+    "market_cap_usd": 215830130938.0519,
+    "volume_24h_usd": 25578048200.48701,
+    "volume_mcap_ratio": 0.11851008980682352,
+    "market_share": 8.03195286218185,
+    "cmc_rank": 2,
+    "price_change_30d": -14.56534626,
+    "fundamental_score": 74,
+    "score_components": {
+        "market_cap_score": 25,
+        "volume_mcap_score": 12,
+        "rank_score": 15,
+        "stability_score": 12,
+        "growth_score": 2,
+        "market_position_score": 8
+    }
+}

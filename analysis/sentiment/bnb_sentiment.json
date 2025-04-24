@@ -1,0 +1,20 @@
+{
+    "symbol": "BNB",
+    "price_change_1h": -0.6517894,
+    "price_change_24h": -0.88899249,
+    "price_change_7d": 3.58004915,
+    "market_avg_change_24h": 3.7310203413333327,
+    "market_avg_change_7d": 11.602763898000001,
+    "relative_performance_24h": -4.620012831333333,
+    "relative_performance_7d": -8.022714748000002,
+    "fear_greed_value": 72,
+    "fear_greed_classification": "Greed",
+    "market_trend": "Strong Bullish",
+    "sentiment_score": 37,
+    "score_components": {
+        "momentum_score": 14,
+        "market_sentiment_score": 10,
+        "relative_score": 6,
+        "alignment_score": 7
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "symbol": "TRX",
+    "market_cap_usd": 23312970835.63493,
+    "volume_24h_usd": 757747946.7438862,
+    "volume_mcap_ratio": 0.032503276913366796,
+    "market_share": 0.8675743373522973,
+    "cmc_rank": 10,
+    "price_change_30d": 7.13355781,
+    "fundamental_score": 62,
+    "score_components": {
+        "market_cap_score": 18,
+        "volume_mcap_score": 5,
+        "rank_score": 12,
+        "stability_score": 15,
+        "growth_score": 7,
+        "market_position_score": 5
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "symbol": "TON",
+    "market_cap_usd": 7726353366.039958,
+    "volume_24h_usd": 196024763.71383023,
+    "volume_mcap_ratio": 0.025370929133972573,
+    "market_share": 0.28525811605795864,
+    "cmc_rank": 17,
+    "price_change_30d": -17.40008448,
+    "fundamental_score": 45,
+    "score_components": {
+        "market_cap_score": 15,
+        "volume_mcap_score": 5,
+        "rank_score": 10,
+        "stability_score": 9,
+        "growth_score": 2,
+        "market_position_score": 4
+    }
+}

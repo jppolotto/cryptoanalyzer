@@ -1,0 +1,20 @@
+{
+    "symbol": "DOGE",
+    "price_change_1h": -1.25114187,
+    "price_change_24h": 4.1409266,
+    "price_change_7d": 16.8336625,
+    "market_avg_change_24h": 3.7310203413333327,
+    "market_avg_change_7d": 11.602763898000001,
+    "relative_performance_24h": 0.4099062586666675,
+    "relative_performance_7d": 5.230898601999998,
+    "fear_greed_value": 72,
+    "fear_greed_classification": "Greed",
+    "market_trend": "Strong Bullish",
+    "sentiment_score": 48,
+    "score_components": {
+        "momentum_score": 17,
+        "market_sentiment_score": 10,
+        "relative_score": 11,
+        "alignment_score": 10
+    }
+}

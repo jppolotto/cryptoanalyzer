@@ -1,0 +1,7 @@
+,RMSE,MAE,MAPE (%),R²,Dir. Accuracy (%)
+Gradient Boosting,0,0,0,0,0
+Random Forest,0,0,0,0,0
+Linear Regression,0,0,0,0,0
+Ridge Regression,0,0,0,0,0
+XGBoost,0,0,0,0,0
+Ensemble,0,0,0,0,0

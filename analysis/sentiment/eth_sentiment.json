@@ -1,0 +1,20 @@
+{
+    "symbol": "ETH",
+    "price_change_1h": -1.06045343,
+    "price_change_24h": 5.06839734,
+    "price_change_7d": 14.45979869,
+    "market_avg_change_24h": 3.7310203413333327,
+    "market_avg_change_7d": 11.602763898000001,
+    "relative_performance_24h": 1.337376998666667,
+    "relative_performance_7d": 2.8570347919999985,
+    "fear_greed_value": 72,
+    "fear_greed_classification": "Greed",
+    "market_trend": "Strong Bullish",
+    "sentiment_score": 48,
+    "score_components": {
+        "momentum_score": 19,
+        "market_sentiment_score": 10,
+        "relative_score": 9,
+        "alignment_score": 10
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "symbol": "UNI",
+    "market_cap_usd": 3403761142.134198,
+    "volume_24h_usd": 83322050.82128444,
+    "volume_mcap_ratio": 0.024479405969433137,
+    "market_share": 0.13020664454217656,
+    "cmc_rank": 28,
+    "price_change_30d": -19.95106299,
+    "fundamental_score": 36,
+    "score_components": {
+        "market_cap_score": 10,
+        "volume_mcap_score": 5,
+        "rank_score": 7,
+        "stability_score": 9,
+        "growth_score": 2,
+        "market_position_score": 3
+    }
+}

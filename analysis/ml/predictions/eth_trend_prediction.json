@@ -1,0 +1,14 @@
+{
+    "symbol": "ETH",
+    "current_price": 1788.585560051211,
+    "predicted_price": 2419.732251911414,
+    "prediction_days": 30,
+    "price_change_percent": 35.287475531342885,
+    "trend": "Bullish",
+    "trend_strength": "Strong",
+    "confidence": 100.0,
+    "best_model": "Random Forest",
+    "model_agreement": 3,
+    "available_models": 3,
+    "prediction_date": "2025-04-23 20:16:23"
+}

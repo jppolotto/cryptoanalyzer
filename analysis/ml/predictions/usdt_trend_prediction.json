@@ -1,0 +1,14 @@
+{
+    "symbol": "USDT",
+    "current_price": 1.0000800182534255,
+    "predicted_price": 0.9993127916914275,
+    "prediction_days": 30,
+    "price_change_percent": -0.07671651747806386,
+    "trend": "Neutral",
+    "trend_strength": "Neutral",
+    "confidence": 100.0,
+    "best_model": "Random Forest",
+    "model_agreement": 3,
+    "available_models": 3,
+    "prediction_date": "2025-04-23 20:16:23"
+}

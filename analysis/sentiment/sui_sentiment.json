@@ -1,0 +1,20 @@
+{
+    "symbol": "SUI",
+    "price_change_1h": -2.15277438,
+    "price_change_24h": 20.72548478,
+    "price_change_7d": 42.30450888,
+    "market_avg_change_24h": 3.7310203413333327,
+    "market_avg_change_7d": 11.602763898000001,
+    "relative_performance_24h": 16.994464438666665,
+    "relative_performance_7d": 30.701744982,
+    "fear_greed_value": 72,
+    "fear_greed_classification": "Greed",
+    "market_trend": "Strong Bullish",
+    "sentiment_score": 71,
+    "score_components": {
+        "momentum_score": 26,
+        "market_sentiment_score": 10,
+        "relative_score": 25,
+        "alignment_score": 10
+    }
+}

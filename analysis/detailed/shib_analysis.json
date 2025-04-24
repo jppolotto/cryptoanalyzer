@@ -1,0 +1,2641 @@
+{
+    "symbol": "SHIB",
+    "name": "Shiba Inu",
+    "price_usd": 1.3249097619615208e-05,
+    "market_cap_usd": 7807035527.465381,
+    "volume_24h_usd": 321294979.03160137,
+    "percent_change_24h": 2.05095778,
+    "percent_change_7d": 11.08642697,
+    "technical_score": 57,
+    "fundamental_score": 46,
+    "sentiment_score": 46,
+    "total_score": 51.0,
+    "technical_weight": 0.45,
+    "fundamental_weight": 0.3,
+    "sentiment_weight": 0.25,
+    "risk_profile": "Moderate",
+    "market_opportunity": "Moderate",
+    "recommendation": "Hold",
+    "rank": 11,
+    "technical_data": {
+        "symbol": "SHIB",
+        "price": 1.2332757320713e-05,
+        "ma_7": 1.2159618427974143e-05,
+        "ma_30": 1.23825833196874e-05,
+        "ma_90": 1.4199699927063091e-05,
+        "ma_200": 1.8774516769353915e-05,
+        "rsi_14": 63.84338572162364,
+        "macd": -1.135697324237553e-07,
+        "macd_signal": -2.4069927810126354e-07,
+        "bb_upper": 1.3000348685183333e-05,
+        "bb_middle": 1.1972082189424201e-05,
+        "bb_lower": 1.094381569366507e-05,
+        "bb_width": 0.1717773866717141,
+        "roc_7": 3.370322397038583,
+        "roc_30": -4.642302978836277,
+        "obv": 1037188327.5715282,
+        "tenkan_sen": 1.2162729670564e-05,
+        "kijun_sen": 1.1909291419260001e-05,
+        "adx": 17.74222356040752,
+        "stoch_k": 79.94587591701729,
+        "stoch_d": 93.07978262613643,
+        "mfi": 58.77844905515457,
+        "psar": 1.082249042783301e-05,
+        "technical_score": 57,
+        "score_components": {
+            "trend_score": 3,
+            "momentum_score": 16,
+            "volatility_score": 10,
+            "support_resistance_score": 6,
+            "volume_score": 5,
+            "ichimoku_score": 5,
+            "obv_score": 5,
+            "adx_score": 1,
+            "psar_score": 5,
+            "ma_cross_score": 1
+        }
+    },
+    "fundamental_data": {
+        "symbol": "SHIB",
+        "market_cap_usd": 7807035527.465381,
+        "volume_24h_usd": 321294979.03160137,
+        "volume_mcap_ratio": 0.04115454296336633,
+        "market_share": 0.28823691346436,
+        "cmc_rank": 16,
+        "price_change_30d": -2.2810282,
+        "fundamental_score": 46,
+        "score_components": {
+            "market_cap_score": 15,
+            "volume_mcap_score": 5,
+            "rank_score": 10,
+            "stability_score": 9,
+            "growth_score": 3,
+            "market_position_score": 4
+        }
+    },
+    "sentiment_data": {
+        "symbol": "SHIB",
+        "price_change_1h": -1.95068056,
+        "price_change_24h": 2.05095778,
+        "price_change_7d": 11.08642697,
+        "market_avg_change_24h": 3.4300381724999993,
+        "market_avg_change_7d": 10.064568308,
+        "relative_performance_24h": -1.3790803924999993,
+        "relative_performance_7d": 1.0218586619999996,
+        "fear_greed_value": 72,
+        "fear_greed_classification": "Greed",
+        "market_trend": "Strong Bullish",
+        "sentiment_score": 46,
+        "score_components": {
+            "momentum_score": 17,
+            "market_sentiment_score": 10,
+            "relative_score": 9,
+            "alignment_score": 10
+        }
+    },
+    "pattern_data": {
+        "head_and_shoulders": false,
+        "inverse_head_and_shoulders": true,
+        "double_top": true,
+        "double_bottom": true,
+        "ascending_triangle": false,
+        "descending_triangle": false,
+        "symmetric_triangle": false,
+        "bullish_flag": false,
+        "bearish_flag": false,
+        "pattern_strength": 1
+    },
+    "divergence_data": {
+        "bearish_divergence": false,
+        "bullish_divergence": false,
+        "bearish_divergence_strength": 0,
+        "bullish_divergence_strength": 0,
+        "rsi_divergences": [],
+        "macd_divergences": []
+    },
+    "historical_data": [
+        {
+            "timestamp": "2024-04-28 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.5093641303112e-05,
+            "volume_24h": 377945059.36,
+            "market_cap": 14787417098.655878
+        },
+        {
+            "timestamp": "2024-04-29 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.3390443338502e-05,
+            "volume_24h": 419998168.5,
+            "market_cap": 13783740573.593475
+        },
+        {
+            "timestamp": "2024-04-30 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.3987529068457e-05,
+            "volume_24h": 508381736.53,
+            "market_cap": 14135596871.603325
+        },
+        {
+            "timestamp": "2024-05-01 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.1342868852619e-05,
+            "volume_24h": 782566622.67,
+            "market_cap": 12577126611.212383
+        },
+        {
+            "timestamp": "2024-05-02 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.1991329898818e-05,
+            "volume_24h": 876368400.42,
+            "market_cap": 12959257839.061975
+        },
+        {
+            "timestamp": "2024-05-03 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.3017642507522e-05,
+            "volume_24h": 698805430.46,
+            "market_cap": 13564052991.55479
+        },
+        {
+            "timestamp": "2024-05-04 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.4760405623015e-05,
+            "volume_24h": 758783204.22,
+            "market_cap": 14591044841.069752
+        },
+        {
+            "timestamp": "2024-05-05 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.4594929311123e-05,
+            "volume_24h": 666752080.28,
+            "market_cap": 14493531402.731457
+        },
+        {
+            "timestamp": "2024-05-06 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.483540088812e-05,
+            "volume_24h": 359413260.67,
+            "market_cap": 14635238756.65722
+        },
+        {
+            "timestamp": "2024-05-07 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.364100953024e-05,
+            "volume_24h": 607409939.57,
+            "market_cap": 13931396577.092342
+        },
+        {
+            "timestamp": "2024-05-08 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.2878437298252e-05,
+            "volume_24h": 388905011.21,
+            "market_cap": 13482020835.802015
+        },
+        {
+            "timestamp": "2024-05-09 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.2898274631774e-05,
+            "volume_24h": 389822387.63,
+            "market_cap": 13493710766.38529
+        },
+        {
+            "timestamp": "2024-05-10 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.3485033457207e-05,
+            "volume_24h": 382572757.11,
+            "market_cap": 13839481528.913849
+        },
+        {
+            "timestamp": "2024-05-11 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.2563275656384e-05,
+            "volume_24h": 365428558.07,
+            "market_cap": 13296299417.55486
+        },
+        {
+            "timestamp": "2024-05-12 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.2580660300642e-05,
+            "volume_24h": 176759239.23,
+            "market_cap": 13306544004.326847
+        },
+        {
+            "timestamp": "2024-05-13 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.2109088760989e-05,
+            "volume_24h": 233983880.92,
+            "market_cap": 13028651889.568695
+        },
+        {
+            "timestamp": "2024-05-14 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.358608865996e-05,
+            "volume_24h": 964750490.42,
+            "market_cap": 13899032289.80372
+        },
+        {
+            "timestamp": "2024-05-15 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.3337897741401e-05,
+            "volume_24h": 867105696.19,
+            "market_cap": 13752776009.637028
+        },
+        {
+            "timestamp": "2024-05-16 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.5415216231171e-05,
+            "volume_24h": 1239040417.36,
+            "market_cap": 14976917798.5439
+        },
+        {
+            "timestamp": "2024-05-17 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.4778330686228e-05,
+            "volume_24h": 657287341.55,
+            "market_cap": 14601174173.742071
+        },
+        {
+            "timestamp": "2024-05-18 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.4865307219536e-05,
+            "volume_24h": 459213654.25,
+            "market_cap": 14652426941.571856
+        },
+        {
+            "timestamp": "2024-05-19 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.4752379056525e-05,
+            "volume_24h": 320834723.75,
+            "market_cap": 14585881511.152649
+        },
+        {
+            "timestamp": "2024-05-20 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.3886746991697e-05,
+            "volume_24h": 386702676.38,
+            "market_cap": 14075788622.932611
+        },
+        {
+            "timestamp": "2024-05-21 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.5389264058048e-05,
+            "volume_24h": 903704897.76,
+            "market_cap": 14961179651.098152
+        },
+        {
+            "timestamp": "2024-05-22 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.6008582394402e-05,
+            "volume_24h": 1211776426.27,
+            "market_cap": 15326126208.374697
+        },
+        {
+            "timestamp": "2024-05-23 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.5398026023222e-05,
+            "volume_24h": 643121126.78,
+            "market_cap": 14966342429.71637
+        },
+        {
+            "timestamp": "2024-05-24 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.3814155410873e-05,
+            "volume_24h": 950885115.44,
+            "market_cap": 14033011721.56674
+        },
+        {
+            "timestamp": "2024-05-25 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.4701149517444e-05,
+            "volume_24h": 429455600.96,
+            "market_cap": 14555692243.5953
+        },
+        {
+            "timestamp": "2024-05-26 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.4755524823946e-05,
+            "volume_24h": 399300440.04,
+            "market_cap": 14587734000.949886
+        },
+        {
+            "timestamp": "2024-05-27 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.4472021737776e-05,
+            "volume_24h": 323846801.15,
+            "market_cap": 14420673537.017973
+        },
+        {
+            "timestamp": "2024-05-28 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.4711566731078e-05,
+            "volume_24h": 1013015940.47,
+            "market_cap": 14561830519.428314
+        },
+        {
+            "timestamp": "2024-05-29 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.8388349479463e-05,
+            "volume_24h": 2187817076.4,
+            "market_cap": 16728455029.977972
+        },
+        {
+            "timestamp": "2024-05-30 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.6622596241545e-05,
+            "volume_24h": 1619409505.64,
+            "market_cap": 15687946301.10239
+        },
+        {
+            "timestamp": "2024-05-31 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.584543511182e-05,
+            "volume_24h": 864990867.97,
+            "market_cap": 15229986918.296295
+        },
+        {
+            "timestamp": "2024-06-01 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.5259711232883e-05,
+            "volume_24h": 534069557.79,
+            "market_cap": 14884836252.76798
+        },
+        {
+            "timestamp": "2024-06-02 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.4962095409527e-05,
+            "volume_24h": 324699704.57,
+            "market_cap": 14709459512.297798
+        },
+        {
+            "timestamp": "2024-06-03 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.5049799976663e-05,
+            "volume_24h": 465859098.84,
+            "market_cap": 14761141339.389347
+        },
+        {
+            "timestamp": "2024-06-04 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.3897910895783e-05,
+            "volume_24h": 660197089.83,
+            "market_cap": 14082365045.094925
+        },
+        {
+            "timestamp": "2024-06-05 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.569335499522e-05,
+            "volume_24h": 721694165.85,
+            "market_cap": 15140369623.920588
+        },
+        {
+            "timestamp": "2024-06-06 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.5586531336971e-05,
+            "volume_24h": 751650268.1,
+            "market_cap": 15077421330.656816
+        },
+        {
+            "timestamp": "2024-06-07 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.5285078064154e-05,
+            "volume_24h": 401519369.87,
+            "market_cap": 14899783173.377588
+        },
+        {
+            "timestamp": "2024-06-08 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.4007434799553e-05,
+            "volume_24h": 836896871.42,
+            "market_cap": 14146903806.48739
+        },
+        {
+            "timestamp": "2024-06-09 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.3217022922002e-05,
+            "volume_24h": 473574264.03,
+            "market_cap": 13681136368.22016
+        },
+        {
+            "timestamp": "2024-06-10 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.2908131245036e-05,
+            "volume_24h": 449982731.48,
+            "market_cap": 13499115214.424467
+        },
+        {
+            "timestamp": "2024-06-11 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.2437750344196e-05,
+            "volume_24h": 625807004.89,
+            "market_cap": 13221932857.130169
+        },
+        {
+            "timestamp": "2024-06-12 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.2060563893592e-05,
+            "volume_24h": 803954156.82,
+            "market_cap": 12999662397.318151
+        },
+        {
+            "timestamp": "2024-06-13 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.1667291091374e-05,
+            "volume_24h": 788376959.85,
+            "market_cap": 12767917774.683884
+        },
+        {
+            "timestamp": "2024-06-14 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.1594706706427e-05,
+            "volume_24h": 339999298.25,
+            "market_cap": 12725143463.216766
+        },
+        {
+            "timestamp": "2024-06-15 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.0852909854748e-05,
+            "volume_24h": 484179217.53,
+            "market_cap": 12288022948.25526
+        },
+        {
+            "timestamp": "2024-06-16 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.075997511257e-05,
+            "volume_24h": 193467280.43,
+            "market_cap": 12233259159.462278
+        },
+        {
+            "timestamp": "2024-06-17 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.0118118407982e-05,
+            "volume_24h": 209626712.72,
+            "market_cap": 11855031372.25324
+        },
+        {
+            "timestamp": "2024-06-18 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.8128050883549e-05,
+            "volume_24h": 605131076.19,
+            "market_cap": 10682341319.909502
+        },
+        {
+            "timestamp": "2024-06-19 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.8826046199224e-05,
+            "volume_24h": 468330588.31,
+            "market_cap": 11093649648.598969
+        },
+        {
+            "timestamp": "2024-06-20 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.8566039821883e-05,
+            "volume_24h": 287210666.12,
+            "market_cap": 10940435229.096071
+        },
+        {
+            "timestamp": "2024-06-21 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.8012834630517e-05,
+            "volume_24h": 297458448.78,
+            "market_cap": 10614446586.658508
+        },
+        {
+            "timestamp": "2024-06-22 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.8054149684006e-05,
+            "volume_24h": 265849536.14,
+            "market_cap": 10638792350.10354
+        },
+        {
+            "timestamp": "2024-06-23 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.8125532009585e-05,
+            "volume_24h": 135733514.37,
+            "market_cap": 10680855568.824947
+        },
+        {
+            "timestamp": "2024-06-24 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7002876003621e-05,
+            "volume_24h": 202032655.87,
+            "market_cap": 10019306540.018463
+        },
+        {
+            "timestamp": "2024-06-25 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7319202820134e-05,
+            "volume_24h": 356242617.37,
+            "market_cap": 10205708677.15777
+        },
+        {
+            "timestamp": "2024-06-26 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7653361498475e-05,
+            "volume_24h": 302044921.37,
+            "market_cap": 10402618440.545996
+        },
+        {
+            "timestamp": "2024-06-27 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6884570600039e-05,
+            "volume_24h": 192123873.51,
+            "market_cap": 9949591911.008492
+        },
+        {
+            "timestamp": "2024-06-28 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7294106517894e-05,
+            "volume_24h": 230357670.43,
+            "market_cap": 10190919621.368267
+        },
+        {
+            "timestamp": "2024-06-29 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7062483848378e-05,
+            "volume_24h": 246398808.7,
+            "market_cap": 10054430706.1278
+        },
+        {
+            "timestamp": "2024-06-30 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6986892122141e-05,
+            "volume_24h": 117613522.45,
+            "market_cap": 10009886569.976685
+        },
+        {
+            "timestamp": "2024-07-01 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7362436854603e-05,
+            "volume_24h": 180451382.9,
+            "market_cap": 10231179032.971334
+        },
+        {
+            "timestamp": "2024-07-02 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7098114702582e-05,
+            "volume_24h": 175169802.4,
+            "market_cap": 10075421673.400694
+        },
+        {
+            "timestamp": "2024-07-03 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6904599568713e-05,
+            "volume_24h": 182458115.09,
+            "market_cap": 9961388534.155848
+        },
+        {
+            "timestamp": "2024-07-04 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.5612347149233e-05,
+            "volume_24h": 276768246.83,
+            "market_cap": 9199901694.230324
+        },
+        {
+            "timestamp": "2024-07-05 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.331830121189e-05,
+            "volume_24h": 490084122.66,
+            "market_cap": 7848087039.102997
+        },
+        {
+            "timestamp": "2024-07-06 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.5412231416839e-05,
+            "volume_24h": 390695413.49,
+            "market_cap": 9081979096.326546
+        },
+        {
+            "timestamp": "2024-07-07 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6627352948804e-05,
+            "volume_24h": 456804744.65,
+            "market_cap": 9798014524.157516
+        },
+        {
+            "timestamp": "2024-07-08 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.5871485327514e-05,
+            "volume_24h": 432002654.88,
+            "market_cap": 9352603744.829586
+        },
+        {
+            "timestamp": "2024-07-09 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6446432996272e-05,
+            "volume_24h": 472519087.8,
+            "market_cap": 9691403547.682726
+        },
+        {
+            "timestamp": "2024-07-10 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6738331242676e-05,
+            "volume_24h": 281791175.43,
+            "market_cap": 9863410210.72477
+        },
+        {
+            "timestamp": "2024-07-11 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6505150280836e-05,
+            "volume_24h": 199312470.53,
+            "market_cap": 9726003444.920628
+        },
+        {
+            "timestamp": "2024-07-12 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6179766356606e-05,
+            "volume_24h": 230391969.42,
+            "market_cap": 9534263041.17734
+        },
+        {
+            "timestamp": "2024-07-13 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.697109996984e-05,
+            "volume_24h": 210281717.57,
+            "market_cap": 10000572740.940758
+        },
+        {
+            "timestamp": "2024-07-14 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7413957802444e-05,
+            "volume_24h": 264952069.14,
+            "market_cap": 10261535895.090256
+        },
+        {
+            "timestamp": "2024-07-15 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.8159107458523e-05,
+            "volume_24h": 257726233.35,
+            "market_cap": 10700630773.415024
+        },
+        {
+            "timestamp": "2024-07-16 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.8908906323077e-05,
+            "volume_24h": 628280510.26,
+            "market_cap": 11142465297.489368
+        },
+        {
+            "timestamp": "2024-07-17 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.9506310400259e-05,
+            "volume_24h": 521217127.84,
+            "market_cap": 11494498024.972843
+        },
+        {
+            "timestamp": "2024-07-18 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.8610537176671e-05,
+            "volume_24h": 387499340.35,
+            "market_cap": 10966644908.5945
+        },
+        {
+            "timestamp": "2024-07-19 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7321643283183e-05,
+            "volume_24h": 1336012492.28,
+            "market_cap": 10207136615.581156
+        },
+        {
+            "timestamp": "2024-07-20 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7920989235794e-05,
+            "volume_24h": 501999855.22,
+            "market_cap": 10560313537.125507
+        },
+        {
+            "timestamp": "2024-07-21 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7705045422501e-05,
+            "volume_24h": 413022735.37,
+            "market_cap": 10433064150.713146
+        },
+        {
+            "timestamp": "2024-07-22 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.769625265368e-05,
+            "volume_24h": 417277823.96,
+            "market_cap": 10427882646.537832
+        },
+        {
+            "timestamp": "2024-07-23 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7197877340591e-05,
+            "volume_24h": 309839577.0,
+            "market_cap": 10134203653.786104
+        },
+        {
+            "timestamp": "2024-07-24 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7092768197256e-05,
+            "volume_24h": 280560515.31,
+            "market_cap": 10072264942.583412
+        },
+        {
+            "timestamp": "2024-07-25 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6251376309937e-05,
+            "volume_24h": 311925968.93,
+            "market_cap": 9576457407.808443
+        },
+        {
+            "timestamp": "2024-07-26 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6778111617509e-05,
+            "volume_24h": 256058193.26,
+            "market_cap": 9886846991.420998
+        },
+        {
+            "timestamp": "2024-07-27 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7257730314548e-05,
+            "volume_24h": 179943116.98,
+            "market_cap": 10169472097.713505
+        },
+        {
+            "timestamp": "2024-07-28 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6805934182892e-05,
+            "volume_24h": 265570502.47,
+            "market_cap": 9903241926.542477
+        },
+        {
+            "timestamp": "2024-07-29 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7204386697583e-05,
+            "volume_24h": 146442075.68,
+            "market_cap": 10138038255.40357
+        },
+        {
+            "timestamp": "2024-07-30 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6781404312221e-05,
+            "volume_24h": 205936573.73,
+            "market_cap": 9888787156.495552
+        },
+        {
+            "timestamp": "2024-07-31 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6407995583108e-05,
+            "volume_24h": 171073954.82,
+            "market_cap": 9668748365.320784
+        },
+        {
+            "timestamp": "2024-08-01 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.5816827998875e-05,
+            "volume_24h": 230438115.57,
+            "market_cap": 9320390590.20739
+        },
+        {
+            "timestamp": "2024-08-02 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.5298180820513e-05,
+            "volume_24h": 254487012.94,
+            "market_cap": 9014766986.599976
+        },
+        {
+            "timestamp": "2024-08-03 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.4754355821205e-05,
+            "volume_24h": 276696270.02,
+            "market_cap": 8694306927.059513
+        },
+        {
+            "timestamp": "2024-08-04 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.4131270482799e-05,
+            "volume_24h": 208432869.33,
+            "market_cap": 8327141086.734963
+        },
+        {
+            "timestamp": "2024-08-05 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.1484948177443e-05,
+            "volume_24h": 621518931.43,
+            "market_cap": 6767741369.3142
+        },
+        {
+            "timestamp": "2024-08-06 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.382724513605e-05,
+            "volume_24h": 787881593.46,
+            "market_cap": 8147987871.886066
+        },
+        {
+            "timestamp": "2024-08-07 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3617149312914e-05,
+            "volume_24h": 341545145.75,
+            "market_cap": 8024184555.142195
+        },
+        {
+            "timestamp": "2024-08-08 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3329069072009e-05,
+            "volume_24h": 311380349.01,
+            "market_cap": 7854425950.588583
+        },
+        {
+            "timestamp": "2024-08-09 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.4108002867508e-05,
+            "volume_24h": 298411497.22,
+            "market_cap": 8313428584.568127
+        },
+        {
+            "timestamp": "2024-08-10 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.4038888535258e-05,
+            "volume_24h": 200216269.4,
+            "market_cap": 8272701538.315519
+        },
+        {
+            "timestamp": "2024-08-11 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.4399491151984e-05,
+            "volume_24h": 152183455.66,
+            "market_cap": 8485193421.901111
+        },
+        {
+            "timestamp": "2024-08-12 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3386189808516e-05,
+            "volume_24h": 215652329.4,
+            "market_cap": 7888084945.658538
+        },
+        {
+            "timestamp": "2024-08-13 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3768578835843e-05,
+            "volume_24h": 241131074.31,
+            "market_cap": 8113415467.113134
+        },
+        {
+            "timestamp": "2024-08-14 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3725933795866e-05,
+            "volume_24h": 162378362.7,
+            "market_cap": 8088285948.871619
+        },
+        {
+            "timestamp": "2024-08-15 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3474209569007e-05,
+            "volume_24h": 174903339.38,
+            "market_cap": 7939952303.558592
+        },
+        {
+            "timestamp": "2024-08-16 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3465993052006e-05,
+            "volume_24h": 187066084.05,
+            "market_cap": 7935110553.639593
+        },
+        {
+            "timestamp": "2024-08-17 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3249814537705e-05,
+            "volume_24h": 148020040.59,
+            "market_cap": 7807722891.369839
+        },
+        {
+            "timestamp": "2024-08-18 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3325183042561e-05,
+            "volume_24h": 94582747.01,
+            "market_cap": 7852135295.82676
+        },
+        {
+            "timestamp": "2024-08-19 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3171296433479e-05,
+            "volume_24h": 117427931.44,
+            "market_cap": 7761454479.486934
+        },
+        {
+            "timestamp": "2024-08-20 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3741182606183e-05,
+            "volume_24h": 209568129.88,
+            "market_cap": 8097271503.460874
+        },
+        {
+            "timestamp": "2024-08-21 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3753960004162e-05,
+            "volume_24h": 184674532.29,
+            "market_cap": 8104800745.264927
+        },
+        {
+            "timestamp": "2024-08-22 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.4094345672013e-05,
+            "volume_24h": 193988438.88,
+            "market_cap": 8305379895.018205
+        },
+        {
+            "timestamp": "2024-08-23 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.4402728516817e-05,
+            "volume_24h": 176178765.57,
+            "market_cap": 8487100346.842024
+        },
+        {
+            "timestamp": "2024-08-24 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.5232681084709e-05,
+            "volume_24h": 307413327.02,
+            "market_cap": 8976166683.496855
+        },
+        {
+            "timestamp": "2024-08-25 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.4887715916435e-05,
+            "volume_24h": 314564089.77,
+            "market_cap": 8772887917.240253
+        },
+        {
+            "timestamp": "2024-08-26 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.4861444080308e-05,
+            "volume_24h": 216639929.4,
+            "market_cap": 8757406681.899359
+        },
+        {
+            "timestamp": "2024-08-27 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.4720753418081e-05,
+            "volume_24h": 241029754.89,
+            "market_cap": 8674501858.111017
+        },
+        {
+            "timestamp": "2024-08-28 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3776057694425e-05,
+            "volume_24h": 264893597.78,
+            "market_cap": 8117820784.9712305
+        },
+        {
+            "timestamp": "2024-08-29 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.411145142557e-05,
+            "volume_24h": 211369627.15,
+            "market_cap": 8315458323.653117
+        },
+        {
+            "timestamp": "2024-08-30 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.4100870268093e-05,
+            "volume_24h": 196331089.69,
+            "market_cap": 8309221802.663299
+        },
+        {
+            "timestamp": "2024-08-31 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3954607313954e-05,
+            "volume_24h": 180306844.1,
+            "market_cap": 8223033266.14288
+        },
+        {
+            "timestamp": "2024-09-01 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3633657984745e-05,
+            "volume_24h": 103343802.58,
+            "market_cap": 8033903588.210386
+        },
+        {
+            "timestamp": "2024-09-02 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.325396493965e-05,
+            "volume_24h": 158066572.22,
+            "market_cap": 7810161910.859188
+        },
+        {
+            "timestamp": "2024-09-03 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3647691314908e-05,
+            "volume_24h": 142848989.84,
+            "market_cap": 8042172970.438016
+        },
+        {
+            "timestamp": "2024-09-04 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3169630147134e-05,
+            "volume_24h": 181552570.73,
+            "market_cap": 7760465912.14872
+        },
+        {
+            "timestamp": "2024-09-05 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3478430728227e-05,
+            "volume_24h": 158829090.65,
+            "market_cap": 7942432744.627984
+        },
+        {
+            "timestamp": "2024-09-06 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3375884190367e-05,
+            "volume_24h": 136994235.68,
+            "market_cap": 7882004972.299642
+        },
+        {
+            "timestamp": "2024-09-07 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2934509154968e-05,
+            "volume_24h": 210893441.29,
+            "market_cap": 7621912735.98538
+        },
+        {
+            "timestamp": "2024-09-08 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2968708074551e-05,
+            "volume_24h": 92950324.22,
+            "market_cap": 7642065118.855392
+        },
+        {
+            "timestamp": "2024-09-09 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3111872754079e-05,
+            "volume_24h": 114276527.39,
+            "market_cap": 7726427708.783233
+        },
+        {
+            "timestamp": "2024-09-10 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3428381867551e-05,
+            "volume_24h": 169645795.9,
+            "market_cap": 7912936899.627636
+        },
+        {
+            "timestamp": "2024-09-11 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3243723536348e-05,
+            "volume_24h": 137027416.06,
+            "market_cap": 7804123321.817313
+        },
+        {
+            "timestamp": "2024-09-12 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3389641667144e-05,
+            "volume_24h": 139608526.24,
+            "market_cap": 7890108402.842034
+        },
+        {
+            "timestamp": "2024-09-13 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3448856621006e-05,
+            "volume_24h": 114083209.52,
+            "market_cap": 7925001823.676818
+        },
+        {
+            "timestamp": "2024-09-14 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3864097426363e-05,
+            "volume_24h": 169568204.31,
+            "market_cap": 8169690443.938706
+        },
+        {
+            "timestamp": "2024-09-15 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3821407977079e-05,
+            "volume_24h": 101934397.68,
+            "market_cap": 8144534770.891125
+        },
+        {
+            "timestamp": "2024-09-16 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.33168746279e-05,
+            "volume_24h": 134678221.81,
+            "market_cap": 7847228631.448591
+        },
+        {
+            "timestamp": "2024-09-17 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3265029711529e-05,
+            "volume_24h": 122665043.07,
+            "market_cap": 7816677560.552618
+        },
+        {
+            "timestamp": "2024-09-18 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3291640645116e-05,
+            "volume_24h": 135030273.32,
+            "market_cap": 7832358528.784768
+        },
+        {
+            "timestamp": "2024-09-19 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3956492434269e-05,
+            "volume_24h": 208212742.84,
+            "market_cap": 8224135411.388244
+        },
+        {
+            "timestamp": "2024-09-20 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.4409607349727e-05,
+            "volume_24h": 253874916.18,
+            "market_cap": 8491142211.790086
+        },
+        {
+            "timestamp": "2024-09-21 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.4241721332748e-05,
+            "volume_24h": 170057892.25,
+            "market_cap": 8392212101.011732
+        },
+        {
+            "timestamp": "2024-09-22 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.4688183184069e-05,
+            "volume_24h": 207081405.7,
+            "market_cap": 8655298430.39755
+        },
+        {
+            "timestamp": "2024-09-23 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.4644334163848e-05,
+            "volume_24h": 192062631.39,
+            "market_cap": 8629459318.990131
+        },
+        {
+            "timestamp": "2024-09-24 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.449549904218e-05,
+            "volume_24h": 158990264.58,
+            "market_cap": 8541755207.678274
+        },
+        {
+            "timestamp": "2024-09-25 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.4800029881195e-05,
+            "volume_24h": 222721697.56,
+            "market_cap": 8721205926.248598
+        },
+        {
+            "timestamp": "2024-09-26 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6394051682643e-05,
+            "volume_24h": 512488596.13,
+            "market_cap": 9660514234.748083
+        },
+        {
+            "timestamp": "2024-09-27 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.8978990989799e-05,
+            "volume_24h": 1358380453.93,
+            "market_cap": 11183704302.329914
+        },
+        {
+            "timestamp": "2024-09-28 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.0135837601905e-05,
+            "volume_24h": 1433550372.85,
+            "market_cap": 11865394424.501425
+        },
+        {
+            "timestamp": "2024-09-29 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.9669478865755e-05,
+            "volume_24h": 765082473.33,
+            "market_cap": 11590584335.703323
+        },
+        {
+            "timestamp": "2024-09-30 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.8782806109261e-05,
+            "volume_24h": 544579347.95,
+            "market_cap": 11068096847.47131
+        },
+        {
+            "timestamp": "2024-10-01 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.8481486519469e-05,
+            "volume_24h": 567009253.08,
+            "market_cap": 10890538822.080034
+        },
+        {
+            "timestamp": "2024-10-02 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6921569540324e-05,
+            "volume_24h": 796190378.51,
+            "market_cap": 9971330475.235588
+        },
+        {
+            "timestamp": "2024-10-03 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6502186097569e-05,
+            "volume_24h": 499339065.78,
+            "market_cap": 9724201411.310127
+        },
+        {
+            "timestamp": "2024-10-04 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6564321401116e-05,
+            "volume_24h": 408809199.22,
+            "market_cap": 9760815714.790146
+        },
+        {
+            "timestamp": "2024-10-05 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7569328389795e-05,
+            "volume_24h": 507487036.85,
+            "market_cap": 10353033522.411802
+        },
+        {
+            "timestamp": "2024-10-06 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7328533349307e-05,
+            "volume_24h": 271027276.86,
+            "market_cap": 10211140826.714249
+        },
+        {
+            "timestamp": "2024-10-07 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.8580531992913e-05,
+            "volume_24h": 498004222.69,
+            "market_cap": 10948902790.752934
+        },
+        {
+            "timestamp": "2024-10-08 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7261688244188e-05,
+            "volume_24h": 490340388.71,
+            "market_cap": 10171751082.86848
+        },
+        {
+            "timestamp": "2024-10-09 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7700710100595e-05,
+            "volume_24h": 299267730.82,
+            "market_cap": 10430452323.034618
+        },
+        {
+            "timestamp": "2024-10-10 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7112903363288e-05,
+            "volume_24h": 293427397.09,
+            "market_cap": 10084076902.27861
+        },
+        {
+            "timestamp": "2024-10-11 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.690653172544e-05,
+            "volume_24h": 323002579.21,
+            "market_cap": 9962468793.493538
+        },
+        {
+            "timestamp": "2024-10-12 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7822785746712e-05,
+            "volume_24h": 414385576.61,
+            "market_cap": 10502387133.091536
+        },
+        {
+            "timestamp": "2024-10-13 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7701975312261e-05,
+            "volume_24h": 248931829.79,
+            "market_cap": 10431197445.263033
+        },
+        {
+            "timestamp": "2024-10-14 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7897012192461e-05,
+            "volume_24h": 290528641.02,
+            "market_cap": 10546126262.856075
+        },
+        {
+            "timestamp": "2024-10-15 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.8379807967148e-05,
+            "volume_24h": 489128691.97,
+            "market_cap": 10830616904.015127
+        },
+        {
+            "timestamp": "2024-10-16 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.8016798027771e-05,
+            "volume_24h": 490104317.5,
+            "market_cap": 10616706890.742868
+        },
+        {
+            "timestamp": "2024-10-17 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.8160064402204e-05,
+            "volume_24h": 561947631.87,
+            "market_cap": 10701128891.26432
+        },
+        {
+            "timestamp": "2024-10-18 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.8905130377275e-05,
+            "volume_24h": 510111899.71,
+            "market_cap": 11140171665.214378
+        },
+        {
+            "timestamp": "2024-10-19 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.9310992552539e-05,
+            "volume_24h": 459790423.07,
+            "market_cap": 11379332736.25636
+        },
+        {
+            "timestamp": "2024-10-20 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.8743212360672e-05,
+            "volume_24h": 318143963.87,
+            "market_cap": 11044758520.282469
+        },
+        {
+            "timestamp": "2024-10-21 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.9139172979741e-05,
+            "volume_24h": 317339807.91,
+            "market_cap": 11278084960.75714
+        },
+        {
+            "timestamp": "2024-10-22 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.8480061458685e-05,
+            "volume_24h": 349033306.02,
+            "market_cap": 10889692225.686922
+        },
+        {
+            "timestamp": "2024-10-23 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7932064556765e-05,
+            "volume_24h": 247450508.13,
+            "market_cap": 10566775187.316813
+        },
+        {
+            "timestamp": "2024-10-24 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7752948068058e-05,
+            "volume_24h": 286943286.97,
+            "market_cap": 10461227738.359276
+        },
+        {
+            "timestamp": "2024-10-25 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7609593183412e-05,
+            "volume_24h": 219922905.12,
+            "market_cap": 10376753350.615356
+        },
+        {
+            "timestamp": "2024-10-26 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6914416643869e-05,
+            "volume_24h": 355986404.82,
+            "market_cap": 9967108555.709148
+        },
+        {
+            "timestamp": "2024-10-27 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7017218903236e-05,
+            "volume_24h": 161651443.51,
+            "market_cap": 10027685777.44058
+        },
+        {
+            "timestamp": "2024-10-28 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7007304798067e-05,
+            "volume_24h": 175729054.55,
+            "market_cap": 10021843556.251987
+        },
+        {
+            "timestamp": "2024-10-29 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.820565045724e-05,
+            "volume_24h": 546958075.36,
+            "market_cap": 10727988392.59036
+        },
+        {
+            "timestamp": "2024-10-30 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.8935692857959e-05,
+            "volume_24h": 721519396.78,
+            "market_cap": 11158178017.93085
+        },
+        {
+            "timestamp": "2024-10-31 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.8506574504098e-05,
+            "volume_24h": 349296823.6,
+            "market_cap": 10905312712.368591
+        },
+        {
+            "timestamp": "2024-11-01 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7272648410136e-05,
+            "volume_24h": 492816644.32,
+            "market_cap": 10178103449.724226
+        },
+        {
+            "timestamp": "2024-11-02 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7810084734655e-05,
+            "volume_24h": 323771569.57,
+            "market_cap": 10494792845.802938
+        },
+        {
+            "timestamp": "2024-11-03 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7138227821508e-05,
+            "volume_24h": 214434927.85,
+            "market_cap": 10098893599.362043
+        },
+        {
+            "timestamp": "2024-11-04 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6877560412716e-05,
+            "volume_24h": 267137027.13,
+            "market_cap": 9945292395.455294
+        },
+        {
+            "timestamp": "2024-11-05 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7564935236065e-05,
+            "volume_24h": 356593797.67,
+            "market_cap": 10350335720.293188
+        },
+        {
+            "timestamp": "2024-11-06 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.9246047632048e-05,
+            "volume_24h": 979868377.39,
+            "market_cap": 11340949088.655218
+        },
+        {
+            "timestamp": "2024-11-07 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.8582611199295e-05,
+            "volume_24h": 909979400.29,
+            "market_cap": 10950011070.626476
+        },
+        {
+            "timestamp": "2024-11-08 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.918451545449407e-05,
+            "volume_24h": 514190311.5315287,
+            "market_cap": 11304689824.486834
+        },
+        {
+            "timestamp": "2024-11-09 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.8935977016982e-05,
+            "volume_24h": 554417821.4,
+            "market_cap": 11158235115.469082
+        },
+        {
+            "timestamp": "2024-11-10 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.2440797468331e-05,
+            "volume_24h": 1825591529.21,
+            "market_cap": 13223489028.810682
+        },
+        {
+            "timestamp": "2024-11-11 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.5111996130646e-05,
+            "volume_24h": 6219446290.64,
+            "market_cap": 14797510856.02113
+        },
+        {
+            "timestamp": "2024-11-12 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.9087175206347e-05,
+            "volume_24h": 5362574169.91,
+            "market_cap": 17139925030.14968
+        },
+        {
+            "timestamp": "2024-11-13 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.4082262382981e-05,
+            "volume_24h": 4226125143.73,
+            "market_cap": 14190726972.91373
+        },
+        {
+            "timestamp": "2024-11-14 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.5647932099677e-05,
+            "volume_24h": 3407143871.51,
+            "market_cap": 15113314164.479366
+        },
+        {
+            "timestamp": "2024-11-15 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.3704580565147e-05,
+            "volume_24h": 1874100831.5,
+            "market_cap": 13968173417.90534
+        },
+        {
+            "timestamp": "2024-11-16 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.5410304398057e-05,
+            "volume_24h": 1412956485.1,
+            "market_cap": 14973288752.089737
+        },
+        {
+            "timestamp": "2024-11-17 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.425290176859e-05,
+            "volume_24h": 1200567465.54,
+            "market_cap": 14291277094.46383
+        },
+        {
+            "timestamp": "2024-11-18 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.5471886873302e-05,
+            "volume_24h": 1238326691.66,
+            "market_cap": 15009576864.9193
+        },
+        {
+            "timestamp": "2024-11-19 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.5281828696028e-05,
+            "volume_24h": 1300876006.93,
+            "market_cap": 14897582992.87747
+        },
+        {
+            "timestamp": "2024-11-20 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.4396355691533e-05,
+            "volume_24h": 1243093702.52,
+            "market_cap": 14375808636.935328
+        },
+        {
+            "timestamp": "2024-11-21 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.4138293846202e-05,
+            "volume_24h": 1159280552.62,
+            "market_cap": 14223742706.458418
+        },
+        {
+            "timestamp": "2024-11-22 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.4888914422737e-05,
+            "volume_24h": 1407144888.43,
+            "market_cap": 14666053741.65886
+        },
+        {
+            "timestamp": "2024-11-23 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.6977836583273e-05,
+            "volume_24h": 3005067605.37,
+            "market_cap": 15896968294.040028
+        },
+        {
+            "timestamp": "2024-11-24 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.6884635498854e-05,
+            "volume_24h": 2867395274.77,
+            "market_cap": 15842048501.245035
+        },
+        {
+            "timestamp": "2024-11-25 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.5718949360974e-05,
+            "volume_24h": 1782823039.99,
+            "market_cap": 15155155807.37122
+        },
+        {
+            "timestamp": "2024-11-26 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.4985326658524e-05,
+            "volume_24h": 1427539207.49,
+            "market_cap": 14722860989.976185
+        },
+        {
+            "timestamp": "2024-11-27 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.4643455461664e-05,
+            "volume_24h": 965706276.32,
+            "market_cap": 14521409838.38777
+        },
+        {
+            "timestamp": "2024-11-28 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.5571552605545e-05,
+            "volume_24h": 1048718056.13,
+            "market_cap": 15068299110.622017
+        },
+        {
+            "timestamp": "2024-11-29 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.6065083059808e-05,
+            "volume_24h": 726224977.62,
+            "market_cap": 15359083551.464
+        },
+        {
+            "timestamp": "2024-11-30 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.6401754989962e-05,
+            "volume_24h": 1152157650.97,
+            "market_cap": 15557459581.43368
+        },
+        {
+            "timestamp": "2024-12-01 07:15:00",
+            "symbol": "SHIB",
+            "price": 3.0728141080906e-05,
+            "volume_24h": 4430746493.15,
+            "market_cap": 18106807530.66861
+        },
+        {
+            "timestamp": "2024-12-02 07:15:00",
+            "symbol": "SHIB",
+            "price": 3.0282072143566e-05,
+            "volume_24h": 6133920410.55,
+            "market_cap": 17843955896.755882
+        },
+        {
+            "timestamp": "2024-12-03 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.9558158561659e-05,
+            "volume_24h": 2917310303.16,
+            "market_cap": 17417324169.74508
+        },
+        {
+            "timestamp": "2024-12-04 07:15:00",
+            "symbol": "SHIB",
+            "price": 3.033040368326e-05,
+            "volume_24h": 3289418816.76,
+            "market_cap": 17872373614.54631
+        },
+        {
+            "timestamp": "2024-12-05 07:15:00",
+            "symbol": "SHIB",
+            "price": 3.1504983947177e-05,
+            "volume_24h": 4620656847.2,
+            "market_cap": 18564501585.65836
+        },
+        {
+            "timestamp": "2024-12-06 07:15:00",
+            "symbol": "SHIB",
+            "price": 3.0822415493251e-05,
+            "volume_24h": 2485122216.21,
+            "market_cap": 18162292365.42643
+        },
+        {
+            "timestamp": "2024-12-07 07:15:00",
+            "symbol": "SHIB",
+            "price": 3.0550051835559e-05,
+            "volume_24h": 1469829344.99,
+            "market_cap": 18001792088.5585
+        },
+        {
+            "timestamp": "2024-12-08 07:15:00",
+            "symbol": "SHIB",
+            "price": 3.2590039820548e-05,
+            "volume_24h": 2761340822.23,
+            "market_cap": 19203866630.578907
+        },
+        {
+            "timestamp": "2024-12-09 07:15:00",
+            "symbol": "SHIB",
+            "price": 3.0637754139021e-05,
+            "volume_24h": 1482801507.64,
+            "market_cap": 18053471034.73559
+        },
+        {
+            "timestamp": "2024-12-10 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.6975342034682e-05,
+            "volume_24h": 3169263062.53,
+            "market_cap": 15895372457.280285
+        },
+        {
+            "timestamp": "2024-12-11 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.7005862175696e-05,
+            "volume_24h": 2298344124.56,
+            "market_cap": 15913356228.440895
+        },
+        {
+            "timestamp": "2024-12-12 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.9299035018124e-05,
+            "volume_24h": 1491165054.49,
+            "market_cap": 17264621139.209198
+        },
+        {
+            "timestamp": "2024-12-13 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.7509495608438e-05,
+            "volume_24h": 1135359265.01,
+            "market_cap": 16210124653.406263
+        },
+        {
+            "timestamp": "2024-12-14 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.853458579021e-05,
+            "volume_24h": 820062989.72,
+            "market_cap": 16814164731.195087
+        },
+        {
+            "timestamp": "2024-12-15 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.7221439014197e-05,
+            "volume_24h": 694283830.6,
+            "market_cap": 16040383679.706278
+        },
+        {
+            "timestamp": "2024-12-16 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.7507866249539e-05,
+            "volume_24h": 665468278.98,
+            "market_cap": 16209161963.095318
+        },
+        {
+            "timestamp": "2024-12-17 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.7031901178662e-05,
+            "volume_24h": 741134473.82,
+            "market_cap": 15928696494.82794
+        },
+        {
+            "timestamp": "2024-12-18 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.5634965106462e-05,
+            "volume_24h": 840688567.64,
+            "market_cap": 15105544134.952911
+        },
+        {
+            "timestamp": "2024-12-19 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.4014250914851e-05,
+            "volume_24h": 1386384815.57,
+            "market_cap": 14150529238.1114
+        },
+        {
+            "timestamp": "2024-12-20 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.2027414441478e-05,
+            "volume_24h": 1477184396.34,
+            "market_cap": 12979774732.263926
+        },
+        {
+            "timestamp": "2024-12-21 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.3730179603289e-05,
+            "volume_24h": 1819698369.73,
+            "market_cap": 13983138432.234934
+        },
+        {
+            "timestamp": "2024-12-22 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.1545564878751e-05,
+            "volume_24h": 942018263.39,
+            "market_cap": 12695842202.46144
+        },
+        {
+            "timestamp": "2024-12-23 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.1426011664163e-05,
+            "volume_24h": 670352361.29,
+            "market_cap": 12625394684.300636
+        },
+        {
+            "timestamp": "2024-12-24 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.2179141160369e-05,
+            "volume_24h": 618590535.06,
+            "market_cap": 13069180249.183502
+        },
+        {
+            "timestamp": "2024-12-25 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.313330034104e-05,
+            "volume_24h": 707477675.17,
+            "market_cap": 13631423596.571136
+        },
+        {
+            "timestamp": "2024-12-26 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.229248810056e-05,
+            "volume_24h": 525802825.47,
+            "market_cap": 13135969991.94342
+        },
+        {
+            "timestamp": "2024-12-27 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.1852393097637e-05,
+            "volume_24h": 488755422.72,
+            "market_cap": 12876640994.957005
+        },
+        {
+            "timestamp": "2024-12-28 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.1784926195071e-05,
+            "volume_24h": 420589484.09,
+            "market_cap": 12836885739.132286
+        },
+        {
+            "timestamp": "2024-12-29 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.2246788545517e-05,
+            "volume_24h": 315204208.32,
+            "market_cap": 13109040505.240744
+        },
+        {
+            "timestamp": "2024-12-30 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.1643734031605e-05,
+            "volume_24h": 398734940.95,
+            "market_cap": 12753687359.572794
+        },
+        {
+            "timestamp": "2024-12-31 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.0663435316382e-05,
+            "volume_24h": 503285535.84,
+            "market_cap": 12176041003.21952
+        },
+        {
+            "timestamp": "2025-01-01 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.1079308905455e-05,
+            "volume_24h": 390619614.92,
+            "market_cap": 12421096745.244549
+        },
+        {
+            "timestamp": "2025-01-02 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.2065560482417e-05,
+            "volume_24h": 384880045.62,
+            "market_cap": 13002250778.052197
+        },
+        {
+            "timestamp": "2025-01-03 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.2592699899068e-05,
+            "volume_24h": 515612751.3,
+            "market_cap": 13312869790.435053
+        },
+        {
+            "timestamp": "2025-01-04 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.4551536073629e-05,
+            "volume_24h": 781587928.86,
+            "market_cap": 14467124239.676588
+        },
+        {
+            "timestamp": "2025-01-05 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.4117688176052e-05,
+            "volume_24h": 426981510.44,
+            "market_cap": 14211476318.024187
+        },
+        {
+            "timestamp": "2025-01-06 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.3969000143734e-05,
+            "volume_24h": 418134982.68,
+            "market_cap": 14123860965.964312
+        },
+        {
+            "timestamp": "2025-01-07 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.41189856632e-05,
+            "volume_24h": 491021139.36,
+            "market_cap": 14212240719.494003
+        },
+        {
+            "timestamp": "2025-01-08 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.1444159969739e-05,
+            "volume_24h": 842626543.11,
+            "market_cap": 12636084971.408524
+        },
+        {
+            "timestamp": "2025-01-09 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.118756193184e-05,
+            "volume_24h": 583261896.99,
+            "market_cap": 12484883207.054531
+        },
+        {
+            "timestamp": "2025-01-10 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.1568607937578e-05,
+            "volume_24h": 555746141.87,
+            "market_cap": 12709416453.909054
+        },
+        {
+            "timestamp": "2025-01-11 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.1523602567397e-05,
+            "volume_24h": 454222195.27,
+            "market_cap": 12682896271.508429
+        },
+        {
+            "timestamp": "2025-01-12 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.1684081812105e-05,
+            "volume_24h": 406051740.79,
+            "market_cap": 12777459398.658373
+        },
+        {
+            "timestamp": "2025-01-13 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.0891212452949e-05,
+            "volume_24h": 395576034.38,
+            "market_cap": 12310256935.27429
+        },
+        {
+            "timestamp": "2025-01-14 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.1379028035123e-05,
+            "volume_24h": 521850751.92,
+            "market_cap": 12597704385.81076
+        },
+        {
+            "timestamp": "2025-01-15 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.1512765971272e-05,
+            "volume_24h": 392338338.23,
+            "market_cap": 12676509962.8461
+        },
+        {
+            "timestamp": "2025-01-16 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.2309152547415e-05,
+            "volume_24h": 526303720.96,
+            "market_cap": 13145784491.35961
+        },
+        {
+            "timestamp": "2025-01-17 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.2780917146925e-05,
+            "volume_24h": 542973258.51,
+            "market_cap": 13423774073.273998
+        },
+        {
+            "timestamp": "2025-01-18 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.287004450603e-05,
+            "volume_24h": 1230939504.01,
+            "market_cap": 13476292768.419624
+        },
+        {
+            "timestamp": "2025-01-19 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.1942304835637e-05,
+            "volume_24h": 722027781.18,
+            "market_cap": 12929616678.82186
+        },
+        {
+            "timestamp": "2025-01-20 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.1907741844638e-05,
+            "volume_24h": 1707834769.06,
+            "market_cap": 12909250247.536789
+        },
+        {
+            "timestamp": "2025-01-21 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.9901403358355e-05,
+            "volume_24h": 888248918.0,
+            "market_cap": 11727004857.41302
+        },
+        {
+            "timestamp": "2025-01-22 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.0593718801097e-05,
+            "volume_24h": 599826076.8,
+            "market_cap": 12134955300.614113
+        },
+        {
+            "timestamp": "2025-01-23 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.0007947192086e-05,
+            "volume_24h": 322500658.6,
+            "market_cap": 11789786338.916214
+        },
+        {
+            "timestamp": "2025-01-24 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.0243480685425e-05,
+            "volume_24h": 443996151.7,
+            "market_cap": 11928575533.999102
+        },
+        {
+            "timestamp": "2025-01-25 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.9914331930226e-05,
+            "volume_24h": 272090097.31,
+            "market_cap": 11734622711.055132
+        },
+        {
+            "timestamp": "2025-01-26 07:15:00",
+            "symbol": "SHIB",
+            "price": 2.0079924500593e-05,
+            "volume_24h": 177697158.23,
+            "market_cap": 11832198962.153511
+        },
+        {
+            "timestamp": "2025-01-27 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7961516715698e-05,
+            "volume_24h": 399228137.63,
+            "market_cap": 10583916108.12959
+        },
+        {
+            "timestamp": "2025-01-28 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.9207449561382e-05,
+            "volume_24h": 468359890.66,
+            "market_cap": 11318088424.650433
+        },
+        {
+            "timestamp": "2025-01-29 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.8494781638224e-05,
+            "volume_24h": 283781488.46,
+            "market_cap": 10898145125.800304
+        },
+        {
+            "timestamp": "2025-01-30 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.8558684559514e-05,
+            "volume_24h": 332559789.18,
+            "market_cap": 10935799971.281412
+        },
+        {
+            "timestamp": "2025-01-31 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.879047815565e-05,
+            "volume_24h": 229006244.51,
+            "market_cap": 11072364758.183424
+        },
+        {
+            "timestamp": "2025-02-01 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.9097252591094e-05,
+            "volume_24h": 365404941.52,
+            "market_cap": 11253132764.445662
+        },
+        {
+            "timestamp": "2025-02-02 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.7497590877019e-05,
+            "volume_24h": 354141071.65,
+            "market_cap": 10310525134.152555
+        },
+        {
+            "timestamp": "2025-02-03 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.4090580179429e-05,
+            "volume_24h": 1400918891.45,
+            "market_cap": 8302930470.49851
+        },
+        {
+            "timestamp": "2025-02-04 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.5467828334592e-05,
+            "volume_24h": 888647351.79,
+            "market_cap": 9114479386.4404
+        },
+        {
+            "timestamp": "2025-02-05 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6356557355437e-05,
+            "volume_24h": 587139898.51,
+            "market_cap": 9638166191.016582
+        },
+        {
+            "timestamp": "2025-02-06 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6023407519468e-05,
+            "volume_24h": 323258372.77,
+            "market_cap": 9441856288.507618
+        },
+        {
+            "timestamp": "2025-02-07 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.4885409693763e-05,
+            "volume_24h": 376858736.81,
+            "market_cap": 8771286341.604855
+        },
+        {
+            "timestamp": "2025-02-08 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.5111921533491e-05,
+            "volume_24h": 314371368.11,
+            "market_cap": 8904759325.630323
+        },
+        {
+            "timestamp": "2025-02-09 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6244126054834e-05,
+            "volume_24h": 276853475.46,
+            "market_cap": 9571915265.383064
+        },
+        {
+            "timestamp": "2025-02-10 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.5885460422491e-05,
+            "volume_24h": 268890011.37,
+            "market_cap": 9360569802.720264
+        },
+        {
+            "timestamp": "2025-02-11 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6364686652865e-05,
+            "volume_24h": 228783659.02,
+            "market_cap": 9642955681.801476
+        },
+        {
+            "timestamp": "2025-02-12 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.5609276257784e-05,
+            "volume_24h": 257870120.27,
+            "market_cap": 9197826891.660769
+        },
+        {
+            "timestamp": "2025-02-13 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6572373997048e-05,
+            "volume_24h": 465579818.98,
+            "market_cap": 9765335978.162704
+        },
+        {
+            "timestamp": "2025-02-14 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.637533032781e-05,
+            "volume_24h": 269911613.5,
+            "market_cap": 9649226999.129522
+        },
+        {
+            "timestamp": "2025-02-15 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6652464467225e-05,
+            "volume_24h": 313413357.02,
+            "market_cap": 9812529350.32864
+        },
+        {
+            "timestamp": "2025-02-16 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.6066636668046e-05,
+            "volume_24h": 180985061.49,
+            "market_cap": 9467327990.051182
+        },
+        {
+            "timestamp": "2025-02-17 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.5918037274675e-05,
+            "volume_24h": 165543571.53,
+            "market_cap": 9379764520.407158
+        },
+        {
+            "timestamp": "2025-02-18 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.5143140789787e-05,
+            "volume_24h": 251342837.55,
+            "market_cap": 8923153760.354141
+        },
+        {
+            "timestamp": "2025-02-19 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.5353141241399e-05,
+            "volume_24h": 214957603.07,
+            "market_cap": 9046897093.626236
+        },
+        {
+            "timestamp": "2025-02-20 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.5360195266775e-05,
+            "volume_24h": 166027055.49,
+            "market_cap": 9051053488.14373
+        },
+        {
+            "timestamp": "2025-02-21 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.5618438151689e-05,
+            "volume_24h": 163752057.46,
+            "market_cap": 9203223543.50887
+        },
+        {
+            "timestamp": "2025-02-22 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.5224576696092e-05,
+            "volume_24h": 246643769.61,
+            "market_cap": 8971138985.97779
+        },
+        {
+            "timestamp": "2025-02-23 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.5650272748158e-05,
+            "volume_24h": 141339889.77,
+            "market_cap": 9221981283.375128
+        },
+        {
+            "timestamp": "2025-02-24 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.5015992032313e-05,
+            "volume_24h": 174133254.01,
+            "market_cap": 8848228985.054815
+        },
+        {
+            "timestamp": "2025-02-25 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3549013349727e-05,
+            "volume_24h": 388275362.36,
+            "market_cap": 7983806167.864095
+        },
+        {
+            "timestamp": "2025-02-26 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.4296774307874e-05,
+            "volume_24h": 414683799.53,
+            "market_cap": 8424427044.099772
+        },
+        {
+            "timestamp": "2025-02-27 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.469042083049e-05,
+            "volume_24h": 279618353.26,
+            "market_cap": 8656384267.861446
+        },
+        {
+            "timestamp": "2025-02-28 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3250579396677e-05,
+            "volume_24h": 318754350.2,
+            "market_cap": 7807952139.629143
+        },
+        {
+            "timestamp": "2025-03-01 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3868105832632e-05,
+            "volume_24h": 255924980.15,
+            "market_cap": 8171831644.766886
+        },
+        {
+            "timestamp": "2025-03-02 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3701768803861e-05,
+            "volume_24h": 147432714.63,
+            "market_cap": 8073816707.013288
+        },
+        {
+            "timestamp": "2025-03-03 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.4110394588455e-05,
+            "volume_24h": 446986839.27,
+            "market_cap": 8314600706.088406
+        },
+        {
+            "timestamp": "2025-03-04 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2657177403555e-05,
+            "volume_24h": 477449768.47,
+            "market_cap": 7458287249.917439
+        },
+        {
+            "timestamp": "2025-03-05 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2997116213184e-05,
+            "volume_24h": 311414499.05,
+            "market_cap": 7658596905.25975
+        },
+        {
+            "timestamp": "2025-03-06 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3558084245248e-05,
+            "volume_24h": 209239523.68,
+            "market_cap": 7989149300.670281
+        },
+        {
+            "timestamp": "2025-03-07 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.344021714191e-05,
+            "volume_24h": 273041405.12,
+            "market_cap": 7919695679.604296
+        },
+        {
+            "timestamp": "2025-03-08 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2952497800319e-05,
+            "volume_24h": 279052438.33,
+            "market_cap": 7632304945.779396
+        },
+        {
+            "timestamp": "2025-03-09 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2568487499192e-05,
+            "volume_24h": 164008656.35,
+            "market_cap": 7406025500.171547
+        },
+        {
+            "timestamp": "2025-03-10 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2272882596076e-05,
+            "volume_24h": 319824756.7,
+            "market_cap": 7231839018.1643715
+        },
+        {
+            "timestamp": "2025-03-11 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.1607504330737e-05,
+            "volume_24h": 488776300.5,
+            "market_cap": 6839762546.850646
+        },
+        {
+            "timestamp": "2025-03-12 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2030422554063e-05,
+            "volume_24h": 293842631.06,
+            "market_cap": 7088968589.929687
+        },
+        {
+            "timestamp": "2025-03-13 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.211939599432e-05,
+            "volume_24h": 237472832.31,
+            "market_cap": 7141396440.056298
+        },
+        {
+            "timestamp": "2025-03-14 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2465858840225e-05,
+            "volume_24h": 184126432.58,
+            "market_cap": 7345544579.8866
+        },
+        {
+            "timestamp": "2025-03-15 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.276527348317e-05,
+            "volume_24h": 178875106.26,
+            "market_cap": 7521975517.246587
+        },
+        {
+            "timestamp": "2025-03-16 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2990041773635e-05,
+            "volume_24h": 122081738.18,
+            "market_cap": 7654420893.011572
+        },
+        {
+            "timestamp": "2025-03-17 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3203645782507e-05,
+            "volume_24h": 357715029.14,
+            "market_cap": 7780287517.402405
+        },
+        {
+            "timestamp": "2025-03-18 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2628226280858e-05,
+            "volume_24h": 203919495.18,
+            "market_cap": 7441219654.039403
+        },
+        {
+            "timestamp": "2025-03-19 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.258423929326e-05,
+            "volume_24h": 130000341.7,
+            "market_cap": 7415300069.53186
+        },
+        {
+            "timestamp": "2025-03-20 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2883717496383e-05,
+            "volume_24h": 199151784.5,
+            "market_cap": 7591768452.414346
+        },
+        {
+            "timestamp": "2025-03-21 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2856213999846e-05,
+            "volume_24h": 146144951.9,
+            "market_cap": 7575561755.476749
+        },
+        {
+            "timestamp": "2025-03-22 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2670988444312e-05,
+            "volume_24h": 124836712.57,
+            "market_cap": 7466416817.601878
+        },
+        {
+            "timestamp": "2025-03-23 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2933153490458e-05,
+            "volume_24h": 106159117.33,
+            "market_cap": 7620898202.800112
+        },
+        {
+            "timestamp": "2025-03-24 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3125194414419e-05,
+            "volume_24h": 136704290.59,
+            "market_cap": 7734045682.717951
+        },
+        {
+            "timestamp": "2025-03-25 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3457067524535e-05,
+            "volume_24h": 218773157.25,
+            "market_cap": 7929602095.876216
+        },
+        {
+            "timestamp": "2025-03-26 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.5024893575041e-05,
+            "volume_24h": 315718278.99,
+            "market_cap": 8853446488.963917
+        },
+        {
+            "timestamp": "2025-03-27 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.4427063697799e-05,
+            "volume_24h": 505833561.91,
+            "market_cap": 8501159594.889649
+        },
+        {
+            "timestamp": "2025-03-28 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.3314066433911e-05,
+            "volume_24h": 250728060.63,
+            "market_cap": 7845324659.614092
+        },
+        {
+            "timestamp": "2025-03-29 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2895706510111e-05,
+            "volume_24h": 211432925.19,
+            "market_cap": 7598805708.34511
+        },
+        {
+            "timestamp": "2025-03-30 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2718227944223e-05,
+            "volume_24h": 187383150.39,
+            "market_cap": 7494226291.224915
+        },
+        {
+            "timestamp": "2025-03-31 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2138032950477e-05,
+            "volume_24h": 181219041.68,
+            "market_cap": 7152345705.406176
+        },
+        {
+            "timestamp": "2025-04-01 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2773047978541e-05,
+            "volume_24h": 190391235.21,
+            "market_cap": 7526528810.875203
+        },
+        {
+            "timestamp": "2025-04-02 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2162554773081e-05,
+            "volume_24h": 204599279.72,
+            "market_cap": 7166793788.243564
+        },
+        {
+            "timestamp": "2025-04-03 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2220823019674e-05,
+            "volume_24h": 342565223.86,
+            "market_cap": 7201128364.481728
+        },
+        {
+            "timestamp": "2025-04-04 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2246113819234e-05,
+            "volume_24h": 211003398.99,
+            "market_cap": 7216030541.455613
+        },
+        {
+            "timestamp": "2025-04-05 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2326552073789e-05,
+            "volume_24h": 249512192.65,
+            "market_cap": 7263428555.870907
+        },
+        {
+            "timestamp": "2025-04-06 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2147638243159e-05,
+            "volume_24h": 105242602.43,
+            "market_cap": 7158003458.869142
+        },
+        {
+            "timestamp": "2025-04-07 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.0504516404609e-05,
+            "volume_24h": 351672145.36,
+            "market_cap": 6189792763.508906
+        },
+        {
+            "timestamp": "2025-04-08 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.1283579915612e-05,
+            "volume_24h": 430274836.28,
+            "market_cap": 6648856371.23234
+        },
+        {
+            "timestamp": "2025-04-09 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.1015764477371e-05,
+            "volume_24h": 269702156.34,
+            "market_cap": 6491045604.454517
+        },
+        {
+            "timestamp": "2025-04-10 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.1969526636643e-05,
+            "volume_24h": 328426836.1,
+            "market_cap": 7053050478.450336
+        },
+        {
+            "timestamp": "2025-04-11 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.1970446120287e-05,
+            "volume_24h": 209315152.29,
+            "market_cap": 7053592266.018046
+        },
+        {
+            "timestamp": "2025-04-12 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2266328488966e-05,
+            "volume_24h": 159791844.0,
+            "market_cap": 7227940914.227785
+        },
+        {
+            "timestamp": "2025-04-13 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2336109627747e-05,
+            "volume_24h": 144249520.96,
+            "market_cap": 7269059247.581293
+        },
+        {
+            "timestamp": "2025-04-14 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2106260207973e-05,
+            "volume_24h": 171441730.14,
+            "market_cap": 7133620341.412201
+        },
+        {
+            "timestamp": "2025-04-15 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.1930655757601e-05,
+            "volume_24h": 159520808.13,
+            "market_cap": 7030145075.665893
+        },
+        {
+            "timestamp": "2025-04-16 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.1667286744088e-05,
+            "volume_24h": 131245863.93,
+            "market_cap": 6874953921.260969
+        },
+        {
+            "timestamp": "2025-04-17 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.1978014142706e-05,
+            "volume_24h": 150467751.89,
+            "market_cap": 7058050169.306783
+        },
+        {
+            "timestamp": "2025-04-18 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.1869929556942e-05,
+            "volume_24h": 110115646.44,
+            "market_cap": 6994361069.867742
+        },
+        {
+            "timestamp": "2025-04-19 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2202837086414e-05,
+            "volume_24h": 121244077.38,
+            "market_cap": 7190526829.3530855
+        },
+        {
+            "timestamp": "2025-04-20 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2408331547916e-05,
+            "volume_24h": 91878690.33,
+            "market_cap": 7311614379.171072
+        },
+        {
+            "timestamp": "2025-04-21 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.265817259704e-05,
+            "volume_24h": 144016634.68,
+            "market_cap": 7458832993.05874
+        },
+        {
+            "timestamp": "2025-04-22 07:15:00",
+            "symbol": "SHIB",
+            "price": 1.2332757320713e-05,
+            "volume_24h": 140128110.96,
+            "market_cap": 7267083135.991557
+        }
+    ],
+    "investment_thesis": "SHIB represents a moderate opportunity with a balanced risk-reward profile (score: 51.0/100). Technical factors are balanced (57.0/100), showing mixed price signals. Fundamental factors are average (46.0/100), suggesting a moderate market foundation. Sentiment indicators are neutral (46.0/100), showing balanced market perception. Multiple bullish patterns (inverse head and shoulders, double bottom) have been identified, strengthening the positive case. Chart analysis reveals a double top pattern, suggesting potential downside risk. This analysis is set against a broader market that is currently in a strong bullish trend with sentiment showing greed. The current recommendation for SHIB is Hold, suggesting investors maintain existing positions while monitoring for changes in market conditions.",
+    "risk_assessment": "SHIB is classified as a moderate risk investment. With a market cap of $7.81B and global rank of #11, it balances growth potential with reasonable stability. Annualized volatility of 91.8% indicates moderate price fluctuations. Daily trading volume of $321.29M and liquidity ratio of 0.041 suggest adequate liquidity for most trading activities. Investors should be aware of risks including increased competition, potential regulatory impacts, and higher sensitivity to market sentiment. The current bullish market environment potentially reduces short-term downside risk, though caution is warranted for any sudden sentiment changes. High Bitcoin dominance (63.3%) may limit altcoin performance in the near term.",
+    "analysis_time": "2025-04-23 12:42:25"
+}

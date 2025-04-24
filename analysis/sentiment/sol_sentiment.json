@@ -1,0 +1,20 @@
+{
+    "symbol": "SOL",
+    "price_change_1h": -1.7509962,
+    "price_change_24h": 3.25071349,
+    "price_change_7d": 15.40897505,
+    "market_avg_change_24h": 3.7310203413333327,
+    "market_avg_change_7d": 11.602763898000001,
+    "relative_performance_24h": -0.48030685133333284,
+    "relative_performance_7d": 3.8062111519999995,
+    "fear_greed_value": 72,
+    "fear_greed_classification": "Greed",
+    "market_trend": "Strong Bullish",
+    "sentiment_score": 46,
+    "score_components": {
+        "momentum_score": 17,
+        "market_sentiment_score": 10,
+        "relative_score": 9,
+        "alignment_score": 10
+    }
+}

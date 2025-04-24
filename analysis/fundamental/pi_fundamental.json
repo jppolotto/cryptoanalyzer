@@ -1,0 +1,18 @@
+{
+    "symbol": "PI",
+    "market_cap_usd": 4393772948.366575,
+    "volume_24h_usd": 90664369.53936803,
+    "volume_mcap_ratio": 0.020634741622931,
+    "market_share": 0.16807831354707967,
+    "cmc_rank": 26,
+    "price_change_30d": -36.64759347,
+    "fundamental_score": 29,
+    "score_components": {
+        "market_cap_score": 10,
+        "volume_mcap_score": 5,
+        "rank_score": 7,
+        "stability_score": 3,
+        "growth_score": 1,
+        "market_position_score": 3
+    }
+}

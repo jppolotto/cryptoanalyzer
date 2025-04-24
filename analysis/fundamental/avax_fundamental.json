@@ -1,0 +1,18 @@
+{
+    "symbol": "AVAX",
+    "market_cap_usd": 9262019012.82661,
+    "volume_24h_usd": 489479689.2361204,
+    "volume_mcap_ratio": 0.052848054895834155,
+    "market_share": 0.34467893707115255,
+    "cmc_rank": 13,
+    "price_change_30d": 3.82636162,
+    "fundamental_score": 51,
+    "score_components": {
+        "market_cap_score": 15,
+        "volume_mcap_score": 8,
+        "rank_score": 10,
+        "stability_score": 9,
+        "growth_score": 5,
+        "market_position_score": 4
+    }
+}

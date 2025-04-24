@@ -1,0 +1,18 @@
+{
+    "symbol": "SHIB",
+    "market_cap_usd": 7807035527.465381,
+    "volume_24h_usd": 321294979.03160137,
+    "volume_mcap_ratio": 0.04115454296336633,
+    "market_share": 0.28823691346436,
+    "cmc_rank": 16,
+    "price_change_30d": -2.2810282,
+    "fundamental_score": 46,
+    "score_components": {
+        "market_cap_score": 15,
+        "volume_mcap_score": 5,
+        "rank_score": 10,
+        "stability_score": 9,
+        "growth_score": 3,
+        "market_position_score": 4
+    }
+}

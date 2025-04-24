@@ -1,0 +1,18 @@
+{
+    "symbol": "USDe",
+    "market_cap_usd": 4820368670.932377,
+    "volume_24h_usd": 41348423.20490638,
+    "volume_mcap_ratio": 0.008577854937578578,
+    "market_share": 0.18439720176862817,
+    "cmc_rank": 25,
+    "price_change_30d": -0.03852007,
+    "fundamental_score": 40,
+    "score_components": {
+        "market_cap_score": 10,
+        "volume_mcap_score": 2,
+        "rank_score": 7,
+        "stability_score": 15,
+        "growth_score": 3,
+        "market_position_score": 3
+    }
+}

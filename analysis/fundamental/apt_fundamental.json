@@ -1,0 +1,18 @@
+{
+    "symbol": "APT",
+    "market_cap_usd": 3180485822.5378394,
+    "volume_24h_usd": 99194460.65486825,
+    "volume_mcap_ratio": 0.031188461823017006,
+    "market_share": 0.12166552518634083,
+    "cmc_rank": 30,
+    "price_change_30d": -10.41355147,
+    "fundamental_score": 36,
+    "score_components": {
+        "market_cap_score": 10,
+        "volume_mcap_score": 5,
+        "rank_score": 7,
+        "stability_score": 9,
+        "growth_score": 2,
+        "market_position_score": 3
+    }
+}

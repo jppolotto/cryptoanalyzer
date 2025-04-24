@@ -1,0 +1,20 @@
+{
+    "symbol": "XLM",
+    "price_change_1h": -1.19617095,
+    "price_change_24h": 2.74065509,
+    "price_change_7d": 13.64453871,
+    "market_avg_change_24h": 3.7310203413333327,
+    "market_avg_change_7d": 11.602763898000001,
+    "relative_performance_24h": -0.9903652513333325,
+    "relative_performance_7d": 2.041774812,
+    "fear_greed_value": 72,
+    "fear_greed_classification": "Greed",
+    "market_trend": "Strong Bullish",
+    "sentiment_score": 46,
+    "score_components": {
+        "momentum_score": 17,
+        "market_sentiment_score": 10,
+        "relative_score": 9,
+        "alignment_score": 10
+    }
+}

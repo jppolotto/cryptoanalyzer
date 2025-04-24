@@ -1,0 +1,14 @@
+{
+    "symbol": "USDC",
+    "current_price": 0.9999298788023046,
+    "predicted_price": 0.999748858574975,
+    "prediction_days": 30,
+    "price_change_percent": -0.018103292157485892,
+    "trend": "Neutral",
+    "trend_strength": "Neutral",
+    "confidence": 100.0,
+    "best_model": "Random Forest",
+    "model_agreement": 3,
+    "available_models": 3,
+    "prediction_date": "2025-04-23 20:16:26"
+}

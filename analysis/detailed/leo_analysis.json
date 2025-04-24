@@ -1,0 +1,2641 @@
+{
+    "symbol": "LEO",
+    "name": "UNUS SED LEO",
+    "price_usd": 9.07536218910776,
+    "market_cap_usd": 8382250087.177865,
+    "volume_24h_usd": 4912267.44292214,
+    "percent_change_24h": 0.72862397,
+    "percent_change_7d": -3.49971121,
+    "technical_score": 37,
+    "fundamental_score": 49,
+    "sentiment_score": 28,
+    "total_score": 38.4,
+    "technical_weight": 0.45,
+    "fundamental_weight": 0.3,
+    "sentiment_weight": 0.25,
+    "risk_profile": "Moderate",
+    "market_opportunity": "Limited",
+    "recommendation": "Sell",
+    "rank": 15,
+    "technical_data": {
+        "symbol": "LEO",
+        "price": 9.06526885737832,
+        "ma_7": 9.12573681316759,
+        "ma_30": 9.320825590984759,
+        "ma_90": 9.595632286527724,
+        "ma_200": 8.719145217381403,
+        "rsi_14": 47.204663282156524,
+        "macd": -0.1025362566602368,
+        "macd_signal": -0.09518825381807236,
+        "bb_upper": 9.578195150331284,
+        "bb_middle": 9.206870032383602,
+        "bb_lower": 8.83554491443592,
+        "bb_width": 0.08066261751096938,
+        "roc_7": -3.6151027767485244,
+        "roc_30": -7.03187592729726,
+        "obv": 192091451.6100002,
+        "tenkan_sen": 9.191804497632646,
+        "kijun_sen": 9.276306431954106,
+        "adx": 11.77713993910679,
+        "stoch_k": 20.60428044915986,
+        "stoch_d": 18.3290455103636,
+        "mfi": 49.62317952765626,
+        "psar": 9.320256184977769,
+        "technical_score": 37,
+        "score_components": {
+            "trend_score": 6,
+            "momentum_score": 8,
+            "volatility_score": 4,
+            "support_resistance_score": 8,
+            "volume_score": 10,
+            "ichimoku_score": 0,
+            "obv_score": 0,
+            "adx_score": 0,
+            "psar_score": 0,
+            "ma_cross_score": 1
+        }
+    },
+    "fundamental_data": {
+        "symbol": "LEO",
+        "market_cap_usd": 8382250087.177865,
+        "volume_24h_usd": 4912267.44292214,
+        "volume_mcap_ratio": 0.0005860320787178996,
+        "market_share": 0.31193901095559423,
+        "cmc_rank": 14,
+        "price_change_30d": -7.1370229,
+        "fundamental_score": 49,
+        "score_components": {
+            "market_cap_score": 15,
+            "volume_mcap_score": 2,
+            "rank_score": 10,
+            "stability_score": 15,
+            "growth_score": 3,
+            "market_position_score": 4
+        }
+    },
+    "sentiment_data": {
+        "symbol": "LEO",
+        "price_change_1h": -0.01320115,
+        "price_change_24h": 0.72862397,
+        "price_change_7d": -3.49971121,
+        "market_avg_change_24h": 3.7310203413333327,
+        "market_avg_change_7d": 11.602763898000001,
+        "relative_performance_24h": -3.0023963713333326,
+        "relative_performance_7d": -15.102475108,
+        "fear_greed_value": 72,
+        "fear_greed_classification": "Greed",
+        "market_trend": "Strong Bullish",
+        "sentiment_score": 28,
+        "score_components": {
+            "momentum_score": 14,
+            "market_sentiment_score": 10,
+            "relative_score": 4,
+            "alignment_score": 0
+        }
+    },
+    "pattern_data": {
+        "head_and_shoulders": false,
+        "inverse_head_and_shoulders": false,
+        "double_top": true,
+        "double_bottom": true,
+        "ascending_triangle": false,
+        "descending_triangle": true,
+        "symmetric_triangle": false,
+        "bullish_flag": false,
+        "bearish_flag": false,
+        "pattern_strength": 7
+    },
+    "divergence_data": {
+        "bearish_divergence": false,
+        "bullish_divergence": false,
+        "bearish_divergence_strength": 0,
+        "bullish_divergence_strength": 0,
+        "rsi_divergences": [],
+        "macd_divergences": []
+    },
+    "historical_data": [
+        {
+            "timestamp": "2024-04-29 16:20:00",
+            "symbol": "LEO",
+            "price": 5.76268669337362,
+            "volume_24h": 1477709.54,
+            "market_cap": 5339289619.455813
+        },
+        {
+            "timestamp": "2024-04-30 16:20:00",
+            "symbol": "LEO",
+            "price": 5.83992941331126,
+            "volume_24h": 2276162.43,
+            "market_cap": 5410815142.831909
+        },
+        {
+            "timestamp": "2024-05-01 16:20:00",
+            "symbol": "LEO",
+            "price": 5.812157833940568,
+            "volume_24h": 1788298.05,
+            "market_cap": 5385011624.899698
+        },
+        {
+            "timestamp": "2024-05-02 16:20:00",
+            "symbol": "LEO",
+            "price": 5.925820221157454,
+            "volume_24h": 1011502.49,
+            "market_cap": 5490286140.731971
+        },
+        {
+            "timestamp": "2024-05-03 16:20:00",
+            "symbol": "LEO",
+            "price": 5.89182131156171,
+            "volume_24h": 1911019.09,
+            "market_cap": 5458722328.740665
+        },
+        {
+            "timestamp": "2024-05-04 16:20:00",
+            "symbol": "LEO",
+            "price": 5.810756339837647,
+            "volume_24h": 1472518.3,
+            "market_cap": 5383584885.793279
+        },
+        {
+            "timestamp": "2024-05-05 16:20:00",
+            "symbol": "LEO",
+            "price": 5.824425483606428,
+            "volume_24h": 1691148.98,
+            "market_cap": 5396220506.924929
+        },
+        {
+            "timestamp": "2024-05-06 16:20:00",
+            "symbol": "LEO",
+            "price": 5.800022382281287,
+            "volume_24h": 1989903.1,
+            "market_cap": 5373570440.623618
+        },
+        {
+            "timestamp": "2024-05-07 16:20:00",
+            "symbol": "LEO",
+            "price": 5.805599755878009,
+            "volume_24h": 1977234.76,
+            "market_cap": 5378705436.182499
+        },
+        {
+            "timestamp": "2024-05-08 16:20:00",
+            "symbol": "LEO",
+            "price": 5.894268122507016,
+            "volume_24h": 2312809.96,
+            "market_cap": 5460817165.639497
+        },
+        {
+            "timestamp": "2024-05-09 16:20:00",
+            "symbol": "LEO",
+            "price": 5.946898180854389,
+            "volume_24h": 1914146.6,
+            "market_cap": 5509539583.703519
+        },
+        {
+            "timestamp": "2024-05-10 16:20:00",
+            "symbol": "LEO",
+            "price": 5.966124613296644,
+            "volume_24h": 1688641.96,
+            "market_cap": 5527305318.87589
+        },
+        {
+            "timestamp": "2024-05-11 16:20:00",
+            "symbol": "LEO",
+            "price": 5.930826719441842,
+            "volume_24h": 1722763.57,
+            "market_cap": 5494552952.476518
+        },
+        {
+            "timestamp": "2024-05-12 16:20:00",
+            "symbol": "LEO",
+            "price": 5.879761612234871,
+            "volume_24h": 1388053.12,
+            "market_cap": 5447238139.303687
+        },
+        {
+            "timestamp": "2024-05-13 16:20:00",
+            "symbol": "LEO",
+            "price": 5.956746574303672,
+            "volume_24h": 1442819.12,
+            "market_cap": 5518526038.542021
+        },
+        {
+            "timestamp": "2024-05-14 16:20:00",
+            "symbol": "LEO",
+            "price": 5.9175288103802925,
+            "volume_24h": 2505036.98,
+            "market_cap": 5482157018.7454
+        },
+        {
+            "timestamp": "2024-05-15 16:20:00",
+            "symbol": "LEO",
+            "price": 5.970521731539907,
+            "volume_24h": 2470946.65,
+            "market_cap": 5531225160.74613
+        },
+        {
+            "timestamp": "2024-05-16 16:20:00",
+            "symbol": "LEO",
+            "price": 5.821741452788796,
+            "volume_24h": 2874630.24,
+            "market_cap": 5393344893.132112
+        },
+        {
+            "timestamp": "2024-05-17 16:20:00",
+            "symbol": "LEO",
+            "price": 5.892752209848236,
+            "volume_24h": 3709122.66,
+            "market_cap": 5459105086.805672
+        },
+        {
+            "timestamp": "2024-05-18 16:20:00",
+            "symbol": "LEO",
+            "price": 5.894653046252901,
+            "volume_24h": 1539193.88,
+            "market_cap": 5460849618.321113
+        },
+        {
+            "timestamp": "2024-05-19 16:20:00",
+            "symbol": "LEO",
+            "price": 5.88030412316912,
+            "volume_24h": 1002583.78,
+            "market_cap": 5447532373.799608
+        },
+        {
+            "timestamp": "2024-05-20 16:20:00",
+            "symbol": "LEO",
+            "price": 5.929260783672944,
+            "volume_24h": 1594632.95,
+            "market_cap": 5492853955.291619
+        },
+        {
+            "timestamp": "2024-05-21 16:20:00",
+            "symbol": "LEO",
+            "price": 5.985263542872544,
+            "volume_24h": 1456127.22,
+            "market_cap": 5544608916.318064
+        },
+        {
+            "timestamp": "2024-05-22 16:20:00",
+            "symbol": "LEO",
+            "price": 5.977118088747631,
+            "volume_24h": 1682068.43,
+            "market_cap": 5536997994.55571
+        },
+        {
+            "timestamp": "2024-05-23 16:20:00",
+            "symbol": "LEO",
+            "price": 5.980411847948235,
+            "volume_24h": 1917411.23,
+            "market_cap": 5539979955.420808
+        },
+        {
+            "timestamp": "2024-05-24 16:20:00",
+            "symbol": "LEO",
+            "price": 5.974124022221549,
+            "volume_24h": 1984763.25,
+            "market_cap": 5534079449.418508
+        },
+        {
+            "timestamp": "2024-05-25 16:20:00",
+            "symbol": "LEO",
+            "price": 5.967306395186879,
+            "volume_24h": 1919052.01,
+            "market_cap": 5527724172.258068
+        },
+        {
+            "timestamp": "2024-05-26 16:20:00",
+            "symbol": "LEO",
+            "price": 5.96437116041235,
+            "volume_24h": 2247244.13,
+            "market_cap": 5524974123.259502
+        },
+        {
+            "timestamp": "2024-05-27 16:20:00",
+            "symbol": "LEO",
+            "price": 5.856553168207805,
+            "volume_24h": 2413726.97,
+            "market_cap": 5425052216.050346
+        },
+        {
+            "timestamp": "2024-05-28 16:20:00",
+            "symbol": "LEO",
+            "price": 5.95549608374455,
+            "volume_24h": 2622246.58,
+            "market_cap": 5516650161.747773
+        },
+        {
+            "timestamp": "2024-05-29 16:20:00",
+            "symbol": "LEO",
+            "price": 5.9129200857838216,
+            "volume_24h": 2297248.98,
+            "market_cap": 5477171306.520427
+        },
+        {
+            "timestamp": "2024-05-30 16:20:00",
+            "symbol": "LEO",
+            "price": 5.969905139410118,
+            "volume_24h": 2409250.52,
+            "market_cap": 5529919691.373241
+        },
+        {
+            "timestamp": "2024-05-31 16:20:00",
+            "symbol": "LEO",
+            "price": 5.913765961904579,
+            "volume_24h": 2639586.17,
+            "market_cap": 5477900552.068287
+        },
+        {
+            "timestamp": "2024-06-01 16:20:00",
+            "symbol": "LEO",
+            "price": 5.949115896935819,
+            "volume_24h": 2473250.54,
+            "market_cap": 5510613619.229221
+        },
+        {
+            "timestamp": "2024-06-02 16:20:00",
+            "symbol": "LEO",
+            "price": 5.9229736411064655,
+            "volume_24h": 934373.73,
+            "market_cap": 5486393510.081167
+        },
+        {
+            "timestamp": "2024-06-03 16:20:00",
+            "symbol": "LEO",
+            "price": 5.924766970552586,
+            "volume_24h": 3384074.12,
+            "market_cap": 5488009388.677238
+        },
+        {
+            "timestamp": "2024-06-04 16:20:00",
+            "symbol": "LEO",
+            "price": 5.950447733154337,
+            "volume_24h": 2348998.96,
+            "market_cap": 5511763320.611535
+        },
+        {
+            "timestamp": "2024-06-05 16:20:00",
+            "symbol": "LEO",
+            "price": 6.020521122470589,
+            "volume_24h": 2688348.18,
+            "market_cap": 5576624818.324768
+        },
+        {
+            "timestamp": "2024-06-06 16:20:00",
+            "symbol": "LEO",
+            "price": 6.019838712197143,
+            "volume_24h": 3927779.95,
+            "market_cap": 5575955634.306459
+        },
+        {
+            "timestamp": "2024-06-07 16:20:00",
+            "symbol": "LEO",
+            "price": 6.017933781443596,
+            "volume_24h": 2533006.78,
+            "market_cap": 5574170459.161886
+        },
+        {
+            "timestamp": "2024-06-08 16:20:00",
+            "symbol": "LEO",
+            "price": 5.779510302642449,
+            "volume_24h": 3853279.79,
+            "market_cap": 5353278890.151439
+        },
+        {
+            "timestamp": "2024-06-09 16:20:00",
+            "symbol": "LEO",
+            "price": 5.81090307974464,
+            "volume_24h": 1590519.31,
+            "market_cap": 5382332816.910917
+        },
+        {
+            "timestamp": "2024-06-10 16:20:00",
+            "symbol": "LEO",
+            "price": 5.857166072086019,
+            "volume_24h": 1082329.76,
+            "market_cap": 5425165756.547942
+        },
+        {
+            "timestamp": "2024-06-11 16:20:00",
+            "symbol": "LEO",
+            "price": 5.9111700208649,
+            "volume_24h": 2641826.76,
+            "market_cap": 5475128094.840148
+        },
+        {
+            "timestamp": "2024-06-12 16:20:00",
+            "symbol": "LEO",
+            "price": 5.90748173808572,
+            "volume_24h": 2125241.45,
+            "market_cap": 5471664355.338302
+        },
+        {
+            "timestamp": "2024-06-13 16:20:00",
+            "symbol": "LEO",
+            "price": 5.602461421529162,
+            "volume_24h": 3958405.67,
+            "market_cap": 5189108904.008554
+        },
+        {
+            "timestamp": "2024-06-14 16:20:00",
+            "symbol": "LEO",
+            "price": 5.551312827603873,
+            "volume_24h": 1529762.96,
+            "market_cap": 5141701549.252288
+        },
+        {
+            "timestamp": "2024-06-15 16:20:00",
+            "symbol": "LEO",
+            "price": 5.7343336433316185,
+            "volume_24h": 2293484.66,
+            "market_cap": 5311179770.982804
+        },
+        {
+            "timestamp": "2024-06-16 16:20:00",
+            "symbol": "LEO",
+            "price": 5.7930935592132045,
+            "volume_24h": 791855.61,
+            "market_cap": 5365576444.837995
+        },
+        {
+            "timestamp": "2024-06-17 16:20:00",
+            "symbol": "LEO",
+            "price": 5.65256281189274,
+            "volume_24h": 1613364.93,
+            "market_cap": 5235391025.374227
+        },
+        {
+            "timestamp": "2024-06-18 16:20:00",
+            "symbol": "LEO",
+            "price": 5.676181314000453,
+            "volume_24h": 3171779.77,
+            "market_cap": 5257214917.820395
+        },
+        {
+            "timestamp": "2024-06-19 16:20:00",
+            "symbol": "LEO",
+            "price": 5.714030864571151,
+            "volume_24h": 1402793.31,
+            "market_cap": 5292229893.756575
+        },
+        {
+            "timestamp": "2024-06-20 16:20:00",
+            "symbol": "LEO",
+            "price": 5.704249757244094,
+            "volume_24h": 951292.71,
+            "market_cap": 5283138087.44918
+        },
+        {
+            "timestamp": "2024-06-21 16:20:00",
+            "symbol": "LEO",
+            "price": 5.707853707979698,
+            "volume_24h": 3423297.69,
+            "market_cap": 5286439169.459569
+        },
+        {
+            "timestamp": "2024-06-22 16:20:00",
+            "symbol": "LEO",
+            "price": 5.637715761842997,
+            "volume_24h": 2771649.41,
+            "market_cap": 5221453146.281915
+        },
+        {
+            "timestamp": "2024-06-23 16:20:00",
+            "symbol": "LEO",
+            "price": 5.608439104920893,
+            "volume_24h": 3393726.66,
+            "market_cap": 5194314080.842672
+        },
+        {
+            "timestamp": "2024-06-24 16:20:00",
+            "symbol": "LEO",
+            "price": 5.762239931417613,
+            "volume_24h": 3045198.94,
+            "market_cap": 5336698517.668438
+        },
+        {
+            "timestamp": "2024-06-25 16:20:00",
+            "symbol": "LEO",
+            "price": 5.756359454854859,
+            "volume_24h": 2134286.14,
+            "market_cap": 5331197720.981482
+        },
+        {
+            "timestamp": "2024-06-26 16:20:00",
+            "symbol": "LEO",
+            "price": 5.744802705152262,
+            "volume_24h": 1355521.19,
+            "market_cap": 5320457435.412759
+        },
+        {
+            "timestamp": "2024-06-27 16:20:00",
+            "symbol": "LEO",
+            "price": 5.762958060158633,
+            "volume_24h": 4706696.85,
+            "market_cap": 5337231110.670861
+        },
+        {
+            "timestamp": "2024-06-28 16:20:00",
+            "symbol": "LEO",
+            "price": 5.735769515434097,
+            "volume_24h": 1262216.9,
+            "market_cap": 5312018548.991399
+        },
+        {
+            "timestamp": "2024-06-29 16:20:00",
+            "symbol": "LEO",
+            "price": 5.852416997160153,
+            "volume_24h": 971107.15,
+            "market_cap": 5420018230.607049
+        },
+        {
+            "timestamp": "2024-06-30 16:20:00",
+            "symbol": "LEO",
+            "price": 5.878463880290982,
+            "volume_24h": 581028.46,
+            "market_cap": 5444110767.467981
+        },
+        {
+            "timestamp": "2024-07-01 16:20:00",
+            "symbol": "LEO",
+            "price": 5.76335244808682,
+            "volume_24h": 1010476.16,
+            "market_cap": 5337467432.025523
+        },
+        {
+            "timestamp": "2024-07-02 16:20:00",
+            "symbol": "LEO",
+            "price": 5.795686704232533,
+            "volume_24h": 1079069.72,
+            "market_cap": 5367381816.5189295
+        },
+        {
+            "timestamp": "2024-07-03 16:20:00",
+            "symbol": "LEO",
+            "price": 5.7873514273531015,
+            "volume_24h": 1228621.83,
+            "market_cap": 5359621645.773144
+        },
+        {
+            "timestamp": "2024-07-04 16:20:00",
+            "symbol": "LEO",
+            "price": 5.74281448142424,
+            "volume_24h": 3225927.47,
+            "market_cap": 5318316775.443172
+        },
+        {
+            "timestamp": "2024-07-05 16:20:00",
+            "symbol": "LEO",
+            "price": 5.718509935310536,
+            "volume_24h": 4028962.92,
+            "market_cap": 5295757965.269029
+        },
+        {
+            "timestamp": "2024-07-06 16:20:00",
+            "symbol": "LEO",
+            "price": 5.67297591274748,
+            "volume_24h": 3384301.35,
+            "market_cap": 5253528916.8091
+        },
+        {
+            "timestamp": "2024-07-07 16:20:00",
+            "symbol": "LEO",
+            "price": 5.750062057227198,
+            "volume_24h": 5859278.46,
+            "market_cap": 5324871550.057131
+        },
+        {
+            "timestamp": "2024-07-08 16:20:00",
+            "symbol": "LEO",
+            "price": 5.7878374222874855,
+            "volume_24h": 990899.78,
+            "market_cap": 5359800752.759442
+        },
+        {
+            "timestamp": "2024-07-09 16:20:00",
+            "symbol": "LEO",
+            "price": 5.879141759683629,
+            "volume_24h": 963791.16,
+            "market_cap": 5444306706.753504
+        },
+        {
+            "timestamp": "2024-07-10 16:20:00",
+            "symbol": "LEO",
+            "price": 5.796850554407719,
+            "volume_24h": 380126.98,
+            "market_cap": 5368053454.726256
+        },
+        {
+            "timestamp": "2024-07-11 16:20:00",
+            "symbol": "LEO",
+            "price": 5.71819945614781,
+            "volume_24h": 2882319.74,
+            "market_cap": 5295173372.702374
+        },
+        {
+            "timestamp": "2024-07-12 16:20:00",
+            "symbol": "LEO",
+            "price": 5.674798688895067,
+            "volume_24h": 2050712.29,
+            "market_cap": 5254936614.333679
+        },
+        {
+            "timestamp": "2024-07-13 16:20:00",
+            "symbol": "LEO",
+            "price": 5.8087965451479056,
+            "volume_24h": 2886814.02,
+            "market_cap": 5378979082.129367
+        },
+        {
+            "timestamp": "2024-07-14 16:20:00",
+            "symbol": "LEO",
+            "price": 5.830630931387139,
+            "volume_24h": 353090.79,
+            "market_cap": 5399150026.803217
+        },
+        {
+            "timestamp": "2024-07-15 16:20:00",
+            "symbol": "LEO",
+            "price": 5.843872573289038,
+            "volume_24h": 634871.61,
+            "market_cap": 5411359919.770203
+        },
+        {
+            "timestamp": "2024-07-16 16:20:00",
+            "symbol": "LEO",
+            "price": 5.80970657466273,
+            "volume_24h": 657099.02,
+            "market_cap": 5379664105.078684
+        },
+        {
+            "timestamp": "2024-07-17 16:20:00",
+            "symbol": "LEO",
+            "price": 5.855738600379016,
+            "volume_24h": 795466.33,
+            "market_cap": 5422230629.46851
+        },
+        {
+            "timestamp": "2024-07-18 16:20:00",
+            "symbol": "LEO",
+            "price": 5.811140030913412,
+            "volume_24h": 1429413.27,
+            "market_cap": 5380891288.305832
+        },
+        {
+            "timestamp": "2024-07-19 16:20:00",
+            "symbol": "LEO",
+            "price": 5.787912859233131,
+            "volume_24h": 994075.79,
+            "market_cap": 5359332549.059748
+        },
+        {
+            "timestamp": "2024-07-20 16:20:00",
+            "symbol": "LEO",
+            "price": 5.69256642808231,
+            "volume_24h": 2458263.7,
+            "market_cap": 5270992695.886268
+        },
+        {
+            "timestamp": "2024-07-21 16:20:00",
+            "symbol": "LEO",
+            "price": 5.684027393422297,
+            "volume_24h": 8868419.73,
+            "market_cap": 5263042223.043248
+        },
+        {
+            "timestamp": "2024-07-22 16:20:00",
+            "symbol": "LEO",
+            "price": 5.785198663598263,
+            "volume_24h": 174139139.55,
+            "market_cap": 5356666603.502993
+        },
+        {
+            "timestamp": "2024-07-23 16:20:00",
+            "symbol": "LEO",
+            "price": 5.740699040703855,
+            "volume_24h": 43421119.69,
+            "market_cap": 5315415150.103
+        },
+        {
+            "timestamp": "2024-07-24 16:20:00",
+            "symbol": "LEO",
+            "price": 5.851711517223064,
+            "volume_24h": 881517.77,
+            "market_cap": 5418152475.6495495
+        },
+        {
+            "timestamp": "2024-07-25 16:20:00",
+            "symbol": "LEO",
+            "price": 5.834072963619326,
+            "volume_24h": 1081148.87,
+            "market_cap": 5401765630.278132
+        },
+        {
+            "timestamp": "2024-07-26 16:20:00",
+            "symbol": "LEO",
+            "price": 5.802502034366187,
+            "volume_24h": 1046245.29,
+            "market_cap": 5372490990.5584
+        },
+        {
+            "timestamp": "2024-07-27 16:20:00",
+            "symbol": "LEO",
+            "price": 5.806111022025195,
+            "volume_24h": 463405.36,
+            "market_cap": 5375787636.798906
+        },
+        {
+            "timestamp": "2024-07-28 16:20:00",
+            "symbol": "LEO",
+            "price": 5.8722904550009885,
+            "volume_24h": 924037.68,
+            "market_cap": 5437021035.550775
+        },
+        {
+            "timestamp": "2024-07-29 16:20:00",
+            "symbol": "LEO",
+            "price": 5.773059618801795,
+            "volume_24h": 1087868.5,
+            "market_cap": 5345101871.5890665
+        },
+        {
+            "timestamp": "2024-07-30 16:20:00",
+            "symbol": "LEO",
+            "price": 5.689446912333403,
+            "volume_24h": 2988084.47,
+            "market_cap": 5267637951.57916
+        },
+        {
+            "timestamp": "2024-07-31 16:20:00",
+            "symbol": "LEO",
+            "price": 5.7046267119438125,
+            "volume_24h": 2866559.75,
+            "market_cap": 5281647694.135934
+        },
+        {
+            "timestamp": "2024-08-01 16:20:00",
+            "symbol": "LEO",
+            "price": 5.755240569560272,
+            "volume_24h": 3485244.08,
+            "market_cap": 5328457907.5020895
+        },
+        {
+            "timestamp": "2024-08-02 16:20:00",
+            "symbol": "LEO",
+            "price": 5.864226095032282,
+            "volume_24h": 2522142.69,
+            "market_cap": 5429308205.625846
+        },
+        {
+            "timestamp": "2024-08-03 16:20:00",
+            "symbol": "LEO",
+            "price": 5.719970725152294,
+            "volume_24h": 6210953.29,
+            "market_cap": 5295696340.459378
+        },
+        {
+            "timestamp": "2024-08-04 16:20:00",
+            "symbol": "LEO",
+            "price": 5.651575152869829,
+            "volume_24h": 6239098.05,
+            "market_cap": 5232331773.257504
+        },
+        {
+            "timestamp": "2024-08-05 16:20:00",
+            "symbol": "LEO",
+            "price": 5.670620516238166,
+            "volume_24h": 6401603.5,
+            "market_cap": 5249823744.757149
+        },
+        {
+            "timestamp": "2024-08-06 16:20:00",
+            "symbol": "LEO",
+            "price": 5.650634420607965,
+            "volume_24h": 2698346.65,
+            "market_cap": 5231257397.612159
+        },
+        {
+            "timestamp": "2024-08-07 16:20:00",
+            "symbol": "LEO",
+            "price": 5.763666699088836,
+            "volume_24h": 2773823.94,
+            "market_cap": 5335852583.904901
+        },
+        {
+            "timestamp": "2024-08-08 16:20:00",
+            "symbol": "LEO",
+            "price": 5.793894780650773,
+            "volume_24h": 2460910.17,
+            "market_cap": 5363786310.449994
+        },
+        {
+            "timestamp": "2024-08-09 16:20:00",
+            "symbol": "LEO",
+            "price": 5.79680913572323,
+            "volume_24h": 1576759.28,
+            "market_cap": 5366432727.430692
+        },
+        {
+            "timestamp": "2024-08-10 16:20:00",
+            "symbol": "LEO",
+            "price": 5.772626064256174,
+            "volume_24h": 1446941.28,
+            "market_cap": 5344013433.186411
+        },
+        {
+            "timestamp": "2024-08-11 16:20:00",
+            "symbol": "LEO",
+            "price": 5.811696025953987,
+            "volume_24h": 1378227.36,
+            "market_cap": 5380150140.993707
+        },
+        {
+            "timestamp": "2024-08-12 16:20:00",
+            "symbol": "LEO",
+            "price": 5.79498860457879,
+            "volume_24h": 1388630.22,
+            "market_cap": 5364641200.810981
+        },
+        {
+            "timestamp": "2024-08-13 16:20:00",
+            "symbol": "LEO",
+            "price": 5.803508266975574,
+            "volume_24h": 1741437.37,
+            "market_cap": 5372487772.073086
+        },
+        {
+            "timestamp": "2024-08-14 16:20:00",
+            "symbol": "LEO",
+            "price": 5.874697901266987,
+            "volume_24h": 5087353.8,
+            "market_cap": 5438344680.078896
+        },
+        {
+            "timestamp": "2024-08-15 16:20:00",
+            "symbol": "LEO",
+            "price": 5.869691802365029,
+            "volume_24h": 5145293.62,
+            "market_cap": 5433676033.069221
+        },
+        {
+            "timestamp": "2024-08-16 16:20:00",
+            "symbol": "LEO",
+            "price": 5.882336263267392,
+            "volume_24h": 5149049.4,
+            "market_cap": 5445332719.341642
+        },
+        {
+            "timestamp": "2024-08-17 16:20:00",
+            "symbol": "LEO",
+            "price": 5.994695014475291,
+            "volume_24h": 3591631.61,
+            "market_cap": 5549301277.589541
+        },
+        {
+            "timestamp": "2024-08-18 16:20:00",
+            "symbol": "LEO",
+            "price": 5.759165510103022,
+            "volume_24h": 3966402.61,
+            "market_cap": 5331238197.454898
+        },
+        {
+            "timestamp": "2024-08-19 16:20:00",
+            "symbol": "LEO",
+            "price": 5.881955059288342,
+            "volume_24h": 2516885.83,
+            "market_cap": 5444890570.766172
+        },
+        {
+            "timestamp": "2024-08-20 16:20:00",
+            "symbol": "LEO",
+            "price": 6.016650531964787,
+            "volume_24h": 2387122.4,
+            "market_cap": 5569519422.773479
+        },
+        {
+            "timestamp": "2024-08-21 16:20:00",
+            "symbol": "LEO",
+            "price": 5.851346210915756,
+            "volume_24h": 2489490.31,
+            "market_cap": 5416451216.8068695
+        },
+        {
+            "timestamp": "2024-08-22 16:20:00",
+            "symbol": "LEO",
+            "price": 5.997537515639017,
+            "volume_24h": 2151942.21,
+            "market_cap": 5551725005.884575
+        },
+        {
+            "timestamp": "2024-08-23 16:20:00",
+            "symbol": "LEO",
+            "price": 5.8662573125888775,
+            "volume_24h": 1758117.87,
+            "market_cap": 5430166407.452702
+        },
+        {
+            "timestamp": "2024-08-24 16:20:00",
+            "symbol": "LEO",
+            "price": 5.874783265816946,
+            "volume_24h": 3740977.17,
+            "market_cap": 5438011934.597212
+        },
+        {
+            "timestamp": "2024-08-25 16:20:00",
+            "symbol": "LEO",
+            "price": 6.006674878960579,
+            "volume_24h": 3103545.95,
+            "market_cap": 5560062749.494187
+        },
+        {
+            "timestamp": "2024-08-26 16:20:00",
+            "symbol": "LEO",
+            "price": 5.883674092617251,
+            "volume_24h": 2359376.21,
+            "market_cap": 5446169117.043214
+        },
+        {
+            "timestamp": "2024-08-27 16:20:00",
+            "symbol": "LEO",
+            "price": 5.856850113698854,
+            "volume_24h": 3438064.9,
+            "market_cap": 5421304476.313985
+        },
+        {
+            "timestamp": "2024-08-28 16:20:00",
+            "symbol": "LEO",
+            "price": 5.841763465754005,
+            "volume_24h": 2429253.58,
+            "market_cap": 5407275694.528132
+        },
+        {
+            "timestamp": "2024-08-29 16:20:00",
+            "symbol": "LEO",
+            "price": 5.9826236759044775,
+            "volume_24h": 2294763.84,
+            "market_cap": 5537614469.194734
+        },
+        {
+            "timestamp": "2024-08-30 16:20:00",
+            "symbol": "LEO",
+            "price": 5.799801483634406,
+            "volume_24h": 2389038.9,
+            "market_cap": 5368348184.09451
+        },
+        {
+            "timestamp": "2024-08-31 16:20:00",
+            "symbol": "LEO",
+            "price": 6.038960716125837,
+            "volume_24h": 1574552.97,
+            "market_cap": 5589661694.021418
+        },
+        {
+            "timestamp": "2024-09-01 16:20:00",
+            "symbol": "LEO",
+            "price": 6.068150059378583,
+            "volume_24h": 2000939.04,
+            "market_cap": 5616641052.374423
+        },
+        {
+            "timestamp": "2024-09-02 16:20:00",
+            "symbol": "LEO",
+            "price": 5.83981273805879,
+            "volume_24h": 2256115.61,
+            "market_cap": 5405245671.288833
+        },
+        {
+            "timestamp": "2024-09-03 16:20:00",
+            "symbol": "LEO",
+            "price": 5.86387333485362,
+            "volume_24h": 1873226.35,
+            "market_cap": 5427477283.829925
+        },
+        {
+            "timestamp": "2024-09-04 16:20:00",
+            "symbol": "LEO",
+            "price": 5.720265402641064,
+            "volume_24h": 8537780.5,
+            "market_cap": 5294497582.157667
+        },
+        {
+            "timestamp": "2024-09-05 16:20:00",
+            "symbol": "LEO",
+            "price": 5.53456730790022,
+            "volume_24h": 4230111.94,
+            "market_cap": 5122566169.308017
+        },
+        {
+            "timestamp": "2024-09-06 16:20:00",
+            "symbol": "LEO",
+            "price": 5.515411428724852,
+            "volume_24h": 1666034.51,
+            "market_cap": 5104782864.528533
+        },
+        {
+            "timestamp": "2024-09-07 16:20:00",
+            "symbol": "LEO",
+            "price": 5.395548413892484,
+            "volume_24h": 7262225.3,
+            "market_cap": 4993770093.128624
+        },
+        {
+            "timestamp": "2024-09-08 16:20:00",
+            "symbol": "LEO",
+            "price": 5.549512801161422,
+            "volume_24h": 1873321.42,
+            "market_cap": 5136225237.901084
+        },
+        {
+            "timestamp": "2024-09-09 16:20:00",
+            "symbol": "LEO",
+            "price": 5.397949624612046,
+            "volume_24h": 1813819.98,
+            "market_cap": 4995900781.660311
+        },
+        {
+            "timestamp": "2024-09-10 16:20:00",
+            "symbol": "LEO",
+            "price": 5.620779955598943,
+            "volume_24h": 2950090.95,
+            "market_cap": 5202072655.207221
+        },
+        {
+            "timestamp": "2024-09-11 16:20:00",
+            "symbol": "LEO",
+            "price": 5.731084407103066,
+            "volume_24h": 1814734.36,
+            "market_cap": 5304106061.394843
+        },
+        {
+            "timestamp": "2024-09-12 16:20:00",
+            "symbol": "LEO",
+            "price": 5.751886645525318,
+            "volume_24h": 3217042.02,
+            "market_cap": 5323305708.162993
+        },
+        {
+            "timestamp": "2024-09-13 16:20:00",
+            "symbol": "LEO",
+            "price": 5.66916219127171,
+            "volume_24h": 1800725.22,
+            "market_cap": 5246697890.94491
+        },
+        {
+            "timestamp": "2024-09-14 16:20:00",
+            "symbol": "LEO",
+            "price": 5.717858748929436,
+            "volume_24h": 2194923.99,
+            "market_cap": 5291712985.419551
+        },
+        {
+            "timestamp": "2024-09-15 16:20:00",
+            "symbol": "LEO",
+            "price": 5.88543820641994,
+            "volume_24h": 2151021.78,
+            "market_cap": 5446761118.93786
+        },
+        {
+            "timestamp": "2024-09-16 16:20:00",
+            "symbol": "LEO",
+            "price": 5.73531758573315,
+            "volume_24h": 1960372.09,
+            "market_cap": 5307784248.843572
+        },
+        {
+            "timestamp": "2024-09-17 16:20:00",
+            "symbol": "LEO",
+            "price": 5.88024423490443,
+            "volume_24h": 1472569.94,
+            "market_cap": 5441862682.896192
+        },
+        {
+            "timestamp": "2024-09-18 16:20:00",
+            "symbol": "LEO",
+            "price": 5.683299354783786,
+            "volume_24h": 3278608.54,
+            "market_cap": 5259550468.551914
+        },
+        {
+            "timestamp": "2024-09-19 16:20:00",
+            "symbol": "LEO",
+            "price": 5.691547528680499,
+            "volume_24h": 3791067.13,
+            "market_cap": 5267128783.365259
+        },
+        {
+            "timestamp": "2024-09-20 16:20:00",
+            "symbol": "LEO",
+            "price": 5.746778584589149,
+            "volume_24h": 2105864.33,
+            "market_cap": 5318189670.156076
+        },
+        {
+            "timestamp": "2024-09-21 16:20:00",
+            "symbol": "LEO",
+            "price": 5.706768005312839,
+            "volume_24h": 3287500.79,
+            "market_cap": 5281116260.898116
+        },
+        {
+            "timestamp": "2024-09-22 16:20:00",
+            "symbol": "LEO",
+            "price": 5.734928705126311,
+            "volume_24h": 4514976.94,
+            "market_cap": 5307136171.038311
+        },
+        {
+            "timestamp": "2024-09-23 16:20:00",
+            "symbol": "LEO",
+            "price": 5.975216158580957,
+            "volume_24h": 2758987.92,
+            "market_cap": 5529455454.281794
+        },
+        {
+            "timestamp": "2024-09-24 16:20:00",
+            "symbol": "LEO",
+            "price": 5.791147230058793,
+            "volume_24h": 7015966.95,
+            "market_cap": 5359073811.612641
+        },
+        {
+            "timestamp": "2024-09-25 16:20:00",
+            "symbol": "LEO",
+            "price": 5.79158990560535,
+            "volume_24h": 6049145.15,
+            "market_cap": 5359435493.500671
+        },
+        {
+            "timestamp": "2024-09-26 16:20:00",
+            "symbol": "LEO",
+            "price": 5.822211942183444,
+            "volume_24h": 297885.64,
+            "market_cap": 5387732239.944059
+        },
+        {
+            "timestamp": "2024-09-27 16:20:00",
+            "symbol": "LEO",
+            "price": 5.930221812774961,
+            "volume_24h": 325802.47,
+            "market_cap": 5487626088.10415
+        },
+        {
+            "timestamp": "2024-09-28 16:20:00",
+            "symbol": "LEO",
+            "price": 5.8465861687798375,
+            "volume_24h": 361940.85,
+            "market_cap": 5410188639.325575
+        },
+        {
+            "timestamp": "2024-09-29 16:20:00",
+            "symbol": "LEO",
+            "price": 5.9099641907590525,
+            "volume_24h": 264734.91,
+            "market_cap": 5468800386.456865
+        },
+        {
+            "timestamp": "2024-09-30 16:20:00",
+            "symbol": "LEO",
+            "price": 5.91381632212271,
+            "volume_24h": 1104339.07,
+            "market_cap": 5472318938.773523
+        },
+        {
+            "timestamp": "2024-10-01 16:20:00",
+            "symbol": "LEO",
+            "price": 5.967955100420387,
+            "volume_24h": 848754.38,
+            "market_cap": 5522376429.8540325
+        },
+        {
+            "timestamp": "2024-10-02 16:20:00",
+            "symbol": "LEO",
+            "price": 5.884442788323766,
+            "volume_24h": 668497.35,
+            "market_cap": 5445043359.506795
+        },
+        {
+            "timestamp": "2024-10-03 16:20:00",
+            "symbol": "LEO",
+            "price": 5.837971550625362,
+            "volume_24h": 968378.53,
+            "market_cap": 5401996160.577782
+        },
+        {
+            "timestamp": "2024-10-04 16:20:00",
+            "symbol": "LEO",
+            "price": 5.907994117264337,
+            "volume_24h": 326370.13,
+            "market_cap": 5466751156.846051
+        },
+        {
+            "timestamp": "2024-10-05 16:20:00",
+            "symbol": "LEO",
+            "price": 5.863289578045884,
+            "volume_24h": 252190.26,
+            "market_cap": 5425347603.091394
+        },
+        {
+            "timestamp": "2024-10-06 16:20:00",
+            "symbol": "LEO",
+            "price": 6.001036386672725,
+            "volume_24h": 326145.57,
+            "market_cap": 5552771510.154217
+        },
+        {
+            "timestamp": "2024-10-07 16:20:00",
+            "symbol": "LEO",
+            "price": 6.003113248690044,
+            "volume_24h": 217256.52,
+            "market_cap": 5554648019.470286
+        },
+        {
+            "timestamp": "2024-10-08 16:20:00",
+            "symbol": "LEO",
+            "price": 5.988478737282129,
+            "volume_24h": 1223790.72,
+            "market_cap": 5541060015.68808
+        },
+        {
+            "timestamp": "2024-10-09 16:20:00",
+            "symbol": "LEO",
+            "price": 6.038843885475653,
+            "volume_24h": 6740948.25,
+            "market_cap": 5587624766.957788
+        },
+        {
+            "timestamp": "2024-10-10 16:20:00",
+            "symbol": "LEO",
+            "price": 6.175299205771536,
+            "volume_24h": 24784410.83,
+            "market_cap": 5713841585.946406
+        },
+        {
+            "timestamp": "2024-10-11 16:20:00",
+            "symbol": "LEO",
+            "price": 6.050873267105606,
+            "volume_24h": 15211173.85,
+            "market_cap": 5598666141.988981
+        },
+        {
+            "timestamp": "2024-10-12 16:20:00",
+            "symbol": "LEO",
+            "price": 6.004887846391119,
+            "volume_24h": 10725216.81,
+            "market_cap": 5556074685.767831
+        },
+        {
+            "timestamp": "2024-10-13 16:20:00",
+            "symbol": "LEO",
+            "price": 6.08187755039656,
+            "volume_24h": 10063189.49,
+            "market_cap": 5627268636.826024
+        },
+        {
+            "timestamp": "2024-10-14 16:20:00",
+            "symbol": "LEO",
+            "price": 6.126432330969764,
+            "volume_24h": 11025396.65,
+            "market_cap": 5668446690.975761
+        },
+        {
+            "timestamp": "2024-10-15 16:20:00",
+            "symbol": "LEO",
+            "price": 6.141428886676888,
+            "volume_24h": 13707165.25,
+            "market_cap": 5682274929.030859
+        },
+        {
+            "timestamp": "2024-10-16 16:20:00",
+            "symbol": "LEO",
+            "price": 6.139833873536553,
+            "volume_24h": 11491988.86,
+            "market_cap": 5680735844.351082
+        },
+        {
+            "timestamp": "2024-10-17 16:20:00",
+            "symbol": "LEO",
+            "price": 6.083194898042949,
+            "volume_24h": 8916463.14,
+            "market_cap": 5628283107.697363
+        },
+        {
+            "timestamp": "2024-10-18 16:20:00",
+            "symbol": "LEO",
+            "price": 6.130100568870548,
+            "volume_24h": 13466923.03,
+            "market_cap": 5671637684.44209
+        },
+        {
+            "timestamp": "2024-10-19 16:20:00",
+            "symbol": "LEO",
+            "price": 6.103824245125983,
+            "volume_24h": 10791731.67,
+            "market_cap": 5647273914.431433
+        },
+        {
+            "timestamp": "2024-10-20 16:20:00",
+            "symbol": "LEO",
+            "price": 6.095992327178901,
+            "volume_24h": 8638429.97,
+            "market_cap": 5639992142.217441
+        },
+        {
+            "timestamp": "2024-10-21 16:20:00",
+            "symbol": "LEO",
+            "price": 6.084121553217732,
+            "volume_24h": 8748567.88,
+            "market_cap": 5628950057.334253
+        },
+        {
+            "timestamp": "2024-10-22 16:20:00",
+            "symbol": "LEO",
+            "price": 5.897309138987454,
+            "volume_24h": 14336966.43,
+            "market_cap": 5456069867.905352
+        },
+        {
+            "timestamp": "2024-10-23 16:20:00",
+            "symbol": "LEO",
+            "price": 6.074742408987688,
+            "volume_24h": 11018948.58,
+            "market_cap": 5620179092.756095
+        },
+        {
+            "timestamp": "2024-10-24 16:20:00",
+            "symbol": "LEO",
+            "price": 6.114917583714125,
+            "volume_24h": 11804260.02,
+            "market_cap": 5657284941.54247
+        },
+        {
+            "timestamp": "2024-10-25 16:20:00",
+            "symbol": "LEO",
+            "price": 5.989373710999981,
+            "volume_24h": 15043955.72,
+            "market_cap": 5541082749.89413
+        },
+        {
+            "timestamp": "2024-10-26 16:20:00",
+            "symbol": "LEO",
+            "price": 5.993911096931584,
+            "volume_24h": 8780062.16,
+            "market_cap": 5545213367.058146
+        },
+        {
+            "timestamp": "2024-10-27 16:20:00",
+            "symbol": "LEO",
+            "price": 6.096249552599371,
+            "volume_24h": 12828045.18,
+            "market_cap": 5639835351.502
+        },
+        {
+            "timestamp": "2024-10-28 16:20:00",
+            "symbol": "LEO",
+            "price": 6.051986290922833,
+            "volume_24h": 13591792.49,
+            "market_cap": 5598826925.691049
+        },
+        {
+            "timestamp": "2024-10-29 16:20:00",
+            "symbol": "LEO",
+            "price": 6.084582079981562,
+            "volume_24h": 14645710.9,
+            "market_cap": 5628900845.740952
+        },
+        {
+            "timestamp": "2024-10-30 16:20:00",
+            "symbol": "LEO",
+            "price": 6.057457678663364,
+            "volume_24h": 14248015.11,
+            "market_cap": 5603724907.037179
+        },
+        {
+            "timestamp": "2024-10-31 16:20:00",
+            "symbol": "LEO",
+            "price": 6.045830636736022,
+            "volume_24h": 13703938.13,
+            "market_cap": 5592905637.881071
+        },
+        {
+            "timestamp": "2024-11-01 16:20:00",
+            "symbol": "LEO",
+            "price": 6.054370766036812,
+            "volume_24h": 13621096.91,
+            "market_cap": 5600740963.252189
+        },
+        {
+            "timestamp": "2024-11-02 16:20:00",
+            "symbol": "LEO",
+            "price": 6.055217793813574,
+            "volume_24h": 14255776.5,
+            "market_cap": 5601462490.916825
+        },
+        {
+            "timestamp": "2024-11-03 16:20:00",
+            "symbol": "LEO",
+            "price": 6.034441984321861,
+            "volume_24h": 14662441.19,
+            "market_cap": 5582188061.980058
+        },
+        {
+            "timestamp": "2024-11-04 16:20:00",
+            "symbol": "LEO",
+            "price": 6.044820826563516,
+            "volume_24h": 16144620.06,
+            "market_cap": 5591728264.538373
+        },
+        {
+            "timestamp": "2024-11-05 16:20:00",
+            "symbol": "LEO",
+            "price": 6.044270149267797,
+            "volume_24h": 13783304.51,
+            "market_cap": 5591155023.952881
+        },
+        {
+            "timestamp": "2024-11-06 16:20:00",
+            "symbol": "LEO",
+            "price": 6.22814018745525,
+            "volume_24h": 15473943.39,
+            "market_cap": 5761103538.515916
+        },
+        {
+            "timestamp": "2024-11-07 16:20:00",
+            "symbol": "LEO",
+            "price": 6.058588871445423,
+            "volume_24h": 14076535.19,
+            "market_cap": 5604181715.866616
+        },
+        {
+            "timestamp": "2024-11-08 16:20:00",
+            "symbol": "LEO",
+            "price": 6.0626993443483,
+            "volume_24h": 14089467.11,
+            "market_cap": 5607910960.2154
+        },
+        {
+            "timestamp": "2024-11-09 16:20:00",
+            "symbol": "LEO",
+            "price": 6.074451535769414,
+            "volume_24h": 14474002.99,
+            "market_cap": 5618718396.407223
+        },
+        {
+            "timestamp": "2024-11-10 16:20:00",
+            "symbol": "LEO",
+            "price": 6.190398874365164,
+            "volume_24h": 17050377.94,
+            "market_cap": 5725872357.439177
+        },
+        {
+            "timestamp": "2024-11-11 16:20:00",
+            "symbol": "LEO",
+            "price": 6.1766715822812905,
+            "volume_24h": 10339828.11,
+            "market_cap": 5713084053.197536
+        },
+        {
+            "timestamp": "2024-11-12 16:20:00",
+            "symbol": "LEO",
+            "price": 6.184124991359733,
+            "volume_24h": 11183810.55,
+            "market_cap": 5719825227.645775
+        },
+        {
+            "timestamp": "2024-11-13 16:20:00",
+            "symbol": "LEO",
+            "price": 7.492880632785521,
+            "volume_24h": 687293.99,
+            "market_cap": 6930219709.813195
+        },
+        {
+            "timestamp": "2024-11-14 16:20:00",
+            "symbol": "LEO",
+            "price": 7.356964089935542,
+            "volume_24h": 1492316.87,
+            "market_cap": 6804357701.364912
+        },
+        {
+            "timestamp": "2024-11-15 16:20:00",
+            "symbol": "LEO",
+            "price": 7.446980214993808,
+            "volume_24h": 376197.52,
+            "market_cap": 6887518885.01214
+        },
+        {
+            "timestamp": "2024-11-16 16:20:00",
+            "symbol": "LEO",
+            "price": 7.603545825837392,
+            "volume_24h": 916905.89,
+            "market_cap": 7032234499.434276
+        },
+        {
+            "timestamp": "2024-11-17 16:20:00",
+            "symbol": "LEO",
+            "price": 7.550718307946932,
+            "volume_24h": 1595761.2,
+            "market_cap": 6983297290.220742
+        },
+        {
+            "timestamp": "2024-11-18 16:20:00",
+            "symbol": "LEO",
+            "price": 7.66179020396404,
+            "volume_24h": 1350477.51,
+            "market_cap": 7085948623.647378
+        },
+        {
+            "timestamp": "2024-11-19 16:20:00",
+            "symbol": "LEO",
+            "price": 7.886006177099426,
+            "volume_24h": 770620.12,
+            "market_cap": 7293221787.197506
+        },
+        {
+            "timestamp": "2024-11-20 16:20:00",
+            "symbol": "LEO",
+            "price": 8.437987525508083,
+            "volume_24h": 2853969.46,
+            "market_cap": 7803610754.171697
+        },
+        {
+            "timestamp": "2024-11-21 16:20:00",
+            "symbol": "LEO",
+            "price": 8.868790539162537,
+            "volume_24h": 1446219.28,
+            "market_cap": 8201884912.030982
+        },
+        {
+            "timestamp": "2024-11-22 16:20:00",
+            "symbol": "LEO",
+            "price": 8.742389322362127,
+            "volume_24h": 977821.7,
+            "market_cap": 8084847136.630912
+        },
+        {
+            "timestamp": "2024-11-23 16:20:00",
+            "symbol": "LEO",
+            "price": 8.609806143550172,
+            "volume_24h": 1317783.17,
+            "market_cap": 7962100741.057672
+        },
+        {
+            "timestamp": "2024-11-24 16:20:00",
+            "symbol": "LEO",
+            "price": 8.515033658299199,
+            "volume_24h": 1030023.13,
+            "market_cap": 7874341297.018353
+        },
+        {
+            "timestamp": "2024-11-25 16:20:00",
+            "symbol": "LEO",
+            "price": 8.273573604680976,
+            "volume_24h": 1621932.78,
+            "market_cap": 7650951597.187728
+        },
+        {
+            "timestamp": "2024-11-26 16:20:00",
+            "symbol": "LEO",
+            "price": 8.040702586328798,
+            "volume_24h": 718254.14,
+            "market_cap": 7435468746.444393
+        },
+        {
+            "timestamp": "2024-11-27 16:20:00",
+            "symbol": "LEO",
+            "price": 8.328800288475598,
+            "volume_24h": 975333.04,
+            "market_cap": 7701776469.197176
+        },
+        {
+            "timestamp": "2024-11-28 16:20:00",
+            "symbol": "LEO",
+            "price": 8.485643069333422,
+            "volume_24h": 999177.81,
+            "market_cap": 7846697913.650289
+        },
+        {
+            "timestamp": "2024-11-29 16:20:00",
+            "symbol": "LEO",
+            "price": 8.686656625828435,
+            "volume_24h": 455039.3,
+            "market_cap": 8032496020.972212
+        },
+        {
+            "timestamp": "2024-11-30 16:20:00",
+            "symbol": "LEO",
+            "price": 8.72829133302607,
+            "volume_24h": 1320806.82,
+            "market_cap": 8070892785.767674
+        },
+        {
+            "timestamp": "2024-12-01 16:20:00",
+            "symbol": "LEO",
+            "price": 8.509756137648802,
+            "volume_24h": 1841381.27,
+            "market_cap": 7868745812.390345
+        },
+        {
+            "timestamp": "2024-12-02 16:20:00",
+            "symbol": "LEO",
+            "price": 8.75579789044449,
+            "volume_24h": 1329614.71,
+            "market_cap": 8096127171.856368
+        },
+        {
+            "timestamp": "2024-12-03 16:20:00",
+            "symbol": "LEO",
+            "price": 8.861921085113684,
+            "volume_24h": 493042.79,
+            "market_cap": 8194111595.527731
+        },
+        {
+            "timestamp": "2024-12-04 16:20:00",
+            "symbol": "LEO",
+            "price": 9.548481388028842,
+            "volume_24h": 2244060.3,
+            "market_cap": 8828791309.553762
+        },
+        {
+            "timestamp": "2024-12-05 16:20:00",
+            "symbol": "LEO",
+            "price": 9.382813741823558,
+            "volume_24h": 2625055.92,
+            "market_cap": 8675417131.627907
+        },
+        {
+            "timestamp": "2024-12-06 16:20:00",
+            "symbol": "LEO",
+            "price": 9.384690393672988,
+            "volume_24h": 1332769.57,
+            "market_cap": 8677021033.773182
+        },
+        {
+            "timestamp": "2024-12-07 16:20:00",
+            "symbol": "LEO",
+            "price": 9.459838396618844,
+            "volume_24h": 2434290.06,
+            "market_cap": 8746391327.601664
+        },
+        {
+            "timestamp": "2024-12-08 16:20:00",
+            "symbol": "LEO",
+            "price": 9.21972374897222,
+            "volume_24h": 2700331.41,
+            "market_cap": 8524331274.988488
+        },
+        {
+            "timestamp": "2024-12-09 16:20:00",
+            "symbol": "LEO",
+            "price": 9.364698623695029,
+            "volume_24h": 877107.15,
+            "market_cap": 8658305985.960115
+        },
+        {
+            "timestamp": "2024-12-10 16:20:00",
+            "symbol": "LEO",
+            "price": 9.449311007818336,
+            "volume_24h": 2597997.59,
+            "market_cap": 8736427184.570604
+        },
+        {
+            "timestamp": "2024-12-11 16:20:00",
+            "symbol": "LEO",
+            "price": 9.43595901250807,
+            "volume_24h": 2856863.21,
+            "market_cap": 8723986841.31698
+        },
+        {
+            "timestamp": "2024-12-12 16:20:00",
+            "symbol": "LEO",
+            "price": 9.489771037688252,
+            "volume_24h": 539407.44,
+            "market_cap": 8773651903.882242
+        },
+        {
+            "timestamp": "2024-12-13 16:20:00",
+            "symbol": "LEO",
+            "price": 9.43987137770728,
+            "volume_24h": 1816544.12,
+            "market_cap": 8727455271.898008
+        },
+        {
+            "timestamp": "2024-12-14 16:20:00",
+            "symbol": "LEO",
+            "price": 9.404987778457851,
+            "volume_24h": 353714.03,
+            "market_cap": 8695152071.38578
+        },
+        {
+            "timestamp": "2024-12-15 16:20:00",
+            "symbol": "LEO",
+            "price": 9.360184920081966,
+            "volume_24h": 302907.76,
+            "market_cap": 8653682794.669697
+        },
+        {
+            "timestamp": "2024-12-16 16:20:00",
+            "symbol": "LEO",
+            "price": 9.598467646388082,
+            "volume_24h": 1328097.24,
+            "market_cap": 8873898865.282526
+        },
+        {
+            "timestamp": "2024-12-17 16:20:00",
+            "symbol": "LEO",
+            "price": 9.531651515376302,
+            "volume_24h": 395457.67,
+            "market_cap": 8812009118.023195
+        },
+        {
+            "timestamp": "2024-12-18 16:20:00",
+            "symbol": "LEO",
+            "price": 9.526134491145466,
+            "volume_24h": 374715.16,
+            "market_cap": 8806835708.129644
+        },
+        {
+            "timestamp": "2024-12-19 16:20:00",
+            "symbol": "LEO",
+            "price": 9.086124512946144,
+            "volume_24h": 2335154.64,
+            "market_cap": 8399971563.313043
+        },
+        {
+            "timestamp": "2024-12-20 16:20:00",
+            "symbol": "LEO",
+            "price": 9.25483416388574,
+            "volume_24h": 1496232.92,
+            "market_cap": 8555745877.903125
+        },
+        {
+            "timestamp": "2024-12-21 16:20:00",
+            "symbol": "LEO",
+            "price": 9.28690421859225,
+            "volume_24h": 2624704.46,
+            "market_cap": 8585326654.391342
+        },
+        {
+            "timestamp": "2024-12-22 16:20:00",
+            "symbol": "LEO",
+            "price": 9.318852952763752,
+            "volume_24h": 907879.77,
+            "market_cap": 8614825735.078257
+        },
+        {
+            "timestamp": "2024-12-23 16:20:00",
+            "symbol": "LEO",
+            "price": 9.402181168234124,
+            "volume_24h": 908946.86,
+            "market_cap": 8691801418.80347
+        },
+        {
+            "timestamp": "2024-12-24 16:20:00",
+            "symbol": "LEO",
+            "price": 9.459659631510188,
+            "volume_24h": 1566451.77,
+            "market_cap": 8744879774.314241
+        },
+        {
+            "timestamp": "2024-12-25 16:20:00",
+            "symbol": "LEO",
+            "price": 9.589838073922664,
+            "volume_24h": 947530.1,
+            "market_cap": 8865178813.440826
+        },
+        {
+            "timestamp": "2024-12-26 16:20:00",
+            "symbol": "LEO",
+            "price": 9.174458844020776,
+            "volume_24h": 1242729.05,
+            "market_cap": 8481146502.046388
+        },
+        {
+            "timestamp": "2024-12-27 16:20:00",
+            "symbol": "LEO",
+            "price": 9.19341638756494,
+            "volume_24h": 804717.52,
+            "market_cap": 8498632529.806283
+        },
+        {
+            "timestamp": "2024-12-28 16:20:00",
+            "symbol": "LEO",
+            "price": 9.278251418760878,
+            "volume_24h": 772202.77,
+            "market_cap": 8577026096.986416
+        },
+        {
+            "timestamp": "2024-12-29 16:20:00",
+            "symbol": "LEO",
+            "price": 9.05927806670934,
+            "volume_24h": 769758.57,
+            "market_cap": 8374574975.84893
+        },
+        {
+            "timestamp": "2024-12-30 16:20:00",
+            "symbol": "LEO",
+            "price": 9.101075747778712,
+            "volume_24h": 1281367.49,
+            "market_cap": 8413164720.438014
+        },
+        {
+            "timestamp": "2024-12-31 16:20:00",
+            "symbol": "LEO",
+            "price": 8.97834466784688,
+            "volume_24h": 2344881.76,
+            "market_cap": 8299646364.357983
+        },
+        {
+            "timestamp": "2025-01-01 16:20:00",
+            "symbol": "LEO",
+            "price": 9.044474370241948,
+            "volume_24h": 5081456.74,
+            "market_cap": 8360736418.494315
+        },
+        {
+            "timestamp": "2025-01-02 16:20:00",
+            "symbol": "LEO",
+            "price": 9.060604074963216,
+            "volume_24h": 4548740.71,
+            "market_cap": 8375599863.206998
+        },
+        {
+            "timestamp": "2025-01-03 16:20:00",
+            "symbol": "LEO",
+            "price": 9.120505198724013,
+            "volume_24h": 1188777.21,
+            "market_cap": 8430935694.14312
+        },
+        {
+            "timestamp": "2025-01-04 16:20:00",
+            "symbol": "LEO",
+            "price": 9.124566036568396,
+            "volume_24h": 2076854.02,
+            "market_cap": 8434647022.258966
+        },
+        {
+            "timestamp": "2025-01-05 16:20:00",
+            "symbol": "LEO",
+            "price": 9.105102178532617,
+            "volume_24h": 666020.15,
+            "market_cap": 8416623063.178123
+        },
+        {
+            "timestamp": "2025-01-06 16:20:00",
+            "symbol": "LEO",
+            "price": 9.126201887382496,
+            "volume_24h": 620397.49,
+            "market_cap": 8436088392.548858
+        },
+        {
+            "timestamp": "2025-01-07 16:20:00",
+            "symbol": "LEO",
+            "price": 9.068226041587293,
+            "volume_24h": 874880.93,
+            "market_cap": 8382448501.36529
+        },
+        {
+            "timestamp": "2025-01-08 16:20:00",
+            "symbol": "LEO",
+            "price": 9.006098931386118,
+            "volume_24h": 4951763.29,
+            "market_cap": 8324944108.349972
+        },
+        {
+            "timestamp": "2025-01-09 16:20:00",
+            "symbol": "LEO",
+            "price": 9.04049235809664,
+            "volume_24h": 874856.37,
+            "market_cap": 8356668032.585415
+        },
+        {
+            "timestamp": "2025-01-10 16:20:00",
+            "symbol": "LEO",
+            "price": 9.039681220067555,
+            "volume_24h": 723762.73,
+            "market_cap": 8355873493.708237
+        },
+        {
+            "timestamp": "2025-01-11 16:20:00",
+            "symbol": "LEO",
+            "price": 9.40228651979512,
+            "volume_24h": 735103.5,
+            "market_cap": 8691019988.231512
+        },
+        {
+            "timestamp": "2025-01-12 16:20:00",
+            "symbol": "LEO",
+            "price": 9.29161792469742,
+            "volume_24h": 650437.59,
+            "market_cap": 8588699287.847166
+        },
+        {
+            "timestamp": "2025-01-13 16:20:00",
+            "symbol": "LEO",
+            "price": 9.256545880269902,
+            "volume_24h": 945251.48,
+            "market_cap": 8556222249.125524
+        },
+        {
+            "timestamp": "2025-01-14 16:20:00",
+            "symbol": "LEO",
+            "price": 9.25346450570045,
+            "volume_24h": 929633.4,
+            "market_cap": 8553302066.058123
+        },
+        {
+            "timestamp": "2025-01-15 16:20:00",
+            "symbol": "LEO",
+            "price": 9.610599097019088,
+            "volume_24h": 2652090.75,
+            "market_cap": 8883360160.981054
+        },
+        {
+            "timestamp": "2025-01-16 16:20:00",
+            "symbol": "LEO",
+            "price": 9.635503772400249,
+            "volume_24h": 1600392.91,
+            "market_cap": 8906298731.968315
+        },
+        {
+            "timestamp": "2025-01-17 16:20:00",
+            "symbol": "LEO",
+            "price": 9.732073067839336,
+            "volume_24h": 1869101.65,
+            "market_cap": 8995475093.163324
+        },
+        {
+            "timestamp": "2025-01-18 16:20:00",
+            "symbol": "LEO",
+            "price": 9.43813319120386,
+            "volume_24h": 10609288.58,
+            "market_cap": 8723696218.9292
+        },
+        {
+            "timestamp": "2025-01-19 16:20:00",
+            "symbol": "LEO",
+            "price": 9.650649590970737,
+            "volume_24h": 1892490.04,
+            "market_cap": 8920038679.80024
+        },
+        {
+            "timestamp": "2025-01-20 16:20:00",
+            "symbol": "LEO",
+            "price": 9.64477408256404,
+            "volume_24h": 2537824.81,
+            "market_cap": 8914474816.526875
+        },
+        {
+            "timestamp": "2025-01-21 16:20:00",
+            "symbol": "LEO",
+            "price": 9.71521883188266,
+            "volume_24h": 1561011.98,
+            "market_cap": 8979472086.359833
+        },
+        {
+            "timestamp": "2025-01-22 16:20:00",
+            "symbol": "LEO",
+            "price": 9.651080700829455,
+            "volume_24h": 830340.75,
+            "market_cap": 8920129784.489958
+        },
+        {
+            "timestamp": "2025-01-23 16:20:00",
+            "symbol": "LEO",
+            "price": 9.716502132261734,
+            "volume_24h": 811760.55,
+            "market_cap": 8980540164.586597
+        },
+        {
+            "timestamp": "2025-01-24 16:20:00",
+            "symbol": "LEO",
+            "price": 9.716741359383343,
+            "volume_24h": 896740.04,
+            "market_cap": 8980672820.30995
+        },
+        {
+            "timestamp": "2025-01-25 16:20:00",
+            "symbol": "LEO",
+            "price": 9.769822750873086,
+            "volume_24h": 549339.72,
+            "market_cap": 9029692534.817444
+        },
+        {
+            "timestamp": "2025-01-26 16:20:00",
+            "symbol": "LEO",
+            "price": 9.778027636498924,
+            "volume_24h": 434128.48,
+            "market_cap": 9037248348.995514
+        },
+        {
+            "timestamp": "2025-01-27 16:20:00",
+            "symbol": "LEO",
+            "price": 9.740822915825731,
+            "volume_24h": 896761.78,
+            "market_cap": 9002796618.488686
+        },
+        {
+            "timestamp": "2025-01-28 16:20:00",
+            "symbol": "LEO",
+            "price": 9.767919196658683,
+            "volume_24h": 694928.84,
+            "market_cap": 9027786805.684954
+        },
+        {
+            "timestamp": "2025-01-29 16:20:00",
+            "symbol": "LEO",
+            "price": 9.601797040521028,
+            "volume_24h": 533887.24,
+            "market_cap": 8874212995.341793
+        },
+        {
+            "timestamp": "2025-01-30 16:20:00",
+            "symbol": "LEO",
+            "price": 9.758300689752234,
+            "volume_24h": 606130.94,
+            "market_cap": 9018815189.003576
+        },
+        {
+            "timestamp": "2025-01-31 16:20:00",
+            "symbol": "LEO",
+            "price": 9.752290598727098,
+            "volume_24h": 709252.72,
+            "market_cap": 9013221826.990772
+        },
+        {
+            "timestamp": "2025-02-01 16:20:00",
+            "symbol": "LEO",
+            "price": 9.773472341974369,
+            "volume_24h": 686326.18,
+            "market_cap": 9032750205.864868
+        },
+        {
+            "timestamp": "2025-02-02 16:20:00",
+            "symbol": "LEO",
+            "price": 9.709389552614528,
+            "volume_24h": 701498.46,
+            "market_cap": 8973468904.653845
+        },
+        {
+            "timestamp": "2025-02-03 16:20:00",
+            "symbol": "LEO",
+            "price": 9.772632923872576,
+            "volume_24h": 2557361.64,
+            "market_cap": 9031699863.88272
+        },
+        {
+            "timestamp": "2025-02-04 16:20:00",
+            "symbol": "LEO",
+            "price": 9.773030247543613,
+            "volume_24h": 1486241.82,
+            "market_cap": 9031979555.897284
+        },
+        {
+            "timestamp": "2025-02-05 16:20:00",
+            "symbol": "LEO",
+            "price": 9.819574810669923,
+            "volume_24h": 924044.4,
+            "market_cap": 9074940750.294744
+        },
+        {
+            "timestamp": "2025-02-06 16:20:00",
+            "symbol": "LEO",
+            "price": 9.79834390649849,
+            "volume_24h": 724905.52,
+            "market_cap": 9055278539.11409
+        },
+        {
+            "timestamp": "2025-02-07 16:20:00",
+            "symbol": "LEO",
+            "price": 9.81888379382965,
+            "volume_24h": 703281.98,
+            "market_cap": 9074211869.367756
+        },
+        {
+            "timestamp": "2025-02-08 16:20:00",
+            "symbol": "LEO",
+            "price": 9.849937081920396,
+            "volume_24h": 593250.49,
+            "market_cap": 9102871912.536009
+        },
+        {
+            "timestamp": "2025-02-09 16:20:00",
+            "symbol": "LEO",
+            "price": 9.8261612917384,
+            "volume_24h": 651873.43,
+            "market_cap": 9080870736.087751
+        },
+        {
+            "timestamp": "2025-02-10 16:20:00",
+            "symbol": "LEO",
+            "price": 9.855692795432214,
+            "volume_24h": 542872.83,
+            "market_cap": 9108112338.904432
+        },
+        {
+            "timestamp": "2025-02-11 16:20:00",
+            "symbol": "LEO",
+            "price": 9.811705857110534,
+            "volume_24h": 698561.81,
+            "market_cap": 9067427497.324331
+        },
+        {
+            "timestamp": "2025-02-12 16:20:00",
+            "symbol": "LEO",
+            "price": 9.806469605361505,
+            "volume_24h": 772409.34,
+            "market_cap": 9062527696.462805
+        },
+        {
+            "timestamp": "2025-02-13 16:20:00",
+            "symbol": "LEO",
+            "price": 9.789126107125458,
+            "volume_24h": 851219.16,
+            "market_cap": 9046453173.823486
+        },
+        {
+            "timestamp": "2025-02-14 16:20:00",
+            "symbol": "LEO",
+            "price": 9.806613130965086,
+            "volume_24h": 682366.86,
+            "market_cap": 9062576918.824358
+        },
+        {
+            "timestamp": "2025-02-15 16:20:00",
+            "symbol": "LEO",
+            "price": 9.7670812642852,
+            "volume_24h": 564392.3,
+            "market_cap": 9026005486.278448
+        },
+        {
+            "timestamp": "2025-02-16 16:20:00",
+            "symbol": "LEO",
+            "price": 9.722254544330072,
+            "volume_24h": 385660.22,
+            "market_cap": 8984549536.655024
+        },
+        {
+            "timestamp": "2025-02-17 16:20:00",
+            "symbol": "LEO",
+            "price": 9.79428976047932,
+            "volume_24h": 441784.78,
+            "market_cap": 9051085585.3263
+        },
+        {
+            "timestamp": "2025-02-18 16:20:00",
+            "symbol": "LEO",
+            "price": 9.775895602038004,
+            "volume_24h": 557508.41,
+            "market_cap": 9034046308.350016
+        },
+        {
+            "timestamp": "2025-02-19 16:20:00",
+            "symbol": "LEO",
+            "price": 9.703284104736738,
+            "volume_24h": 1133971.66,
+            "market_cap": 8966890976.26989
+        },
+        {
+            "timestamp": "2025-02-20 16:20:00",
+            "symbol": "LEO",
+            "price": 9.697211831093757,
+            "volume_24h": 1716203.5,
+            "market_cap": 8961247940.777296
+        },
+        {
+            "timestamp": "2025-02-21 16:20:00",
+            "symbol": "LEO",
+            "price": 9.74171501050202,
+            "volume_24h": 2678931.53,
+            "market_cap": 9002339677.759151
+        },
+        {
+            "timestamp": "2025-02-22 16:20:00",
+            "symbol": "LEO",
+            "price": 9.739357279151347,
+            "volume_24h": 2454246.34,
+            "market_cap": 9000121887.04914
+        },
+        {
+            "timestamp": "2025-02-23 16:20:00",
+            "symbol": "LEO",
+            "price": 9.748723789763057,
+            "volume_24h": 1572914.35,
+            "market_cap": 9008755654.131456
+        },
+        {
+            "timestamp": "2025-02-24 16:20:00",
+            "symbol": "LEO",
+            "price": 9.494833422720957,
+            "volume_24h": 3713765.28,
+            "market_cap": 8774104486.663948
+        },
+        {
+            "timestamp": "2025-02-25 16:20:00",
+            "symbol": "LEO",
+            "price": 8.832581230098851,
+            "volume_24h": 9440738.54,
+            "market_cap": 8161972790.036494
+        },
+        {
+            "timestamp": "2025-02-26 16:20:00",
+            "symbol": "LEO",
+            "price": 8.961654554882548,
+            "volume_24h": 3777792.5,
+            "market_cap": 8281161899.075405
+        },
+        {
+            "timestamp": "2025-02-27 16:20:00",
+            "symbol": "LEO",
+            "price": 9.152647262101071,
+            "volume_24h": 3995128.42,
+            "market_cap": 8457544742.099555
+        },
+        {
+            "timestamp": "2025-02-28 16:20:00",
+            "symbol": "LEO",
+            "price": 9.271865589622758,
+            "volume_24h": 6365531.38,
+            "market_cap": 8567573918.214848
+        },
+        {
+            "timestamp": "2025-03-01 16:20:00",
+            "symbol": "LEO",
+            "price": 9.745372067870353,
+            "volume_24h": 2210339.23,
+            "market_cap": 9005018821.13165
+        },
+        {
+            "timestamp": "2025-03-02 16:20:00",
+            "symbol": "LEO",
+            "price": 9.811723622474323,
+            "volume_24h": 2887622.09,
+            "market_cap": 9066272248.099413
+        },
+        {
+            "timestamp": "2025-03-03 16:20:00",
+            "symbol": "LEO",
+            "price": 9.95523429115377,
+            "volume_24h": 7630162.55,
+            "market_cap": 9198762348.057705
+        },
+        {
+            "timestamp": "2025-03-04 16:20:00",
+            "symbol": "LEO",
+            "price": 9.931070814018584,
+            "volume_24h": 9056526.63,
+            "market_cap": 9176434989.688366
+        },
+        {
+            "timestamp": "2025-03-05 16:20:00",
+            "symbol": "LEO",
+            "price": 9.89423878733405,
+            "volume_24h": 4047660.5,
+            "market_cap": 9142343968.802183
+        },
+        {
+            "timestamp": "2025-03-06 16:20:00",
+            "symbol": "LEO",
+            "price": 9.905809052612026,
+            "volume_24h": 2805682.86,
+            "market_cap": 9152967672.58683
+        },
+        {
+            "timestamp": "2025-03-07 16:20:00",
+            "symbol": "LEO",
+            "price": 9.92720403084894,
+            "volume_24h": 3805312.38,
+            "market_cap": 9172654455.315975
+        },
+        {
+            "timestamp": "2025-03-08 16:20:00",
+            "symbol": "LEO",
+            "price": 9.809240450654224,
+            "volume_24h": 2605178.18,
+            "market_cap": 9063596323.99742
+        },
+        {
+            "timestamp": "2025-03-09 16:20:00",
+            "symbol": "LEO",
+            "price": 9.823863315934547,
+            "volume_24h": 2133729.57,
+            "market_cap": 9077049531.90221
+        },
+        {
+            "timestamp": "2025-03-10 16:20:00",
+            "symbol": "LEO",
+            "price": 9.89075773342235,
+            "volume_24h": 5219973.41,
+            "market_cap": 9138768139.852612
+        },
+        {
+            "timestamp": "2025-03-11 16:20:00",
+            "symbol": "LEO",
+            "price": 9.81012066888993,
+            "volume_24h": 7186504.79,
+            "market_cap": 9064153000.161592
+        },
+        {
+            "timestamp": "2025-03-12 16:20:00",
+            "symbol": "LEO",
+            "price": 9.68965329236103,
+            "volume_24h": 4310897.86,
+            "market_cap": 8952779198.537827
+        },
+        {
+            "timestamp": "2025-03-13 16:20:00",
+            "symbol": "LEO",
+            "price": 9.717892432087504,
+            "volume_24h": 2696603.54,
+            "market_cap": 8978806401.837652
+        },
+        {
+            "timestamp": "2025-03-14 16:20:00",
+            "symbol": "LEO",
+            "price": 9.796667031729427,
+            "volume_24h": 3136168.02,
+            "market_cap": 9051525061.459476
+        },
+        {
+            "timestamp": "2025-03-15 16:20:00",
+            "symbol": "LEO",
+            "price": 9.81732466968382,
+            "volume_24h": 1654939.36,
+            "market_cap": 9070546355.210005
+        },
+        {
+            "timestamp": "2025-03-16 16:20:00",
+            "symbol": "LEO",
+            "price": 9.83185026426749,
+            "volume_24h": 2792389.35,
+            "market_cap": 9083913088.120869
+        },
+        {
+            "timestamp": "2025-03-17 16:20:00",
+            "symbol": "LEO",
+            "price": 9.824071125015804,
+            "volume_24h": 5461009.65,
+            "market_cap": 9076665744.626244
+        },
+        {
+            "timestamp": "2025-03-18 16:20:00",
+            "symbol": "LEO",
+            "price": 9.724814293751605,
+            "volume_24h": 2752699.42,
+            "market_cap": 8984897887.863686
+        },
+        {
+            "timestamp": "2025-03-19 16:20:00",
+            "symbol": "LEO",
+            "price": 9.814225175654231,
+            "volume_24h": 2613773.06,
+            "market_cap": 9067441790.531565
+        },
+        {
+            "timestamp": "2025-03-20 16:20:00",
+            "symbol": "LEO",
+            "price": 9.813544278751428,
+            "volume_24h": 2735935.77,
+            "market_cap": 9066742478.66884
+        },
+        {
+            "timestamp": "2025-03-21 16:20:00",
+            "symbol": "LEO",
+            "price": 9.745082106517224,
+            "volume_24h": 2228355.94,
+            "market_cap": 9003430790.005705
+        },
+        {
+            "timestamp": "2025-03-22 16:20:00",
+            "symbol": "LEO",
+            "price": 9.6842345951383,
+            "volume_24h": 1642379.04,
+            "market_cap": 8947159538.693064
+        },
+        {
+            "timestamp": "2025-03-23 16:20:00",
+            "symbol": "LEO",
+            "price": 9.767050000837823,
+            "volume_24h": 1807967.85,
+            "market_cap": 9023619366.257849
+        },
+        {
+            "timestamp": "2025-03-24 16:20:00",
+            "symbol": "LEO",
+            "price": 9.750943076240969,
+            "volume_24h": 2298942.67,
+            "market_cap": 9008669656.24307
+        },
+        {
+            "timestamp": "2025-03-25 16:20:00",
+            "symbol": "LEO",
+            "price": 9.77301276756047,
+            "volume_24h": 2771296.55,
+            "market_cap": 9029000692.986444
+        },
+        {
+            "timestamp": "2025-03-26 16:20:00",
+            "symbol": "LEO",
+            "price": 9.787130258503373,
+            "volume_24h": 8523021.62,
+            "market_cap": 9041970868.231537
+        },
+        {
+            "timestamp": "2025-03-27 16:20:00",
+            "symbol": "LEO",
+            "price": 9.77045141025213,
+            "volume_24h": 4820014.49,
+            "market_cap": 9026502282.223047
+        },
+        {
+            "timestamp": "2025-03-28 16:20:00",
+            "symbol": "LEO",
+            "price": 9.691178045107073,
+            "volume_24h": 3591089.06,
+            "market_cap": 8953194826.311872
+        },
+        {
+            "timestamp": "2025-03-29 16:20:00",
+            "symbol": "LEO",
+            "price": 9.615290894024229,
+            "volume_24h": 2420130.11,
+            "market_cap": 8883016472.934464
+        },
+        {
+            "timestamp": "2025-03-30 16:20:00",
+            "symbol": "LEO",
+            "price": 9.63107107714958,
+            "volume_24h": 2464913.52,
+            "market_cap": 8897532374.550657
+        },
+        {
+            "timestamp": "2025-03-31 16:20:00",
+            "symbol": "LEO",
+            "price": 9.11037014629249,
+            "volume_24h": 3632035.31,
+            "market_cap": 8416420278.171267
+        },
+        {
+            "timestamp": "2025-04-01 16:20:00",
+            "symbol": "LEO",
+            "price": 9.334695126856516,
+            "volume_24h": 2383988.3,
+            "market_cap": 8623584996.17229
+        },
+        {
+            "timestamp": "2025-04-02 16:20:00",
+            "symbol": "LEO",
+            "price": 9.390648974313702,
+            "volume_24h": 4096414.45,
+            "market_cap": 8675204595.37739
+        },
+        {
+            "timestamp": "2025-04-03 16:20:00",
+            "symbol": "LEO",
+            "price": 9.38351838181119,
+            "volume_24h": 4613279.71,
+            "market_cap": 8668538626.686697
+        },
+        {
+            "timestamp": "2025-04-04 16:20:00",
+            "symbol": "LEO",
+            "price": 9.474646539827482,
+            "volume_24h": 3759085.12,
+            "market_cap": 8752646959.870771
+        },
+        {
+            "timestamp": "2025-04-05 16:20:00",
+            "symbol": "LEO",
+            "price": 8.977403290825858,
+            "volume_24h": 1933578.89,
+            "market_cap": 8293229074.019766
+        },
+        {
+            "timestamp": "2025-04-06 16:20:00",
+            "symbol": "LEO",
+            "price": 9.069833563316628,
+            "volume_24h": 1774013.99,
+            "market_cap": 8378546022.045202
+        },
+        {
+            "timestamp": "2025-04-07 16:20:00",
+            "symbol": "LEO",
+            "price": 8.921541786758633,
+            "volume_24h": 9810551.59,
+            "market_cap": 8241411839.408194
+        },
+        {
+            "timestamp": "2025-04-08 16:20:00",
+            "symbol": "LEO",
+            "price": 8.994349490680857,
+            "volume_24h": 3208128.44,
+            "market_cap": 8308578280.999792
+        },
+        {
+            "timestamp": "2025-04-09 16:20:00",
+            "symbol": "LEO",
+            "price": 9.157516507065772,
+            "volume_24h": 4256097.34,
+            "market_cap": 8459204059.257858
+        },
+        {
+            "timestamp": "2025-04-10 16:20:00",
+            "symbol": "LEO",
+            "price": 9.410373246094068,
+            "volume_24h": 5118389.18,
+            "market_cap": 8692672816.95333
+        },
+        {
+            "timestamp": "2025-04-11 16:20:00",
+            "symbol": "LEO",
+            "price": 9.412869004502936,
+            "volume_24h": 2274617.84,
+            "market_cap": 8694881156.572105
+        },
+        {
+            "timestamp": "2025-04-12 16:20:00",
+            "symbol": "LEO",
+            "price": 9.326327613758789,
+            "volume_24h": 2599082.36,
+            "market_cap": 8614869083.86367
+        },
+        {
+            "timestamp": "2025-04-13 16:20:00",
+            "symbol": "LEO",
+            "price": 9.39161625955324,
+            "volume_24h": 2098020.99,
+            "market_cap": 8675091667.86105
+        },
+        {
+            "timestamp": "2025-04-14 16:20:00",
+            "symbol": "LEO",
+            "price": 9.375039357000736,
+            "volume_24h": 3641982.58,
+            "market_cap": 8659706274.925282
+        },
+        {
+            "timestamp": "2025-04-15 16:20:00",
+            "symbol": "LEO",
+            "price": 9.340446922955598,
+            "volume_24h": 2246807.68,
+            "market_cap": 8627677753.5869
+        },
+        {
+            "timestamp": "2025-04-16 16:20:00",
+            "symbol": "LEO",
+            "price": 9.405279373158324,
+            "volume_24h": 1732822.65,
+            "market_cap": 8687490355.354013
+        },
+        {
+            "timestamp": "2025-04-17 16:20:00",
+            "symbol": "LEO",
+            "price": 9.041378434518377,
+            "volume_24h": 2843990.49,
+            "market_cap": 8351283416.559388
+        },
+        {
+            "timestamp": "2025-04-18 16:20:00",
+            "symbol": "LEO",
+            "price": 9.022328132380776,
+            "volume_24h": 2021925.5,
+            "market_cap": 8333605122.60666
+        },
+        {
+            "timestamp": "2025-04-19 16:20:00",
+            "symbol": "LEO",
+            "price": 9.311458846666444,
+            "volume_24h": 1770253.86,
+            "market_cap": 8600653224.210623
+        },
+        {
+            "timestamp": "2025-04-20 16:20:00",
+            "symbol": "LEO",
+            "price": 9.328805233870296,
+            "volume_24h": 1655647.5,
+            "market_cap": 8616609463.597845
+        },
+        {
+            "timestamp": "2025-04-21 16:20:00",
+            "symbol": "LEO",
+            "price": 9.132588565251949,
+            "volume_24h": 3535045.2,
+            "market_cap": 8435300404.273512
+        },
+        {
+            "timestamp": "2025-04-22 16:20:00",
+            "symbol": "LEO",
+            "price": 8.978329622106967,
+            "volume_24h": 3272985.35,
+            "market_cap": 8292730813.987317
+        },
+        {
+            "timestamp": "2025-04-23 16:20:00",
+            "symbol": "LEO",
+            "price": 9.06526885737832,
+            "volume_24h": 4933268.18,
+            "market_cap": 8372932816.342424
+        }
+    ],
+    "investment_thesis": "LEO presents a limited opportunity with significant risks (score: 38.4/100). Technical indicators are weak (37.0/100), showing negative price momentum. While some fundamental metrics remain adequate (49.0/100), they may be outweighed by other concerns. Negative market sentiment (28.0/100) reflects poor investor confidence. Chart analysis reveals a double bottom pattern, supporting a bullish outlook. Multiple bearish patterns (double top, descending triangle) have been identified, indicating caution is warranted. This analysis is set against a broader market that is currently in a strong bullish trend with sentiment showing greed. The analysis supports a Sell rating for LEO, indicating potential for price depreciation and suggesting reducing exposure.",
+    "risk_assessment": "LEO is classified as a moderate risk investment. With a market cap of $8.38B and global rank of #15, it balances growth potential with reasonable stability. Annualized volatility of 38.0% indicates moderate price fluctuations. Daily trading volume of $4.91M and liquidity ratio of 0.001 suggest adequate liquidity for most trading activities. Investors should be aware of risks including increased competition, potential regulatory impacts, and higher sensitivity to market sentiment. The current bullish market environment potentially reduces short-term downside risk, though caution is warranted for any sudden sentiment changes. High Bitcoin dominance (63.5%) may limit altcoin performance in the near term.",
+    "analysis_time": "2025-04-23 20:16:22"
+}

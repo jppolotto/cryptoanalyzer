@@ -1,0 +1,18 @@
+{
+    "symbol": "BTC",
+    "market_cap_usd": 1852879197236.4607,
+    "volume_24h_usd": 50380010181.92114,
+    "volume_mcap_ratio": 0.02719012132958377,
+    "market_share": 68.9534788624677,
+    "cmc_rank": 1,
+    "price_change_30d": 5.51597288,
+    "fundamental_score": 77,
+    "score_components": {
+        "market_cap_score": 25,
+        "volume_mcap_score": 5,
+        "rank_score": 15,
+        "stability_score": 15,
+        "growth_score": 7,
+        "market_position_score": 10
+    }
+}

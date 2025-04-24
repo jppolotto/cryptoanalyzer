@@ -1,0 +1,2 @@
+result
+"{'symbol': 'ETHUSDT', 'worstDate': '2025-03-03', 'worstLoss': -14.658, '99% VaR': -10.858, '95% VaR': -6.061, '90% VaR': -4.158, 'Method': 'Historical Simulation'}"

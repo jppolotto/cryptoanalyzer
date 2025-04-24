@@ -1,0 +1,14 @@
+{
+    "symbol": "BNB",
+    "current_price": 604.3769774933221,
+    "predicted_price": 580.2973559900773,
+    "prediction_days": 30,
+    "price_change_percent": -3.984205619994985,
+    "trend": "Bearish",
+    "trend_strength": "Weak",
+    "confidence": 66.66666666666666,
+    "best_model": "Random Forest",
+    "model_agreement": 2,
+    "available_models": 3,
+    "prediction_date": "2025-04-23 20:16:25"
+}

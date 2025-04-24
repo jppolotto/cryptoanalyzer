@@ -1,0 +1,2641 @@
+{
+    "symbol": "AVAX",
+    "name": "Avalanche",
+    "price_usd": 22.25968018286576,
+    "market_cap_usd": 9262019012.82661,
+    "volume_24h_usd": 489479689.2361204,
+    "percent_change_24h": 2.73927569,
+    "percent_change_7d": 18.5621714,
+    "technical_score": 63,
+    "fundamental_score": 51,
+    "sentiment_score": 48,
+    "total_score": 55.6,
+    "technical_weight": 0.45,
+    "fundamental_weight": 0.3,
+    "sentiment_weight": 0.25,
+    "risk_profile": "Moderate",
+    "market_opportunity": "Moderate",
+    "recommendation": "Buy",
+    "rank": 10,
+    "technical_data": {
+        "symbol": "AVAX",
+        "price": 22.24686198529572,
+        "ma_7": 20.279384707457503,
+        "ma_30": 19.472680709430815,
+        "ma_90": 22.708913084560326,
+        "ma_200": 30.21670996924099,
+        "rsi_14": 75.51227662437736,
+        "macd": 0.4105638771670108,
+        "macd_signal": -0.0036103221963288967,
+        "bb_upper": 22.261023572321392,
+        "bb_middle": 19.06976900786507,
+        "bb_lower": 15.878514443408747,
+        "bb_width": 0.33469252439713687,
+        "roc_7": 16.810674243681078,
+        "roc_30": 3.5655416857616196,
+        "obv": -6304688117.939994,
+        "tenkan_sen": 20.58559742386507,
+        "kijun_sen": 19.29445179462897,
+        "adx": 22.0555374622631,
+        "stoch_k": 99.75677053493285,
+        "stoch_d": 98.69608687162743,
+        "mfi": 74.70044411357966,
+        "psar": 18.393100420731702,
+        "technical_score": 63,
+        "score_components": {
+            "trend_score": 8,
+            "momentum_score": 10,
+            "volatility_score": 4,
+            "support_resistance_score": 3,
+            "volume_score": 10,
+            "ichimoku_score": 10,
+            "obv_score": 5,
+            "adx_score": 3,
+            "psar_score": 5,
+            "ma_cross_score": 5
+        }
+    },
+    "fundamental_data": {
+        "symbol": "AVAX",
+        "market_cap_usd": 9262019012.82661,
+        "volume_24h_usd": 489479689.2361204,
+        "volume_mcap_ratio": 0.052848054895834155,
+        "market_share": 0.34467893707115255,
+        "cmc_rank": 13,
+        "price_change_30d": 3.82636162,
+        "fundamental_score": 51,
+        "score_components": {
+            "market_cap_score": 15,
+            "volume_mcap_score": 8,
+            "rank_score": 10,
+            "stability_score": 9,
+            "growth_score": 5,
+            "market_position_score": 4
+        }
+    },
+    "sentiment_data": {
+        "symbol": "AVAX",
+        "price_change_1h": -1.35638433,
+        "price_change_24h": 2.73927569,
+        "price_change_7d": 18.5621714,
+        "market_avg_change_24h": 3.7310203413333327,
+        "market_avg_change_7d": 11.602763898000001,
+        "relative_performance_24h": -0.9917446513333328,
+        "relative_performance_7d": 6.9594075019999995,
+        "fear_greed_value": 72,
+        "fear_greed_classification": "Greed",
+        "market_trend": "Strong Bullish",
+        "sentiment_score": 48,
+        "score_components": {
+            "momentum_score": 17,
+            "market_sentiment_score": 10,
+            "relative_score": 11,
+            "alignment_score": 10
+        }
+    },
+    "pattern_data": {
+        "head_and_shoulders": false,
+        "inverse_head_and_shoulders": true,
+        "double_top": true,
+        "double_bottom": true,
+        "ascending_triangle": false,
+        "descending_triangle": false,
+        "symmetric_triangle": true,
+        "bullish_flag": false,
+        "bearish_flag": false,
+        "pattern_strength": 10
+    },
+    "divergence_data": {
+        "bearish_divergence": false,
+        "bullish_divergence": false,
+        "bearish_divergence_strength": 0,
+        "bullish_divergence_strength": 0,
+        "rsi_divergences": [],
+        "macd_divergences": []
+    },
+    "historical_data": [
+        {
+            "timestamp": "2024-04-29 16:20:00",
+            "symbol": "AVAX",
+            "price": 34.91638023630878,
+            "volume_24h": 379217171.34,
+            "market_cap": 13222944595.502953
+        },
+        {
+            "timestamp": "2024-04-30 16:20:00",
+            "symbol": "AVAX",
+            "price": 32.19374451524465,
+            "volume_24h": 488133152.77,
+            "market_cap": 12205493637.96152
+        },
+        {
+            "timestamp": "2024-05-01 16:20:00",
+            "symbol": "AVAX",
+            "price": 32.44547828340187,
+            "volume_24h": 539287912.88,
+            "market_cap": 12301653020.316366
+        },
+        {
+            "timestamp": "2024-05-02 16:20:00",
+            "symbol": "AVAX",
+            "price": 33.6302874975225,
+            "volume_24h": 507175355.6,
+            "market_cap": 12763262443.716385
+        },
+        {
+            "timestamp": "2024-05-03 16:20:00",
+            "symbol": "AVAX",
+            "price": 35.19830246692748,
+            "volume_24h": 299108666.19,
+            "market_cap": 13359305909.93608
+        },
+        {
+            "timestamp": "2024-05-04 16:20:00",
+            "symbol": "AVAX",
+            "price": 36.215443200087634,
+            "volume_24h": 303646541.11,
+            "market_cap": 13773494380.180605
+        },
+        {
+            "timestamp": "2024-05-05 16:20:00",
+            "symbol": "AVAX",
+            "price": 37.639570377770255,
+            "volume_24h": 436252702.54,
+            "market_cap": 14315374480.189602
+        },
+        {
+            "timestamp": "2024-05-06 16:20:00",
+            "symbol": "AVAX",
+            "price": 37.741627288540485,
+            "volume_24h": 504100035.41,
+            "market_cap": 14361947196.645844
+        },
+        {
+            "timestamp": "2024-05-07 16:20:00",
+            "symbol": "AVAX",
+            "price": 36.93890148843802,
+            "volume_24h": 385564427.56,
+            "market_cap": 14058359328.564322
+        },
+        {
+            "timestamp": "2024-05-08 16:20:00",
+            "symbol": "AVAX",
+            "price": 34.437985541240565,
+            "volume_24h": 366163269.04,
+            "market_cap": 13107282501.0386
+        },
+        {
+            "timestamp": "2024-05-09 16:20:00",
+            "symbol": "AVAX",
+            "price": 34.586501543992945,
+            "volume_24h": 356800673.91,
+            "market_cap": 13164258994.79104
+        },
+        {
+            "timestamp": "2024-05-10 16:20:00",
+            "symbol": "AVAX",
+            "price": 34.68656516282067,
+            "volume_24h": 367972959.45,
+            "market_cap": 13212764238.2205
+        },
+        {
+            "timestamp": "2024-05-11 16:20:00",
+            "symbol": "AVAX",
+            "price": 33.8433221512642,
+            "volume_24h": 307506434.75,
+            "market_cap": 12906318787.937498
+        },
+        {
+            "timestamp": "2024-05-12 16:20:00",
+            "symbol": "AVAX",
+            "price": 33.84299440307559,
+            "volume_24h": 149987740.05,
+            "market_cap": 12911742459.32443
+        },
+        {
+            "timestamp": "2024-05-13 16:20:00",
+            "symbol": "AVAX",
+            "price": 33.2741527363002,
+            "volume_24h": 318009097.53,
+            "market_cap": 12695334799.96067
+        },
+        {
+            "timestamp": "2024-05-14 16:20:00",
+            "symbol": "AVAX",
+            "price": 31.8706332178703,
+            "volume_24h": 471859540.54,
+            "market_cap": 12169049605.918243
+        },
+        {
+            "timestamp": "2024-05-15 16:20:00",
+            "symbol": "AVAX",
+            "price": 34.15780614820931,
+            "volume_24h": 429842905.86,
+            "market_cap": 13047873903.562649
+        },
+        {
+            "timestamp": "2024-05-16 16:20:00",
+            "symbol": "AVAX",
+            "price": 34.0637121819879,
+            "volume_24h": 412296395.31,
+            "market_cap": 13016113372.55123
+        },
+        {
+            "timestamp": "2024-05-17 16:20:00",
+            "symbol": "AVAX",
+            "price": 37.096111844868055,
+            "volume_24h": 483096572.26,
+            "market_cap": 14188813359.041264
+        },
+        {
+            "timestamp": "2024-05-18 16:20:00",
+            "symbol": "AVAX",
+            "price": 37.2778225547862,
+            "volume_24h": 361744447.84,
+            "market_cap": 14264161962.87528
+        },
+        {
+            "timestamp": "2024-05-19 16:20:00",
+            "symbol": "AVAX",
+            "price": 35.83004784724696,
+            "volume_24h": 283271314.74,
+            "market_cap": 13714931939.493065
+        },
+        {
+            "timestamp": "2024-05-20 16:20:00",
+            "symbol": "AVAX",
+            "price": 36.58987062614647,
+            "volume_24h": 352258628.37,
+            "market_cap": 14009763044.681282
+        },
+        {
+            "timestamp": "2024-05-21 16:20:00",
+            "symbol": "AVAX",
+            "price": 40.83646174924067,
+            "volume_24h": 968826778.62,
+            "market_cap": 15650021380.688858
+        },
+        {
+            "timestamp": "2024-05-22 16:20:00",
+            "symbol": "AVAX",
+            "price": 40.37479236203569,
+            "volume_24h": 607356886.37,
+            "market_cap": 15852272667.378078
+        },
+        {
+            "timestamp": "2024-05-23 16:20:00",
+            "symbol": "AVAX",
+            "price": 38.25018832753662,
+            "volume_24h": 562299441.18,
+            "market_cap": 15025663062.578728
+        },
+        {
+            "timestamp": "2024-05-24 16:20:00",
+            "symbol": "AVAX",
+            "price": 37.90890982924312,
+            "volume_24h": 611862325.35,
+            "market_cap": 14891775154.275084
+        },
+        {
+            "timestamp": "2024-05-25 16:20:00",
+            "symbol": "AVAX",
+            "price": 37.99188077386477,
+            "volume_24h": 269444218.02,
+            "market_cap": 14927073837.879314
+        },
+        {
+            "timestamp": "2024-05-26 16:20:00",
+            "symbol": "AVAX",
+            "price": 36.81267205066212,
+            "volume_24h": 236707928.92,
+            "market_cap": 14463820613.61236
+        },
+        {
+            "timestamp": "2024-05-27 16:20:00",
+            "symbol": "AVAX",
+            "price": 38.80433180517404,
+            "volume_24h": 312512593.51,
+            "market_cap": 15246530320.995134
+        },
+        {
+            "timestamp": "2024-05-28 16:20:00",
+            "symbol": "AVAX",
+            "price": 36.93312382700677,
+            "volume_24h": 503768412.69,
+            "market_cap": 14511542605.349789
+        },
+        {
+            "timestamp": "2024-05-29 16:20:00",
+            "symbol": "AVAX",
+            "price": 36.39528547286494,
+            "volume_24h": 415847580.9,
+            "market_cap": 14300416354.926891
+        },
+        {
+            "timestamp": "2024-05-30 16:20:00",
+            "symbol": "AVAX",
+            "price": 36.708172803289486,
+            "volume_24h": 401963186.14,
+            "market_cap": 14425998507.958744
+        },
+        {
+            "timestamp": "2024-05-31 16:20:00",
+            "symbol": "AVAX",
+            "price": 35.24959086915948,
+            "volume_24h": 319534120.92,
+            "market_cap": 13855672704.148895
+        },
+        {
+            "timestamp": "2024-06-01 16:20:00",
+            "symbol": "AVAX",
+            "price": 35.91972606183932,
+            "volume_24h": 184611216.6,
+            "market_cap": 14120475812.83106
+        },
+        {
+            "timestamp": "2024-06-02 16:20:00",
+            "symbol": "AVAX",
+            "price": 35.64270384314304,
+            "volume_24h": 189875753.86,
+            "market_cap": 14011847044.231688
+        },
+        {
+            "timestamp": "2024-06-03 16:20:00",
+            "symbol": "AVAX",
+            "price": 35.457819172483646,
+            "volume_24h": 357493745.71,
+            "market_cap": 13942005016.845144
+        },
+        {
+            "timestamp": "2024-06-04 16:20:00",
+            "symbol": "AVAX",
+            "price": 35.69449875139263,
+            "volume_24h": 329536661.45,
+            "market_cap": 14035393297.945616
+        },
+        {
+            "timestamp": "2024-06-05 16:20:00",
+            "symbol": "AVAX",
+            "price": 36.61833395012917,
+            "volume_24h": 349528486.35,
+            "market_cap": 14399663104.047195
+        },
+        {
+            "timestamp": "2024-06-06 16:20:00",
+            "symbol": "AVAX",
+            "price": 36.809413786571575,
+            "volume_24h": 292236713.59,
+            "market_cap": 14475002436.43696
+        },
+        {
+            "timestamp": "2024-06-07 16:20:00",
+            "symbol": "AVAX",
+            "price": 36.23220352968895,
+            "volume_24h": 327074232.6,
+            "market_cap": 14248403051.87852
+        },
+        {
+            "timestamp": "2024-06-08 16:20:00",
+            "symbol": "AVAX",
+            "price": 32.352868511547925,
+            "volume_24h": 594877177.77,
+            "market_cap": 12722918142.558771
+        },
+        {
+            "timestamp": "2024-06-09 16:20:00",
+            "symbol": "AVAX",
+            "price": 32.48585223559118,
+            "volume_24h": 253107391.5,
+            "market_cap": 12775307374.194502
+        },
+        {
+            "timestamp": "2024-06-10 16:20:00",
+            "symbol": "AVAX",
+            "price": 32.804078363608944,
+            "volume_24h": 304500328.95,
+            "market_cap": 12900764278.76063
+        },
+        {
+            "timestamp": "2024-06-11 16:20:00",
+            "symbol": "AVAX",
+            "price": 31.308680461476595,
+            "volume_24h": 416147622.41,
+            "market_cap": 12312789414.409027
+        },
+        {
+            "timestamp": "2024-06-12 16:20:00",
+            "symbol": "AVAX",
+            "price": 33.55974437266013,
+            "volume_24h": 339545544.06,
+            "market_cap": 13198442918.545685
+        },
+        {
+            "timestamp": "2024-06-13 16:20:00",
+            "symbol": "AVAX",
+            "price": 31.46521164762978,
+            "volume_24h": 378117131.19,
+            "market_cap": 12374893172.525644
+        },
+        {
+            "timestamp": "2024-06-14 16:20:00",
+            "symbol": "AVAX",
+            "price": 29.91862408831961,
+            "volume_24h": 316055782.83,
+            "market_cap": 11766972055.94455
+        },
+        {
+            "timestamp": "2024-06-15 16:20:00",
+            "symbol": "AVAX",
+            "price": 30.28444904920115,
+            "volume_24h": 237234236.94,
+            "market_cap": 11910934429.009718
+        },
+        {
+            "timestamp": "2024-06-16 16:20:00",
+            "symbol": "AVAX",
+            "price": 30.07742404696377,
+            "volume_24h": 163156707.62,
+            "market_cap": 11830380210.5206
+        },
+        {
+            "timestamp": "2024-06-17 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.75704561586471,
+            "volume_24h": 271550200.58,
+            "market_cap": 10917916184.46841
+        },
+        {
+            "timestamp": "2024-06-18 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.98502761264097,
+            "volume_24h": 461255221.12,
+            "market_cap": 10220973782.33156
+        },
+        {
+            "timestamp": "2024-06-19 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.077227102887367,
+            "volume_24h": 242582775.48,
+            "market_cap": 10651963616.830416
+        },
+        {
+            "timestamp": "2024-06-20 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.12333521455536,
+            "volume_24h": 299723194.18,
+            "market_cap": 10670414750.662443
+        },
+        {
+            "timestamp": "2024-06-21 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.426143685356504,
+            "volume_24h": 226464070.11,
+            "market_cap": 10789743649.7307
+        },
+        {
+            "timestamp": "2024-06-22 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.01256044453563,
+            "volume_24h": 566754000.85,
+            "market_cap": 10242110262.838518
+        },
+        {
+            "timestamp": "2024-06-23 16:20:00",
+            "symbol": "AVAX",
+            "price": 24.357744062867678,
+            "volume_24h": 237697259.84,
+            "market_cap": 9590694249.67476
+        },
+        {
+            "timestamp": "2024-06-24 16:20:00",
+            "symbol": "AVAX",
+            "price": 24.14528575081103,
+            "volume_24h": 499993339.26,
+            "market_cap": 9507305342.147392
+        },
+        {
+            "timestamp": "2024-06-25 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.505939239907605,
+            "volume_24h": 339401542.84,
+            "market_cap": 10043185604.149525
+        },
+        {
+            "timestamp": "2024-06-26 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.88600242593592,
+            "volume_24h": 293777605.73,
+            "market_cap": 10193036941.410715
+        },
+        {
+            "timestamp": "2024-06-27 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.907629503417137,
+            "volume_24h": 374248083.35,
+            "market_cap": 10991868450.691977
+        },
+        {
+            "timestamp": "2024-06-28 16:20:00",
+            "symbol": "AVAX",
+            "price": 28.123456437348647,
+            "volume_24h": 337039971.19,
+            "market_cap": 11077579702.068838
+        },
+        {
+            "timestamp": "2024-06-29 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.743315718364933,
+            "volume_24h": 232484389.48,
+            "market_cap": 10933514095.514254
+        },
+        {
+            "timestamp": "2024-06-30 16:20:00",
+            "symbol": "AVAX",
+            "price": 28.028533471630546,
+            "volume_24h": 178496378.13,
+            "market_cap": 11046177612.48921
+        },
+        {
+            "timestamp": "2024-07-01 16:20:00",
+            "symbol": "AVAX",
+            "price": 29.85454884549266,
+            "volume_24h": 323354921.94,
+            "market_cap": 11766598802.404186
+        },
+        {
+            "timestamp": "2024-07-02 16:20:00",
+            "symbol": "AVAX",
+            "price": 28.19624320531438,
+            "volume_24h": 263507496.72,
+            "market_cap": 11114281024.91411
+        },
+        {
+            "timestamp": "2024-07-03 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.950929231997925,
+            "volume_24h": 316820794.79,
+            "market_cap": 10623814642.356438
+        },
+        {
+            "timestamp": "2024-07-04 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.398334607231288,
+            "volume_24h": 550999931.03,
+            "market_cap": 10012171591.224236
+        },
+        {
+            "timestamp": "2024-07-05 16:20:00",
+            "symbol": "AVAX",
+            "price": 24.87399106031618,
+            "volume_24h": 590004672.93,
+            "market_cap": 9805601783.35206
+        },
+        {
+            "timestamp": "2024-07-06 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.132712150073605,
+            "volume_24h": 259967869.83,
+            "market_cap": 10303578306.137957
+        },
+        {
+            "timestamp": "2024-07-07 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.05295891314641,
+            "volume_24h": 261777660.97,
+            "market_cap": 10272233343.662512
+        },
+        {
+            "timestamp": "2024-07-08 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.79182068434021,
+            "volume_24h": 419553978.81,
+            "market_cap": 10169364668.186438
+        },
+        {
+            "timestamp": "2024-07-09 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.71765043078763,
+            "volume_24h": 366044635.23,
+            "market_cap": 10142107434.832664
+        },
+        {
+            "timestamp": "2024-07-10 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.599390569946376,
+            "volume_24h": 289638060.54,
+            "market_cap": 10490619221.642511
+        },
+        {
+            "timestamp": "2024-07-11 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.36352280343292,
+            "volume_24h": 292415488.63,
+            "market_cap": 10003430031.68854
+        },
+        {
+            "timestamp": "2024-07-12 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.59137364534697,
+            "volume_24h": 221256892.45,
+            "market_cap": 10093459864.043818
+        },
+        {
+            "timestamp": "2024-07-13 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.228175472370605,
+            "volume_24h": 261033819.52,
+            "market_cap": 10344862881.54439
+        },
+        {
+            "timestamp": "2024-07-14 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.92729883461883,
+            "volume_24h": 265772785.16,
+            "market_cap": 10227995948.24126
+        },
+        {
+            "timestamp": "2024-07-15 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.96735313816799,
+            "volume_24h": 283225728.77,
+            "market_cap": 10638467104.218182
+        },
+        {
+            "timestamp": "2024-07-16 16:20:00",
+            "symbol": "AVAX",
+            "price": 28.25139557829891,
+            "volume_24h": 461136661.71,
+            "market_cap": 11145528648.643707
+        },
+        {
+            "timestamp": "2024-07-17 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.73096462314813,
+            "volume_24h": 420022429.84,
+            "market_cap": 10945113925.053572
+        },
+        {
+            "timestamp": "2024-07-18 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.00783426225187,
+            "volume_24h": 308204595.1,
+            "market_cap": 10660340026.661018
+        },
+        {
+            "timestamp": "2024-07-19 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.8468350716509,
+            "volume_24h": 282001072.17,
+            "market_cap": 10991874302.719046
+        },
+        {
+            "timestamp": "2024-07-20 16:20:00",
+            "symbol": "AVAX",
+            "price": 28.417473180411392,
+            "volume_24h": 249437687.58,
+            "market_cap": 11217872957.088694
+        },
+        {
+            "timestamp": "2024-07-21 16:20:00",
+            "symbol": "AVAX",
+            "price": 31.431063240689102,
+            "volume_24h": 455570289.67,
+            "market_cap": 12407666071.330326
+        },
+        {
+            "timestamp": "2024-07-22 16:20:00",
+            "symbol": "AVAX",
+            "price": 31.984143042044547,
+            "volume_24h": 784450692.79,
+            "market_cap": 12626118070.63984
+        },
+        {
+            "timestamp": "2024-07-23 16:20:00",
+            "symbol": "AVAX",
+            "price": 30.22855639276919,
+            "volume_24h": 490430248.16,
+            "market_cap": 11934184787.69093
+        },
+        {
+            "timestamp": "2024-07-24 16:20:00",
+            "symbol": "AVAX",
+            "price": 29.210469702286744,
+            "volume_24h": 447248403.18,
+            "market_cap": 11532352967.647432
+        },
+        {
+            "timestamp": "2024-07-25 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.93925671049057,
+            "volume_24h": 367456239.18,
+            "market_cap": 10635760124.793823
+        },
+        {
+            "timestamp": "2024-07-26 16:20:00",
+            "symbol": "AVAX",
+            "price": 28.62865240284608,
+            "volume_24h": 385390785.85,
+            "market_cap": 11302860887.881968
+        },
+        {
+            "timestamp": "2024-07-27 16:20:00",
+            "symbol": "AVAX",
+            "price": 28.73382869563249,
+            "volume_24h": 247160550.63,
+            "market_cap": 11345004708.9182
+        },
+        {
+            "timestamp": "2024-07-28 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.331708724008905,
+            "volume_24h": 270671584.96,
+            "market_cap": 10791665248.17929
+        },
+        {
+            "timestamp": "2024-07-29 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.46448129678217,
+            "volume_24h": 314681179.51,
+            "market_cap": 10844783782.585045
+        },
+        {
+            "timestamp": "2024-07-30 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.703561288652715,
+            "volume_24h": 240905965.68,
+            "market_cap": 10544445291.930054
+        },
+        {
+            "timestamp": "2024-07-31 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.706184366337688,
+            "volume_24h": 244678245.86,
+            "market_cap": 10545862102.89488
+        },
+        {
+            "timestamp": "2024-08-01 16:20:00",
+            "symbol": "AVAX",
+            "price": 24.52170004914832,
+            "volume_24h": 285445093.67,
+            "market_cap": 9683673974.683352
+        },
+        {
+            "timestamp": "2024-08-02 16:20:00",
+            "symbol": "AVAX",
+            "price": 24.075087958230203,
+            "volume_24h": 343782786.68,
+            "market_cap": 9509885992.75128
+        },
+        {
+            "timestamp": "2024-08-03 16:20:00",
+            "symbol": "AVAX",
+            "price": 22.96688419215051,
+            "volume_24h": 252879813.66,
+            "market_cap": 9072628516.690716
+        },
+        {
+            "timestamp": "2024-08-04 16:20:00",
+            "symbol": "AVAX",
+            "price": 21.47930238457112,
+            "volume_24h": 243782927.51,
+            "market_cap": 8485478429.025026
+        },
+        {
+            "timestamp": "2024-08-05 16:20:00",
+            "symbol": "AVAX",
+            "price": 20.00922338686663,
+            "volume_24h": 976645858.2,
+            "market_cap": 7904704855.5722065
+        },
+        {
+            "timestamp": "2024-08-06 16:20:00",
+            "symbol": "AVAX",
+            "price": 21.24369786545506,
+            "volume_24h": 410695077.55,
+            "market_cap": 8392567369.031797
+        },
+        {
+            "timestamp": "2024-08-07 16:20:00",
+            "symbol": "AVAX",
+            "price": 20.311080281359374,
+            "volume_24h": 289299961.64,
+            "market_cap": 8024429885.228312
+        },
+        {
+            "timestamp": "2024-08-08 16:20:00",
+            "symbol": "AVAX",
+            "price": 22.166179431558003,
+            "volume_24h": 288527194.95,
+            "market_cap": 8757601492.2124
+        },
+        {
+            "timestamp": "2024-08-09 16:20:00",
+            "symbol": "AVAX",
+            "price": 21.52821443555253,
+            "volume_24h": 267672663.6,
+            "market_cap": 8505696726.449281
+        },
+        {
+            "timestamp": "2024-08-10 16:20:00",
+            "symbol": "AVAX",
+            "price": 21.69215692313981,
+            "volume_24h": 153509003.66,
+            "market_cap": 8570546646.763196
+        },
+        {
+            "timestamp": "2024-08-11 16:20:00",
+            "symbol": "AVAX",
+            "price": 21.17763172751924,
+            "volume_24h": 163834826.96,
+            "market_cap": 8367344956.766712
+        },
+        {
+            "timestamp": "2024-08-12 16:20:00",
+            "symbol": "AVAX",
+            "price": 21.29218776349573,
+            "volume_24h": 238059022.46,
+            "market_cap": 8412789605.235554
+        },
+        {
+            "timestamp": "2024-08-13 16:20:00",
+            "symbol": "AVAX",
+            "price": 21.292014391238407,
+            "volume_24h": 190566555.98,
+            "market_cap": 8413057825.561743
+        },
+        {
+            "timestamp": "2024-08-14 16:20:00",
+            "symbol": "AVAX",
+            "price": 21.296692468335483,
+            "volume_24h": 203592390.23,
+            "market_cap": 8419372583.374389
+        },
+        {
+            "timestamp": "2024-08-15 16:20:00",
+            "symbol": "AVAX",
+            "price": 20.954842130723023,
+            "volume_24h": 190680264.99,
+            "market_cap": 8284299624.075602
+        },
+        {
+            "timestamp": "2024-08-16 16:20:00",
+            "symbol": "AVAX",
+            "price": 20.17166542560628,
+            "volume_24h": 214741268.66,
+            "market_cap": 7974678084.418622
+        },
+        {
+            "timestamp": "2024-08-17 16:20:00",
+            "symbol": "AVAX",
+            "price": 20.54123786787942,
+            "volume_24h": 131729020.78,
+            "market_cap": 8121101936.957521
+        },
+        {
+            "timestamp": "2024-08-18 16:20:00",
+            "symbol": "AVAX",
+            "price": 21.21769471563247,
+            "volume_24h": 132916809.3,
+            "market_cap": 8388702258.57832
+        },
+        {
+            "timestamp": "2024-08-19 16:20:00",
+            "symbol": "AVAX",
+            "price": 20.614017380801783,
+            "volume_24h": 158555744.44,
+            "market_cap": 8150185424.254682
+        },
+        {
+            "timestamp": "2024-08-20 16:20:00",
+            "symbol": "AVAX",
+            "price": 21.968764436589986,
+            "volume_24h": 243073478.84,
+            "market_cap": 8892000916.883165
+        },
+        {
+            "timestamp": "2024-08-21 16:20:00",
+            "symbol": "AVAX",
+            "price": 23.05259638340134,
+            "volume_24h": 300630469.19,
+            "market_cap": 9330991700.044333
+        },
+        {
+            "timestamp": "2024-08-22 16:20:00",
+            "symbol": "AVAX",
+            "price": 24.391710229814823,
+            "volume_24h": 345444811.51,
+            "market_cap": 9873208141.253582
+        },
+        {
+            "timestamp": "2024-08-23 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.161062785930383,
+            "volume_24h": 421465685.09,
+            "market_cap": 10589715116.681398
+        },
+        {
+            "timestamp": "2024-08-24 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.828106410805365,
+            "volume_24h": 370003162.51,
+            "market_cap": 11265792973.780502
+        },
+        {
+            "timestamp": "2024-08-25 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.225722926561048,
+            "volume_24h": 316741809.87,
+            "market_cap": 11021996762.921003
+        },
+        {
+            "timestamp": "2024-08-26 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.53371805945128,
+            "volume_24h": 305361295.52,
+            "market_cap": 10742021855.7627
+        },
+        {
+            "timestamp": "2024-08-27 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.442264630529696,
+            "volume_24h": 290214196.0,
+            "market_cap": 10300276421.527231
+        },
+        {
+            "timestamp": "2024-08-28 16:20:00",
+            "symbol": "AVAX",
+            "price": 23.463235326512983,
+            "volume_24h": 338585243.63,
+            "market_cap": 9499289625.697071
+        },
+        {
+            "timestamp": "2024-08-29 16:20:00",
+            "symbol": "AVAX",
+            "price": 24.479519711201608,
+            "volume_24h": 302432244.99,
+            "market_cap": 9911620151.266527
+        },
+        {
+            "timestamp": "2024-08-30 16:20:00",
+            "symbol": "AVAX",
+            "price": 22.44873479025152,
+            "volume_24h": 260986267.02,
+            "market_cap": 9089623018.233543
+        },
+        {
+            "timestamp": "2024-08-31 16:20:00",
+            "symbol": "AVAX",
+            "price": 22.964162725780945,
+            "volume_24h": 156629827.02,
+            "market_cap": 9298781409.86035
+        },
+        {
+            "timestamp": "2024-09-01 16:20:00",
+            "symbol": "AVAX",
+            "price": 22.39673245895478,
+            "volume_24h": 182452425.44,
+            "market_cap": 9069193224.506445
+        },
+        {
+            "timestamp": "2024-09-02 16:20:00",
+            "symbol": "AVAX",
+            "price": 22.146694007694624,
+            "volume_24h": 212218256.76,
+            "market_cap": 8968385608.54261
+        },
+        {
+            "timestamp": "2024-09-03 16:20:00",
+            "symbol": "AVAX",
+            "price": 21.61650435505757,
+            "volume_24h": 180310893.31,
+            "market_cap": 8756410484.988491
+        },
+        {
+            "timestamp": "2024-09-04 16:20:00",
+            "symbol": "AVAX",
+            "price": 22.05968914209104,
+            "volume_24h": 221506514.67,
+            "market_cap": 8938236155.175356
+        },
+        {
+            "timestamp": "2024-09-05 16:20:00",
+            "symbol": "AVAX",
+            "price": 21.358595369692942,
+            "volume_24h": 161542311.29,
+            "market_cap": 8654564737.591587
+        },
+        {
+            "timestamp": "2024-09-06 16:20:00",
+            "symbol": "AVAX",
+            "price": 21.08960780936184,
+            "volume_24h": 236765701.01,
+            "market_cap": 8545848442.294183
+        },
+        {
+            "timestamp": "2024-09-07 16:20:00",
+            "symbol": "AVAX",
+            "price": 21.8308717820832,
+            "volume_24h": 217504511.37,
+            "market_cap": 8847115966.145548
+        },
+        {
+            "timestamp": "2024-09-08 16:20:00",
+            "symbol": "AVAX",
+            "price": 22.46080916325161,
+            "volume_24h": 197768601.73,
+            "market_cap": 9102464139.350706
+        },
+        {
+            "timestamp": "2024-09-09 16:20:00",
+            "symbol": "AVAX",
+            "price": 23.849079664566787,
+            "volume_24h": 259992315.07,
+            "market_cap": 9665169070.39339
+        },
+        {
+            "timestamp": "2024-09-10 16:20:00",
+            "symbol": "AVAX",
+            "price": 23.884299998340506,
+            "volume_24h": 229441169.05,
+            "market_cap": 9679663625.015232
+        },
+        {
+            "timestamp": "2024-09-11 16:20:00",
+            "symbol": "AVAX",
+            "price": 23.47026287982365,
+            "volume_24h": 254784433.5,
+            "market_cap": 9511944682.261858
+        },
+        {
+            "timestamp": "2024-09-12 16:20:00",
+            "symbol": "AVAX",
+            "price": 23.593921491276294,
+            "volume_24h": 204206055.49,
+            "market_cap": 9563145595.61242
+        },
+        {
+            "timestamp": "2024-09-13 16:20:00",
+            "symbol": "AVAX",
+            "price": 24.70457024947492,
+            "volume_24h": 242454470.32,
+            "market_cap": 10014609152.282587
+        },
+        {
+            "timestamp": "2024-09-14 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.554871655289176,
+            "volume_24h": 198961531.33,
+            "market_cap": 10370328219.55514
+        },
+        {
+            "timestamp": "2024-09-15 16:20:00",
+            "symbol": "AVAX",
+            "price": 24.681909186383688,
+            "volume_24h": 174824692.24,
+            "market_cap": 10016171206.002155
+        },
+        {
+            "timestamp": "2024-09-16 16:20:00",
+            "symbol": "AVAX",
+            "price": 23.410098903471383,
+            "volume_24h": 253678040.16,
+            "market_cap": 9500191211.708569
+        },
+        {
+            "timestamp": "2024-09-17 16:20:00",
+            "symbol": "AVAX",
+            "price": 24.31783980323212,
+            "volume_24h": 218786604.69,
+            "market_cap": 9869841925.041853
+        },
+        {
+            "timestamp": "2024-09-18 16:20:00",
+            "symbol": "AVAX",
+            "price": 23.047983946393245,
+            "volume_24h": 199941120.77,
+            "market_cap": 9355413952.003193
+        },
+        {
+            "timestamp": "2024-09-19 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.400563980398758,
+            "volume_24h": 485322772.24,
+            "market_cap": 10716722380.904371
+        },
+        {
+            "timestamp": "2024-09-20 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.181934670963123,
+            "volume_24h": 540239640.79,
+            "market_cap": 11034745766.898838
+        },
+        {
+            "timestamp": "2024-09-21 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.647509951010196,
+            "volume_24h": 256212130.22,
+            "market_cap": 11223987216.765575
+        },
+        {
+            "timestamp": "2024-09-22 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.707668971027807,
+            "volume_24h": 197810591.65,
+            "market_cap": 10843123214.21534
+        },
+        {
+            "timestamp": "2024-09-23 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.47987718513038,
+            "volume_24h": 369901454.21,
+            "market_cap": 11156836663.08417
+        },
+        {
+            "timestamp": "2024-09-24 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.163695503702883,
+            "volume_24h": 280198414.03,
+            "market_cap": 11028738617.12588
+        },
+        {
+            "timestamp": "2024-09-25 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.626013395817264,
+            "volume_24h": 419473114.9,
+            "market_cap": 11216657792.798153
+        },
+        {
+            "timestamp": "2024-09-26 16:20:00",
+            "symbol": "AVAX",
+            "price": 29.347629930314067,
+            "volume_24h": 450261916.59,
+            "market_cap": 11915829661.115463
+        },
+        {
+            "timestamp": "2024-09-27 16:20:00",
+            "symbol": "AVAX",
+            "price": 30.22623770973412,
+            "volume_24h": 458773146.44,
+            "market_cap": 12273148196.823326
+        },
+        {
+            "timestamp": "2024-09-28 16:20:00",
+            "symbol": "AVAX",
+            "price": 29.32460623698861,
+            "volume_24h": 314583848.54,
+            "market_cap": 11907167410.148403
+        },
+        {
+            "timestamp": "2024-09-29 16:20:00",
+            "symbol": "AVAX",
+            "price": 28.82316847796861,
+            "volume_24h": 244264176.81,
+            "market_cap": 11703599804.524233
+        },
+        {
+            "timestamp": "2024-09-30 16:20:00",
+            "symbol": "AVAX",
+            "price": 28.16474327009898,
+            "volume_24h": 379562667.18,
+            "market_cap": 11441087304.179811
+        },
+        {
+            "timestamp": "2024-10-01 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.726418057755275,
+            "volume_24h": 438429787.53,
+            "market_cap": 10857790920.530512
+        },
+        {
+            "timestamp": "2024-10-02 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.31778402897825,
+            "volume_24h": 532003178.66,
+            "market_cap": 10694253779.492348
+        },
+        {
+            "timestamp": "2024-10-03 16:20:00",
+            "symbol": "AVAX",
+            "price": 24.330827599975272,
+            "volume_24h": 441549836.99,
+            "market_cap": 9887834306.855345
+        },
+        {
+            "timestamp": "2024-10-04 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.09077967098022,
+            "volume_24h": 338046598.63,
+            "market_cap": 10602779957.912354
+        },
+        {
+            "timestamp": "2024-10-05 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.61312013468865,
+            "volume_24h": 226001624.37,
+            "market_cap": 10410312545.778109
+        },
+        {
+            "timestamp": "2024-10-06 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.926674654462072,
+            "volume_24h": 235381639.9,
+            "market_cap": 10944349505.537077
+        },
+        {
+            "timestamp": "2024-10-07 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.21991901771676,
+            "volume_24h": 314159861.12,
+            "market_cap": 11063780132.012108
+        },
+        {
+            "timestamp": "2024-10-08 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.39139138546017,
+            "volume_24h": 309859414.82,
+            "market_cap": 10727208539.074549
+        },
+        {
+            "timestamp": "2024-10-09 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.92544506843753,
+            "volume_24h": 256556448.09,
+            "market_cap": 10539919507.986149
+        },
+        {
+            "timestamp": "2024-10-10 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.7295648049663,
+            "volume_24h": 292892842.96,
+            "market_cap": 10460748886.30233
+        },
+        {
+            "timestamp": "2024-10-11 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.801553317734147,
+            "volume_24h": 265930634.04,
+            "market_cap": 10897222651.813566
+        },
+        {
+            "timestamp": "2024-10-12 16:20:00",
+            "symbol": "AVAX",
+            "price": 29.215395861516445,
+            "volume_24h": 389068974.72,
+            "market_cap": 11878804356.69499
+        },
+        {
+            "timestamp": "2024-10-13 16:20:00",
+            "symbol": "AVAX",
+            "price": 28.48424963988501,
+            "volume_24h": 316394571.98,
+            "market_cap": 11581638358.271912
+        },
+        {
+            "timestamp": "2024-10-14 16:20:00",
+            "symbol": "AVAX",
+            "price": 29.270907426677564,
+            "volume_24h": 389415528.4,
+            "market_cap": 11901773769.834429
+        },
+        {
+            "timestamp": "2024-10-15 16:20:00",
+            "symbol": "AVAX",
+            "price": 28.34641867437411,
+            "volume_24h": 479611453.25,
+            "market_cap": 11526065493.865711
+        },
+        {
+            "timestamp": "2024-10-16 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.3761843734273,
+            "volume_24h": 414973393.22,
+            "market_cap": 11131618660.349577
+        },
+        {
+            "timestamp": "2024-10-17 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.592635931940627,
+            "volume_24h": 232520866.53,
+            "market_cap": 11222848200.340628
+        },
+        {
+            "timestamp": "2024-10-18 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.66938958726964,
+            "volume_24h": 203007629.07,
+            "market_cap": 11257644133.920477
+        },
+        {
+            "timestamp": "2024-10-19 16:20:00",
+            "symbol": "AVAX",
+            "price": 28.030704881709298,
+            "volume_24h": 152558096.64,
+            "market_cap": 11404748058.702965
+        },
+        {
+            "timestamp": "2024-10-20 16:20:00",
+            "symbol": "AVAX",
+            "price": 28.280787365984136,
+            "volume_24h": 135463330.6,
+            "market_cap": 11506619968.46258
+        },
+        {
+            "timestamp": "2024-10-21 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.57216177463611,
+            "volume_24h": 291900308.15,
+            "market_cap": 11220321027.373428
+        },
+        {
+            "timestamp": "2024-10-22 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.763365224573143,
+            "volume_24h": 297281095.44,
+            "market_cap": 11298515143.333006
+        },
+        {
+            "timestamp": "2024-10-23 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.373899811929668,
+            "volume_24h": 241855729.75,
+            "market_cap": 10733202975.816149
+        },
+        {
+            "timestamp": "2024-10-24 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.700712380110268,
+            "volume_24h": 275516025.68,
+            "market_cap": 10866274646.56171
+        },
+        {
+            "timestamp": "2024-10-25 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.163656270630597,
+            "volume_24h": 201339240.81,
+            "market_cap": 10649000325.965626
+        },
+        {
+            "timestamp": "2024-10-26 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.011368017751188,
+            "volume_24h": 357346311.03,
+            "market_cap": 10180039628.118532
+        },
+        {
+            "timestamp": "2024-10-27 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.8468274222859,
+            "volume_24h": 108885834.9,
+            "market_cap": 10521028477.562515
+        },
+        {
+            "timestamp": "2024-10-28 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.73117701240923,
+            "volume_24h": 189294192.49,
+            "market_cap": 10474415411.345549
+        },
+        {
+            "timestamp": "2024-10-29 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.83273734290871,
+            "volume_24h": 271766543.62,
+            "market_cap": 10923097774.07365
+        },
+        {
+            "timestamp": "2024-10-30 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.10346430196449,
+            "volume_24h": 290482588.02,
+            "market_cap": 10626282610.00274
+        },
+        {
+            "timestamp": "2024-10-31 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.17263963750998,
+            "volume_24h": 183807092.74,
+            "market_cap": 10247863303.79786
+        },
+        {
+            "timestamp": "2024-11-01 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.12689808917659,
+            "volume_24h": 283002884.68,
+            "market_cap": 10229630119.521908
+        },
+        {
+            "timestamp": "2024-11-02 16:20:00",
+            "symbol": "AVAX",
+            "price": 24.190780619608116,
+            "volume_24h": 165638798.32,
+            "market_cap": 9848706434.88065
+        },
+        {
+            "timestamp": "2024-11-03 16:20:00",
+            "symbol": "AVAX",
+            "price": 23.145467346426663,
+            "volume_24h": 240870640.2,
+            "market_cap": 9423351008.368032
+        },
+        {
+            "timestamp": "2024-11-04 16:20:00",
+            "symbol": "AVAX",
+            "price": 23.12452949131075,
+            "volume_24h": 197591828.25,
+            "market_cap": 9415024274.833424
+        },
+        {
+            "timestamp": "2024-11-05 16:20:00",
+            "symbol": "AVAX",
+            "price": 24.07350125787259,
+            "volume_24h": 285871565.77,
+            "market_cap": 9801639524.442451
+        },
+        {
+            "timestamp": "2024-11-06 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.171355603712417,
+            "volume_24h": 562612863.65,
+            "market_cap": 10656014201.896124
+        },
+        {
+            "timestamp": "2024-11-07 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.27630449005204,
+            "volume_24h": 473830238.95,
+            "market_cap": 11107022666.878405
+        },
+        {
+            "timestamp": "2024-11-08 16:20:00",
+            "symbol": "AVAX",
+            "price": 28.179402624912303,
+            "volume_24h": 464169884.79,
+            "market_cap": 11474946207.472464
+        },
+        {
+            "timestamp": "2024-11-09 16:20:00",
+            "symbol": "AVAX",
+            "price": 28.768676741108003,
+            "volume_24h": 432692360.46,
+            "market_cap": 11716981494.1866
+        },
+        {
+            "timestamp": "2024-11-10 16:20:00",
+            "symbol": "AVAX",
+            "price": 32.090256279757284,
+            "volume_24h": 721470686.8,
+            "market_cap": 13070580608.293625
+        },
+        {
+            "timestamp": "2024-11-11 16:20:00",
+            "symbol": "AVAX",
+            "price": 32.89774513436748,
+            "volume_24h": 1143944358.02,
+            "market_cap": 13399631824.050226
+        },
+        {
+            "timestamp": "2024-11-12 16:20:00",
+            "symbol": "AVAX",
+            "price": 33.36563507379088,
+            "volume_24h": 2128981514.97,
+            "market_cap": 13590715897.154371
+        },
+        {
+            "timestamp": "2024-11-13 16:20:00",
+            "symbol": "AVAX",
+            "price": 34.8352575045152,
+            "volume_24h": 1402204349.46,
+            "market_cap": 14189904177.8532
+        },
+        {
+            "timestamp": "2024-11-14 16:20:00",
+            "symbol": "AVAX",
+            "price": 32.084730495731186,
+            "volume_24h": 1092908830.48,
+            "market_cap": 13069655373.257675
+        },
+        {
+            "timestamp": "2024-11-15 16:20:00",
+            "symbol": "AVAX",
+            "price": 31.677405104225265,
+            "volume_24h": 645362661.83,
+            "market_cap": 12903815956.976856
+        },
+        {
+            "timestamp": "2024-11-16 16:20:00",
+            "symbol": "AVAX",
+            "price": 34.65933463576902,
+            "volume_24h": 836855867.28,
+            "market_cap": 14118592370.688007
+        },
+        {
+            "timestamp": "2024-11-17 16:20:00",
+            "symbol": "AVAX",
+            "price": 36.52756514045669,
+            "volume_24h": 1094684385.87,
+            "market_cap": 14879765435.856436
+        },
+        {
+            "timestamp": "2024-11-18 16:20:00",
+            "symbol": "AVAX",
+            "price": 35.65314745160724,
+            "volume_24h": 842440052.34,
+            "market_cap": 14583201908.907608
+        },
+        {
+            "timestamp": "2024-11-19 16:20:00",
+            "symbol": "AVAX",
+            "price": 34.476763776894344,
+            "volume_24h": 761794917.26,
+            "market_cap": 14102292103.931988
+        },
+        {
+            "timestamp": "2024-11-20 16:20:00",
+            "symbol": "AVAX",
+            "price": 34.44743851695949,
+            "volume_24h": 751973572.78,
+            "market_cap": 14090671470.655752
+        },
+        {
+            "timestamp": "2024-11-21 16:20:00",
+            "symbol": "AVAX",
+            "price": 35.17972551153242,
+            "volume_24h": 917466313.65,
+            "market_cap": 14391861578.924711
+        },
+        {
+            "timestamp": "2024-11-22 16:20:00",
+            "symbol": "AVAX",
+            "price": 39.304193210730936,
+            "volume_24h": 1339565257.6,
+            "market_cap": 16079997986.447388
+        },
+        {
+            "timestamp": "2024-11-23 16:20:00",
+            "symbol": "AVAX",
+            "price": 42.70030145403678,
+            "volume_24h": 2134329477.94,
+            "market_cap": 17470613457.48413
+        },
+        {
+            "timestamp": "2024-11-24 16:20:00",
+            "symbol": "AVAX",
+            "price": 39.74937193671097,
+            "volume_24h": 1543212228.7,
+            "market_cap": 16265030878.591331
+        },
+        {
+            "timestamp": "2024-11-25 16:20:00",
+            "symbol": "AVAX",
+            "price": 43.30429314336909,
+            "volume_24h": 1974657870.43,
+            "market_cap": 17720541584.105827
+        },
+        {
+            "timestamp": "2024-11-26 16:20:00",
+            "symbol": "AVAX",
+            "price": 41.637534491880494,
+            "volume_24h": 1731725201.88,
+            "market_cap": 17040174053.329414
+        },
+        {
+            "timestamp": "2024-11-27 16:20:00",
+            "symbol": "AVAX",
+            "price": 43.57372346423261,
+            "volume_24h": 1235725425.02,
+            "market_cap": 17833178004.67709
+        },
+        {
+            "timestamp": "2024-11-28 16:20:00",
+            "symbol": "AVAX",
+            "price": 41.959763970441855,
+            "volume_24h": 910045020.3,
+            "market_cap": 17172731828.1118
+        },
+        {
+            "timestamp": "2024-11-29 16:20:00",
+            "symbol": "AVAX",
+            "price": 44.10085536137223,
+            "volume_24h": 637269275.47,
+            "market_cap": 18049135662.34253
+        },
+        {
+            "timestamp": "2024-11-30 16:20:00",
+            "symbol": "AVAX",
+            "price": 45.44593836979168,
+            "volume_24h": 824186711.9,
+            "market_cap": 18599918508.40222
+        },
+        {
+            "timestamp": "2024-12-01 16:20:00",
+            "symbol": "AVAX",
+            "price": 45.299249154449306,
+            "volume_24h": 673065755.15,
+            "market_cap": 18540346708.71445
+        },
+        {
+            "timestamp": "2024-12-02 16:20:00",
+            "symbol": "AVAX",
+            "price": 49.50338460594178,
+            "volume_24h": 2603762842.69,
+            "market_cap": 20261459677.93105
+        },
+        {
+            "timestamp": "2024-12-03 16:20:00",
+            "symbol": "AVAX",
+            "price": 50.3644381778329,
+            "volume_24h": 2866436308.34,
+            "market_cap": 20614370563.432304
+        },
+        {
+            "timestamp": "2024-12-04 16:20:00",
+            "symbol": "AVAX",
+            "price": 53.68046632677827,
+            "volume_24h": 1717669226.3,
+            "market_cap": 21972471284.09713
+        },
+        {
+            "timestamp": "2024-12-05 16:20:00",
+            "symbol": "AVAX",
+            "price": 52.43021345040813,
+            "volume_24h": 1542275461.08,
+            "market_cap": 21462556976.58739
+        },
+        {
+            "timestamp": "2024-12-06 16:20:00",
+            "symbol": "AVAX",
+            "price": 51.70221081206815,
+            "volume_24h": 1218278385.67,
+            "market_cap": 21164789735.80561
+        },
+        {
+            "timestamp": "2024-12-07 16:20:00",
+            "symbol": "AVAX",
+            "price": 52.40738796021296,
+            "volume_24h": 698071153.87,
+            "market_cap": 21453633679.422176
+        },
+        {
+            "timestamp": "2024-12-08 16:20:00",
+            "symbol": "AVAX",
+            "price": 52.185890945748845,
+            "volume_24h": 680653559.05,
+            "market_cap": 21363229159.61316
+        },
+        {
+            "timestamp": "2024-12-09 16:20:00",
+            "symbol": "AVAX",
+            "price": 49.45909895150124,
+            "volume_24h": 1234594332.82,
+            "market_cap": 20247283494.55938
+        },
+        {
+            "timestamp": "2024-12-10 16:20:00",
+            "symbol": "AVAX",
+            "price": 42.32956029281684,
+            "volume_24h": 2021039304.82,
+            "market_cap": 17330733891.912907
+        },
+        {
+            "timestamp": "2024-12-11 16:20:00",
+            "symbol": "AVAX",
+            "price": 48.13560460306303,
+            "volume_24h": 1099407947.71,
+            "market_cap": 19720205565.93463
+        },
+        {
+            "timestamp": "2024-12-12 16:20:00",
+            "symbol": "AVAX",
+            "price": 53.0631035948476,
+            "volume_24h": 1251637861.45,
+            "market_cap": 21739210243.874638
+        },
+        {
+            "timestamp": "2024-12-13 16:20:00",
+            "symbol": "AVAX",
+            "price": 51.44234334282364,
+            "volume_24h": 1448160985.02,
+            "market_cap": 21075448591.99179
+        },
+        {
+            "timestamp": "2024-12-14 16:20:00",
+            "symbol": "AVAX",
+            "price": 50.95649991678722,
+            "volume_24h": 735453696.0,
+            "market_cap": 20876528801.841625
+        },
+        {
+            "timestamp": "2024-12-15 16:20:00",
+            "symbol": "AVAX",
+            "price": 50.46160991880927,
+            "volume_24h": 691685452.13,
+            "market_cap": 20673973924.48706
+        },
+        {
+            "timestamp": "2024-12-16 16:20:00",
+            "symbol": "AVAX",
+            "price": 49.43799561474785,
+            "volume_24h": 871099229.43,
+            "market_cap": 20257878901.59703
+        },
+        {
+            "timestamp": "2024-12-17 16:20:00",
+            "symbol": "AVAX",
+            "price": 49.40381863248481,
+            "volume_24h": 794672376.05,
+            "market_cap": 20244817104.92857
+        },
+        {
+            "timestamp": "2024-12-18 16:20:00",
+            "symbol": "AVAX",
+            "price": 46.09837242384555,
+            "volume_24h": 722823446.05,
+            "market_cap": 18890589884.359013
+        },
+        {
+            "timestamp": "2024-12-19 16:20:00",
+            "symbol": "AVAX",
+            "price": 41.316345017557374,
+            "volume_24h": 1303907795.51,
+            "market_cap": 16931192434.443213
+        },
+        {
+            "timestamp": "2024-12-20 16:20:00",
+            "symbol": "AVAX",
+            "price": 38.274684707514815,
+            "volume_24h": 1642036971.06,
+            "market_cap": 15684840525.072231
+        },
+        {
+            "timestamp": "2024-12-21 16:20:00",
+            "symbol": "AVAX",
+            "price": 38.53664399617665,
+            "volume_24h": 800515717.55,
+            "market_cap": 15793262947.253302
+        },
+        {
+            "timestamp": "2024-12-22 16:20:00",
+            "symbol": "AVAX",
+            "price": 37.09791547210739,
+            "volume_24h": 536857876.71,
+            "market_cap": 15203854422.627205
+        },
+        {
+            "timestamp": "2024-12-23 16:20:00",
+            "symbol": "AVAX",
+            "price": 35.95046026857143,
+            "volume_24h": 607577496.04,
+            "market_cap": 14733777781.094011
+        },
+        {
+            "timestamp": "2024-12-24 16:20:00",
+            "symbol": "AVAX",
+            "price": 41.5726687553254,
+            "volume_24h": 791089250.02,
+            "market_cap": 17038333231.986267
+        },
+        {
+            "timestamp": "2024-12-25 16:20:00",
+            "symbol": "AVAX",
+            "price": 40.42708535417219,
+            "volume_24h": 479873156.32,
+            "market_cap": 16568933017.154371
+        },
+        {
+            "timestamp": "2024-12-26 16:20:00",
+            "symbol": "AVAX",
+            "price": 37.77367947653925,
+            "volume_24h": 496973538.48,
+            "market_cap": 15481677397.960655
+        },
+        {
+            "timestamp": "2024-12-27 16:20:00",
+            "symbol": "AVAX",
+            "price": 36.49131980555521,
+            "volume_24h": 471795048.03,
+            "market_cap": 14956404521.538958
+        },
+        {
+            "timestamp": "2024-12-28 16:20:00",
+            "symbol": "AVAX",
+            "price": 37.05019635190524,
+            "volume_24h": 318840730.97,
+            "market_cap": 15185599850.09058
+        },
+        {
+            "timestamp": "2024-12-29 16:20:00",
+            "symbol": "AVAX",
+            "price": 36.25526686127139,
+            "volume_24h": 310469296.0,
+            "market_cap": 14860062104.975376
+        },
+        {
+            "timestamp": "2024-12-30 16:20:00",
+            "symbol": "AVAX",
+            "price": 35.27951229022753,
+            "volume_24h": 584410852.41,
+            "market_cap": 14460288813.09078
+        },
+        {
+            "timestamp": "2024-12-31 16:20:00",
+            "symbol": "AVAX",
+            "price": 36.71382175975968,
+            "volume_24h": 423022167.41,
+            "market_cap": 15048548117.892435
+        },
+        {
+            "timestamp": "2025-01-01 16:20:00",
+            "symbol": "AVAX",
+            "price": 36.44035375233812,
+            "volume_24h": 253244208.3,
+            "market_cap": 14937328304.857916
+        },
+        {
+            "timestamp": "2025-01-02 16:20:00",
+            "symbol": "AVAX",
+            "price": 39.52348953337777,
+            "volume_24h": 559389134.8,
+            "market_cap": 16201539695.534184
+        },
+        {
+            "timestamp": "2025-01-03 16:20:00",
+            "symbol": "AVAX",
+            "price": 41.68418406984011,
+            "volume_24h": 559209084.55,
+            "market_cap": 17096327445.231964
+        },
+        {
+            "timestamp": "2025-01-04 16:20:00",
+            "symbol": "AVAX",
+            "price": 41.30358514353601,
+            "volume_24h": 471399448.37,
+            "market_cap": 16942567677.45258
+        },
+        {
+            "timestamp": "2025-01-05 16:20:00",
+            "symbol": "AVAX",
+            "price": 41.7657417309228,
+            "volume_24h": 425160212.27,
+            "market_cap": 17132355984.02712
+        },
+        {
+            "timestamp": "2025-01-06 16:20:00",
+            "symbol": "AVAX",
+            "price": 44.89199734753918,
+            "volume_24h": 617314750.13,
+            "market_cap": 18415205095.21881
+        },
+        {
+            "timestamp": "2025-01-07 16:20:00",
+            "symbol": "AVAX",
+            "price": 40.77569660206325,
+            "volume_24h": 673413135.3,
+            "market_cap": 16726885922.862574
+        },
+        {
+            "timestamp": "2025-01-08 16:20:00",
+            "symbol": "AVAX",
+            "price": 37.93537213435305,
+            "volume_24h": 664547313.95,
+            "market_cap": 15569400421.964298
+        },
+        {
+            "timestamp": "2025-01-09 16:20:00",
+            "symbol": "AVAX",
+            "price": 37.192820852484935,
+            "volume_24h": 575857595.7,
+            "market_cap": 15269980615.733105
+        },
+        {
+            "timestamp": "2025-01-10 16:20:00",
+            "symbol": "AVAX",
+            "price": 36.45793538651917,
+            "volume_24h": 525075923.09,
+            "market_cap": 14975068452.094751
+        },
+        {
+            "timestamp": "2025-01-11 16:20:00",
+            "symbol": "AVAX",
+            "price": 36.408331827824505,
+            "volume_24h": 297609673.65,
+            "market_cap": 14955671758.397156
+        },
+        {
+            "timestamp": "2025-01-12 16:20:00",
+            "symbol": "AVAX",
+            "price": 37.25000674812301,
+            "volume_24h": 266805361.52,
+            "market_cap": 15301605621.49014
+        },
+        {
+            "timestamp": "2025-01-13 16:20:00",
+            "symbol": "AVAX",
+            "price": 34.229576529198575,
+            "volume_24h": 495941809.77,
+            "market_cap": 14061443298.05105
+        },
+        {
+            "timestamp": "2025-01-14 16:20:00",
+            "symbol": "AVAX",
+            "price": 36.03898612268661,
+            "volume_24h": 367760431.42,
+            "market_cap": 14824010759.498186
+        },
+        {
+            "timestamp": "2025-01-15 16:20:00",
+            "symbol": "AVAX",
+            "price": 39.48951621493737,
+            "volume_24h": 429443861.89,
+            "market_cap": 16244138114.324726
+        },
+        {
+            "timestamp": "2025-01-16 16:20:00",
+            "symbol": "AVAX",
+            "price": 39.85306009385731,
+            "volume_24h": 509368874.65,
+            "market_cap": 16394780581.917309
+        },
+        {
+            "timestamp": "2025-01-17 16:20:00",
+            "symbol": "AVAX",
+            "price": 41.14297591396801,
+            "volume_24h": 424770634.85,
+            "market_cap": 16925869018.860962
+        },
+        {
+            "timestamp": "2025-01-18 16:20:00",
+            "symbol": "AVAX",
+            "price": 38.66007745533292,
+            "volume_24h": 478833689.69,
+            "market_cap": 15905928781.332497
+        },
+        {
+            "timestamp": "2025-01-19 16:20:00",
+            "symbol": "AVAX",
+            "price": 38.43924618392887,
+            "volume_24h": 645930182.14,
+            "market_cap": 15815229663.128977
+        },
+        {
+            "timestamp": "2025-01-20 16:20:00",
+            "symbol": "AVAX",
+            "price": 36.89977309641547,
+            "volume_24h": 1149138329.84,
+            "market_cap": 15182150891.225542
+        },
+        {
+            "timestamp": "2025-01-21 16:20:00",
+            "symbol": "AVAX",
+            "price": 36.71815208353395,
+            "volume_24h": 764005509.51,
+            "market_cap": 15107555935.62358
+        },
+        {
+            "timestamp": "2025-01-22 16:20:00",
+            "symbol": "AVAX",
+            "price": 36.6892036301893,
+            "volume_24h": 343130399.23,
+            "market_cap": 15096237428.293173
+        },
+        {
+            "timestamp": "2025-01-23 16:20:00",
+            "symbol": "AVAX",
+            "price": 36.38775746232477,
+            "volume_24h": 386765797.19,
+            "market_cap": 14976263035.92612
+        },
+        {
+            "timestamp": "2025-01-24 16:20:00",
+            "symbol": "AVAX",
+            "price": 36.2108906508043,
+            "volume_24h": 504306364.74,
+            "market_cap": 14903718873.404465
+        },
+        {
+            "timestamp": "2025-01-25 16:20:00",
+            "symbol": "AVAX",
+            "price": 36.87517966772955,
+            "volume_24h": 609016560.43,
+            "market_cap": 15177305786.006563
+        },
+        {
+            "timestamp": "2025-01-26 16:20:00",
+            "symbol": "AVAX",
+            "price": 37.35804244001417,
+            "volume_24h": 508806149.26,
+            "market_cap": 15376257845.242388
+        },
+        {
+            "timestamp": "2025-01-27 16:20:00",
+            "symbol": "AVAX",
+            "price": 33.93208004372371,
+            "volume_24h": 658980018.98,
+            "market_cap": 13966363070.381226
+        },
+        {
+            "timestamp": "2025-01-28 16:20:00",
+            "symbol": "AVAX",
+            "price": 33.51985970960343,
+            "volume_24h": 367199740.57,
+            "market_cap": 13797022791.148582
+        },
+        {
+            "timestamp": "2025-01-29 16:20:00",
+            "symbol": "AVAX",
+            "price": 32.39679361057706,
+            "volume_24h": 334144451.55,
+            "market_cap": 13335170666.28425
+        },
+        {
+            "timestamp": "2025-01-30 16:20:00",
+            "symbol": "AVAX",
+            "price": 34.322659051553714,
+            "volume_24h": 431081329.32,
+            "market_cap": 14129927280.121368
+        },
+        {
+            "timestamp": "2025-01-31 16:20:00",
+            "symbol": "AVAX",
+            "price": 35.940122351449354,
+            "volume_24h": 348433389.99,
+            "market_cap": 14796023543.516617
+        },
+        {
+            "timestamp": "2025-02-01 16:20:00",
+            "symbol": "AVAX",
+            "price": 33.64625780022746,
+            "volume_24h": 330357132.26,
+            "market_cap": 13852091479.41993
+        },
+        {
+            "timestamp": "2025-02-02 16:20:00",
+            "symbol": "AVAX",
+            "price": 30.42088122522962,
+            "volume_24h": 438129438.99,
+            "market_cap": 12524414528.533112
+        },
+        {
+            "timestamp": "2025-02-03 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.09305078841608,
+            "volume_24h": 1964167956.49,
+            "market_cap": 11154420591.14545
+        },
+        {
+            "timestamp": "2025-02-04 16:20:00",
+            "symbol": "AVAX",
+            "price": 27.0764792318919,
+            "volume_24h": 767555078.71,
+            "market_cap": 11149207909.617462
+        },
+        {
+            "timestamp": "2025-02-05 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.15845851584961,
+            "volume_24h": 479930599.01,
+            "market_cap": 10771321870.53456
+        },
+        {
+            "timestamp": "2025-02-06 16:20:00",
+            "symbol": "AVAX",
+            "price": 24.98440448382492,
+            "volume_24h": 373228048.57,
+            "market_cap": 10288405278.108051
+        },
+        {
+            "timestamp": "2025-02-07 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.43511993037576,
+            "volume_24h": 375470163.27,
+            "market_cap": 10474163855.80906
+        },
+        {
+            "timestamp": "2025-02-08 16:20:00",
+            "symbol": "AVAX",
+            "price": 24.15111470208803,
+            "volume_24h": 251588617.67,
+            "market_cap": 9945605906.45744
+        },
+        {
+            "timestamp": "2025-02-09 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.194084649290303,
+            "volume_24h": 241098581.35,
+            "market_cap": 10375727930.015764
+        },
+        {
+            "timestamp": "2025-02-10 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.466688106684263,
+            "volume_24h": 340188327.91,
+            "market_cap": 10488230525.033848
+        },
+        {
+            "timestamp": "2025-02-11 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.13272723756855,
+            "volume_24h": 330448468.94,
+            "market_cap": 10763913853.840076
+        },
+        {
+            "timestamp": "2025-02-12 16:20:00",
+            "symbol": "AVAX",
+            "price": 24.896672583528325,
+            "volume_24h": 408049363.97,
+            "market_cap": 10255823772.940683
+        },
+        {
+            "timestamp": "2025-02-13 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.360046202988137,
+            "volume_24h": 366973788.7,
+            "market_cap": 10447025540.69488
+        },
+        {
+            "timestamp": "2025-02-14 16:20:00",
+            "symbol": "AVAX",
+            "price": 26.4075035376868,
+            "volume_24h": 283903366.84,
+            "market_cap": 10878839297.02571
+        },
+        {
+            "timestamp": "2025-02-15 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.79734415511236,
+            "volume_24h": 277925669.25,
+            "market_cap": 10627904989.303112
+        },
+        {
+            "timestamp": "2025-02-16 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.149187032006548,
+            "volume_24h": 197433210.95,
+            "market_cap": 10402947566.82272
+        },
+        {
+            "timestamp": "2025-02-17 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.085774586618804,
+            "volume_24h": 289512767.74,
+            "market_cap": 10377792634.922491
+        },
+        {
+            "timestamp": "2025-02-18 16:20:00",
+            "symbol": "AVAX",
+            "price": 23.527318900762847,
+            "volume_24h": 328400486.75,
+            "market_cap": 9733469508.234978
+        },
+        {
+            "timestamp": "2025-02-19 16:20:00",
+            "symbol": "AVAX",
+            "price": 23.766320822108028,
+            "volume_24h": 354922180.75,
+            "market_cap": 9832537091.351389
+        },
+        {
+            "timestamp": "2025-02-20 16:20:00",
+            "symbol": "AVAX",
+            "price": 24.40532210246161,
+            "volume_24h": 303562562.29,
+            "market_cap": 10097546551.89037
+        },
+        {
+            "timestamp": "2025-02-21 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.66945357722183,
+            "volume_24h": 486831731.15,
+            "market_cap": 10625984629.512732
+        },
+        {
+            "timestamp": "2025-02-22 16:20:00",
+            "symbol": "AVAX",
+            "price": 25.906080502100284,
+            "volume_24h": 552699927.8,
+            "market_cap": 10724095186.106234
+        },
+        {
+            "timestamp": "2025-02-23 16:20:00",
+            "symbol": "AVAX",
+            "price": 24.51277587962209,
+            "volume_24h": 274962040.25,
+            "market_cap": 10147989527.58409
+        },
+        {
+            "timestamp": "2025-02-24 16:20:00",
+            "symbol": "AVAX",
+            "price": 23.19063421156568,
+            "volume_24h": 387151944.23,
+            "market_cap": 9601598154.071669
+        },
+        {
+            "timestamp": "2025-02-25 16:20:00",
+            "symbol": "AVAX",
+            "price": 20.908456199889507,
+            "volume_24h": 1023850387.49,
+            "market_cap": 8656808645.177616
+        },
+        {
+            "timestamp": "2025-02-26 16:20:00",
+            "symbol": "AVAX",
+            "price": 22.12551657430719,
+            "volume_24h": 449070609.4,
+            "market_cap": 9160869700.10344
+        },
+        {
+            "timestamp": "2025-02-27 16:20:00",
+            "symbol": "AVAX",
+            "price": 22.830177557939287,
+            "volume_24h": 527943742.65,
+            "market_cap": 9452924184.091137
+        },
+        {
+            "timestamp": "2025-02-28 16:20:00",
+            "symbol": "AVAX",
+            "price": 21.61202300159514,
+            "volume_24h": 762959376.22,
+            "market_cap": 8948914043.483501
+        },
+        {
+            "timestamp": "2025-03-01 16:20:00",
+            "symbol": "AVAX",
+            "price": 21.43552691079145,
+            "volume_24h": 296500179.41,
+            "market_cap": 8876150526.106129
+        },
+        {
+            "timestamp": "2025-03-02 16:20:00",
+            "symbol": "AVAX",
+            "price": 23.05026369767833,
+            "volume_24h": 408403470.49,
+            "market_cap": 9544953556.002342
+        },
+        {
+            "timestamp": "2025-03-03 16:20:00",
+            "symbol": "AVAX",
+            "price": 23.21351866117398,
+            "volume_24h": 807988579.21,
+            "market_cap": 9612836604.657751
+        },
+        {
+            "timestamp": "2025-03-04 16:20:00",
+            "symbol": "AVAX",
+            "price": 19.65396118231485,
+            "volume_24h": 800478940.24,
+            "market_cap": 8139123672.542341
+        },
+        {
+            "timestamp": "2025-03-05 16:20:00",
+            "symbol": "AVAX",
+            "price": 20.274687105845626,
+            "volume_24h": 531074176.78,
+            "market_cap": 8396438270.448082
+        },
+        {
+            "timestamp": "2025-03-06 16:20:00",
+            "symbol": "AVAX",
+            "price": 22.04140466491936,
+            "volume_24h": 590097496.55,
+            "market_cap": 9128340198.656782
+        },
+        {
+            "timestamp": "2025-03-07 16:20:00",
+            "symbol": "AVAX",
+            "price": 20.434911556586844,
+            "volume_24h": 508643433.93,
+            "market_cap": 8463964073.325829
+        },
+        {
+            "timestamp": "2025-03-08 16:20:00",
+            "symbol": "AVAX",
+            "price": 20.49047345800423,
+            "volume_24h": 418101128.56,
+            "market_cap": 8486979530.749967
+        },
+        {
+            "timestamp": "2025-03-09 16:20:00",
+            "symbol": "AVAX",
+            "price": 19.264385406768728,
+            "volume_24h": 215604666.07,
+            "market_cap": 7979206528.425956
+        },
+        {
+            "timestamp": "2025-03-10 16:20:00",
+            "symbol": "AVAX",
+            "price": 17.59403407233059,
+            "volume_24h": 472278221.0,
+            "market_cap": 7287448382.475143
+        },
+        {
+            "timestamp": "2025-03-11 16:20:00",
+            "symbol": "AVAX",
+            "price": 17.295717439593993,
+            "volume_24h": 745314090.23,
+            "market_cap": 7164924523.98332
+        },
+        {
+            "timestamp": "2025-03-12 16:20:00",
+            "symbol": "AVAX",
+            "price": 18.190275690432124,
+            "volume_24h": 486062789.17,
+            "market_cap": 7536680702.98688
+        },
+        {
+            "timestamp": "2025-03-13 16:20:00",
+            "symbol": "AVAX",
+            "price": 18.30422360929018,
+            "volume_24h": 342731693.02,
+            "market_cap": 7584367776.141301
+        },
+        {
+            "timestamp": "2025-03-14 16:20:00",
+            "symbol": "AVAX",
+            "price": 18.921119479676832,
+            "volume_24h": 287685832.08,
+            "market_cap": 7840162224.323125
+        },
+        {
+            "timestamp": "2025-03-15 16:20:00",
+            "symbol": "AVAX",
+            "price": 18.53099147161517,
+            "volume_24h": 279906281.23,
+            "market_cap": 7678579903.495467
+        },
+        {
+            "timestamp": "2025-03-16 16:20:00",
+            "symbol": "AVAX",
+            "price": 19.00284272607807,
+            "volume_24h": 296412725.72,
+            "market_cap": 7874247285.790835
+        },
+        {
+            "timestamp": "2025-03-17 16:20:00",
+            "symbol": "AVAX",
+            "price": 18.53838848765939,
+            "volume_24h": 249553858.18,
+            "market_cap": 7682994845.819501
+        },
+        {
+            "timestamp": "2025-03-18 16:20:00",
+            "symbol": "AVAX",
+            "price": 18.49933046092798,
+            "volume_24h": 288365416.48,
+            "market_cap": 7666930858.6735
+        },
+        {
+            "timestamp": "2025-03-19 16:20:00",
+            "symbol": "AVAX",
+            "price": 19.737315012436632,
+            "volume_24h": 302674115.79,
+            "market_cap": 8180198463.276631
+        },
+        {
+            "timestamp": "2025-03-20 16:20:00",
+            "symbol": "AVAX",
+            "price": 18.70865878985776,
+            "volume_24h": 304536928.61,
+            "market_cap": 7753935156.20532
+        },
+        {
+            "timestamp": "2025-03-21 16:20:00",
+            "symbol": "AVAX",
+            "price": 18.46267198221768,
+            "volume_24h": 173609678.22,
+            "market_cap": 7652229492.151122
+        },
+        {
+            "timestamp": "2025-03-22 16:20:00",
+            "symbol": "AVAX",
+            "price": 19.5445194714438,
+            "volume_24h": 177328064.96,
+            "market_cap": 8105606933.143817
+        },
+        {
+            "timestamp": "2025-03-23 16:20:00",
+            "symbol": "AVAX",
+            "price": 19.486083598584333,
+            "volume_24h": 150558005.05,
+            "market_cap": 8081550761.9408
+        },
+        {
+            "timestamp": "2025-03-24 16:20:00",
+            "symbol": "AVAX",
+            "price": 21.480949766860785,
+            "volume_24h": 488913823.39,
+            "market_cap": 8909071400.847355
+        },
+        {
+            "timestamp": "2025-03-25 16:20:00",
+            "symbol": "AVAX",
+            "price": 22.693835677819813,
+            "volume_24h": 304967032.37,
+            "market_cap": 9413094570.474949
+        },
+        {
+            "timestamp": "2025-03-26 16:20:00",
+            "symbol": "AVAX",
+            "price": 22.268800979627358,
+            "volume_24h": 329640969.66,
+            "market_cap": 9236953388.296764
+        },
+        {
+            "timestamp": "2025-03-27 16:20:00",
+            "symbol": "AVAX",
+            "price": 22.01548608907317,
+            "volume_24h": 268100622.61,
+            "market_cap": 9132524191.011353
+        },
+        {
+            "timestamp": "2025-03-28 16:20:00",
+            "symbol": "AVAX",
+            "price": 19.920107832550464,
+            "volume_24h": 303736446.14,
+            "market_cap": 8263481108.031401
+        },
+        {
+            "timestamp": "2025-03-29 16:20:00",
+            "symbol": "AVAX",
+            "price": 19.948892124381345,
+            "volume_24h": 226655149.47,
+            "market_cap": 8275597438.165266
+        },
+        {
+            "timestamp": "2025-03-30 16:20:00",
+            "symbol": "AVAX",
+            "price": 19.373382905516127,
+            "volume_24h": 232440819.6,
+            "market_cap": 8036964946.37111
+        },
+        {
+            "timestamp": "2025-03-31 16:20:00",
+            "symbol": "AVAX",
+            "price": 18.894364103467183,
+            "volume_24h": 272081858.26,
+            "market_cap": 7838536617.759212
+        },
+        {
+            "timestamp": "2025-04-01 16:20:00",
+            "symbol": "AVAX",
+            "price": 19.8802065236784,
+            "volume_24h": 261581310.35,
+            "market_cap": 8247884663.654316
+        },
+        {
+            "timestamp": "2025-04-02 16:20:00",
+            "symbol": "AVAX",
+            "price": 19.78245077539633,
+            "volume_24h": 321708601.65,
+            "market_cap": 8207482813.707824
+        },
+        {
+            "timestamp": "2025-04-03 16:20:00",
+            "symbol": "AVAX",
+            "price": 18.007514114112933,
+            "volume_24h": 503139709.17,
+            "market_cap": 7471461489.044505
+        },
+        {
+            "timestamp": "2025-04-04 16:20:00",
+            "symbol": "AVAX",
+            "price": 17.898884966848293,
+            "volume_24h": 332870436.61,
+            "market_cap": 7432727464.475038
+        },
+        {
+            "timestamp": "2025-04-05 16:20:00",
+            "symbol": "AVAX",
+            "price": 17.879658038132177,
+            "volume_24h": 179097709.72,
+            "market_cap": 7424962767.284343
+        },
+        {
+            "timestamp": "2025-04-06 16:20:00",
+            "symbol": "AVAX",
+            "price": 17.228559638522917,
+            "volume_24h": 218639958.95,
+            "market_cap": 7154676771.123153
+        },
+        {
+            "timestamp": "2025-04-07 16:20:00",
+            "symbol": "AVAX",
+            "price": 16.342041603962222,
+            "volume_24h": 769911446.02,
+            "market_cap": 6786644504.256845
+        },
+        {
+            "timestamp": "2025-04-08 16:20:00",
+            "symbol": "AVAX",
+            "price": 17.03403660050371,
+            "volume_24h": 365775211.44,
+            "market_cap": 7077993175.947707
+        },
+        {
+            "timestamp": "2025-04-09 16:20:00",
+            "symbol": "AVAX",
+            "price": 17.044462460147574,
+            "volume_24h": 469845236.81,
+            "market_cap": 7085373980.0973215
+        },
+        {
+            "timestamp": "2025-04-10 16:20:00",
+            "symbol": "AVAX",
+            "price": 17.693607101090844,
+            "volume_24h": 462863708.12,
+            "market_cap": 7355730077.021155
+        },
+        {
+            "timestamp": "2025-04-11 16:20:00",
+            "symbol": "AVAX",
+            "price": 19.16356969509646,
+            "volume_24h": 342861168.23,
+            "market_cap": 7967172005.345229
+        },
+        {
+            "timestamp": "2025-04-12 16:20:00",
+            "symbol": "AVAX",
+            "price": 20.76814189179591,
+            "volume_24h": 302164469.95,
+            "market_cap": 8636132022.559475
+        },
+        {
+            "timestamp": "2025-04-13 16:20:00",
+            "symbol": "AVAX",
+            "price": 19.8481446933701,
+            "volume_24h": 242537274.48,
+            "market_cap": 8253721569.76622
+        },
+        {
+            "timestamp": "2025-04-14 16:20:00",
+            "symbol": "AVAX",
+            "price": 19.91861048438417,
+            "volume_24h": 429806828.91,
+            "market_cap": 8283204088.359264
+        },
+        {
+            "timestamp": "2025-04-15 16:20:00",
+            "symbol": "AVAX",
+            "price": 19.57473967936232,
+            "volume_24h": 280448513.08,
+            "market_cap": 8143559578.714834
+        },
+        {
+            "timestamp": "2025-04-16 16:20:00",
+            "symbol": "AVAX",
+            "price": 19.04523035188214,
+            "volume_24h": 227347728.0,
+            "market_cap": 7923354001.550494
+        },
+        {
+            "timestamp": "2025-04-17 16:20:00",
+            "symbol": "AVAX",
+            "price": 19.287942725088666,
+            "volume_24h": 222635893.44,
+            "market_cap": 8024545662.194309
+        },
+        {
+            "timestamp": "2025-04-18 16:20:00",
+            "symbol": "AVAX",
+            "price": 18.924332862434422,
+            "volume_24h": 156129586.5,
+            "market_cap": 7873329787.354471
+        },
+        {
+            "timestamp": "2025-04-19 16:20:00",
+            "symbol": "AVAX",
+            "price": 19.743405165224758,
+            "volume_24h": 133885663.17,
+            "market_cap": 8214158056.305428
+        },
+        {
+            "timestamp": "2025-04-20 16:20:00",
+            "symbol": "AVAX",
+            "price": 19.403654761904757,
+            "volume_24h": 187936914.6,
+            "market_cap": 8072877411.893275
+        },
+        {
+            "timestamp": "2025-04-21 16:20:00",
+            "symbol": "AVAX",
+            "price": 20.64955699543864,
+            "volume_24h": 305928320.54,
+            "market_cap": 8591323469.629192
+        },
+        {
+            "timestamp": "2025-04-22 16:20:00",
+            "symbol": "AVAX",
+            "price": 21.69993845681557,
+            "volume_24h": 414205092.36,
+            "market_cap": 9028450444.037285
+        },
+        {
+            "timestamp": "2025-04-23 16:20:00",
+            "symbol": "AVAX",
+            "price": 22.24686198529572,
+            "volume_24h": 488112781.61,
+            "market_cap": 9256637025.921074
+        }
+    ],
+    "investment_thesis": "AVAX presents a moderate investment opportunity based on its overall score of 55.6/100. Technical indicators are favorable with a score of 63.0/100, showing balanced price action. Fundamentals are reasonably solid (51.0/100), suggesting adequate market position. Despite mixed sentiment (48.0/100), other factors suggest potential upside. Multiple bullish patterns (inverse head and shoulders, double bottom) have been identified, strengthening the positive case. Chart analysis reveals a double top pattern, suggesting potential downside risk. This analysis is set against a broader market that is currently in a strong bullish trend with sentiment showing greed. Overall, AVAX merits a Buy rating, suggesting positive but measured price appreciation potential.",
+    "risk_assessment": "AVAX is classified as a moderate risk investment. With a market cap of $9.26B and global rank of #10, it balances growth potential with reasonable stability. Annualized volatility of 86.2% indicates moderate price fluctuations. Daily trading volume of $489.48M and liquidity ratio of 0.053 suggest adequate liquidity for most trading activities. Investors should be aware of risks including increased competition, potential regulatory impacts, and higher sensitivity to market sentiment. The RSI of 75.5 indicates overbought conditions, increasing the risk of a short-term correction. The current bullish market environment potentially reduces short-term downside risk, though caution is warranted for any sudden sentiment changes. High Bitcoin dominance (63.5%) may limit altcoin performance in the near term.",
+    "analysis_time": "2025-04-23 20:16:22"
+}

@@ -1,0 +1,18 @@
+{
+    "symbol": "HBAR",
+    "market_cap_usd": 7608661654.037251,
+    "volume_24h_usd": 295517794.367199,
+    "volume_mcap_ratio": 0.038839655093664674,
+    "market_share": 0.2809129205367324,
+    "cmc_rank": 18,
+    "price_change_30d": -6.20274031,
+    "fundamental_score": 43,
+    "score_components": {
+        "market_cap_score": 15,
+        "volume_mcap_score": 5,
+        "rank_score": 10,
+        "stability_score": 6,
+        "growth_score": 3,
+        "market_position_score": 4
+    }
+}

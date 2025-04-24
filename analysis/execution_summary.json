@@ -1,0 +1,9 @@
+{
+    "execution_time": "2025-04-23 20:16:28",
+    "duration_seconds": 51.45603585243225,
+    "cryptocurrencies_analyzed": 15,
+    "ml_predictions_generated": 10,
+    "alerts_triggered": 0,
+    "top_crypto": "USDT",
+    "top_score": 71.5
+}

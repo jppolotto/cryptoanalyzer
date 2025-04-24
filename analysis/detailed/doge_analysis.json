@@ -1,0 +1,2641 @@
+{
+    "symbol": "DOGE",
+    "name": "Dogecoin",
+    "price_usd": 0.1789573994101661,
+    "market_cap_usd": 26660262039.944504,
+    "volume_24h_usd": 2095255293.578251,
+    "percent_change_24h": 4.1409266,
+    "percent_change_7d": 16.8336625,
+    "technical_score": 56,
+    "fundamental_score": 55,
+    "sentiment_score": 48,
+    "total_score": 53.7,
+    "technical_weight": 0.45,
+    "fundamental_weight": 0.3,
+    "sentiment_weight": 0.25,
+    "risk_profile": "Moderate",
+    "market_opportunity": "Moderate",
+    "recommendation": "Hold",
+    "rank": 11,
+    "technical_data": {
+        "symbol": "DOGE",
+        "price": 0.1773953977469673,
+        "ma_7": 0.1619234561343096,
+        "ma_30": 0.16518580420036108,
+        "ma_90": 0.212004132765148,
+        "ma_200": 0.260628659568788,
+        "rsi_14": 74.17103545612203,
+        "macd": -0.00208449595036464,
+        "macd_signal": -0.0051936214244625335,
+        "bb_upper": 0.17546849924135555,
+        "bb_middle": 0.15910644991362213,
+        "bb_lower": 0.14274440058588872,
+        "bb_width": 0.20567424308211596,
+        "roc_7": 14.294222100986186,
+        "roc_30": -3.33546623128278,
+        "obv": 32372190461.364746,
+        "tenkan_sen": 0.16533000048899194,
+        "kijun_sen": 0.1614801672466642,
+        "adx": 21.371727674990286,
+        "stoch_k": 99.67554633277487,
+        "stoch_d": 89.6067152234477,
+        "mfi": 71.46864963386042,
+        "psar": 0.15159356258979445,
+        "technical_score": 56,
+        "score_components": {
+            "trend_score": 8,
+            "momentum_score": 6,
+            "volatility_score": 10,
+            "support_resistance_score": 3,
+            "volume_score": 10,
+            "ichimoku_score": 5,
+            "obv_score": 5,
+            "adx_score": 3,
+            "psar_score": 5,
+            "ma_cross_score": 1
+        }
+    },
+    "fundamental_data": {
+        "symbol": "DOGE",
+        "market_cap_usd": 26660262039.944504,
+        "volume_24h_usd": 2095255293.578251,
+        "volume_mcap_ratio": 0.07859094897263104,
+        "market_share": 0.9921412134050533,
+        "cmc_rank": 8,
+        "price_change_30d": -4.79252641,
+        "fundamental_score": 55,
+        "score_components": {
+            "market_cap_score": 18,
+            "volume_mcap_score": 8,
+            "rank_score": 12,
+            "stability_score": 9,
+            "growth_score": 3,
+            "market_position_score": 5
+        }
+    },
+    "sentiment_data": {
+        "symbol": "DOGE",
+        "price_change_1h": -1.25114187,
+        "price_change_24h": 4.1409266,
+        "price_change_7d": 16.8336625,
+        "market_avg_change_24h": 3.7310203413333327,
+        "market_avg_change_7d": 11.602763898000001,
+        "relative_performance_24h": 0.4099062586666675,
+        "relative_performance_7d": 5.230898601999998,
+        "fear_greed_value": 72,
+        "fear_greed_classification": "Greed",
+        "market_trend": "Strong Bullish",
+        "sentiment_score": 48,
+        "score_components": {
+            "momentum_score": 17,
+            "market_sentiment_score": 10,
+            "relative_score": 11,
+            "alignment_score": 10
+        }
+    },
+    "pattern_data": {
+        "head_and_shoulders": false,
+        "inverse_head_and_shoulders": true,
+        "double_top": false,
+        "double_bottom": true,
+        "ascending_triangle": false,
+        "descending_triangle": false,
+        "symmetric_triangle": false,
+        "bullish_flag": false,
+        "bearish_flag": false,
+        "pattern_strength": 6
+    },
+    "divergence_data": {
+        "bearish_divergence": false,
+        "bullish_divergence": false,
+        "bearish_divergence_strength": 0,
+        "bullish_divergence_strength": 0,
+        "rsi_divergences": [],
+        "macd_divergences": []
+    },
+    "historical_data": [
+        {
+            "timestamp": "2024-04-29 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1431303575219578,
+            "volume_24h": 962760833.11,
+            "market_cap": 20623193249.29037
+        },
+        {
+            "timestamp": "2024-04-30 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1325128269743883,
+            "volume_24h": 1154197258.95,
+            "market_cap": 19095141617.037453
+        },
+        {
+            "timestamp": "2024-05-01 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1214584641626355,
+            "volume_24h": 1754574993.3,
+            "market_cap": 17503853733.843254
+        },
+        {
+            "timestamp": "2024-05-02 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1330979451239202,
+            "volume_24h": 1805943531.57,
+            "market_cap": 19183033675.14351
+        },
+        {
+            "timestamp": "2024-05-03 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1399419122181932,
+            "volume_24h": 1163716719.87,
+            "market_cap": 20171324680.398388
+        },
+        {
+            "timestamp": "2024-05-04 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1629701464993433,
+            "volume_24h": 2685354012.04,
+            "market_cap": 23492833762.551254
+        },
+        {
+            "timestamp": "2024-05-05 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1619420864303409,
+            "volume_24h": 1731595281.39,
+            "market_cap": 23346822406.4965
+        },
+        {
+            "timestamp": "2024-05-06 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1580269337062155,
+            "volume_24h": 1651691445.52,
+            "market_cap": 22784510782.342045
+        },
+        {
+            "timestamp": "2024-05-07 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1564581733929052,
+            "volume_24h": 1204692954.2,
+            "market_cap": 22560454454.95717
+        },
+        {
+            "timestamp": "2024-05-08 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1483464533995538,
+            "volume_24h": 1126159856.62,
+            "market_cap": 21392805637.42496
+        },
+        {
+            "timestamp": "2024-05-09 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1496388370127193,
+            "volume_24h": 1143167464.61,
+            "market_cap": 21581225278.0063
+        },
+        {
+            "timestamp": "2024-05-10 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1454319584771747,
+            "volume_24h": 1072549970.05,
+            "market_cap": 20976476898.762924
+        },
+        {
+            "timestamp": "2024-05-11 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1446985813405586,
+            "volume_24h": 698286162.99,
+            "market_cap": 20872659864.181725
+        },
+        {
+            "timestamp": "2024-05-12 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1438052585570116,
+            "volume_24h": 584919496.07,
+            "market_cap": 20745725725.275574
+        },
+        {
+            "timestamp": "2024-05-13 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1532552082404341,
+            "volume_24h": 1489149132.48,
+            "market_cap": 22111011088.63162
+        },
+        {
+            "timestamp": "2024-05-14 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1470271659060761,
+            "volume_24h": 1884735418.68,
+            "market_cap": 21214447788.15037
+        },
+        {
+            "timestamp": "2024-05-15 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1514432576078373,
+            "volume_24h": 1559811752.29,
+            "market_cap": 21853691623.999798
+        },
+        {
+            "timestamp": "2024-05-16 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1512668762407635,
+            "volume_24h": 1601630922.7,
+            "market_cap": 21830304085.30649
+        },
+        {
+            "timestamp": "2024-05-17 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1559543022531914,
+            "volume_24h": 1095634647.74,
+            "market_cap": 22508893237.485264
+        },
+        {
+            "timestamp": "2024-05-18 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1533567745680104,
+            "volume_24h": 956408294.87,
+            "market_cap": 22136053035.27504
+        },
+        {
+            "timestamp": "2024-05-19 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1501032425926747,
+            "volume_24h": 751785163.56,
+            "market_cap": 21668444241.93933
+        },
+        {
+            "timestamp": "2024-05-20 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.152206893108996,
+            "volume_24h": 768764295.09,
+            "market_cap": 21974158835.996216
+        },
+        {
+            "timestamp": "2024-05-21 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1679600428417151,
+            "volume_24h": 2939644405.05,
+            "market_cap": 24250711985.45826
+        },
+        {
+            "timestamp": "2024-05-22 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1678052035112051,
+            "volume_24h": 2327418853.99,
+            "market_cap": 24230614350.0322
+        },
+        {
+            "timestamp": "2024-05-23 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1597065593715929,
+            "volume_24h": 1821691143.63,
+            "market_cap": 23063325873.504494
+        },
+        {
+            "timestamp": "2024-05-24 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.164867925044594,
+            "volume_24h": 3399712849.4,
+            "market_cap": 23810925827.411472
+        },
+        {
+            "timestamp": "2024-05-25 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1678735775397312,
+            "volume_24h": 1431655240.08,
+            "market_cap": 24247286253.417107
+        },
+        {
+            "timestamp": "2024-05-26 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1669938860363012,
+            "volume_24h": 1606607839.64,
+            "market_cap": 24122461616.892048
+        },
+        {
+            "timestamp": "2024-05-27 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1718599921769801,
+            "volume_24h": 1269023735.94,
+            "market_cap": 24827706746.153973
+        },
+        {
+            "timestamp": "2024-05-28 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.163986631109949,
+            "volume_24h": 1459487287.73,
+            "market_cap": 23692504172.870403
+        },
+        {
+            "timestamp": "2024-05-29 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1630714059030351,
+            "volume_24h": 1534583282.88,
+            "market_cap": 23562490162.031025
+        },
+        {
+            "timestamp": "2024-05-30 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1618168591740533,
+            "volume_24h": 1457622816.96,
+            "market_cap": 23383419085.5251
+        },
+        {
+            "timestamp": "2024-05-31 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1552396782470131,
+            "volume_24h": 1000308480.63,
+            "market_cap": 22435049898.85596
+        },
+        {
+            "timestamp": "2024-06-01 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1598845178382329,
+            "volume_24h": 618556820.0,
+            "market_cap": 23108455734.374733
+        },
+        {
+            "timestamp": "2024-06-02 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1584061644815361,
+            "volume_24h": 514730906.54,
+            "market_cap": 22896929356.456142
+        },
+        {
+            "timestamp": "2024-06-03 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1605636107939925,
+            "volume_24h": 929592728.37,
+            "market_cap": 23210949756.11856
+        },
+        {
+            "timestamp": "2024-06-04 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1607619498432326,
+            "volume_24h": 742368048.01,
+            "market_cap": 23241794995.21688
+        },
+        {
+            "timestamp": "2024-06-05 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1634760238104183,
+            "volume_24h": 871605710.73,
+            "market_cap": 23636386291.24263
+        },
+        {
+            "timestamp": "2024-06-06 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1627233686280138,
+            "volume_24h": 751919306.7,
+            "market_cap": 23529736680.275837
+        },
+        {
+            "timestamp": "2024-06-07 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1595981513658302,
+            "volume_24h": 829240573.39,
+            "market_cap": 23079995613.98085
+        },
+        {
+            "timestamp": "2024-06-08 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1457196277110746,
+            "volume_24h": 1694788373.87,
+            "market_cap": 21074941068.13546
+        },
+        {
+            "timestamp": "2024-06-09 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.147110768680628,
+            "volume_24h": 725870625.43,
+            "market_cap": 21278140769.878387
+        },
+        {
+            "timestamp": "2024-06-10 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1465521524502981,
+            "volume_24h": 693696511.15,
+            "market_cap": 21199341340.876625
+        },
+        {
+            "timestamp": "2024-06-11 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1378381744285677,
+            "volume_24h": 1126352215.57,
+            "market_cap": 19940699465.536777
+        },
+        {
+            "timestamp": "2024-06-12 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1498777175413014,
+            "volume_24h": 1180678531.68,
+            "market_cap": 21684436526.71129
+        },
+        {
+            "timestamp": "2024-06-13 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1417991338172476,
+            "volume_24h": 1089399551.99,
+            "market_cap": 20517514551.575478
+        },
+        {
+            "timestamp": "2024-06-14 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1353689774885244,
+            "volume_24h": 698096721.94,
+            "market_cap": 19588934247.872448
+        },
+        {
+            "timestamp": "2024-06-15 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1365770586434193,
+            "volume_24h": 685212268.94,
+            "market_cap": 19765598056.984943
+        },
+        {
+            "timestamp": "2024-06-16 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1364926379465164,
+            "volume_24h": 379601906.2,
+            "market_cap": 19755220511.80071
+        },
+        {
+            "timestamp": "2024-06-17 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1271200849020298,
+            "volume_24h": 742574161.04,
+            "market_cap": 18400418268.123085
+        },
+        {
+            "timestamp": "2024-06-18 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1187384152960863,
+            "volume_24h": 1481859053.33,
+            "market_cap": 17188810045.699505
+        },
+        {
+            "timestamp": "2024-06-19 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1220091579061996,
+            "volume_24h": 728994316.15,
+            "market_cap": 17663926638.495884
+        },
+        {
+            "timestamp": "2024-06-20 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1222255689638693,
+            "volume_24h": 720644035.86,
+            "market_cap": 17696908906.91674
+        },
+        {
+            "timestamp": "2024-06-21 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1230948547642479,
+            "volume_24h": 602967484.4,
+            "market_cap": 17824471804.618458
+        },
+        {
+            "timestamp": "2024-06-22 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1248732510211644,
+            "volume_24h": 384020868.55,
+            "market_cap": 18083661750.5582
+        },
+        {
+            "timestamp": "2024-06-23 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1229425847371226,
+            "volume_24h": 317950002.53,
+            "market_cap": 17805713861.014908
+        },
+        {
+            "timestamp": "2024-06-24 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1175001815231046,
+            "volume_24h": 866895624.79,
+            "market_cap": 17019057217.403637
+        },
+        {
+            "timestamp": "2024-06-25 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.126882738366262,
+            "volume_24h": 903249993.6,
+            "market_cap": 18379785124.825504
+        },
+        {
+            "timestamp": "2024-06-26 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1239227286509331,
+            "volume_24h": 530526328.38,
+            "market_cap": 17952695165.33846
+        },
+        {
+            "timestamp": "2024-06-27 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1238035707887783,
+            "volume_24h": 582542009.47,
+            "market_cap": 17937109057.09484
+        },
+        {
+            "timestamp": "2024-06-28 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1253459032321079,
+            "volume_24h": 671173988.78,
+            "market_cap": 18162263689.221096
+        },
+        {
+            "timestamp": "2024-06-29 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1230033784080981,
+            "volume_24h": 364061154.32,
+            "market_cap": 17824499072.497585
+        },
+        {
+            "timestamp": "2024-06-30 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1225032806952616,
+            "volume_24h": 329359850.88,
+            "market_cap": 17753690734.16165
+        },
+        {
+            "timestamp": "2024-07-01 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1250869548828255,
+            "volume_24h": 458415157.24,
+            "market_cap": 18129755046.63145
+        },
+        {
+            "timestamp": "2024-07-02 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1225145652078182,
+            "volume_24h": 397689840.38,
+            "market_cap": 17758646277.90547
+        },
+        {
+            "timestamp": "2024-07-03 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1184712896866365,
+            "volume_24h": 587279984.49,
+            "market_cap": 17174182972.71934
+        },
+        {
+            "timestamp": "2024-07-04 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1088740294565166,
+            "volume_24h": 1174700565.11,
+            "market_cap": 15784398529.543003
+        },
+        {
+            "timestamp": "2024-07-05 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1038475890834049,
+            "volume_24h": 1663264092.78,
+            "market_cap": 15057056799.12736
+        },
+        {
+            "timestamp": "2024-07-06 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1093166937615798,
+            "volume_24h": 896443656.16,
+            "market_cap": 15851521441.923891
+        },
+        {
+            "timestamp": "2024-07-07 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1078987187842915,
+            "volume_24h": 708704538.13,
+            "market_cap": 15647382251.968311
+        },
+        {
+            "timestamp": "2024-07-08 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1052934725731721,
+            "volume_24h": 1009905894.47,
+            "market_cap": 15271008874.108076
+        },
+        {
+            "timestamp": "2024-07-09 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1081515696318443,
+            "volume_24h": 616069541.64,
+            "market_cap": 15686975971.058376
+        },
+        {
+            "timestamp": "2024-07-10 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1102817327654487,
+            "volume_24h": 556918495.46,
+            "market_cap": 15997454522.337336
+        },
+        {
+            "timestamp": "2024-07-11 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1077169289224633,
+            "volume_24h": 537778868.8,
+            "market_cap": 15626851032.28084
+        },
+        {
+            "timestamp": "2024-07-12 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.107278752181313,
+            "volume_24h": 482011802.62,
+            "market_cap": 15564729401.24112
+        },
+        {
+            "timestamp": "2024-07-13 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1106972345650212,
+            "volume_24h": 408411343.26,
+            "market_cap": 16062213720.937445
+        },
+        {
+            "timestamp": "2024-07-14 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1127923483536849,
+            "volume_24h": 587627319.9,
+            "market_cap": 16367727000.560608
+        },
+        {
+            "timestamp": "2024-07-15 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1190330373173253,
+            "volume_24h": 708471435.56,
+            "market_cap": 17274951218.5173
+        },
+        {
+            "timestamp": "2024-07-16 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1247461330313013,
+            "volume_24h": 1100142404.7,
+            "market_cap": 18105662029.2742
+        },
+        {
+            "timestamp": "2024-07-17 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1220521165015855,
+            "volume_24h": 775909907.68,
+            "market_cap": 17716404959.705395
+        },
+        {
+            "timestamp": "2024-07-18 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1188139358868643,
+            "volume_24h": 732818590.1,
+            "market_cap": 17247971510.043808
+        },
+        {
+            "timestamp": "2024-07-19 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1245949029075873,
+            "volume_24h": 636661565.38,
+            "market_cap": 18088875691.85562
+        },
+        {
+            "timestamp": "2024-07-20 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.134639098971169,
+            "volume_24h": 985914412.45,
+            "market_cap": 19548927527.397835
+        },
+        {
+            "timestamp": "2024-07-21 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1312766774388329,
+            "volume_24h": 812296210.93,
+            "market_cap": 19062498130.50966
+        },
+        {
+            "timestamp": "2024-07-22 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1400602325083842,
+            "volume_24h": 1835759406.37,
+            "market_cap": 20339847587.869022
+        },
+        {
+            "timestamp": "2024-07-23 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.131531955924885,
+            "volume_24h": 1080364525.36,
+            "market_cap": 19103136530.781693
+        },
+        {
+            "timestamp": "2024-07-24 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1315706916379595,
+            "volume_24h": 780333642.31,
+            "market_cap": 19110526702.407204
+        },
+        {
+            "timestamp": "2024-07-25 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.123826785003719,
+            "volume_24h": 925509467.26,
+            "market_cap": 17987386670.54132
+        },
+        {
+            "timestamp": "2024-07-26 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1303008271377436,
+            "volume_24h": 779803846.34,
+            "market_cap": 18929572067.991093
+        },
+        {
+            "timestamp": "2024-07-27 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1342173520260075,
+            "volume_24h": 751040235.31,
+            "market_cap": 19500345980.516872
+        },
+        {
+            "timestamp": "2024-07-28 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1297044785619476,
+            "volume_24h": 1234536061.54,
+            "market_cap": 18846410468.0941
+        },
+        {
+            "timestamp": "2024-07-29 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1297556188444653,
+            "volume_24h": 795100983.41,
+            "market_cap": 18855592989.89214
+        },
+        {
+            "timestamp": "2024-07-30 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1276464205929819,
+            "volume_24h": 641606119.07,
+            "market_cap": 18550792572.8897
+        },
+        {
+            "timestamp": "2024-07-31 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.126371243832962,
+            "volume_24h": 582970234.23,
+            "market_cap": 18367176499.13157
+        },
+        {
+            "timestamp": "2024-08-01 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1152773228507465,
+            "volume_24h": 758043545.52,
+            "market_cap": 16756291623.253117
+        },
+        {
+            "timestamp": "2024-08-02 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1127182565970413,
+            "volume_24h": 901121443.73,
+            "market_cap": 16385836773.334074
+        },
+        {
+            "timestamp": "2024-08-03 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.109221014695242,
+            "volume_24h": 737995515.03,
+            "market_cap": 15878926441.70997
+        },
+        {
+            "timestamp": "2024-08-04 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1021305101707734,
+            "volume_24h": 771937149.39,
+            "market_cap": 14849462268.830688
+        },
+        {
+            "timestamp": "2024-08-05 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.0974037486007596,
+            "volume_24h": 3093129602.78,
+            "market_cap": 14163510875.033297
+        },
+        {
+            "timestamp": "2024-08-06 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.0979478520073735,
+            "volume_24h": 1347738376.35,
+            "market_cap": 14243949466.020573
+        },
+        {
+            "timestamp": "2024-08-07 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.0973906763176796,
+            "volume_24h": 960037493.64,
+            "market_cap": 14164244447.878445
+        },
+        {
+            "timestamp": "2024-08-08 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1042441144834499,
+            "volume_24h": 904116956.23,
+            "market_cap": 15162376960.638687
+        },
+        {
+            "timestamp": "2024-08-09 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1024692940282303,
+            "volume_24h": 695444296.95,
+            "market_cap": 14905628880.21672
+        },
+        {
+            "timestamp": "2024-08-10 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1044903658104846,
+            "volume_24h": 426837871.02,
+            "market_cap": 15201025026.726082
+        },
+        {
+            "timestamp": "2024-08-11 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1047033868277823,
+            "volume_24h": 576234501.68,
+            "market_cap": 15233438814.576197
+        },
+        {
+            "timestamp": "2024-08-12 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1068831970928319,
+            "volume_24h": 785466584.22,
+            "market_cap": 15552017829.832462
+        },
+        {
+            "timestamp": "2024-08-13 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1059760175178856,
+            "volume_24h": 619907280.13,
+            "market_cap": 15421447407.212578
+        },
+        {
+            "timestamp": "2024-08-14 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1031516827010386,
+            "volume_24h": 600902418.83,
+            "market_cap": 15011858967.136065
+        },
+        {
+            "timestamp": "2024-08-15 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1045042595610034,
+            "volume_24h": 474900468.63,
+            "market_cap": 15210120151.847933
+        },
+        {
+            "timestamp": "2024-08-16 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.0988172219059359,
+            "volume_24h": 653960735.23,
+            "market_cap": 14383740586.915497
+        },
+        {
+            "timestamp": "2024-08-17 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1026517519143846,
+            "volume_24h": 377620017.86,
+            "market_cap": 14943285129.06601
+        },
+        {
+            "timestamp": "2024-08-18 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1033882208478769,
+            "volume_24h": 349039278.03,
+            "market_cap": 15051912298.472317
+        },
+        {
+            "timestamp": "2024-08-19 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.0999749861225181,
+            "volume_24h": 454773164.2,
+            "market_cap": 14556351619.400938
+        },
+        {
+            "timestamp": "2024-08-20 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1028234309839815,
+            "volume_24h": 704577828.91,
+            "market_cap": 14972471069.872171
+        },
+        {
+            "timestamp": "2024-08-21 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1038277587900041,
+            "volume_24h": 453574295.11,
+            "market_cap": 15120135036.616528
+        },
+        {
+            "timestamp": "2024-08-22 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1052267940617042,
+            "volume_24h": 474333631.01,
+            "market_cap": 15325313035.783316
+        },
+        {
+            "timestamp": "2024-08-23 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1099686314602412,
+            "volume_24h": 627512497.99,
+            "market_cap": 16017425633.34724
+        },
+        {
+            "timestamp": "2024-08-24 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1127117134457661,
+            "volume_24h": 775668508.89,
+            "market_cap": 16418510881.84517
+        },
+        {
+            "timestamp": "2024-08-25 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1104715615513847,
+            "volume_24h": 668764656.48,
+            "market_cap": 16093688907.82563
+        },
+        {
+            "timestamp": "2024-08-26 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1071157439008896,
+            "volume_24h": 520991131.03,
+            "market_cap": 15606285762.780226
+        },
+        {
+            "timestamp": "2024-08-27 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1041930617027454,
+            "volume_24h": 526782948.24,
+            "market_cap": 15181884163.67349
+        },
+        {
+            "timestamp": "2024-08-28 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.0981525289516895,
+            "volume_24h": 713792318.73,
+            "market_cap": 14303064917.074411
+        },
+        {
+            "timestamp": "2024-08-29 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1019878057573209,
+            "volume_24h": 500511419.58,
+            "market_cap": 14863351604.20266
+        },
+        {
+            "timestamp": "2024-08-30 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.0984628373083573,
+            "volume_24h": 552664978.88,
+            "market_cap": 14350988705.102468
+        },
+        {
+            "timestamp": "2024-08-31 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1012625951145469,
+            "volume_24h": 422682309.04,
+            "market_cap": 14760414219.807177
+        },
+        {
+            "timestamp": "2024-09-01 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.0986045117088246,
+            "volume_24h": 331949616.85,
+            "market_cap": 14374306030.464146
+        },
+        {
+            "timestamp": "2024-09-02 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.0976906984336321,
+            "volume_24h": 507088850.9,
+            "market_cap": 14242434031.129618
+        },
+        {
+            "timestamp": "2024-09-03 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.097319621614816,
+            "volume_24h": 420458356.11,
+            "market_cap": 14189672479.669031
+        },
+        {
+            "timestamp": "2024-09-04 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.098572016061372,
+            "volume_24h": 566951791.68,
+            "market_cap": 14373622181.860018
+        },
+        {
+            "timestamp": "2024-09-05 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.0969528309333581,
+            "volume_24h": 439672033.64,
+            "market_cap": 14138831676.76209
+        },
+        {
+            "timestamp": "2024-09-06 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.0927052231214384,
+            "volume_24h": 600992251.94,
+            "market_cap": 13520664313.919016
+        },
+        {
+            "timestamp": "2024-09-07 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.0951642568714895,
+            "volume_24h": 633483462.64,
+            "market_cap": 13880588693.226402
+        },
+        {
+            "timestamp": "2024-09-08 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.0942280147894841,
+            "volume_24h": 378403562.08,
+            "market_cap": 13745305899.58793
+        },
+        {
+            "timestamp": "2024-09-09 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1015980231734962,
+            "volume_24h": 523856113.62,
+            "market_cap": 14821775576.371412
+        },
+        {
+            "timestamp": "2024-09-10 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1021094248274211,
+            "volume_24h": 639639809.01,
+            "market_cap": 14897795345.890898
+        },
+        {
+            "timestamp": "2024-09-11 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1005403843196745,
+            "volume_24h": 522436031.33,
+            "market_cap": 14670247263.230114
+        },
+        {
+            "timestamp": "2024-09-12 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1011576841953748,
+            "volume_24h": 454483166.2,
+            "market_cap": 14761693664.066092
+        },
+        {
+            "timestamp": "2024-09-13 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1073837103712361,
+            "volume_24h": 632571694.73,
+            "market_cap": 15671715754.396845
+        },
+        {
+            "timestamp": "2024-09-14 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1057418225039931,
+            "volume_24h": 493893632.34,
+            "market_cap": 15433534632.158524
+        },
+        {
+            "timestamp": "2024-09-15 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1058614875218119,
+            "volume_24h": 346480617.27,
+            "market_cap": 15452444275.731522
+        },
+        {
+            "timestamp": "2024-09-16 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.09950292140459,
+            "volume_24h": 566555707.06,
+            "market_cap": 14525641082.828724
+        },
+        {
+            "timestamp": "2024-09-17 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1018840261376359,
+            "volume_24h": 478534155.95,
+            "market_cap": 14874624252.13896
+        },
+        {
+            "timestamp": "2024-09-18 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1005973007185304,
+            "volume_24h": 426489334.2,
+            "market_cap": 14688141096.01311
+        },
+        {
+            "timestamp": "2024-09-19 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1058837350250741,
+            "volume_24h": 728381466.6,
+            "market_cap": 15461458138.985413
+        },
+        {
+            "timestamp": "2024-09-20 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1051176209567867,
+            "volume_24h": 674417488.2,
+            "market_cap": 15351023789.186914
+        },
+        {
+            "timestamp": "2024-09-21 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1089762144601011,
+            "volume_24h": 483795727.49,
+            "market_cap": 15916012779.721088
+        },
+        {
+            "timestamp": "2024-09-22 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1053074223616003,
+            "volume_24h": 448266945.98,
+            "market_cap": 15381616640.557274
+        },
+        {
+            "timestamp": "2024-09-23 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1071943582266566,
+            "volume_24h": 651175860.0,
+            "market_cap": 15658700627.305868
+        },
+        {
+            "timestamp": "2024-09-24 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.107401041594986,
+            "volume_24h": 653604875.09,
+            "market_cap": 15690358473.582687
+        },
+        {
+            "timestamp": "2024-09-25 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1094644830749807,
+            "volume_24h": 686501520.56,
+            "market_cap": 15993318850.263046
+        },
+        {
+            "timestamp": "2024-09-26 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1183654187138258,
+            "volume_24h": 1157586897.32,
+            "market_cap": 17295371088.021545
+        },
+        {
+            "timestamp": "2024-09-27 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1267896248276884,
+            "volume_24h": 1542414278.82,
+            "market_cap": 18528088195.312878
+        },
+        {
+            "timestamp": "2024-09-28 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1309543312911616,
+            "volume_24h": 1355631667.9,
+            "market_cap": 19138480037.262142
+        },
+        {
+            "timestamp": "2024-09-29 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1256647174411561,
+            "volume_24h": 974743030.8,
+            "market_cap": 18367142080.287582
+        },
+        {
+            "timestamp": "2024-09-30 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1178466627313288,
+            "volume_24h": 933803908.77,
+            "market_cap": 17226075227.122963
+        },
+        {
+            "timestamp": "2024-10-01 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1110108015728157,
+            "volume_24h": 1012878892.08,
+            "market_cap": 16228378942.290571
+        },
+        {
+            "timestamp": "2024-10-02 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1071658517788218,
+            "volume_24h": 1200044499.01,
+            "market_cap": 15667754308.37274
+        },
+        {
+            "timestamp": "2024-10-03 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1036711732637443,
+            "volume_24h": 920180944.71,
+            "market_cap": 15158244975.654448
+        },
+        {
+            "timestamp": "2024-10-04 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1080787598688607,
+            "volume_24h": 704043381.51,
+            "market_cap": 15804172930.887585
+        },
+        {
+            "timestamp": "2024-10-05 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1092932313407123,
+            "volume_24h": 432770153.19,
+            "market_cap": 15983254877.830862
+        },
+        {
+            "timestamp": "2024-10-06 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1122534185147978,
+            "volume_24h": 419477079.08,
+            "market_cap": 16417681690.718468
+        },
+        {
+            "timestamp": "2024-10-07 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1122228665666266,
+            "volume_24h": 726522387.56,
+            "market_cap": 16414754119.720127
+        },
+        {
+            "timestamp": "2024-10-08 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1066958439569397,
+            "volume_24h": 741467407.27,
+            "market_cap": 15607770684.374874
+        },
+        {
+            "timestamp": "2024-10-09 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1097235083484311,
+            "volume_24h": 602680963.73,
+            "market_cap": 16052180203.5954
+        },
+        {
+            "timestamp": "2024-10-10 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1053736319492405,
+            "volume_24h": 733880749.63,
+            "market_cap": 15417243106.576077
+        },
+        {
+            "timestamp": "2024-10-11 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1095885409330015,
+            "volume_24h": 678770916.53,
+            "market_cap": 16035422308.322474
+        },
+        {
+            "timestamp": "2024-10-12 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1117669191805864,
+            "volume_24h": 604815860.18,
+            "market_cap": 16355692249.07667
+        },
+        {
+            "timestamp": "2024-10-13 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1097953744710607,
+            "volume_24h": 537622613.38,
+            "market_cap": 16068666843.97727
+        },
+        {
+            "timestamp": "2024-10-14 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1147498764245882,
+            "volume_24h": 895044926.8,
+            "market_cap": 16795340002.943209
+        },
+        {
+            "timestamp": "2024-10-15 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1138262292993206,
+            "volume_24h": 1246998631.52,
+            "market_cap": 16661710017.33737
+        },
+        {
+            "timestamp": "2024-10-16 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1256159162166885,
+            "volume_24h": 2148620630.99,
+            "market_cap": 18389197412.668102
+        },
+        {
+            "timestamp": "2024-10-17 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1220456121304256,
+            "volume_24h": 1408434088.75,
+            "market_cap": 17868208227.75865
+        },
+        {
+            "timestamp": "2024-10-18 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1370525787685774,
+            "volume_24h": 2267359813.25,
+            "market_cap": 20067203824.52854
+        },
+        {
+            "timestamp": "2024-10-19 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1436490890627829,
+            "volume_24h": 2039206498.59,
+            "market_cap": 21035052728.70716
+        },
+        {
+            "timestamp": "2024-10-20 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1390237750395168,
+            "volume_24h": 1511653552.72,
+            "market_cap": 20359665719.25861
+        },
+        {
+            "timestamp": "2024-10-21 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1392538639887537,
+            "volume_24h": 2036729501.31,
+            "market_cap": 20395266632.767696
+        },
+        {
+            "timestamp": "2024-10-22 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1394031167880334,
+            "volume_24h": 1692581232.33,
+            "market_cap": 20419026418.40772
+        },
+        {
+            "timestamp": "2024-10-23 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1369005280750355,
+            "volume_24h": 1318493088.02,
+            "market_cap": 20054331976.768627
+        },
+        {
+            "timestamp": "2024-10-24 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1399952619521188,
+            "volume_24h": 1481366273.2209358,
+            "market_cap": 20509602159.676624
+        },
+        {
+            "timestamp": "2024-10-25 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1368721422347489,
+            "volume_24h": 1192345351.61,
+            "market_cap": 20053939134.597195
+        },
+        {
+            "timestamp": "2024-10-26 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1334189864927202,
+            "volume_24h": 1288973746.85,
+            "market_cap": 19549824903.942493
+        },
+        {
+            "timestamp": "2024-10-27 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1429020627990906,
+            "volume_24h": 910398652.11,
+            "market_cap": 20941322194.363144
+        },
+        {
+            "timestamp": "2024-10-28 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1499046626087577,
+            "volume_24h": 2135225344.16,
+            "market_cap": 21969556109.200207
+        },
+        {
+            "timestamp": "2024-10-29 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1765257020830677,
+            "volume_24h": 3869827615.79,
+            "market_cap": 25873454483.027084
+        },
+        {
+            "timestamp": "2024-10-30 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.165623189629907,
+            "volume_24h": 3148303161.74,
+            "market_cap": 24277752091.798107
+        },
+        {
+            "timestamp": "2024-10-31 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.165038250131727,
+            "volume_24h": 1943236835.0540292,
+            "market_cap": 24194273495.219734
+        },
+        {
+            "timestamp": "2024-11-01 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1609148168333398,
+            "volume_24h": 2590214649.786057,
+            "market_cap": 23591987832.61726
+        },
+        {
+            "timestamp": "2024-11-02 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.157388376815924,
+            "volume_24h": 1576006609.65,
+            "market_cap": 23077134710.70734
+        },
+        {
+            "timestamp": "2024-11-03 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1474317578749162,
+            "volume_24h": 1894379099.89,
+            "market_cap": 21619265650.30995
+        },
+        {
+            "timestamp": "2024-11-04 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1584481003477146,
+            "volume_24h": 2236305824.5415893,
+            "market_cap": 23236845906.31202
+        },
+        {
+            "timestamp": "2024-11-05 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.17542045495775,
+            "volume_24h": 3662003720.34,
+            "market_cap": 25728275455.41682
+        },
+        {
+            "timestamp": "2024-11-06 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1894811096845408,
+            "volume_24h": 11865007480.5,
+            "market_cap": 27793120695.098457
+        },
+        {
+            "timestamp": "2024-11-07 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1931520517250979,
+            "volume_24h": 4964108648.286618,
+            "market_cap": 28334203883.816303
+        },
+        {
+            "timestamp": "2024-11-08 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1972879867718355,
+            "volume_24h": 3682764252.602839,
+            "market_cap": 28943648307.557037
+        },
+        {
+            "timestamp": "2024-11-09 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2049898444579063,
+            "volume_24h": 4114310079.31,
+            "market_cap": 30076361375.06997
+        },
+        {
+            "timestamp": "2024-11-10 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2467956535414471,
+            "volume_24h": 8216687543.712822,
+            "market_cap": 36213527246.48464
+        },
+        {
+            "timestamp": "2024-11-11 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3217795146751834,
+            "volume_24h": 20702570230.86,
+            "market_cap": 47220585936.37474
+        },
+        {
+            "timestamp": "2024-11-12 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3580079412513783,
+            "volume_24h": 39637022471.66,
+            "market_cap": 52541949439.036
+        },
+        {
+            "timestamp": "2024-11-13 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.4130363242854604,
+            "volume_24h": 28156389536.65,
+            "market_cap": 60623718910.94577
+        },
+        {
+            "timestamp": "2024-11-14 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3907850766247112,
+            "volume_24h": 18528236074.38,
+            "market_cap": 57363132868.45857
+        },
+        {
+            "timestamp": "2024-11-15 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.35939443477418,
+            "volume_24h": 12637271497.15,
+            "market_cap": 52760287726.80988
+        },
+        {
+            "timestamp": "2024-11-16 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3675912479878537,
+            "volume_24h": 9350834636.18,
+            "market_cap": 53968554704.61664
+        },
+        {
+            "timestamp": "2024-11-17 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3629432323082922,
+            "volume_24h": 7450362293.95,
+            "market_cap": 53291134958.93471
+        },
+        {
+            "timestamp": "2024-11-18 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3749106779826364,
+            "volume_24h": 7717681749.96,
+            "market_cap": 55053397238.32365
+        },
+        {
+            "timestamp": "2024-11-19 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3951616505467759,
+            "volume_24h": 10519128449.73,
+            "market_cap": 58032541553.33364
+        },
+        {
+            "timestamp": "2024-11-20 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3844821173651108,
+            "volume_24h": 10457477931.17,
+            "market_cap": 56469421617.15813
+        },
+        {
+            "timestamp": "2024-11-21 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3812578196220483,
+            "volume_24h": 8768961130.95,
+            "market_cap": 56001061081.60212
+        },
+        {
+            "timestamp": "2024-11-22 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.401101193768069,
+            "volume_24h": 11072899798.94,
+            "market_cap": 58921202372.35983
+        },
+        {
+            "timestamp": "2024-11-23 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.4432449405485458,
+            "volume_24h": 19337330113.28,
+            "market_cap": 65118105481.75145
+        },
+        {
+            "timestamp": "2024-11-24 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.4136731690989101,
+            "volume_24h": 15014874973.3,
+            "market_cap": 60779367367.45448
+        },
+        {
+            "timestamp": "2024-11-25 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.4187775356636418,
+            "volume_24h": 9142125136.29,
+            "market_cap": 61535094196.038086
+        },
+        {
+            "timestamp": "2024-11-26 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3851012022015005,
+            "volume_24h": 10231456037.66,
+            "market_cap": 56591964274.06856
+        },
+        {
+            "timestamp": "2024-11-27 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.401422093202786,
+            "volume_24h": 6753604002.66,
+            "market_cap": 58995843476.5054
+        },
+        {
+            "timestamp": "2024-11-28 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3958453846370044,
+            "volume_24h": 6651710038.14,
+            "market_cap": 58181654044.94753
+        },
+        {
+            "timestamp": "2024-11-29 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.4180764454180096,
+            "volume_24h": 4888744780.72,
+            "market_cap": 61454886374.9385
+        },
+        {
+            "timestamp": "2024-11-30 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.422988344940573,
+            "volume_24h": 7275780384.72,
+            "market_cap": 62182669083.37524
+        },
+        {
+            "timestamp": "2024-12-01 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.4407825048078413,
+            "volume_24h": 5894995488.4,
+            "market_cap": 64804534291.38401
+        },
+        {
+            "timestamp": "2024-12-02 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.4362009237384446,
+            "volume_24h": 13844394073.51,
+            "market_cap": 64136831778.51782
+        },
+        {
+            "timestamp": "2024-12-03 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.4080910023552588,
+            "volume_24h": 10181380471.99,
+            "market_cap": 60009237659.53226
+        },
+        {
+            "timestamp": "2024-12-04 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.4067769414875075,
+            "volume_24h": 6277813754.6,
+            "market_cap": 59821461640.16776
+        },
+        {
+            "timestamp": "2024-12-05 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.4387002466012317,
+            "volume_24h": 15634042800.0,
+            "market_cap": 64522161820.59132
+        },
+        {
+            "timestamp": "2024-12-06 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.4331639801001745,
+            "volume_24h": 8422845007.07,
+            "market_cap": 63713741735.30401
+        },
+        {
+            "timestamp": "2024-12-07 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.4554380045524305,
+            "volume_24h": 6801470365.67,
+            "market_cap": 66996281473.54015
+        },
+        {
+            "timestamp": "2024-12-08 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.4639753117225864,
+            "volume_24h": 9577097779.32,
+            "market_cap": 68258464026.94466
+        },
+        {
+            "timestamp": "2024-12-09 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.4375461744629327,
+            "volume_24h": 8171131974.45,
+            "market_cap": 64376263326.59582
+        },
+        {
+            "timestamp": "2024-12-10 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3772170405636025,
+            "volume_24h": 13036407189.64,
+            "market_cap": 55505181358.690056
+        },
+        {
+            "timestamp": "2024-12-11 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.4167853998531688,
+            "volume_24h": 8349978282.32,
+            "market_cap": 61333137650.2158
+        },
+        {
+            "timestamp": "2024-12-12 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.4174948977101479,
+            "volume_24h": 5718931768.44,
+            "market_cap": 61443240279.89301
+        },
+        {
+            "timestamp": "2024-12-13 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.4049542177708389,
+            "volume_24h": 4033047917.34,
+            "market_cap": 59603209375.4221
+        },
+        {
+            "timestamp": "2024-12-14 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3929349672284789,
+            "volume_24h": 3264442287.93,
+            "market_cap": 57839550303.75496
+        },
+        {
+            "timestamp": "2024-12-15 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.4031729603695251,
+            "volume_24h": 2824087450.62,
+            "market_cap": 59352077811.760345
+        },
+        {
+            "timestamp": "2024-12-16 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.4018481729903933,
+            "volume_24h": 3433529141.1,
+            "market_cap": 59162557940.71006
+        },
+        {
+            "timestamp": "2024-12-17 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.4014494051697974,
+            "volume_24h": 4053791622.78,
+            "market_cap": 59109360791.51487
+        },
+        {
+            "timestamp": "2024-12-18 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3826334493366964,
+            "volume_24h": 3617053965.95,
+            "market_cap": 56344147685.19814
+        },
+        {
+            "timestamp": "2024-12-19 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3491300582673549,
+            "volume_24h": 6952294566.32,
+            "market_cap": 51415380415.21059
+        },
+        {
+            "timestamp": "2024-12-20 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3099266499721902,
+            "volume_24h": 14785450995.26,
+            "market_cap": 45646271721.838005
+        },
+        {
+            "timestamp": "2024-12-21 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3280188210117424,
+            "volume_24h": 7543411593.88,
+            "market_cap": 48315317842.47975
+        },
+        {
+            "timestamp": "2024-12-22 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.314486748306709,
+            "volume_24h": 4445158903.79,
+            "market_cap": 46326437941.22926
+        },
+        {
+            "timestamp": "2024-12-23 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3059845597465217,
+            "volume_24h": 4057359058.25,
+            "market_cap": 45078142990.16106
+        },
+        {
+            "timestamp": "2024-12-24 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3350155412148851,
+            "volume_24h": 3644591260.39,
+            "market_cap": 49359640859.2874
+        },
+        {
+            "timestamp": "2024-12-25 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3301799844956281,
+            "volume_24h": 2777547185.51,
+            "market_cap": 48651692643.21957
+        },
+        {
+            "timestamp": "2024-12-26 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.31649841765261,
+            "volume_24h": 2537440577.51,
+            "market_cap": 46640057061.48203
+        },
+        {
+            "timestamp": "2024-12-27 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3107156292584649,
+            "volume_24h": 2325622994.13,
+            "market_cap": 45792127990.11536
+        },
+        {
+            "timestamp": "2024-12-28 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3194643343186748,
+            "volume_24h": 1447800040.68,
+            "market_cap": 47085805549.59034
+        },
+        {
+            "timestamp": "2024-12-29 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3159411273216442,
+            "volume_24h": 1506772514.31,
+            "market_cap": 46570861572.14524
+        },
+        {
+            "timestamp": "2024-12-30 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3099440994748864,
+            "volume_24h": 2263472776.45,
+            "market_cap": 45691087080.82047
+        },
+        {
+            "timestamp": "2024-12-31 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3262929346360963,
+            "volume_24h": 2439519142.16,
+            "market_cap": 48105643522.42424
+        },
+        {
+            "timestamp": "2025-01-01 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3184235899246772,
+            "volume_24h": 1576373910.78,
+            "market_cap": 46949780379.24983
+        },
+        {
+            "timestamp": "2025-01-02 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3378144385901935,
+            "volume_24h": 3332000751.22,
+            "market_cap": 49813419995.13147
+        },
+        {
+            "timestamp": "2025-01-03 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.368546356656245,
+            "volume_24h": 3370249942.29,
+            "market_cap": 54350163783.0594
+        },
+        {
+            "timestamp": "2025-01-04 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3824326675475713,
+            "volume_24h": 5356733748.48,
+            "market_cap": 56403264157.94655
+        },
+        {
+            "timestamp": "2025-01-05 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3832836890401184,
+            "volume_24h": 3039371199.54,
+            "market_cap": 56534020789.0537
+        },
+        {
+            "timestamp": "2025-01-06 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.392869570442357,
+            "volume_24h": 2780202105.62,
+            "market_cap": 57953332165.67176
+        },
+        {
+            "timestamp": "2025-01-07 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3646214766315147,
+            "volume_24h": 4074165534.8,
+            "market_cap": 53791292491.55448
+        },
+        {
+            "timestamp": "2025-01-08 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3439258689018012,
+            "volume_24h": 4603296539.94,
+            "market_cap": 50742769865.15574
+        },
+        {
+            "timestamp": "2025-01-09 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3322390212039898,
+            "volume_24h": 4276864980.15,
+            "market_cap": 49023075727.213234
+        },
+        {
+            "timestamp": "2025-01-10 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3274178697259706,
+            "volume_24h": 3583960605.19,
+            "market_cap": 48316153452.28176
+        },
+        {
+            "timestamp": "2025-01-11 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3340200389956862,
+            "volume_24h": 1628057376.81,
+            "market_cap": 49294983445.50592
+        },
+        {
+            "timestamp": "2025-01-12 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3385625904255941,
+            "volume_24h": 1661197739.19,
+            "market_cap": 49969981799.48165
+        },
+        {
+            "timestamp": "2025-01-13 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.324697515232871,
+            "volume_24h": 3164723297.51,
+            "market_cap": 47927991864.97022
+        },
+        {
+            "timestamp": "2025-01-14 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3517577636973058,
+            "volume_24h": 3212829983.96,
+            "market_cap": 51927095381.02467
+        },
+        {
+            "timestamp": "2025-01-15 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3728039659529126,
+            "volume_24h": 3855660576.23,
+            "market_cap": 55039024006.48079
+        },
+        {
+            "timestamp": "2025-01-16 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3823927398156302,
+            "volume_24h": 4082939127.32,
+            "market_cap": 56459839251.429184
+        },
+        {
+            "timestamp": "2025-01-17 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.4124927889367513,
+            "volume_24h": 5938226201.36,
+            "market_cap": 60909702579.89582
+        },
+        {
+            "timestamp": "2025-01-18 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3918605474415433,
+            "volume_24h": 7226349717.67,
+            "market_cap": 57868416379.92335
+        },
+        {
+            "timestamp": "2025-01-19 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3892877201659594,
+            "volume_24h": 7800218541.92,
+            "market_cap": 57493808554.480415
+        },
+        {
+            "timestamp": "2025-01-20 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3647928934548869,
+            "volume_24h": 9079699108.02,
+            "market_cap": 53881149339.92765
+        },
+        {
+            "timestamp": "2025-01-21 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3825440095240376,
+            "volume_24h": 11269982912.42,
+            "market_cap": 56508259722.35239
+        },
+        {
+            "timestamp": "2025-01-22 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3597349056100889,
+            "volume_24h": 3326775445.49,
+            "market_cap": 53143866535.21228
+        },
+        {
+            "timestamp": "2025-01-23 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3579619829184173,
+            "volume_24h": 2955428476.07,
+            "market_cap": 52886852037.25868
+        },
+        {
+            "timestamp": "2025-01-24 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3597792532929631,
+            "volume_24h": 2743872329.76,
+            "market_cap": 53160211237.90006
+        },
+        {
+            "timestamp": "2025-01-25 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3573070090036385,
+            "volume_24h": 1631311476.95,
+            "market_cap": 52799766377.36478
+        },
+        {
+            "timestamp": "2025-01-26 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3502853187622204,
+            "volume_24h": 1100444643.74,
+            "market_cap": 51766921572.24782
+        },
+        {
+            "timestamp": "2025-01-27 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3280711870660832,
+            "volume_24h": 4192066879.25,
+            "market_cap": 48488464243.016525
+        },
+        {
+            "timestamp": "2025-01-28 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3306074365304936,
+            "volume_24h": 2128207015.57,
+            "market_cap": 48867890680.14503
+        },
+        {
+            "timestamp": "2025-01-29 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3224890690930617,
+            "volume_24h": 1676410519.35,
+            "market_cap": 47672232487.73935
+        },
+        {
+            "timestamp": "2025-01-30 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3353178877655806,
+            "volume_24h": 2025050921.7,
+            "market_cap": 49573274600.21711
+        },
+        {
+            "timestamp": "2025-01-31 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3373821711432058,
+            "volume_24h": 1545238975.75,
+            "market_cap": 49883072892.2594
+        },
+        {
+            "timestamp": "2025-02-01 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.3217770180011659,
+            "volume_24h": 1360553445.36,
+            "market_cap": 47580098188.49363
+        },
+        {
+            "timestamp": "2025-02-02 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2919650495668691,
+            "volume_24h": 2946864516.49,
+            "market_cap": 43175907260.13814
+        },
+        {
+            "timestamp": "2025-02-03 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2691133308414329,
+            "volume_24h": 12395199627.33,
+            "market_cap": 39800264816.20419
+        },
+        {
+            "timestamp": "2025-02-04 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2704050657112687,
+            "volume_24h": 5138029925.78,
+            "market_cap": 39995011992.24474
+        },
+        {
+            "timestamp": "2025-02-05 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2590819702302541,
+            "volume_24h": 2354754757.18,
+            "market_cap": 38323771995.94137
+        },
+        {
+            "timestamp": "2025-02-06 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2497876905654291,
+            "volume_24h": 1797920418.12,
+            "market_cap": 36952348594.12274
+        },
+        {
+            "timestamp": "2025-02-07 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2542536135352201,
+            "volume_24h": 2119030221.59,
+            "market_cap": 37616452535.341385
+        },
+        {
+            "timestamp": "2025-02-08 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2481851631030462,
+            "volume_24h": 1338992762.29,
+            "market_cap": 36722011915.1695
+        },
+        {
+            "timestamp": "2025-02-09 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2542718526278914,
+            "volume_24h": 1028361979.12,
+            "market_cap": 37626059548.82536
+        },
+        {
+            "timestamp": "2025-02-10 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2529713379828273,
+            "volume_24h": 1518233030.05,
+            "market_cap": 37437090788.73839
+        },
+        {
+            "timestamp": "2025-02-11 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2597899708200836,
+            "volume_24h": 1515219972.42,
+            "market_cap": 38449707101.307495
+        },
+        {
+            "timestamp": "2025-02-12 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2526789955519042,
+            "volume_24h": 1717560348.83,
+            "market_cap": 37400727854.67671
+        },
+        {
+            "timestamp": "2025-02-13 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2557374231493453,
+            "volume_24h": 1695076986.37,
+            "market_cap": 37856924905.81732
+        },
+        {
+            "timestamp": "2025-02-14 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2709862735199908,
+            "volume_24h": 1893629719.76,
+            "market_cap": 40117934254.83232
+        },
+        {
+            "timestamp": "2025-02-15 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2753169408803861,
+            "volume_24h": 2180829695.1,
+            "market_cap": 40762830586.53176
+        },
+        {
+            "timestamp": "2025-02-16 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2672667007745052,
+            "volume_24h": 1055198881.52,
+            "market_cap": 39574553590.54818
+        },
+        {
+            "timestamp": "2025-02-17 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2599795395938928,
+            "volume_24h": 1201406762.96,
+            "market_cap": 38499092578.758766
+        },
+        {
+            "timestamp": "2025-02-18 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2472973113558533,
+            "volume_24h": 1548046315.3,
+            "market_cap": 36624429214.78323
+        },
+        {
+            "timestamp": "2025-02-19 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2544101347099818,
+            "volume_24h": 1190269773.15,
+            "market_cap": 37681309980.80596
+        },
+        {
+            "timestamp": "2025-02-20 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2523532772141361,
+            "volume_24h": 1098331908.44,
+            "market_cap": 37380143716.35779
+        },
+        {
+            "timestamp": "2025-02-21 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2543091639795694,
+            "volume_24h": 1402440922.39,
+            "market_cap": 37673356089.18609
+        },
+        {
+            "timestamp": "2025-02-22 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2467482703031971,
+            "volume_24h": 1675244613.22,
+            "market_cap": 36556646114.36114
+        },
+        {
+            "timestamp": "2025-02-23 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2416975784297988,
+            "volume_24h": 727390046.14,
+            "market_cap": 35811667070.52986
+        },
+        {
+            "timestamp": "2025-02-24 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2261638382553592,
+            "volume_24h": 1554573276.84,
+            "market_cap": 33513173852.089832
+        },
+        {
+            "timestamp": "2025-02-25 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2016386442029341,
+            "volume_24h": 3558025287.52,
+            "market_cap": 29881773624.103867
+        },
+        {
+            "timestamp": "2025-02-26 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2067451828254147,
+            "volume_24h": 1825437265.78,
+            "market_cap": 30641380276.41897
+        },
+        {
+            "timestamp": "2025-02-27 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2098567136243248,
+            "volume_24h": 1820774068.47,
+            "market_cap": 31105349569.41489
+        },
+        {
+            "timestamp": "2025-02-28 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.19631509151238,
+            "volume_24h": 2513758517.21,
+            "market_cap": 29100855222.196537
+        },
+        {
+            "timestamp": "2025-03-01 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2037886510027824,
+            "volume_24h": 1381804377.13,
+            "market_cap": 30211497629.6233
+        },
+        {
+            "timestamp": "2025-03-02 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2176565917810601,
+            "volume_24h": 1514005170.23,
+            "market_cap": 32270309651.830067
+        },
+        {
+            "timestamp": "2025-03-03 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2150974548902394,
+            "volume_24h": 3820158506.5,
+            "market_cap": 31893853972.68683
+        },
+        {
+            "timestamp": "2025-03-04 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1904839129815672,
+            "volume_24h": 2700988158.9,
+            "market_cap": 28246891149.456734
+        },
+        {
+            "timestamp": "2025-03-05 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1996956410874691,
+            "volume_24h": 1759054415.0,
+            "market_cap": 29615621694.55046
+        },
+        {
+            "timestamp": "2025-03-06 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2062145497564529,
+            "volume_24h": 1686720335.86,
+            "market_cap": 30585192743.44314
+        },
+        {
+            "timestamp": "2025-03-07 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.2030850324217976,
+            "volume_24h": 1690225427.36,
+            "market_cap": 30123813333.144585
+        },
+        {
+            "timestamp": "2025-03-08 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1930540858680515,
+            "volume_24h": 1246695684.96,
+            "market_cap": 28638563267.516792
+        },
+        {
+            "timestamp": "2025-03-09 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1768242963361087,
+            "volume_24h": 1222671422.37,
+            "market_cap": 26233360204.8882
+        },
+        {
+            "timestamp": "2025-03-10 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1653906067544013,
+            "volume_24h": 2230983345.93,
+            "market_cap": 24539356008.042507
+        },
+        {
+            "timestamp": "2025-03-11 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1605844836023208,
+            "volume_24h": 2652875550.24,
+            "market_cap": 23828425975.145306
+        },
+        {
+            "timestamp": "2025-03-12 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1667080547463899,
+            "volume_24h": 1812118877.35,
+            "market_cap": 24739358025.86128
+        },
+        {
+            "timestamp": "2025-03-13 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1655811294607063,
+            "volume_24h": 1449584327.96,
+            "market_cap": 24574360107.447823
+        },
+        {
+            "timestamp": "2025-03-14 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1730715892794705,
+            "volume_24h": 1106220569.57,
+            "market_cap": 25688425196.75531
+        },
+        {
+            "timestamp": "2025-03-15 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1764572835130283,
+            "volume_24h": 812437654.06,
+            "market_cap": 26193369699.16544
+        },
+        {
+            "timestamp": "2025-03-16 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1713054370690933,
+            "volume_24h": 836247992.1,
+            "market_cap": 25430942474.07762
+        },
+        {
+            "timestamp": "2025-03-17 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1728086097592198,
+            "volume_24h": 1010594290.54,
+            "market_cap": 25656451275.984333
+        },
+        {
+            "timestamp": "2025-03-18 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1642644883342567,
+            "volume_24h": 1125827152.09,
+            "market_cap": 24390184465.938644
+        },
+        {
+            "timestamp": "2025-03-19 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1722366966398404,
+            "volume_24h": 928865247.65,
+            "market_cap": 25576280755.207397
+        },
+        {
+            "timestamp": "2025-03-20 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1692754170312792,
+            "volume_24h": 1211744361.36,
+            "market_cap": 25138863049.35329
+        },
+        {
+            "timestamp": "2025-03-21 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1655950635611294,
+            "volume_24h": 807712009.05,
+            "market_cap": 24594544206.34964
+        },
+        {
+            "timestamp": "2025-03-22 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1680324838663108,
+            "volume_24h": 518330850.42,
+            "market_cap": 24958870735.58731
+        },
+        {
+            "timestamp": "2025-03-23 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1717272579624977,
+            "volume_24h": 532984786.55,
+            "market_cap": 25510018292.95545
+        },
+        {
+            "timestamp": "2025-03-24 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1835165296213081,
+            "volume_24h": 1097461251.69,
+            "market_cap": 27263833427.597363
+        },
+        {
+            "timestamp": "2025-03-25 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1910300533512899,
+            "volume_24h": 1631543581.59,
+            "market_cap": 28382698290.162
+        },
+        {
+            "timestamp": "2025-03-26 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.196128909772949,
+            "volume_24h": 1971868437.15,
+            "market_cap": 29142946974.4531
+        },
+        {
+            "timestamp": "2025-03-27 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1928438315044269,
+            "volume_24h": 1528435599.4,
+            "market_cap": 28657429606.407352
+        },
+        {
+            "timestamp": "2025-03-28 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1794121615568348,
+            "volume_24h": 1426416228.08,
+            "market_cap": 26663906477.51473
+        },
+        {
+            "timestamp": "2025-03-29 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.169831493999061,
+            "volume_24h": 1076689013.06,
+            "market_cap": 25242365130.55452
+        },
+        {
+            "timestamp": "2025-03-30 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1688733405638734,
+            "volume_24h": 873172617.8,
+            "market_cap": 25102268289.02589
+        },
+        {
+            "timestamp": "2025-03-31 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1667785774871565,
+            "volume_24h": 1312543560.66,
+            "market_cap": 24793174306.616325
+        },
+        {
+            "timestamp": "2025-04-01 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1740952828959325,
+            "volume_24h": 1189546982.72,
+            "market_cap": 25883258659.643803
+        },
+        {
+            "timestamp": "2025-04-02 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1758107329361556,
+            "volume_24h": 1270286800.48,
+            "market_cap": 26140687181.25109
+        },
+        {
+            "timestamp": "2025-04-03 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1586407436707096,
+            "volume_24h": 1706261860.33,
+            "market_cap": 23589909738.292328
+        },
+        {
+            "timestamp": "2025-04-04 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.168102168768061,
+            "volume_24h": 1477276396.17,
+            "market_cap": 24999155404.39736
+        },
+        {
+            "timestamp": "2025-04-05 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1675541084359155,
+            "volume_24h": 881938327.34,
+            "market_cap": 24919941593.923325
+        },
+        {
+            "timestamp": "2025-04-06 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1610369787252975,
+            "volume_24h": 596425312.34,
+            "market_cap": 23952890850.931152
+        },
+        {
+            "timestamp": "2025-04-07 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1455649367463611,
+            "volume_24h": 3626793458.01,
+            "market_cap": 21653564042.67715
+        },
+        {
+            "timestamp": "2025-04-08 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1495012331792096,
+            "volume_24h": 1913972393.51,
+            "market_cap": 22241155893.25969
+        },
+        {
+            "timestamp": "2025-04-09 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1474965679592529,
+            "volume_24h": 1869063605.86,
+            "market_cap": 21944948888.046207
+        },
+        {
+            "timestamp": "2025-04-10 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1502216515347284,
+            "volume_24h": 1839536982.89,
+            "market_cap": 22352452424.909138
+        },
+        {
+            "timestamp": "2025-04-11 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1581022949417048,
+            "volume_24h": 942745209.78,
+            "market_cap": 23527213005.691982
+        },
+        {
+            "timestamp": "2025-04-12 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1666231923129722,
+            "volume_24h": 847348298.29,
+            "market_cap": 24797472718.34261
+        },
+        {
+            "timestamp": "2025-04-13 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1629230252796353,
+            "volume_24h": 788811798.39,
+            "market_cap": 24249014455.124493
+        },
+        {
+            "timestamp": "2025-04-14 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1600609055574399,
+            "volume_24h": 1061298070.26,
+            "market_cap": 23825215670.64951
+        },
+        {
+            "timestamp": "2025-04-15 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.156268323177401,
+            "volume_24h": 836973778.62,
+            "market_cap": 23262839609.561745
+        },
+        {
+            "timestamp": "2025-04-16 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1552094187142962,
+            "volume_24h": 708244076.98,
+            "market_cap": 23107306080.419407
+        },
+        {
+            "timestamp": "2025-04-17 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1562593767734277,
+            "volume_24h": 696534042.56,
+            "market_cap": 23265759623.31361
+        },
+        {
+            "timestamp": "2025-04-18 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1568093848861784,
+            "volume_24h": 514776718.57,
+            "market_cap": 23349782430.288334
+        },
+        {
+            "timestamp": "2025-04-19 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1578256482513485,
+            "volume_24h": 504292138.55,
+            "market_cap": 23503265549.81595
+        },
+        {
+            "timestamp": "2025-04-20 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1532646032310166,
+            "volume_24h": 571531307.89,
+            "market_cap": 22826138207.00336
+        },
+        {
+            "timestamp": "2025-04-21 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.160825911153312,
+            "volume_24h": 972150999.7,
+            "market_cap": 23954459210.52188
+        },
+        {
+            "timestamp": "2025-04-22 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1710838708979167,
+            "volume_24h": 1262292518.04,
+            "market_cap": 25484705826.26476
+        },
+        {
+            "timestamp": "2025-04-23 16:20:00",
+            "symbol": "DOGE",
+            "price": 0.1773953977469673,
+            "volume_24h": 2039529058.67,
+            "market_cap": 26427260541.502026
+        }
+    ],
+    "investment_thesis": "DOGE represents a moderate opportunity with a balanced risk-reward profile (score: 53.7/100). Technical factors are balanced (56.0/100), showing mixed price signals. Fundamental factors are average (55.0/100), suggesting a moderate market foundation. Sentiment indicators are neutral (48.0/100), showing balanced market perception. Multiple bullish patterns (inverse head and shoulders, double bottom) have been identified, strengthening the positive case. This analysis is set against a broader market that is currently in a strong bullish trend with sentiment showing greed. The current recommendation for DOGE is Hold, suggesting investors maintain existing positions while monitoring for changes in market conditions.",
+    "risk_assessment": "DOGE is classified as a moderate risk investment. With a market cap of $26.66B and global rank of #11, it balances growth potential with reasonable stability. Annualized volatility of 82.1% indicates moderate price fluctuations. Daily trading volume of $2095.26M and liquidity ratio of 0.079 suggest adequate liquidity for most trading activities. Investors should be aware of risks including increased competition, potential regulatory impacts, and higher sensitivity to market sentiment. The RSI of 74.2 indicates overbought conditions, increasing the risk of a short-term correction. The current bullish market environment potentially reduces short-term downside risk, though caution is warranted for any sudden sentiment changes. High Bitcoin dominance (63.5%) may limit altcoin performance in the near term.",
+    "analysis_time": "2025-04-23 20:16:22"
+}

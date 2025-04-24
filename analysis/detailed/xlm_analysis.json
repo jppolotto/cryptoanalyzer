@@ -1,0 +1,2641 @@
+{
+    "symbol": "XLM",
+    "name": "Stellar",
+    "price_usd": 0.2671658906307084,
+    "market_cap_usd": 8244013961.031562,
+    "volume_24h_usd": 312238642.5652444,
+    "percent_change_24h": 2.74065509,
+    "percent_change_7d": 13.64453871,
+    "technical_score": 53,
+    "fundamental_score": 49,
+    "sentiment_score": 46,
+    "total_score": 50.0,
+    "technical_weight": 0.45,
+    "fundamental_weight": 0.3,
+    "sentiment_weight": 0.25,
+    "risk_profile": "Moderate",
+    "market_opportunity": "Moderate",
+    "recommendation": "Buy",
+    "rank": 14,
+    "technical_data": {
+        "symbol": "XLM",
+        "price": 0.2662376964069873,
+        "ma_7": 0.2501068550512037,
+        "ma_30": 0.25339283938485035,
+        "ma_90": 0.29979723283482584,
+        "ma_200": 0.2988191437447983,
+        "rsi_14": 78.42917209223744,
+        "macd": -0.0030524926282729514,
+        "macd_signal": -0.0076756815680182515,
+        "bb_upper": 0.2665431685786941,
+        "bb_middle": 0.24278138682332645,
+        "bb_lower": 0.21901960506795878,
+        "bb_width": 0.19574632195885142,
+        "roc_7": 13.013396545313128,
+        "roc_30": -8.246997152958214,
+        "obv": 9464433213.869993,
+        "tenkan_sen": 0.25090917419384573,
+        "kijun_sen": 0.2504420427466966,
+        "adx": 29.765910418616937,
+        "stoch_k": 99.67031248785703,
+        "stoch_d": 99.18247503403411,
+        "mfi": 66.10026302737205,
+        "psar": 0.22789802001115012,
+        "technical_score": 53,
+        "score_components": {
+            "trend_score": 8,
+            "momentum_score": 6,
+            "volatility_score": 7,
+            "support_resistance_score": 3,
+            "volume_score": 10,
+            "ichimoku_score": 5,
+            "obv_score": 5,
+            "adx_score": 3,
+            "psar_score": 5,
+            "ma_cross_score": 1
+        }
+    },
+    "fundamental_data": {
+        "symbol": "XLM",
+        "market_cap_usd": 8244013961.031562,
+        "volume_24h_usd": 312238642.5652444,
+        "volume_mcap_ratio": 0.0378745892524149,
+        "market_share": 0.30679465949626805,
+        "cmc_rank": 15,
+        "price_change_30d": -8.26323833,
+        "fundamental_score": 49,
+        "score_components": {
+            "market_cap_score": 15,
+            "volume_mcap_score": 5,
+            "rank_score": 10,
+            "stability_score": 12,
+            "growth_score": 3,
+            "market_position_score": 4
+        }
+    },
+    "sentiment_data": {
+        "symbol": "XLM",
+        "price_change_1h": -1.19617095,
+        "price_change_24h": 2.74065509,
+        "price_change_7d": 13.64453871,
+        "market_avg_change_24h": 3.7310203413333327,
+        "market_avg_change_7d": 11.602763898000001,
+        "relative_performance_24h": -0.9903652513333325,
+        "relative_performance_7d": 2.041774812,
+        "fear_greed_value": 72,
+        "fear_greed_classification": "Greed",
+        "market_trend": "Strong Bullish",
+        "sentiment_score": 46,
+        "score_components": {
+            "momentum_score": 17,
+            "market_sentiment_score": 10,
+            "relative_score": 9,
+            "alignment_score": 10
+        }
+    },
+    "pattern_data": {
+        "head_and_shoulders": false,
+        "inverse_head_and_shoulders": true,
+        "double_top": false,
+        "double_bottom": true,
+        "ascending_triangle": false,
+        "descending_triangle": false,
+        "symmetric_triangle": false,
+        "bullish_flag": false,
+        "bearish_flag": false,
+        "pattern_strength": 7
+    },
+    "divergence_data": {
+        "bearish_divergence": false,
+        "bullish_divergence": false,
+        "bearish_divergence_strength": 0,
+        "bullish_divergence_strength": 0,
+        "rsi_divergences": [],
+        "macd_divergences": []
+    },
+    "historical_data": [
+        {
+            "timestamp": "2024-04-29 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1114049219247357,
+            "volume_24h": 69388539.19,
+            "market_cap": 3224118846.3103986
+        },
+        {
+            "timestamp": "2024-04-30 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1051023641273345,
+            "volume_24h": 84643790.6,
+            "market_cap": 3037389601.174284
+        },
+        {
+            "timestamp": "2024-05-01 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1066341887956999,
+            "volume_24h": 88394833.44,
+            "market_cap": 3081687027.96861
+        },
+        {
+            "timestamp": "2024-05-02 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1095423722865761,
+            "volume_24h": 87438330.0,
+            "market_cap": 3166839627.9190574
+        },
+        {
+            "timestamp": "2024-05-03 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1110980450414087,
+            "volume_24h": 65368565.41,
+            "market_cap": 3212473662.9357004
+        },
+        {
+            "timestamp": "2024-05-04 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1113679851968332,
+            "volume_24h": 53321379.76,
+            "market_cap": 3221768318.8405304
+        },
+        {
+            "timestamp": "2024-05-05 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1112542852376321,
+            "volume_24h": 44753425.46,
+            "market_cap": 3218478916.4639554
+        },
+        {
+            "timestamp": "2024-05-06 16:20:00",
+            "symbol": "XLM",
+            "price": 0.111792997586618,
+            "volume_24h": 70384231.29,
+            "market_cap": 3234063186.9115524
+        },
+        {
+            "timestamp": "2024-05-07 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1100412209829554,
+            "volume_24h": 78850860.99,
+            "market_cap": 3183385718.464953
+        },
+        {
+            "timestamp": "2024-05-08 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1090825824739561,
+            "volume_24h": 62703300.85,
+            "market_cap": 3155978065.05555
+        },
+        {
+            "timestamp": "2024-05-09 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1075765409791621,
+            "volume_24h": 59029154.62,
+            "market_cap": 3110804955.1564064
+        },
+        {
+            "timestamp": "2024-05-10 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1066443075894477,
+            "volume_24h": 54001892.91,
+            "market_cap": 3083985475.823655
+        },
+        {
+            "timestamp": "2024-05-11 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1067051446097628,
+            "volume_24h": 41354988.6,
+            "market_cap": 3085971480.333758
+        },
+        {
+            "timestamp": "2024-05-12 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1058377061002293,
+            "volume_24h": 30705365.63,
+            "market_cap": 3060884448.036285
+        },
+        {
+            "timestamp": "2024-05-13 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1049313900457489,
+            "volume_24h": 57381038.99,
+            "market_cap": 3034673091.391304
+        },
+        {
+            "timestamp": "2024-05-14 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1028796462037622,
+            "volume_24h": 56634390.13,
+            "market_cap": 2977496016.9464154
+        },
+        {
+            "timestamp": "2024-05-15 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1051002622540454,
+            "volume_24h": 55212648.39,
+            "market_cap": 3041764067.0335164
+        },
+        {
+            "timestamp": "2024-05-16 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1063221490080645,
+            "volume_24h": 60078799.99,
+            "market_cap": 3077304352.4241385
+        },
+        {
+            "timestamp": "2024-05-17 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1097179512005134,
+            "volume_24h": 55593405.99,
+            "market_cap": 3176013592.3603272
+        },
+        {
+            "timestamp": "2024-05-18 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1082980228041265,
+            "volume_24h": 45920551.23,
+            "market_cap": 3136325356.1321373
+        },
+        {
+            "timestamp": "2024-05-19 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1062043367937455,
+            "volume_24h": 38476336.19,
+            "market_cap": 3075691778.720619
+        },
+        {
+            "timestamp": "2024-05-20 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1068538368471188,
+            "volume_24h": 47251318.69,
+            "market_cap": 3094501222.8016176
+        },
+        {
+            "timestamp": "2024-05-21 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1133270067903841,
+            "volume_24h": 96227170.23,
+            "market_cap": 3281966118.086303
+        },
+        {
+            "timestamp": "2024-05-22 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1117103922786928,
+            "volume_24h": 70387862.3,
+            "market_cap": 3235247349.377244
+        },
+        {
+            "timestamp": "2024-05-23 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1080863427876425,
+            "volume_24h": 91754739.99,
+            "market_cap": 3130388485.889793
+        },
+        {
+            "timestamp": "2024-05-24 16:20:00",
+            "symbol": "XLM",
+            "price": 0.109045064993376,
+            "volume_24h": 94960554.39,
+            "market_cap": 3158154648.022627
+        },
+        {
+            "timestamp": "2024-05-25 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1112744349877315,
+            "volume_24h": 47817868.95,
+            "market_cap": 3224292226.6045184
+        },
+        {
+            "timestamp": "2024-05-26 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1091491889598243,
+            "volume_24h": 40740765.25,
+            "market_cap": 3162710832.291152
+        },
+        {
+            "timestamp": "2024-05-27 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1110460324326982,
+            "volume_24h": 58538895.15,
+            "market_cap": 3217673693.222532
+        },
+        {
+            "timestamp": "2024-05-28 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1078248121318206,
+            "volume_24h": 73858587.36,
+            "market_cap": 3124335337.433016
+        },
+        {
+            "timestamp": "2024-05-29 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1067321932624246,
+            "volume_24h": 70370258.64,
+            "market_cap": 3092721948.2514844
+        },
+        {
+            "timestamp": "2024-05-30 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1066199896078626,
+            "volume_24h": 69543394.4,
+            "market_cap": 3092775787.346464
+        },
+        {
+            "timestamp": "2024-05-31 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1048383316013111,
+            "volume_24h": 62071153.56,
+            "market_cap": 3041316006.575995
+        },
+        {
+            "timestamp": "2024-06-01 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1065425626762671,
+            "volume_24h": 40916920.24,
+            "market_cap": 3090913307.414199
+        },
+        {
+            "timestamp": "2024-06-02 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1060045682116351,
+            "volume_24h": 38843217.66,
+            "market_cap": 3075305293.83568
+        },
+        {
+            "timestamp": "2024-06-03 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1063859325039202,
+            "volume_24h": 55728247.78,
+            "market_cap": 3087964713.181344
+        },
+        {
+            "timestamp": "2024-06-04 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1064136914241677,
+            "volume_24h": 58206536.91,
+            "market_cap": 3090076790.223737
+        },
+        {
+            "timestamp": "2024-06-05 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1071188183342262,
+            "volume_24h": 57920306.19,
+            "market_cap": 3110703893.8792534
+        },
+        {
+            "timestamp": "2024-06-06 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1065519152312605,
+            "volume_24h": 46240808.08,
+            "market_cap": 3094357919.468882
+        },
+        {
+            "timestamp": "2024-06-07 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1059568382515915,
+            "volume_24h": 56434182.98,
+            "market_cap": 3077154497.1012926
+        },
+        {
+            "timestamp": "2024-06-08 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0973459505604828,
+            "volume_24h": 115918441.48,
+            "market_cap": 2829222120.277658
+        },
+        {
+            "timestamp": "2024-06-09 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0993789430055456,
+            "volume_24h": 40937214.35,
+            "market_cap": 2888307853.513882
+        },
+        {
+            "timestamp": "2024-06-10 16:20:00",
+            "symbol": "XLM",
+            "price": 0.100568045401185,
+            "volume_24h": 44668708.46,
+            "market_cap": 2922867305.512095
+        },
+        {
+            "timestamp": "2024-06-11 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0970303200184789,
+            "volume_24h": 63431168.64,
+            "market_cap": 2821072048.955005
+        },
+        {
+            "timestamp": "2024-06-12 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1006298216795744,
+            "volume_24h": 52260060.25,
+            "market_cap": 2925817446.1943445
+        },
+        {
+            "timestamp": "2024-06-13 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0982596234847855,
+            "volume_24h": 61987010.25,
+            "market_cap": 2856903606.289976
+        },
+        {
+            "timestamp": "2024-06-14 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0956891649714251,
+            "volume_24h": 47349045.45,
+            "market_cap": 2782167239.4156737
+        },
+        {
+            "timestamp": "2024-06-15 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0971769805745708,
+            "volume_24h": 43213233.1,
+            "market_cap": 2826589388.795204
+        },
+        {
+            "timestamp": "2024-06-16 16:20:00",
+            "symbol": "XLM",
+            "price": 0.098496972313842,
+            "volume_24h": 36451848.36,
+            "market_cap": 2864983931.4922204
+        },
+        {
+            "timestamp": "2024-06-17 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0964636147799046,
+            "volume_24h": 69499561.09,
+            "market_cap": 2805839497.3990903
+        },
+        {
+            "timestamp": "2024-06-18 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0886734169557319,
+            "volume_24h": 126206274.92,
+            "market_cap": 2579290879.663233
+        },
+        {
+            "timestamp": "2024-06-19 16:20:00",
+            "symbol": "XLM",
+            "price": 0.092339262262184,
+            "volume_24h": 70496379.32,
+            "market_cap": 2687952692.666701
+        },
+        {
+            "timestamp": "2024-06-20 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0933390476890703,
+            "volume_24h": 52991804.54,
+            "market_cap": 2717055820.5204697
+        },
+        {
+            "timestamp": "2024-06-21 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0922835584284049,
+            "volume_24h": 57125667.22,
+            "market_cap": 2686815694.285062
+        },
+        {
+            "timestamp": "2024-06-22 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0911400487366165,
+            "volume_24h": 38789075.44,
+            "market_cap": 2653696000.0992064
+        },
+        {
+            "timestamp": "2024-06-23 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0903765487385399,
+            "volume_24h": 27696048.57,
+            "market_cap": 2631465328.843504
+        },
+        {
+            "timestamp": "2024-06-24 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0876884406525185,
+            "volume_24h": 73113473.03,
+            "market_cap": 2553196385.682812
+        },
+        {
+            "timestamp": "2024-06-25 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0921454016325885,
+            "volume_24h": 67968377.36,
+            "market_cap": 2682967979.2635136
+        },
+        {
+            "timestamp": "2024-06-26 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0907257504980146,
+            "volume_24h": 46309211.96,
+            "market_cap": 2641633917.763076
+        },
+        {
+            "timestamp": "2024-06-27 16:20:00",
+            "symbol": "XLM",
+            "price": 0.090986324489684,
+            "volume_24h": 45099488.13,
+            "market_cap": 2651782155.174288
+        },
+        {
+            "timestamp": "2024-06-28 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0922465214690243,
+            "volume_24h": 43730528.31,
+            "market_cap": 2688669332.1683464
+        },
+        {
+            "timestamp": "2024-06-29 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0910524580274594,
+            "volume_24h": 34484640.14,
+            "market_cap": 2653866374.6533146
+        },
+        {
+            "timestamp": "2024-06-30 16:20:00",
+            "symbol": "XLM",
+            "price": 0.090386532244869,
+            "volume_24h": 31870632.11,
+            "market_cap": 2634456816.668328
+        },
+        {
+            "timestamp": "2024-07-01 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0915949198321767,
+            "volume_24h": 50445610.48,
+            "market_cap": 2670501417.9410143
+        },
+        {
+            "timestamp": "2024-07-02 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0933969009459263,
+            "volume_24h": 49994694.09,
+            "market_cap": 2724132158.9749064
+        },
+        {
+            "timestamp": "2024-07-03 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0906082573005857,
+            "volume_24h": 53528179.67,
+            "market_cap": 2642794946.486092
+        },
+        {
+            "timestamp": "2024-07-04 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0885825386687769,
+            "volume_24h": 82614569.13,
+            "market_cap": 2583710163.213294
+        },
+        {
+            "timestamp": "2024-07-05 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0845996493049517,
+            "volume_24h": 183659213.07,
+            "market_cap": 2467540019.4350905
+        },
+        {
+            "timestamp": "2024-07-06 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0887592718218596,
+            "volume_24h": 56425015.93,
+            "market_cap": 2590551131.507077
+        },
+        {
+            "timestamp": "2024-07-07 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0878100513439291,
+            "volume_24h": 48301741.13,
+            "market_cap": 2562846855.867949
+        },
+        {
+            "timestamp": "2024-07-08 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0843953055978574,
+            "volume_24h": 80623077.64,
+            "market_cap": 2463183094.7604527
+        },
+        {
+            "timestamp": "2024-07-09 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0879505515588322,
+            "volume_24h": 59162269.61,
+            "market_cap": 2567842240.766249
+        },
+        {
+            "timestamp": "2024-07-10 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0880179193175305,
+            "volume_24h": 45374639.06,
+            "market_cap": 2570392952.18548
+        },
+        {
+            "timestamp": "2024-07-11 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0889581051821585,
+            "volume_24h": 44637421.45,
+            "market_cap": 2599984166.593638
+        },
+        {
+            "timestamp": "2024-07-12 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0905791027236279,
+            "volume_24h": 71656138.5,
+            "market_cap": 2647361063.7947154
+        },
+        {
+            "timestamp": "2024-07-13 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1037027557032395,
+            "volume_24h": 171223340.38,
+            "market_cap": 3031116340.8117614
+        },
+        {
+            "timestamp": "2024-07-14 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1045679667431114,
+            "volume_24h": 127023611.16,
+            "market_cap": 3056405396.839189
+        },
+        {
+            "timestamp": "2024-07-15 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1029427285339662,
+            "volume_24h": 82324035.54,
+            "market_cap": 3009827835.881029
+        },
+        {
+            "timestamp": "2024-07-16 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1073124774780703,
+            "volume_24h": 182252249.61,
+            "market_cap": 3142955521.535233
+        },
+        {
+            "timestamp": "2024-07-17 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1085602966497572,
+            "volume_24h": 153993759.14,
+            "market_cap": 3179558068.8381286
+        },
+        {
+            "timestamp": "2024-07-18 16:20:00",
+            "symbol": "XLM",
+            "price": 0.102532658791475,
+            "volume_24h": 125266697.64,
+            "market_cap": 3005171228.67085
+        },
+        {
+            "timestamp": "2024-07-19 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1041243117094417,
+            "volume_24h": 69623029.59,
+            "market_cap": 3052074686.869248
+        },
+        {
+            "timestamp": "2024-07-20 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1054525302437466,
+            "volume_24h": 69629381.5,
+            "market_cap": 3091006990.7219944
+        },
+        {
+            "timestamp": "2024-07-21 16:20:00",
+            "symbol": "XLM",
+            "price": 0.104425350300479,
+            "volume_24h": 58065091.99,
+            "market_cap": 3060898329.7731915
+        },
+        {
+            "timestamp": "2024-07-22 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1051468703722323,
+            "volume_24h": 260179222.14,
+            "market_cap": 3082047279.77978
+        },
+        {
+            "timestamp": "2024-07-23 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1012624608316097,
+            "volume_24h": 121285897.97,
+            "market_cap": 2970014238.0932994
+        },
+        {
+            "timestamp": "2024-07-24 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1040302318919681,
+            "volume_24h": 71922431.77,
+            "market_cap": 3051192314.144554
+        },
+        {
+            "timestamp": "2024-07-25 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1017641009338449,
+            "volume_24h": 99078081.69,
+            "market_cap": 2985113113.9494395
+        },
+        {
+            "timestamp": "2024-07-26 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1019355823053531,
+            "volume_24h": 68189431.9,
+            "market_cap": 2990346370.1511226
+        },
+        {
+            "timestamp": "2024-07-27 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1020151899096436,
+            "volume_24h": 43180873.77,
+            "market_cap": 2993908693.7941484
+        },
+        {
+            "timestamp": "2024-07-28 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1005360950348755,
+            "volume_24h": 55290616.16,
+            "market_cap": 2950500491.9529896
+        },
+        {
+            "timestamp": "2024-07-29 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0998814386280846,
+            "volume_24h": 50362032.7,
+            "market_cap": 2931287606.395967
+        },
+        {
+            "timestamp": "2024-07-30 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1024704849121785,
+            "volume_24h": 75580702.35,
+            "market_cap": 3007347738.9429765
+        },
+        {
+            "timestamp": "2024-07-31 16:20:00",
+            "symbol": "XLM",
+            "price": 0.103658818627525,
+            "volume_24h": 103291947.19,
+            "market_cap": 3042273886.7761927
+        },
+        {
+            "timestamp": "2024-08-01 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0964173657851568,
+            "volume_24h": 79243852.46,
+            "market_cap": 2829744976.919817
+        },
+        {
+            "timestamp": "2024-08-02 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0944740607490155,
+            "volume_24h": 79159563.07,
+            "market_cap": 2775546970.854685
+        },
+        {
+            "timestamp": "2024-08-03 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0928396687333389,
+            "volume_24h": 54104174.38,
+            "market_cap": 2728737309.254394
+        },
+        {
+            "timestamp": "2024-08-04 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0883737605068651,
+            "volume_24h": 56513954.14,
+            "market_cap": 2597475460.5966663
+        },
+        {
+            "timestamp": "2024-08-05 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0878970342179139,
+            "volume_24h": 216791589.4,
+            "market_cap": 2583463162.137303
+        },
+        {
+            "timestamp": "2024-08-06 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0913244264228991,
+            "volume_24h": 96914437.98,
+            "market_cap": 2684476228.04423
+        },
+        {
+            "timestamp": "2024-08-07 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0941980806298102,
+            "volume_24h": 97506055.5,
+            "market_cap": 2769167425.300158
+        },
+        {
+            "timestamp": "2024-08-08 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1011674310714338,
+            "volume_24h": 289652424.24,
+            "market_cap": 2974307077.2830634
+        },
+        {
+            "timestamp": "2024-08-09 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0992633836268772,
+            "volume_24h": 117314835.2,
+            "market_cap": 2920040402.6242137
+        },
+        {
+            "timestamp": "2024-08-10 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1018200983363849,
+            "volume_24h": 65396069.61,
+            "market_cap": 2995526393.974197
+        },
+        {
+            "timestamp": "2024-08-11 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1002611847709322,
+            "volume_24h": 63646700.76,
+            "market_cap": 2949663389.4416404
+        },
+        {
+            "timestamp": "2024-08-12 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0995281814077476,
+            "volume_24h": 96392931.42,
+            "market_cap": 2928098393.025296
+        },
+        {
+            "timestamp": "2024-08-13 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0990881810983762,
+            "volume_24h": 49366824.48,
+            "market_cap": 2915424799.3114367
+        },
+        {
+            "timestamp": "2024-08-14 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0977299068816141,
+            "volume_24h": 49185058.68,
+            "market_cap": 2878417019.670244
+        },
+        {
+            "timestamp": "2024-08-15 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0981743588642596,
+            "volume_24h": 41785930.33,
+            "market_cap": 2891838256.456778
+        },
+        {
+            "timestamp": "2024-08-16 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0935471787790756,
+            "volume_24h": 56992750.9,
+            "market_cap": 2755879852.5526023
+        },
+        {
+            "timestamp": "2024-08-17 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0963068125145449,
+            "volume_24h": 34804967.4,
+            "market_cap": 2837178873.095119
+        },
+        {
+            "timestamp": "2024-08-18 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0950390056724872,
+            "volume_24h": 28801716.57,
+            "market_cap": 2799829457.461564
+        },
+        {
+            "timestamp": "2024-08-19 16:20:00",
+            "symbol": "XLM",
+            "price": 0.093808464370957,
+            "volume_24h": 45618721.88,
+            "market_cap": 2763577872.5267134
+        },
+        {
+            "timestamp": "2024-08-20 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0969065927630284,
+            "volume_24h": 56090282.07,
+            "market_cap": 2856889173.7474537
+        },
+        {
+            "timestamp": "2024-08-21 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0970616914879847,
+            "volume_24h": 44156500.98,
+            "market_cap": 2861463490.145184
+        },
+        {
+            "timestamp": "2024-08-22 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0990721159705854,
+            "volume_24h": 47273640.67,
+            "market_cap": 2920764462.8160725
+        },
+        {
+            "timestamp": "2024-08-23 16:20:00",
+            "symbol": "XLM",
+            "price": 0.100031927361863,
+            "volume_24h": 45817911.63,
+            "market_cap": 2949060650.176894
+        },
+        {
+            "timestamp": "2024-08-24 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1023609374591074,
+            "volume_24h": 56296499.01,
+            "market_cap": 3018662226.032612
+        },
+        {
+            "timestamp": "2024-08-25 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1018864367951426,
+            "volume_24h": 58574567.05,
+            "market_cap": 3004668893.059801
+        },
+        {
+            "timestamp": "2024-08-26 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0983166448182455,
+            "volume_24h": 46065362.59,
+            "market_cap": 2899394326.888513
+        },
+        {
+            "timestamp": "2024-08-27 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0966781301282577,
+            "volume_24h": 50986593.06,
+            "market_cap": 2851861986.7038355
+        },
+        {
+            "timestamp": "2024-08-28 16:20:00",
+            "symbol": "XLM",
+            "price": 0.091181382759101,
+            "volume_24h": 75300148.88,
+            "market_cap": 2689717142.740344
+        },
+        {
+            "timestamp": "2024-08-29 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0942719428922363,
+            "volume_24h": 48385731.79,
+            "market_cap": 2780890282.066939
+        },
+        {
+            "timestamp": "2024-08-30 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0916588526214243,
+            "volume_24h": 47966731.53,
+            "market_cap": 2703807713.734171
+        },
+        {
+            "timestamp": "2024-08-31 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0921480502222046,
+            "volume_24h": 33024594.62,
+            "market_cap": 2719258412.150586
+        },
+        {
+            "timestamp": "2024-09-01 16:20:00",
+            "symbol": "XLM",
+            "price": 0.091107315104579,
+            "volume_24h": 33920976.64,
+            "market_cap": 2688546588.266972
+        },
+        {
+            "timestamp": "2024-09-02 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0920425020160902,
+            "volume_24h": 43970835.91,
+            "market_cap": 2716143572.572177
+        },
+        {
+            "timestamp": "2024-09-03 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0923857139439537,
+            "volume_24h": 41448933.96,
+            "market_cap": 2726271561.7426124
+        },
+        {
+            "timestamp": "2024-09-04 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0915503926527905,
+            "volume_24h": 53840187.78,
+            "market_cap": 2704041741.4479423
+        },
+        {
+            "timestamp": "2024-09-05 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0904648772140457,
+            "volume_24h": 38708674.44,
+            "market_cap": 2672121201.153579
+        },
+        {
+            "timestamp": "2024-09-06 16:20:00",
+            "symbol": "XLM",
+            "price": 0.087950386873081,
+            "volume_24h": 52649920.21,
+            "market_cap": 2597903491.3485265
+        },
+        {
+            "timestamp": "2024-09-07 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0893249901183677,
+            "volume_24h": 49763380.36,
+            "market_cap": 2639400738.8799376
+        },
+        {
+            "timestamp": "2024-09-08 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0886505760272819,
+            "volume_24h": 33053811.26,
+            "market_cap": 2619472883.8047743
+        },
+        {
+            "timestamp": "2024-09-09 16:20:00",
+            "symbol": "XLM",
+            "price": 0.092017525301476,
+            "volume_24h": 43182916.28,
+            "market_cap": 2718960386.507173
+        },
+        {
+            "timestamp": "2024-09-10 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0934955772889345,
+            "volume_24h": 39244667.83,
+            "market_cap": 2762634188.978486
+        },
+        {
+            "timestamp": "2024-09-11 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0926572722799,
+            "volume_24h": 45871717.31,
+            "market_cap": 2737863608.0036983
+        },
+        {
+            "timestamp": "2024-09-12 16:20:00",
+            "symbol": "XLM",
+            "price": 0.093911752888824,
+            "volume_24h": 61259747.28,
+            "market_cap": 2776528544.240834
+        },
+        {
+            "timestamp": "2024-09-13 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0959687411354563,
+            "volume_24h": 45036987.84,
+            "market_cap": 2837489670.577973
+        },
+        {
+            "timestamp": "2024-09-14 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0967605848094993,
+            "volume_24h": 40117984.37,
+            "market_cap": 2865256108.85152
+        },
+        {
+            "timestamp": "2024-09-15 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0970679067810933,
+            "volume_24h": 32844457.07,
+            "market_cap": 2874356364.1664643
+        },
+        {
+            "timestamp": "2024-09-16 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0941992749519416,
+            "volume_24h": 46960735.68,
+            "market_cap": 2789410843.9005857
+        },
+        {
+            "timestamp": "2024-09-17 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0955686513446083,
+            "volume_24h": 44885007.93,
+            "market_cap": 2829960422.8412733
+        },
+        {
+            "timestamp": "2024-09-18 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0934217450734497,
+            "volume_24h": 40711386.67,
+            "market_cap": 2762975268.1579504
+        },
+        {
+            "timestamp": "2024-09-19 16:20:00",
+            "symbol": "XLM",
+            "price": 0.096125844584374,
+            "volume_24h": 63903978.36,
+            "market_cap": 2842949704.2680016
+        },
+        {
+            "timestamp": "2024-09-20 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0961277131421287,
+            "volume_24h": 55115502.51,
+            "market_cap": 2843004901.528655
+        },
+        {
+            "timestamp": "2024-09-21 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0977413080424762,
+            "volume_24h": 39734762.72,
+            "market_cap": 2892682108.1152263
+        },
+        {
+            "timestamp": "2024-09-22 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0954511756730721,
+            "volume_24h": 47464022.1,
+            "market_cap": 2824904912.713399
+        },
+        {
+            "timestamp": "2024-09-23 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0963572542451783,
+            "volume_24h": 48524055.68,
+            "market_cap": 2851720475.733921
+        },
+        {
+            "timestamp": "2024-09-24 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0953864140245508,
+            "volume_24h": 43355898.08,
+            "market_cap": 2823465019.145688
+        },
+        {
+            "timestamp": "2024-09-25 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0962751319822817,
+            "volume_24h": 46485495.78,
+            "market_cap": 2849771232.1015854
+        },
+        {
+            "timestamp": "2024-09-26 16:20:00",
+            "symbol": "XLM",
+            "price": 0.098501619542687,
+            "volume_24h": 55079096.51,
+            "market_cap": 2916660845.031035
+        },
+        {
+            "timestamp": "2024-09-27 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0987770645028376,
+            "volume_24h": 59715504.88,
+            "market_cap": 2927286220.8639627
+        },
+        {
+            "timestamp": "2024-09-28 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1006178684823605,
+            "volume_24h": 76818637.66,
+            "market_cap": 2981898129.51568
+        },
+        {
+            "timestamp": "2024-09-29 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1024526167651684,
+            "volume_24h": 76406771.18,
+            "market_cap": 3036272426.524556
+        },
+        {
+            "timestamp": "2024-09-30 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1002115914827431,
+            "volume_24h": 81040351.21,
+            "market_cap": 2970759531.617421
+        },
+        {
+            "timestamp": "2024-10-01 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0964674044736921,
+            "volume_24h": 69897478.1,
+            "market_cap": 2860245820.1648126
+        },
+        {
+            "timestamp": "2024-10-02 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0935914337446806,
+            "volume_24h": 98475204.26,
+            "market_cap": 2776246156.933747
+        },
+        {
+            "timestamp": "2024-10-03 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0893668803587258,
+            "volume_24h": 90491093.15,
+            "market_cap": 2651293209.0917826
+        },
+        {
+            "timestamp": "2024-10-04 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0909154546895358,
+            "volume_24h": 53853393.7,
+            "market_cap": 2697988427.172476
+        },
+        {
+            "timestamp": "2024-10-05 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0916734122456886,
+            "volume_24h": 35512977.18,
+            "market_cap": 2720786232.4891114
+        },
+        {
+            "timestamp": "2024-10-06 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0929473216192596,
+            "volume_24h": 27819197.95,
+            "market_cap": 2758594662.983172
+        },
+        {
+            "timestamp": "2024-10-07 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0920292274594187,
+            "volume_24h": 39185715.91,
+            "market_cap": 2734015209.3022227
+        },
+        {
+            "timestamp": "2024-10-08 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0902609031142853,
+            "volume_24h": 46480906.75,
+            "market_cap": 2681481533.0808835
+        },
+        {
+            "timestamp": "2024-10-09 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0894185122400381,
+            "volume_24h": 37848247.21,
+            "market_cap": 2656902661.32186
+        },
+        {
+            "timestamp": "2024-10-10 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0898225740957182,
+            "volume_24h": 48854376.76,
+            "market_cap": 2667111931.901788
+        },
+        {
+            "timestamp": "2024-10-11 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0913482581001473,
+            "volume_24h": 46263167.96,
+            "market_cap": 2712414090.3882136
+        },
+        {
+            "timestamp": "2024-10-12 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0921302517663696,
+            "volume_24h": 34132369.11,
+            "market_cap": 2735848754.4420514
+        },
+        {
+            "timestamp": "2024-10-13 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0900105861347545,
+            "volume_24h": 29844126.27,
+            "market_cap": 2672904261.55131
+        },
+        {
+            "timestamp": "2024-10-14 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0930067727681194,
+            "volume_24h": 45783252.6,
+            "market_cap": 2763644416.004425
+        },
+        {
+            "timestamp": "2024-10-15 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0929053137022487,
+            "volume_24h": 66495064.67,
+            "market_cap": 2760629459.124737
+        },
+        {
+            "timestamp": "2024-10-16 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0937807088003784,
+            "volume_24h": 54286525.41,
+            "market_cap": 2786641301.9168944
+        },
+        {
+            "timestamp": "2024-10-17 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0950088672273828,
+            "volume_24h": 61364277.03,
+            "market_cap": 2823135311.8790216
+        },
+        {
+            "timestamp": "2024-10-18 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0958802724075842,
+            "volume_24h": 45754777.97,
+            "market_cap": 2849028543.937109
+        },
+        {
+            "timestamp": "2024-10-19 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0965730866253022,
+            "volume_24h": 35156418.73,
+            "market_cap": 2870580780.69566
+        },
+        {
+            "timestamp": "2024-10-20 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0970987321876323,
+            "volume_24h": 30438494.28,
+            "market_cap": 2886205229.189028
+        },
+        {
+            "timestamp": "2024-10-21 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0951258200727283,
+            "volume_24h": 46750529.25,
+            "market_cap": 2828512664.124399
+        },
+        {
+            "timestamp": "2024-10-22 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0953834381109507,
+            "volume_24h": 42917238.73,
+            "market_cap": 2836172673.474796
+        },
+        {
+            "timestamp": "2024-10-23 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0935093968779052,
+            "volume_24h": 52973836.14,
+            "market_cap": 2780449041.680943
+        },
+        {
+            "timestamp": "2024-10-24 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0955547448657655,
+            "volume_24h": 53274405.74,
+            "market_cap": 2841266614.019471
+        },
+        {
+            "timestamp": "2024-10-25 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0962464718940193,
+            "volume_24h": 49779319.45,
+            "market_cap": 2861897827.721379
+        },
+        {
+            "timestamp": "2024-10-26 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0937069145465902,
+            "volume_24h": 73940829.73,
+            "market_cap": 2787393107.830744
+        },
+        {
+            "timestamp": "2024-10-27 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0942804966694627,
+            "volume_24h": 32883462.42,
+            "market_cap": 2804454700.643777
+        },
+        {
+            "timestamp": "2024-10-28 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0933795386883691,
+            "volume_24h": 36700037.54,
+            "market_cap": 2777654806.928232
+        },
+        {
+            "timestamp": "2024-10-29 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0960045152634759,
+            "volume_24h": 48833532.46,
+            "market_cap": 2855736809.9987774
+        },
+        {
+            "timestamp": "2024-10-30 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0947800787423606,
+            "volume_24h": 51449045.41,
+            "market_cap": 2819314754.532883
+        },
+        {
+            "timestamp": "2024-10-31 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0923494443562751,
+            "volume_24h": 51318214.8,
+            "market_cap": 2747562163.007551
+        },
+        {
+            "timestamp": "2024-11-01 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0931349652338247,
+            "volume_24h": 51436889.03,
+            "market_cap": 2770932710.980081
+        },
+        {
+            "timestamp": "2024-11-02 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0919540256937199,
+            "volume_24h": 36060157.81,
+            "market_cap": 2738367445.88105
+        },
+        {
+            "timestamp": "2024-11-03 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0904557280906478,
+            "volume_24h": 41122970.68,
+            "market_cap": 2693748437.294042
+        },
+        {
+            "timestamp": "2024-11-04 16:20:00",
+            "symbol": "XLM",
+            "price": 0.091648530927636,
+            "volume_24h": 41641724.9,
+            "market_cap": 2729269691.706087
+        },
+        {
+            "timestamp": "2024-11-05 16:20:00",
+            "symbol": "XLM",
+            "price": 0.093231334138018,
+            "volume_24h": 43401172.05,
+            "market_cap": 2776405472.2785244
+        },
+        {
+            "timestamp": "2024-11-06 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0960201478698291,
+            "volume_24h": 99372190.82,
+            "market_cap": 2859638251.745946
+        },
+        {
+            "timestamp": "2024-11-07 16:20:00",
+            "symbol": "XLM",
+            "price": 0.0994009047091771,
+            "volume_24h": 101567712.7,
+            "market_cap": 2962486194.445876
+        },
+        {
+            "timestamp": "2024-11-08 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1016676037951,
+            "volume_24h": 108571110.63,
+            "market_cap": 3030041411.6982903
+        },
+        {
+            "timestamp": "2024-11-09 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1005255432866991,
+            "volume_24h": 79906436.65,
+            "market_cap": 2998517153.5364504
+        },
+        {
+            "timestamp": "2024-11-10 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1103660122019529,
+            "volume_24h": 211475938.83,
+            "market_cap": 3292042519.4750104
+        },
+        {
+            "timestamp": "2024-11-11 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1105007027639953,
+            "volume_24h": 235923704.24,
+            "market_cap": 3296059911.4628625
+        },
+        {
+            "timestamp": "2024-11-12 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1206689625014109,
+            "volume_24h": 521770506.94,
+            "market_cap": 3604281641.693507
+        },
+        {
+            "timestamp": "2024-11-13 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1303588026957939,
+            "volume_24h": 604710172.82,
+            "market_cap": 3897619415.953959
+        },
+        {
+            "timestamp": "2024-11-14 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1239335558922485,
+            "volume_24h": 323915240.94,
+            "market_cap": 3705526419.838855
+        },
+        {
+            "timestamp": "2024-11-15 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1368595939218564,
+            "volume_24h": 635209242.7,
+            "market_cap": 4092880086.640262
+        },
+        {
+            "timestamp": "2024-11-16 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1748861675972784,
+            "volume_24h": 1196188829.1,
+            "market_cap": 5234112148.143461
+        },
+        {
+            "timestamp": "2024-11-17 16:20:00",
+            "symbol": "XLM",
+            "price": 0.1973781850916974,
+            "volume_24h": 2536532090.77,
+            "market_cap": 5907267157.050032
+        },
+        {
+            "timestamp": "2024-11-18 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2410243403759772,
+            "volume_24h": 2255521830.29,
+            "market_cap": 7217152871.504766
+        },
+        {
+            "timestamp": "2024-11-19 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2354483273835627,
+            "volume_24h": 1231146295.17,
+            "market_cap": 7051141120.227873
+        },
+        {
+            "timestamp": "2024-11-20 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2590598133640011,
+            "volume_24h": 1501899083.74,
+            "market_cap": 7759653586.398167
+        },
+        {
+            "timestamp": "2024-11-21 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2397932272604311,
+            "volume_24h": 1206545234.43,
+            "market_cap": 7188555034.623987
+        },
+        {
+            "timestamp": "2024-11-22 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3000287952606344,
+            "volume_24h": 2716786055.54,
+            "market_cap": 8998325870.486723
+        },
+        {
+            "timestamp": "2024-11-23 16:20:00",
+            "symbol": "XLM",
+            "price": 0.514893629985576,
+            "volume_24h": 8633046380.74,
+            "market_cap": 15453182488.344055
+        },
+        {
+            "timestamp": "2024-11-24 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4759659531014414,
+            "volume_24h": 10721171734.74,
+            "market_cap": 14284866910.596008
+        },
+        {
+            "timestamp": "2024-11-25 16:20:00",
+            "symbol": "XLM",
+            "price": 0.5079064225926679,
+            "volume_24h": 6184455630.32,
+            "market_cap": 15249569256.660326
+        },
+        {
+            "timestamp": "2024-11-26 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4513837363023496,
+            "volume_24h": 3804042329.51,
+            "market_cap": 13557928813.384584
+        },
+        {
+            "timestamp": "2024-11-27 16:20:00",
+            "symbol": "XLM",
+            "price": 0.5082092969753499,
+            "volume_24h": 4379779108.55,
+            "market_cap": 15267301923.108952
+        },
+        {
+            "timestamp": "2024-11-28 16:20:00",
+            "symbol": "XLM",
+            "price": 0.466266107776729,
+            "volume_24h": 2223787059.39,
+            "market_cap": 14020646332.8742
+        },
+        {
+            "timestamp": "2024-11-29 16:20:00",
+            "symbol": "XLM",
+            "price": 0.5227337966343132,
+            "volume_24h": 3303513763.07,
+            "market_cap": 15721245222.153694
+        },
+        {
+            "timestamp": "2024-11-30 16:20:00",
+            "symbol": "XLM",
+            "price": 0.5269264630491765,
+            "volume_24h": 3010375694.87,
+            "market_cap": 15847338533.485954
+        },
+        {
+            "timestamp": "2024-12-01 16:20:00",
+            "symbol": "XLM",
+            "price": 0.5046630151199191,
+            "volume_24h": 1794643959.07,
+            "market_cap": 15177763490.681456
+        },
+        {
+            "timestamp": "2024-12-02 16:20:00",
+            "symbol": "XLM",
+            "price": 0.5802313394341536,
+            "volume_24h": 5297685711.91,
+            "market_cap": 17450482246.364647
+        },
+        {
+            "timestamp": "2024-12-03 16:20:00",
+            "symbol": "XLM",
+            "price": 0.5165135710679494,
+            "volume_24h": 4798867027.49,
+            "market_cap": 15551131614.611856
+        },
+        {
+            "timestamp": "2024-12-04 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4907424236453612,
+            "volume_24h": 1657287828.63,
+            "market_cap": 14777668794.673315
+        },
+        {
+            "timestamp": "2024-12-05 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4946092630874812,
+            "volume_24h": 1630522981.31,
+            "market_cap": 14896866065.319132
+        },
+        {
+            "timestamp": "2024-12-06 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4718145098386273,
+            "volume_24h": 1065365596.3,
+            "market_cap": 14210635088.278849
+        },
+        {
+            "timestamp": "2024-12-07 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4991961081083586,
+            "volume_24h": 899807189.76,
+            "market_cap": 15053721383.248371
+        },
+        {
+            "timestamp": "2024-12-08 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4886164545722456,
+            "volume_24h": 699169174.76,
+            "market_cap": 14734681376.824896
+        },
+        {
+            "timestamp": "2024-12-09 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4543624510455955,
+            "volume_24h": 676840366.47,
+            "market_cap": 13701719481.022968
+        },
+        {
+            "timestamp": "2024-12-10 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3770827495911677,
+            "volume_24h": 1581225786.56,
+            "market_cap": 11373228240.477093
+        },
+        {
+            "timestamp": "2024-12-11 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4384137769916614,
+            "volume_24h": 1440172904.51,
+            "market_cap": 13226787783.342363
+        },
+        {
+            "timestamp": "2024-12-12 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4433229673617649,
+            "volume_24h": 905304939.88,
+            "market_cap": 13375849356.41703
+        },
+        {
+            "timestamp": "2024-12-13 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4365607060395954,
+            "volume_24h": 771732588.05,
+            "market_cap": 13171818429.111542
+        },
+        {
+            "timestamp": "2024-12-14 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4192688519173524,
+            "volume_24h": 568223887.7,
+            "market_cap": 12652283060.640202
+        },
+        {
+            "timestamp": "2024-12-15 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4287025598970566,
+            "volume_24h": 440160336.33,
+            "market_cap": 12936963625.638523
+        },
+        {
+            "timestamp": "2024-12-16 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4281022069827762,
+            "volume_24h": 492087644.82,
+            "market_cap": 12918845369.589985
+        },
+        {
+            "timestamp": "2024-12-17 16:20:00",
+            "symbol": "XLM",
+            "price": 0.441489082002721,
+            "volume_24h": 1499213568.65,
+            "market_cap": 13335009208.118788
+        },
+        {
+            "timestamp": "2024-12-18 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4211055596156622,
+            "volume_24h": 1214129833.68,
+            "market_cap": 12719760106.054625
+        },
+        {
+            "timestamp": "2024-12-19 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3901868107626554,
+            "volume_24h": 1111809409.12,
+            "market_cap": 11788206139.08663
+        },
+        {
+            "timestamp": "2024-12-20 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3601544129753204,
+            "volume_24h": 1613971493.57,
+            "market_cap": 10880875114.964245
+        },
+        {
+            "timestamp": "2024-12-21 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3632765501685441,
+            "volume_24h": 626820251.98,
+            "market_cap": 10981088768.207932
+        },
+        {
+            "timestamp": "2024-12-22 16:20:00",
+            "symbol": "XLM",
+            "price": 0.357975157963842,
+            "volume_24h": 468393817.29,
+            "market_cap": 10820838409.132204
+        },
+        {
+            "timestamp": "2024-12-23 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3498341307624311,
+            "volume_24h": 432016431.48,
+            "market_cap": 10574751478.884634
+        },
+        {
+            "timestamp": "2024-12-24 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3974087472875266,
+            "volume_24h": 517183425.63,
+            "market_cap": 12035533089.447784
+        },
+        {
+            "timestamp": "2024-12-25 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3819390742413369,
+            "volume_24h": 512142524.64,
+            "market_cap": 11568942710.977
+        },
+        {
+            "timestamp": "2024-12-26 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3590907122043195,
+            "volume_24h": 324851084.96,
+            "market_cap": 10876864914.702597
+        },
+        {
+            "timestamp": "2024-12-27 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3469330010833214,
+            "volume_24h": 296706369.05,
+            "market_cap": 10501668484.744682
+        },
+        {
+            "timestamp": "2024-12-28 16:20:00",
+            "symbol": "XLM",
+            "price": 0.349871777643214,
+            "volume_24h": 225178971.58,
+            "market_cap": 10592374228.97746
+        },
+        {
+            "timestamp": "2024-12-29 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3452132998989203,
+            "volume_24h": 161967693.9,
+            "market_cap": 10451337345.698692
+        },
+        {
+            "timestamp": "2024-12-30 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3235100410226195,
+            "volume_24h": 269790942.07,
+            "market_cap": 9794270329.989117
+        },
+        {
+            "timestamp": "2024-12-31 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3397282802855159,
+            "volume_24h": 384629654.82,
+            "market_cap": 10286975624.689318
+        },
+        {
+            "timestamp": "2025-01-01 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3974628289361888,
+            "volume_24h": 898380052.28,
+            "market_cap": 12035177288.97447
+        },
+        {
+            "timestamp": "2025-01-02 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4288620640756684,
+            "volume_24h": 2536703172.87,
+            "market_cap": 12985944496.1703
+        },
+        {
+            "timestamp": "2025-01-03 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4455468868794431,
+            "volume_24h": 1357547242.16,
+            "market_cap": 13512817688.201117
+        },
+        {
+            "timestamp": "2025-01-04 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4504998077604434,
+            "volume_24h": 1285985265.78,
+            "market_cap": 13670976664.101437
+        },
+        {
+            "timestamp": "2025-01-05 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4362231669595785,
+            "volume_24h": 573869945.26,
+            "market_cap": 13237733090.77257
+        },
+        {
+            "timestamp": "2025-01-06 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4621076514858085,
+            "volume_24h": 603990861.79,
+            "market_cap": 14023228503.230215
+        },
+        {
+            "timestamp": "2025-01-07 16:20:00",
+            "symbol": "XLM",
+            "price": 0.434612892006543,
+            "volume_24h": 933406085.4,
+            "market_cap": 13196698429.32548
+        },
+        {
+            "timestamp": "2025-01-08 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4108683013967245,
+            "volume_24h": 987079296.17,
+            "market_cap": 12477825329.496002
+        },
+        {
+            "timestamp": "2025-01-09 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4066206888082836,
+            "volume_24h": 840084431.84,
+            "market_cap": 12349070433.908794
+        },
+        {
+            "timestamp": "2025-01-10 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4024120609142373,
+            "volume_24h": 637843263.89,
+            "market_cap": 12223433574.167255
+        },
+        {
+            "timestamp": "2025-01-11 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4221210035139727,
+            "volume_24h": 543143234.22,
+            "market_cap": 12831805318.075344
+        },
+        {
+            "timestamp": "2025-01-12 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4291141455317808,
+            "volume_24h": 728455870.77,
+            "market_cap": 13044384354.276236
+        },
+        {
+            "timestamp": "2025-01-13 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4164521880077861,
+            "volume_24h": 676044535.94,
+            "market_cap": 12659478906.751942
+        },
+        {
+            "timestamp": "2025-01-14 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4185941126314085,
+            "volume_24h": 540740807.95,
+            "market_cap": 12727519547.248625
+        },
+        {
+            "timestamp": "2025-01-15 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4836752209976693,
+            "volume_24h": 1893604091.5,
+            "market_cap": 14709473481.559366
+        },
+        {
+            "timestamp": "2025-01-16 16:20:00",
+            "symbol": "XLM",
+            "price": 0.5027482595964265,
+            "volume_24h": 2016329753.43,
+            "market_cap": 15304454240.377026
+        },
+        {
+            "timestamp": "2025-01-17 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4823920220444761,
+            "volume_24h": 1215141645.93,
+            "market_cap": 14687339793.962402
+        },
+        {
+            "timestamp": "2025-01-18 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4702852161705451,
+            "volume_24h": 904524889.84,
+            "market_cap": 14325196077.429035
+        },
+        {
+            "timestamp": "2025-01-19 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4655337187975201,
+            "volume_24h": 990733538.34,
+            "market_cap": 14180461511.022896
+        },
+        {
+            "timestamp": "2025-01-20 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4605670282503809,
+            "volume_24h": 1449377993.26,
+            "market_cap": 14029171010.912382
+        },
+        {
+            "timestamp": "2025-01-21 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4438586208842978,
+            "volume_24h": 825732218.39,
+            "market_cap": 13520219956.610762
+        },
+        {
+            "timestamp": "2025-01-22 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4308093241422967,
+            "volume_24h": 460857469.9,
+            "market_cap": 13134410509.404198
+        },
+        {
+            "timestamp": "2025-01-23 16:20:00",
+            "symbol": "XLM",
+            "price": 0.435618066605192,
+            "volume_24h": 427920191.49,
+            "market_cap": 13281017414.302578
+        },
+        {
+            "timestamp": "2025-01-24 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4424350684929701,
+            "volume_24h": 500351836.74,
+            "market_cap": 13495487931.32355
+        },
+        {
+            "timestamp": "2025-01-25 16:20:00",
+            "symbol": "XLM",
+            "price": 0.420704733832848,
+            "volume_24h": 321566085.51,
+            "market_cap": 12839804432.14549
+        },
+        {
+            "timestamp": "2025-01-26 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4214223954834833,
+            "volume_24h": 243008516.59,
+            "market_cap": 12861706236.772335
+        },
+        {
+            "timestamp": "2025-01-27 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3987448889604919,
+            "volume_24h": 682155870.18,
+            "market_cap": 12169592997.354477
+        },
+        {
+            "timestamp": "2025-01-28 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4097651782544989,
+            "volume_24h": 402712395.67,
+            "market_cap": 12505928631.137287
+        },
+        {
+            "timestamp": "2025-01-29 16:20:00",
+            "symbol": "XLM",
+            "price": 0.390371279717313,
+            "volume_24h": 274207559.37,
+            "market_cap": 11921448134.35474
+        },
+        {
+            "timestamp": "2025-01-30 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4370319058552629,
+            "volume_24h": 539860742.61,
+            "market_cap": 13346584436.132858
+        },
+        {
+            "timestamp": "2025-01-31 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4205273977437406,
+            "volume_24h": 431684436.75,
+            "market_cap": 12844652275.500996
+        },
+        {
+            "timestamp": "2025-02-01 16:20:00",
+            "symbol": "XLM",
+            "price": 0.4062777774921629,
+            "volume_24h": 268281952.33,
+            "market_cap": 12422350867.464611
+        },
+        {
+            "timestamp": "2025-02-02 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3766298430656131,
+            "volume_24h": 354464528.35,
+            "market_cap": 11515834304.120996
+        },
+        {
+            "timestamp": "2025-02-03 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3519014133379426,
+            "volume_24h": 1846022373.02,
+            "market_cap": 10745659179.220957
+        },
+        {
+            "timestamp": "2025-02-04 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3539520508215519,
+            "volume_24h": 602524448.36,
+            "market_cap": 10820700430.817957
+        },
+        {
+            "timestamp": "2025-02-05 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3343164526172049,
+            "volume_24h": 368419858.09,
+            "market_cap": 10222110548.770733
+        },
+        {
+            "timestamp": "2025-02-06 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3204058573547695,
+            "volume_24h": 307161079.45,
+            "market_cap": 9796777527.123873
+        },
+        {
+            "timestamp": "2025-02-07 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3399914285530901,
+            "volume_24h": 375582284.19,
+            "market_cap": 10397452381.565245
+        },
+        {
+            "timestamp": "2025-02-08 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3242110169987092,
+            "volume_24h": 262561466.59,
+            "market_cap": 9918152793.267464
+        },
+        {
+            "timestamp": "2025-02-09 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3237757340862716,
+            "volume_24h": 224232172.11,
+            "market_cap": 9904836240.63917
+        },
+        {
+            "timestamp": "2025-02-10 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3152552964915018,
+            "volume_24h": 349785112.34,
+            "market_cap": 9644181411.498848
+        },
+        {
+            "timestamp": "2025-02-11 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3304787189314497,
+            "volume_24h": 359577740.89,
+            "market_cap": 10108336491.930445
+        },
+        {
+            "timestamp": "2025-02-12 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3151792216669566,
+            "volume_24h": 376517361.52,
+            "market_cap": 9642123841.001265
+        },
+        {
+            "timestamp": "2025-02-13 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3271232517758643,
+            "volume_24h": 258996143.98,
+            "market_cap": 10009237775.491056
+        },
+        {
+            "timestamp": "2025-02-14 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3479154089608246,
+            "volume_24h": 427451661.32,
+            "market_cap": 10647259434.205755
+        },
+        {
+            "timestamp": "2025-02-15 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3515129547144394,
+            "volume_24h": 317608610.21,
+            "market_cap": 10760867702.947493
+        },
+        {
+            "timestamp": "2025-02-16 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3444289581815083,
+            "volume_24h": 169760637.17,
+            "market_cap": 10544004612.581676
+        },
+        {
+            "timestamp": "2025-02-17 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3357985542949599,
+            "volume_24h": 207673445.53,
+            "market_cap": 10279801529.656233
+        },
+        {
+            "timestamp": "2025-02-18 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3202864402973771,
+            "volume_24h": 200670623.54,
+            "market_cap": 9804928601.480906
+        },
+        {
+            "timestamp": "2025-02-19 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3351665849051853,
+            "volume_24h": 238166292.85,
+            "market_cap": 10270509002.660662
+        },
+        {
+            "timestamp": "2025-02-20 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3461752751070086,
+            "volume_24h": 228906207.0,
+            "market_cap": 10607899852.780504
+        },
+        {
+            "timestamp": "2025-02-21 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3383986444724274,
+            "volume_24h": 231555582.12,
+            "market_cap": 10371552213.350214
+        },
+        {
+            "timestamp": "2025-02-22 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3336602688771749,
+            "volume_24h": 219869984.89,
+            "market_cap": 10228046289.903406
+        },
+        {
+            "timestamp": "2025-02-23 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3274091309387871,
+            "volume_24h": 152860052.07,
+            "market_cap": 10036422849.123812
+        },
+        {
+            "timestamp": "2025-02-24 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3168715546600498,
+            "volume_24h": 250041356.58,
+            "market_cap": 9713402618.92706
+        },
+        {
+            "timestamp": "2025-02-25 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2770704792546911,
+            "volume_24h": 497396501.43,
+            "market_cap": 8493336801.31643
+        },
+        {
+            "timestamp": "2025-02-26 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2920808418807236,
+            "volume_24h": 275001748.37,
+            "market_cap": 8958778006.174969
+        },
+        {
+            "timestamp": "2025-02-27 16:20:00",
+            "symbol": "XLM",
+            "price": 0.287753609724634,
+            "volume_24h": 231706304.72,
+            "market_cap": 8826057639.489616
+        },
+        {
+            "timestamp": "2025-02-28 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2806899685317287,
+            "volume_24h": 302077543.84,
+            "market_cap": 8609399251.013268
+        },
+        {
+            "timestamp": "2025-03-01 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2983218000738329,
+            "volume_24h": 265926989.3,
+            "market_cap": 9153821008.893862
+        },
+        {
+            "timestamp": "2025-03-02 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3516428602771641,
+            "volume_24h": 617217281.94,
+            "market_cap": 10789944269.3093
+        },
+        {
+            "timestamp": "2025-03-03 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3196807779343619,
+            "volume_24h": 791911971.51,
+            "market_cap": 9809206643.225834
+        },
+        {
+            "timestamp": "2025-03-04 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2814134956971184,
+            "volume_24h": 411757785.66,
+            "market_cap": 8637035145.215244
+        },
+        {
+            "timestamp": "2025-03-05 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2974769938767753,
+            "volume_24h": 340310687.42,
+            "market_cap": 9130061990.734642
+        },
+        {
+            "timestamp": "2025-03-06 16:20:00",
+            "symbol": "XLM",
+            "price": 0.3055277274753646,
+            "volume_24h": 280703676.56,
+            "market_cap": 9382830498.453669
+        },
+        {
+            "timestamp": "2025-03-07 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2873988898475554,
+            "volume_24h": 340021173.68,
+            "market_cap": 8826403518.697857
+        },
+        {
+            "timestamp": "2025-03-08 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2752500714624678,
+            "volume_24h": 254380433.73,
+            "market_cap": 8454168033.007789
+        },
+        {
+            "timestamp": "2025-03-09 16:20:00",
+            "symbol": "XLM",
+            "price": 0.269628430864378,
+            "volume_24h": 195172730.24,
+            "market_cap": 8281501176.539687
+        },
+        {
+            "timestamp": "2025-03-10 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2578838546004297,
+            "volume_24h": 363054104.33,
+            "market_cap": 7920771011.492222
+        },
+        {
+            "timestamp": "2025-03-11 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2504784990621548,
+            "volume_24h": 393316227.86,
+            "market_cap": 7693317672.080267
+        },
+        {
+            "timestamp": "2025-03-12 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2553590177490644,
+            "volume_24h": 276918831.05,
+            "market_cap": 7843330409.029657
+        },
+        {
+            "timestamp": "2025-03-13 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2781463885727028,
+            "volume_24h": 431883398.06,
+            "market_cap": 8548108863.974319
+        },
+        {
+            "timestamp": "2025-03-14 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2776848940028087,
+            "volume_24h": 330080197.25,
+            "market_cap": 8534058813.977127
+        },
+        {
+            "timestamp": "2025-03-15 16:20:00",
+            "symbol": "XLM",
+            "price": 0.274968800734045,
+            "volume_24h": 243884819.1,
+            "market_cap": 8450309244.681928
+        },
+        {
+            "timestamp": "2025-03-16 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2684605473187936,
+            "volume_24h": 145739676.47,
+            "market_cap": 8250297243.683219
+        },
+        {
+            "timestamp": "2025-03-17 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2734196324751377,
+            "volume_24h": 197357338.08,
+            "market_cap": 8402697780.59973
+        },
+        {
+            "timestamp": "2025-03-18 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2661969925414099,
+            "volume_24h": 186443171.12,
+            "market_cap": 8186493295.426199
+        },
+        {
+            "timestamp": "2025-03-19 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2910617390053747,
+            "volume_24h": 369396691.7,
+            "market_cap": 8951465171.689356
+        },
+        {
+            "timestamp": "2025-03-20 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2810451983951108,
+            "volume_24h": 249986550.4,
+            "market_cap": 8643419548.326513
+        },
+        {
+            "timestamp": "2025-03-21 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2756283299672812,
+            "volume_24h": 210805871.0,
+            "market_cap": 8477759183.257296
+        },
+        {
+            "timestamp": "2025-03-22 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2753187668066291,
+            "volume_24h": 116119257.47,
+            "market_cap": 8468236276.543384
+        },
+        {
+            "timestamp": "2025-03-23 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2820846495099134,
+            "volume_24h": 151726186.18,
+            "market_cap": 8676339368.588694
+        },
+        {
+            "timestamp": "2025-03-24 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2901678290037252,
+            "volume_24h": 187236154.43,
+            "market_cap": 8924959509.329218
+        },
+        {
+            "timestamp": "2025-03-25 16:20:00",
+            "symbol": "XLM",
+            "price": 0.291906573785309,
+            "volume_24h": 162604654.26,
+            "market_cap": 8984813044.037489
+        },
+        {
+            "timestamp": "2025-03-26 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2884108484706099,
+            "volume_24h": 202692657.21,
+            "market_cap": 8877428974.965513
+        },
+        {
+            "timestamp": "2025-03-27 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2867405966602094,
+            "volume_24h": 183585908.42,
+            "market_cap": 8826015787.973852
+        },
+        {
+            "timestamp": "2025-03-28 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2727153574178945,
+            "volume_24h": 202280155.26,
+            "market_cap": 8394413645.025053
+        },
+        {
+            "timestamp": "2025-03-29 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2661797528147485,
+            "volume_24h": 136362390.12,
+            "market_cap": 8194925677.275287
+        },
+        {
+            "timestamp": "2025-03-30 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2675911842977836,
+            "volume_24h": 112541729.94,
+            "market_cap": 8238377323.2434225
+        },
+        {
+            "timestamp": "2025-03-31 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2668663887878099,
+            "volume_24h": 158227177.64,
+            "market_cap": 8216058416.9285345
+        },
+        {
+            "timestamp": "2025-04-01 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2786654995533874,
+            "volume_24h": 152702247.58,
+            "market_cap": 8574578623.2337
+        },
+        {
+            "timestamp": "2025-04-02 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2732133105686909,
+            "volume_24h": 173691954.43,
+            "market_cap": 8408627888.540349
+        },
+        {
+            "timestamp": "2025-04-03 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2538679327225393,
+            "volume_24h": 256176644.59,
+            "market_cap": 7813408919.73787
+        },
+        {
+            "timestamp": "2025-04-04 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2576715049661909,
+            "volume_24h": 171350360.28,
+            "market_cap": 7930757309.326676
+        },
+        {
+            "timestamp": "2025-04-05 16:20:00",
+            "symbol": "XLM",
+            "price": 0.251577882631729,
+            "volume_24h": 144839814.15,
+            "market_cap": 7743418478.753769
+        },
+        {
+            "timestamp": "2025-04-06 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2518416085308553,
+            "volume_24h": 148726836.24,
+            "market_cap": 7751532455.380947
+        },
+        {
+            "timestamp": "2025-04-07 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2283368396327209,
+            "volume_24h": 483094356.57,
+            "market_cap": 7028065430.689967
+        },
+        {
+            "timestamp": "2025-04-08 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2308657205581497,
+            "volume_24h": 218574966.62,
+            "market_cap": 7106013555.794893
+        },
+        {
+            "timestamp": "2025-04-09 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2222185859400059,
+            "volume_24h": 248960636.7,
+            "market_cap": 6840421086.733652
+        },
+        {
+            "timestamp": "2025-04-10 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2261065890652119,
+            "volume_24h": 255466375.41,
+            "market_cap": 6960303199.963861
+        },
+        {
+            "timestamp": "2025-04-11 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2316327912677545,
+            "volume_24h": 166739897.51,
+            "market_cap": 7130414111.306588
+        },
+        {
+            "timestamp": "2025-04-12 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2475381689423376,
+            "volume_24h": 149570953.97,
+            "market_cap": 7632241264.129003
+        },
+        {
+            "timestamp": "2025-04-13 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2443219856784021,
+            "volume_24h": 149159142.74,
+            "market_cap": 7533072727.700344
+        },
+        {
+            "timestamp": "2025-04-14 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2384540409273171,
+            "volume_24h": 179311918.6,
+            "market_cap": 7352138577.903539
+        },
+        {
+            "timestamp": "2025-04-15 16:20:00",
+            "symbol": "XLM",
+            "price": 0.238733380986723,
+            "volume_24h": 143442959.44,
+            "market_cap": 7360747316.358052
+        },
+        {
+            "timestamp": "2025-04-16 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2355806519807042,
+            "volume_24h": 145122092.32,
+            "market_cap": 7263693672.725035
+        },
+        {
+            "timestamp": "2025-04-17 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2395973330858994,
+            "volume_24h": 134583310.57,
+            "market_cap": 7385138614.930178
+        },
+        {
+            "timestamp": "2025-04-18 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2419243969378882,
+            "volume_24h": 98404037.28,
+            "market_cap": 7457122982.709178
+        },
+        {
+            "timestamp": "2025-04-19 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2458313099156498,
+            "volume_24h": 77872392.69,
+            "market_cap": 7577547901.372627
+        },
+        {
+            "timestamp": "2025-04-20 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2418728279606291,
+            "volume_24h": 85233375.61,
+            "market_cap": 7455528576.093985
+        },
+        {
+            "timestamp": "2025-04-21 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2578944909892001,
+            "volume_24h": 184647952.4,
+            "market_cap": 7949380419.11169
+        },
+        {
+            "timestamp": "2025-04-22 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2573899300621723,
+            "volume_24h": 222041378.13,
+            "market_cap": 7938972828.295508
+        },
+        {
+            "timestamp": "2025-04-23 16:20:00",
+            "symbol": "XLM",
+            "price": 0.2662376964069873,
+            "volume_24h": 308970334.68,
+            "market_cap": 8211976360.154478
+        }
+    ],
+    "investment_thesis": "XLM presents a moderate investment opportunity based on its overall score of 50.0/100. Technical indicators are favorable with a score of 53.0/100, showing balanced price action. While fundamentals are less robust (49.0/100), they may improve with market development. Despite mixed sentiment (46.0/100), other factors suggest potential upside. Multiple bullish patterns (inverse head and shoulders, double bottom) have been identified, strengthening the positive case. This analysis is set against a broader market that is currently in a strong bullish trend with sentiment showing greed. Overall, XLM merits a Buy rating, suggesting positive but measured price appreciation potential.",
+    "risk_assessment": "XLM is classified as a moderate risk investment. With a market cap of $8.24B and global rank of #14, it balances growth potential with reasonable stability. Annualized volatility of 65.8% indicates moderate price fluctuations. Daily trading volume of $312.24M and liquidity ratio of 0.038 suggest adequate liquidity for most trading activities. Investors should be aware of risks including increased competition, potential regulatory impacts, and higher sensitivity to market sentiment. The RSI of 78.4 indicates overbought conditions, increasing the risk of a short-term correction. The current bullish market environment potentially reduces short-term downside risk, though caution is warranted for any sudden sentiment changes. High Bitcoin dominance (63.5%) may limit altcoin performance in the near term.",
+    "analysis_time": "2025-04-23 20:16:22"
+}

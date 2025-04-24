@@ -1,0 +1,2641 @@
+{
+    "symbol": "BNB",
+    "name": "BNB",
+    "price_usd": 603.7528470514753,
+    "market_cap_usd": 85063103909.6674,
+    "volume_24h_usd": 1879587848.9212496,
+    "percent_change_24h": -0.88899249,
+    "percent_change_7d": 3.58004915,
+    "technical_score": 67,
+    "fundamental_score": 66,
+    "sentiment_score": 37,
+    "total_score": 59.2,
+    "technical_weight": 0.45,
+    "fundamental_weight": 0.3,
+    "sentiment_weight": 0.25,
+    "risk_profile": "Conservative",
+    "market_opportunity": "Moderate",
+    "recommendation": "Hold",
+    "rank": 5,
+    "technical_data": {
+        "symbol": "BNB",
+        "price": 604.3769774933221,
+        "ma_7": 597.4816920340658,
+        "ma_30": 595.0471095475798,
+        "ma_90": 614.9153619670218,
+        "ma_200": 634.5273008992453,
+        "rsi_14": 70.98755306994646,
+        "macd": 0.4004863000292289,
+        "macd_signal": -3.3588869249196085,
+        "bb_upper": 615.9802798999357,
+        "bb_middle": 585.6005575531478,
+        "bb_lower": 555.22083520636,
+        "bb_width": 0.10375578354544393,
+        "roc_7": 3.5581707431043386,
+        "roc_30": -4.866665741469756,
+        "obv": 15749207397.940004,
+        "tenkan_sen": 596.8011921869472,
+        "kijun_sen": 582.2062976580347,
+        "adx": 22.3473387496494,
+        "stoch_k": 86.0733287527449,
+        "stoch_d": 94.91082964264207,
+        "mfi": 58.883566531558905,
+        "psar": 565.4130289288298,
+        "technical_score": 67,
+        "score_components": {
+            "trend_score": 8,
+            "momentum_score": 10,
+            "volatility_score": 10,
+            "support_resistance_score": 6,
+            "volume_score": 10,
+            "ichimoku_score": 5,
+            "obv_score": 5,
+            "adx_score": 3,
+            "psar_score": 5,
+            "ma_cross_score": 5
+        }
+    },
+    "fundamental_data": {
+        "symbol": "BNB",
+        "market_cap_usd": 85063103909.6674,
+        "volume_24h_usd": 1879587848.9212496,
+        "volume_mcap_ratio": 0.022096393883266643,
+        "market_share": 3.165558200534222,
+        "cmc_rank": 5,
+        "price_change_30d": -5.11594204,
+        "fundamental_score": 66,
+        "score_components": {
+            "market_cap_score": 22,
+            "volume_mcap_score": 5,
+            "rank_score": 14,
+            "stability_score": 15,
+            "growth_score": 3,
+            "market_position_score": 7
+        }
+    },
+    "sentiment_data": {
+        "symbol": "BNB",
+        "price_change_1h": -0.6517894,
+        "price_change_24h": -0.88899249,
+        "price_change_7d": 3.58004915,
+        "market_avg_change_24h": 3.7310203413333327,
+        "market_avg_change_7d": 11.602763898000001,
+        "relative_performance_24h": -4.620012831333333,
+        "relative_performance_7d": -8.022714748000002,
+        "fear_greed_value": 72,
+        "fear_greed_classification": "Greed",
+        "market_trend": "Strong Bullish",
+        "sentiment_score": 37,
+        "score_components": {
+            "momentum_score": 14,
+            "market_sentiment_score": 10,
+            "relative_score": 6,
+            "alignment_score": 7
+        }
+    },
+    "pattern_data": {
+        "head_and_shoulders": false,
+        "inverse_head_and_shoulders": false,
+        "double_top": true,
+        "double_bottom": true,
+        "ascending_triangle": false,
+        "descending_triangle": false,
+        "symmetric_triangle": false,
+        "bullish_flag": false,
+        "bearish_flag": false,
+        "pattern_strength": 2
+    },
+    "divergence_data": {
+        "bearish_divergence": false,
+        "bullish_divergence": false,
+        "bearish_divergence_strength": 0,
+        "bullish_divergence_strength": 0,
+        "rsi_divergences": [],
+        "macd_divergences": []
+    },
+    "historical_data": [
+        {
+            "timestamp": "2024-04-29 16:20:00",
+            "symbol": "BNB",
+            "price": 592.1953091365364,
+            "volume_24h": 843164377.27,
+            "market_cap": 87400856664.491
+        },
+        {
+            "timestamp": "2024-04-30 16:20:00",
+            "symbol": "BNB",
+            "price": 557.9673660510205,
+            "volume_24h": 1340119009.78,
+            "market_cap": 82339188885.68474
+        },
+        {
+            "timestamp": "2024-05-01 16:20:00",
+            "symbol": "BNB",
+            "price": 545.7697485372361,
+            "volume_24h": 1620682876.72,
+            "market_cap": 80548902751.21675
+        },
+        {
+            "timestamp": "2024-05-02 16:20:00",
+            "symbol": "BNB",
+            "price": 562.9614303939704,
+            "volume_24h": 1117003652.38,
+            "market_cap": 83086134330.9101
+        },
+        {
+            "timestamp": "2024-05-03 16:20:00",
+            "symbol": "BNB",
+            "price": 579.7188771426121,
+            "volume_24h": 826613759.89,
+            "market_cap": 85559282151.63673
+        },
+        {
+            "timestamp": "2024-05-04 16:20:00",
+            "symbol": "BNB",
+            "price": 590.6677734031182,
+            "volume_24h": 632459495.89,
+            "market_cap": 87175156858.86267
+        },
+        {
+            "timestamp": "2024-05-05 16:20:00",
+            "symbol": "BNB",
+            "price": 594.4603092521226,
+            "volume_24h": 544621798.47,
+            "market_cap": 87734849513.7207
+        },
+        {
+            "timestamp": "2024-05-06 16:20:00",
+            "symbol": "BNB",
+            "price": 588.9918206587467,
+            "volume_24h": 1486991839.47,
+            "market_cap": 86927725490.92871
+        },
+        {
+            "timestamp": "2024-05-07 16:20:00",
+            "symbol": "BNB",
+            "price": 594.3266385283972,
+            "volume_24h": 1496815576.44,
+            "market_cap": 87715024987.9171
+        },
+        {
+            "timestamp": "2024-05-08 16:20:00",
+            "symbol": "BNB",
+            "price": 582.4275965701436,
+            "volume_24h": 1561418327.22,
+            "market_cap": 85958834807.69765
+        },
+        {
+            "timestamp": "2024-05-09 16:20:00",
+            "symbol": "BNB",
+            "price": 597.5995611659695,
+            "volume_24h": 1942087378.81,
+            "market_cap": 88197968612.37897
+        },
+        {
+            "timestamp": "2024-05-10 16:20:00",
+            "symbol": "BNB",
+            "price": 588.1741075951263,
+            "volume_24h": 1540526588.89,
+            "market_cap": 86806844477.24985
+        },
+        {
+            "timestamp": "2024-05-11 16:20:00",
+            "symbol": "BNB",
+            "price": 591.3140665878403,
+            "volume_24h": 1413544683.76,
+            "market_cap": 87270221113.05797
+        },
+        {
+            "timestamp": "2024-05-12 16:20:00",
+            "symbol": "BNB",
+            "price": 596.1314343039996,
+            "volume_24h": 1189641264.73,
+            "market_cap": 87981160962.39468
+        },
+        {
+            "timestamp": "2024-05-13 16:20:00",
+            "symbol": "BNB",
+            "price": 595.4662152760071,
+            "volume_24h": 1660168486.11,
+            "market_cap": 87882935862.85683
+        },
+        {
+            "timestamp": "2024-05-14 16:20:00",
+            "symbol": "BNB",
+            "price": 568.6904654094118,
+            "volume_24h": 1883585946.13,
+            "market_cap": 83931146182.48334
+        },
+        {
+            "timestamp": "2024-05-15 16:20:00",
+            "symbol": "BNB",
+            "price": 580.8496670402034,
+            "volume_24h": 1862292560.05,
+            "market_cap": 85725632296.45642
+        },
+        {
+            "timestamp": "2024-05-16 16:20:00",
+            "symbol": "BNB",
+            "price": 567.3027263667357,
+            "volume_24h": 2037839257.07,
+            "market_cap": 83726237014.71262
+        },
+        {
+            "timestamp": "2024-05-17 16:20:00",
+            "symbol": "BNB",
+            "price": 582.8284534828232,
+            "volume_24h": 1585361535.4,
+            "market_cap": 86017581400.22679
+        },
+        {
+            "timestamp": "2024-05-18 16:20:00",
+            "symbol": "BNB",
+            "price": 578.2101144060586,
+            "volume_24h": 1372742496.17,
+            "market_cap": 85335936831.95346
+        },
+        {
+            "timestamp": "2024-05-19 16:20:00",
+            "symbol": "BNB",
+            "price": 576.8880838815877,
+            "volume_24h": 1303225704.76,
+            "market_cap": 85140784644.52808
+        },
+        {
+            "timestamp": "2024-05-20 16:20:00",
+            "symbol": "BNB",
+            "price": 576.3091477265267,
+            "volume_24h": 1486398326.93,
+            "market_cap": 85055296842.20648
+        },
+        {
+            "timestamp": "2024-05-21 16:20:00",
+            "symbol": "BNB",
+            "price": 616.900285992489,
+            "volume_24h": 3934584871.83,
+            "market_cap": 91045918390.3832
+        },
+        {
+            "timestamp": "2024-05-22 16:20:00",
+            "symbol": "BNB",
+            "price": 619.9657594254278,
+            "volume_24h": 2157194631.58,
+            "market_cap": 91498285423.71992
+        },
+        {
+            "timestamp": "2024-05-23 16:20:00",
+            "symbol": "BNB",
+            "price": 593.8571141588062,
+            "volume_24h": 2381284476.38,
+            "market_cap": 87589457547.12263
+        },
+        {
+            "timestamp": "2024-05-24 16:20:00",
+            "symbol": "BNB",
+            "price": 596.0712745006742,
+            "volume_24h": 2167364172.27,
+            "market_cap": 87971691042.60323
+        },
+        {
+            "timestamp": "2024-05-25 16:20:00",
+            "symbol": "BNB",
+            "price": 601.8597698530781,
+            "volume_24h": 1492828554.17,
+            "market_cap": 88825946334.88615
+        },
+        {
+            "timestamp": "2024-05-26 16:20:00",
+            "symbol": "BNB",
+            "price": 602.1731613142446,
+            "volume_24h": 1344995455.54,
+            "market_cap": 88872157240.80707
+        },
+        {
+            "timestamp": "2024-05-27 16:20:00",
+            "symbol": "BNB",
+            "price": 612.2145803221738,
+            "volume_24h": 1600419113.36,
+            "market_cap": 90341226958.0576
+        },
+        {
+            "timestamp": "2024-05-28 16:20:00",
+            "symbol": "BNB",
+            "price": 600.3851251681288,
+            "volume_24h": 1898265990.76,
+            "market_cap": 88608177921.53784
+        },
+        {
+            "timestamp": "2024-05-29 16:20:00",
+            "symbol": "BNB",
+            "price": 593.70589956678,
+            "volume_24h": 1678843397.14,
+            "market_cap": 87622372024.69447
+        },
+        {
+            "timestamp": "2024-05-30 16:20:00",
+            "symbol": "BNB",
+            "price": 596.5247893350547,
+            "volume_24h": 1715520176.27,
+            "market_cap": 88038351982.30695
+        },
+        {
+            "timestamp": "2024-05-31 16:20:00",
+            "symbol": "BNB",
+            "price": 589.8307665163999,
+            "volume_24h": 1625195489.18,
+            "market_cap": 87050368692.06921
+        },
+        {
+            "timestamp": "2024-06-01 16:20:00",
+            "symbol": "BNB",
+            "price": 596.0595499203007,
+            "volume_24h": 1437455074.55,
+            "market_cap": 87969608126.87778
+        },
+        {
+            "timestamp": "2024-06-02 16:20:00",
+            "symbol": "BNB",
+            "price": 600.3883750598167,
+            "volume_24h": 1726234737.17,
+            "market_cap": 88608441550.90926
+        },
+        {
+            "timestamp": "2024-06-03 16:20:00",
+            "symbol": "BNB",
+            "price": 624.750310319923,
+            "volume_24h": 2863193518.52,
+            "market_cap": 92203854385.40796
+        },
+        {
+            "timestamp": "2024-06-04 16:20:00",
+            "symbol": "BNB",
+            "price": 662.4244337307673,
+            "volume_24h": 2996857083.38,
+            "market_cap": 97757317319.3483
+        },
+        {
+            "timestamp": "2024-06-05 16:20:00",
+            "symbol": "BNB",
+            "price": 704.8224698333225,
+            "volume_24h": 3696669468.72,
+            "market_cap": 104013953029.16068
+        },
+        {
+            "timestamp": "2024-06-06 16:20:00",
+            "symbol": "BNB",
+            "price": 701.0827153853862,
+            "volume_24h": 3022284120.87,
+            "market_cap": 103307094504.9959
+        },
+        {
+            "timestamp": "2024-06-07 16:20:00",
+            "symbol": "BNB",
+            "price": 699.1296440506031,
+            "volume_24h": 2612729754.6,
+            "market_cap": 103166791012.56862
+        },
+        {
+            "timestamp": "2024-06-08 16:20:00",
+            "symbol": "BNB",
+            "price": 684.2907279109821,
+            "volume_24h": 2599529513.55,
+            "market_cap": 100977037430.44
+        },
+        {
+            "timestamp": "2024-06-09 16:20:00",
+            "symbol": "BNB",
+            "price": 676.8021689603428,
+            "volume_24h": 1857791606.99,
+            "market_cap": 99871949621.53546
+        },
+        {
+            "timestamp": "2024-06-10 16:20:00",
+            "symbol": "BNB",
+            "price": 649.1462663326888,
+            "volume_24h": 2569384187.02,
+            "market_cap": 95786608498.93112
+        },
+        {
+            "timestamp": "2024-06-11 16:20:00",
+            "symbol": "BNB",
+            "price": 600.7283444326407,
+            "volume_24h": 2976024836.16,
+            "market_cap": 88658146333.12788
+        },
+        {
+            "timestamp": "2024-06-12 16:20:00",
+            "symbol": "BNB",
+            "price": 629.8402510413022,
+            "volume_24h": 2170021893.05,
+            "market_cap": 92954563052.3214
+        },
+        {
+            "timestamp": "2024-06-13 16:20:00",
+            "symbol": "BNB",
+            "price": 600.0232476291419,
+            "volume_24h": 2056671904.46,
+            "market_cap": 88553994766.44519
+        },
+        {
+            "timestamp": "2024-06-14 16:20:00",
+            "symbol": "BNB",
+            "price": 596.8288185035443,
+            "volume_24h": 1707965532.04,
+            "market_cap": 88082506502.98135
+        },
+        {
+            "timestamp": "2024-06-15 16:20:00",
+            "symbol": "BNB",
+            "price": 606.3175673352317,
+            "volume_24h": 1627778650.26,
+            "market_cap": 89482857384.7589
+        },
+        {
+            "timestamp": "2024-06-16 16:20:00",
+            "symbol": "BNB",
+            "price": 608.6731334613372,
+            "volume_24h": 1426053148.36,
+            "market_cap": 89830467313.80605
+        },
+        {
+            "timestamp": "2024-06-17 16:20:00",
+            "symbol": "BNB",
+            "price": 594.8145762263464,
+            "volume_24h": 1638202183.24,
+            "market_cap": 87785129656.93855
+        },
+        {
+            "timestamp": "2024-06-18 16:20:00",
+            "symbol": "BNB",
+            "price": 579.790722228361,
+            "volume_24h": 2276917275.13,
+            "market_cap": 85567803777.04124
+        },
+        {
+            "timestamp": "2024-06-19 16:20:00",
+            "symbol": "BNB",
+            "price": 592.8281353125333,
+            "volume_24h": 1843865537.3,
+            "market_cap": 87491874645.60223
+        },
+        {
+            "timestamp": "2024-06-20 16:20:00",
+            "symbol": "BNB",
+            "price": 592.5790525331988,
+            "volume_24h": 1720399115.01,
+            "market_cap": 87455067045.87202
+        },
+        {
+            "timestamp": "2024-06-21 16:20:00",
+            "symbol": "BNB",
+            "price": 583.8734513578116,
+            "volume_24h": 1775961869.96,
+            "market_cap": 86170221676.74597
+        },
+        {
+            "timestamp": "2024-06-22 16:20:00",
+            "symbol": "BNB",
+            "price": 585.9107420163305,
+            "volume_24h": 1422338183.09,
+            "market_cap": 86460496640.7277
+        },
+        {
+            "timestamp": "2024-06-23 16:20:00",
+            "symbol": "BNB",
+            "price": 584.9086206676312,
+            "volume_24h": 1392548927.53,
+            "market_cap": 86312586240.82579
+        },
+        {
+            "timestamp": "2024-06-24 16:20:00",
+            "symbol": "BNB",
+            "price": 562.4492026444921,
+            "volume_24h": 1839600014.71,
+            "market_cap": 83008253727.48378
+        },
+        {
+            "timestamp": "2024-06-25 16:20:00",
+            "symbol": "BNB",
+            "price": 576.6733240131865,
+            "volume_24h": 1780445197.83,
+            "market_cap": 85107465098.23889
+        },
+        {
+            "timestamp": "2024-06-26 16:20:00",
+            "symbol": "BNB",
+            "price": 572.4054615839545,
+            "volume_24h": 1512061387.03,
+            "market_cap": 84477566631.69943
+        },
+        {
+            "timestamp": "2024-06-27 16:20:00",
+            "symbol": "BNB",
+            "price": 578.5198620787271,
+            "volume_24h": 1698192694.81,
+            "market_cap": 85379915636.0878
+        },
+        {
+            "timestamp": "2024-06-28 16:20:00",
+            "symbol": "BNB",
+            "price": 570.804523851861,
+            "volume_24h": 1567827693.56,
+            "market_cap": 84241225907.65855
+        },
+        {
+            "timestamp": "2024-06-29 16:20:00",
+            "symbol": "BNB",
+            "price": 570.7628636760246,
+            "volume_24h": 1468377798.26,
+            "market_cap": 84235045067.12491
+        },
+        {
+            "timestamp": "2024-06-30 16:20:00",
+            "symbol": "BNB",
+            "price": 575.8737897817251,
+            "volume_24h": 1413894482.11,
+            "market_cap": 84989299404.47984
+        },
+        {
+            "timestamp": "2024-07-01 16:20:00",
+            "symbol": "BNB",
+            "price": 578.4193804666099,
+            "volume_24h": 1690532336.12,
+            "market_cap": 85364951506.44485
+        },
+        {
+            "timestamp": "2024-07-02 16:20:00",
+            "symbol": "BNB",
+            "price": 574.2939963770187,
+            "volume_24h": 1510389875.46,
+            "market_cap": 84756077752.67142
+        },
+        {
+            "timestamp": "2024-07-03 16:20:00",
+            "symbol": "BNB",
+            "price": 557.1806090528605,
+            "volume_24h": 1723128481.12,
+            "market_cap": 82230394746.30986
+        },
+        {
+            "timestamp": "2024-07-04 16:20:00",
+            "symbol": "BNB",
+            "price": 521.6504642778389,
+            "volume_24h": 2027960431.25,
+            "market_cap": 76986707678.5681
+        },
+        {
+            "timestamp": "2024-07-05 16:20:00",
+            "symbol": "BNB",
+            "price": 494.43534960852446,
+            "volume_24h": 2862607106.49,
+            "market_cap": 72970169536.62877
+        },
+        {
+            "timestamp": "2024-07-06 16:20:00",
+            "symbol": "BNB",
+            "price": 520.2833657370127,
+            "volume_24h": 1597638143.18,
+            "market_cap": 76784862600.04388
+        },
+        {
+            "timestamp": "2024-07-07 16:20:00",
+            "symbol": "BNB",
+            "price": 501.52666287047145,
+            "volume_24h": 1688574185.08,
+            "market_cap": 74016666631.55814
+        },
+        {
+            "timestamp": "2024-07-08 16:20:00",
+            "symbol": "BNB",
+            "price": 500.21071534218095,
+            "volume_24h": 2261360052.78,
+            "market_cap": 73822419622.20189
+        },
+        {
+            "timestamp": "2024-07-09 16:20:00",
+            "symbol": "BNB",
+            "price": 517.8468566776314,
+            "volume_24h": 1624484305.69,
+            "market_cap": 76425178591.87819
+        },
+        {
+            "timestamp": "2024-07-10 16:20:00",
+            "symbol": "BNB",
+            "price": 527.1213198291792,
+            "volume_24h": 1626819213.16,
+            "market_cap": 77793896178.7609
+        },
+        {
+            "timestamp": "2024-07-11 16:20:00",
+            "symbol": "BNB",
+            "price": 527.2078025603122,
+            "volume_24h": 1667870434.55,
+            "market_cap": 77806623362.81332
+        },
+        {
+            "timestamp": "2024-07-12 16:20:00",
+            "symbol": "BNB",
+            "price": 532.3751596542513,
+            "volume_24h": 1582131240.17,
+            "market_cap": 78569197544.01572
+        },
+        {
+            "timestamp": "2024-07-13 16:20:00",
+            "symbol": "BNB",
+            "price": 532.4063227280437,
+            "volume_24h": 1426777231.83,
+            "market_cap": 78573764193.41177
+        },
+        {
+            "timestamp": "2024-07-14 16:20:00",
+            "symbol": "BNB",
+            "price": 536.5213799797697,
+            "volume_24h": 1474098981.88,
+            "market_cap": 79181044373.48528
+        },
+        {
+            "timestamp": "2024-07-15 16:20:00",
+            "symbol": "BNB",
+            "price": 575.147398895894,
+            "volume_24h": 1862595087.79,
+            "market_cap": 84881523600.90282
+        },
+        {
+            "timestamp": "2024-07-16 16:20:00",
+            "symbol": "BNB",
+            "price": 573.3051000240412,
+            "volume_24h": 2114534580.46,
+            "market_cap": 84609584608.10164
+        },
+        {
+            "timestamp": "2024-07-17 16:20:00",
+            "symbol": "BNB",
+            "price": 569.4401142266578,
+            "volume_24h": 1789395161.78,
+            "market_cap": 84039142980.19385
+        },
+        {
+            "timestamp": "2024-07-18 16:20:00",
+            "symbol": "BNB",
+            "price": 566.5964201828036,
+            "volume_24h": 1638455459.34,
+            "market_cap": 83619427472.4227
+        },
+        {
+            "timestamp": "2024-07-19 16:20:00",
+            "symbol": "BNB",
+            "price": 597.2548744078044,
+            "volume_24h": 1882853627.95,
+            "market_cap": 87015805489.97694
+        },
+        {
+            "timestamp": "2024-07-20 16:20:00",
+            "symbol": "BNB",
+            "price": 594.8944562472254,
+            "volume_24h": 1744046029.97,
+            "market_cap": 87795614484.87006
+        },
+        {
+            "timestamp": "2024-07-21 16:20:00",
+            "symbol": "BNB",
+            "price": 600.25445526627,
+            "volume_24h": 1585430805.39,
+            "market_cap": 88586615955.00435
+        },
+        {
+            "timestamp": "2024-07-22 16:20:00",
+            "symbol": "BNB",
+            "price": 592.4102199671955,
+            "volume_24h": 2095337137.74,
+            "market_cap": 86455162355.74695
+        },
+        {
+            "timestamp": "2024-07-23 16:20:00",
+            "symbol": "BNB",
+            "price": 584.8492943331537,
+            "volume_24h": 1883891916.35,
+            "market_cap": 85351697692.9444
+        },
+        {
+            "timestamp": "2024-07-24 16:20:00",
+            "symbol": "BNB",
+            "price": 584.2163189617316,
+            "volume_24h": 1656298568.74,
+            "market_cap": 85259286102.3667
+        },
+        {
+            "timestamp": "2024-07-25 16:20:00",
+            "symbol": "BNB",
+            "price": 566.1225132689977,
+            "volume_24h": 1918803443.94,
+            "market_cap": 82618673148.87883
+        },
+        {
+            "timestamp": "2024-07-26 16:20:00",
+            "symbol": "BNB",
+            "price": 578.3743350105857,
+            "volume_24h": 1772795355.49,
+            "market_cap": 84406632943.62845
+        },
+        {
+            "timestamp": "2024-07-27 16:20:00",
+            "symbol": "BNB",
+            "price": 584.6068191093408,
+            "volume_24h": 1589864654.35,
+            "market_cap": 85316149967.34009
+        },
+        {
+            "timestamp": "2024-07-28 16:20:00",
+            "symbol": "BNB",
+            "price": 580.961384447284,
+            "volume_24h": 1666658150.34,
+            "market_cap": 84784106229.04384
+        },
+        {
+            "timestamp": "2024-07-29 16:20:00",
+            "symbol": "BNB",
+            "price": 582.4467349284427,
+            "volume_24h": 1706006969.75,
+            "market_cap": 84960068718.15616
+        },
+        {
+            "timestamp": "2024-07-30 16:20:00",
+            "symbol": "BNB",
+            "price": 574.7309063165694,
+            "volume_24h": 1748456236.89,
+            "market_cap": 83874774571.06644
+        },
+        {
+            "timestamp": "2024-07-31 16:20:00",
+            "symbol": "BNB",
+            "price": 587.3536744972797,
+            "volume_24h": 1818429756.92,
+            "market_cap": 85716871854.52808
+        },
+        {
+            "timestamp": "2024-08-01 16:20:00",
+            "symbol": "BNB",
+            "price": 557.2817213870316,
+            "volume_24h": 1911925951.57,
+            "market_cap": 81328208343.92105
+        },
+        {
+            "timestamp": "2024-08-02 16:20:00",
+            "symbol": "BNB",
+            "price": 555.6854997205984,
+            "volume_24h": 2072458611.59,
+            "market_cap": 81095223413.03929
+        },
+        {
+            "timestamp": "2024-08-03 16:20:00",
+            "symbol": "BNB",
+            "price": 529.4267766029119,
+            "volume_24h": 1855365725.37,
+            "market_cap": 77263061811.29016
+        },
+        {
+            "timestamp": "2024-08-04 16:20:00",
+            "symbol": "BNB",
+            "price": 501.9633797075736,
+            "volume_24h": 1840902359.2,
+            "market_cap": 73255098076.65904
+        },
+        {
+            "timestamp": "2024-08-05 16:20:00",
+            "symbol": "BNB",
+            "price": 469.3125180868947,
+            "volume_24h": 4729489581.75,
+            "market_cap": 66057530229.56579
+        },
+        {
+            "timestamp": "2024-08-06 16:20:00",
+            "symbol": "BNB",
+            "price": 489.1287735772746,
+            "volume_24h": 2275200048.39,
+            "market_cap": 71381924957.47087
+        },
+        {
+            "timestamp": "2024-08-07 16:20:00",
+            "symbol": "BNB",
+            "price": 478.1810604087864,
+            "volume_24h": 1867461759.79,
+            "market_cap": 69784217955.96745
+        },
+        {
+            "timestamp": "2024-08-08 16:20:00",
+            "symbol": "BNB",
+            "price": 506.74855566647136,
+            "volume_24h": 1790975903.43,
+            "market_cap": 73953231646.11497
+        },
+        {
+            "timestamp": "2024-08-09 16:20:00",
+            "symbol": "BNB",
+            "price": 504.0480594245062,
+            "volume_24h": 1665002455.96,
+            "market_cap": 73559095519.03426
+        },
+        {
+            "timestamp": "2024-08-10 16:20:00",
+            "symbol": "BNB",
+            "price": 514.7184454302501,
+            "volume_24h": 1380727407.21,
+            "market_cap": 75116267403.41273
+        },
+        {
+            "timestamp": "2024-08-11 16:20:00",
+            "symbol": "BNB",
+            "price": 519.5959627083755,
+            "volume_24h": 1512476040.46,
+            "market_cap": 75828047922.73245
+        },
+        {
+            "timestamp": "2024-08-12 16:20:00",
+            "symbol": "BNB",
+            "price": 517.3527973804718,
+            "volume_24h": 1808207924.04,
+            "market_cap": 75500653286.63376
+        },
+        {
+            "timestamp": "2024-08-13 16:20:00",
+            "symbol": "BNB",
+            "price": 520.1147600767848,
+            "volume_24h": 1741673171.11,
+            "market_cap": 75903688675.3387
+        },
+        {
+            "timestamp": "2024-08-14 16:20:00",
+            "symbol": "BNB",
+            "price": 525.0190973286079,
+            "volume_24h": 1644165887.54,
+            "market_cap": 76619377212.66707
+        },
+        {
+            "timestamp": "2024-08-15 16:20:00",
+            "symbol": "BNB",
+            "price": 532.7807004781744,
+            "volume_24h": 1563332245.05,
+            "market_cap": 77752041533.89539
+        },
+        {
+            "timestamp": "2024-08-16 16:20:00",
+            "symbol": "BNB",
+            "price": 516.3736273674333,
+            "volume_24h": 1640830780.05,
+            "market_cap": 75357614722.84451
+        },
+        {
+            "timestamp": "2024-08-17 16:20:00",
+            "symbol": "BNB",
+            "price": 535.4838143408745,
+            "volume_24h": 1502056154.49,
+            "market_cap": 78146451521.38274
+        },
+        {
+            "timestamp": "2024-08-18 16:20:00",
+            "symbol": "BNB",
+            "price": 538.7540342145998,
+            "volume_24h": 1547801521.45,
+            "market_cap": 78623667455.94403
+        },
+        {
+            "timestamp": "2024-08-19 16:20:00",
+            "symbol": "BNB",
+            "price": 546.6535005998016,
+            "volume_24h": 1540570653.12,
+            "market_cap": 79776451065.57788
+        },
+        {
+            "timestamp": "2024-08-20 16:20:00",
+            "symbol": "BNB",
+            "price": 561.8608287038786,
+            "volume_24h": 1952400744.4,
+            "market_cap": 81995701850.53485
+        },
+        {
+            "timestamp": "2024-08-21 16:20:00",
+            "symbol": "BNB",
+            "price": 554.919900566448,
+            "volume_24h": 1907959161.64,
+            "market_cap": 80982727636.75484
+        },
+        {
+            "timestamp": "2024-08-22 16:20:00",
+            "symbol": "BNB",
+            "price": 577.0716825135086,
+            "volume_24h": 2017514936.37,
+            "market_cap": 84215320408.37637
+        },
+        {
+            "timestamp": "2024-08-23 16:20:00",
+            "symbol": "BNB",
+            "price": 579.8319334401255,
+            "volume_24h": 1884354944.61,
+            "market_cap": 84618078209.77834
+        },
+        {
+            "timestamp": "2024-08-24 16:20:00",
+            "symbol": "BNB",
+            "price": 581.0805944120001,
+            "volume_24h": 1992392426.03,
+            "market_cap": 84800258984.75488
+        },
+        {
+            "timestamp": "2024-08-25 16:20:00",
+            "symbol": "BNB",
+            "price": 575.46479977112,
+            "volume_24h": 1852841502.09,
+            "market_cap": 83980677960.2342
+        },
+        {
+            "timestamp": "2024-08-26 16:20:00",
+            "symbol": "BNB",
+            "price": 558.7438202498428,
+            "volume_24h": 1738108603.91,
+            "market_cap": 81540451691.23035
+        },
+        {
+            "timestamp": "2024-08-27 16:20:00",
+            "symbol": "BNB",
+            "price": 553.5735246540227,
+            "volume_24h": 1798737278.37,
+            "market_cap": 80785887287.14584
+        },
+        {
+            "timestamp": "2024-08-28 16:20:00",
+            "symbol": "BNB",
+            "price": 525.6493260920049,
+            "volume_24h": 1933937641.93,
+            "market_cap": 76710723442.97607
+        },
+        {
+            "timestamp": "2024-08-29 16:20:00",
+            "symbol": "BNB",
+            "price": 541.964611599183,
+            "volume_24h": 1650493831.31,
+            "market_cap": 79091663182.88638
+        },
+        {
+            "timestamp": "2024-08-30 16:20:00",
+            "symbol": "BNB",
+            "price": 525.2543943109299,
+            "volume_24h": 1607196437.46,
+            "market_cap": 76653021101.71931
+        },
+        {
+            "timestamp": "2024-08-31 16:20:00",
+            "symbol": "BNB",
+            "price": 534.5543456822661,
+            "volume_24h": 1347438900.8,
+            "market_cap": 78010179552.84828
+        },
+        {
+            "timestamp": "2024-09-01 16:20:00",
+            "symbol": "BNB",
+            "price": 521.1692001023777,
+            "volume_24h": 1443131956.98,
+            "market_cap": 76056782943.61694
+        },
+        {
+            "timestamp": "2024-09-02 16:20:00",
+            "symbol": "BNB",
+            "price": 522.6448198300703,
+            "volume_24h": 1681436021.66,
+            "market_cap": 76272093447.89572
+        },
+        {
+            "timestamp": "2024-09-03 16:20:00",
+            "symbol": "BNB",
+            "price": 523.3125298151448,
+            "volume_24h": 1553067008.7,
+            "market_cap": 76369504697.65318
+        },
+        {
+            "timestamp": "2024-09-04 16:20:00",
+            "symbol": "BNB",
+            "price": 508.8262731887611,
+            "volume_24h": 1891141540.55,
+            "market_cap": 74255421309.24812
+        },
+        {
+            "timestamp": "2024-09-05 16:20:00",
+            "symbol": "BNB",
+            "price": 499.3606860651204,
+            "volume_24h": 1473276537.95,
+            "market_cap": 72874030375.28114
+        },
+        {
+            "timestamp": "2024-09-06 16:20:00",
+            "symbol": "BNB",
+            "price": 490.4887580821584,
+            "volume_24h": 1624730339.85,
+            "market_cap": 71579279327.13336
+        },
+        {
+            "timestamp": "2024-09-07 16:20:00",
+            "symbol": "BNB",
+            "price": 496.3658685539845,
+            "volume_24h": 1614416562.14,
+            "market_cap": 72436919000.84602
+        },
+        {
+            "timestamp": "2024-09-08 16:20:00",
+            "symbol": "BNB",
+            "price": 492.3512602670175,
+            "volume_24h": 1329945694.82,
+            "market_cap": 71851021486.24199
+        },
+        {
+            "timestamp": "2024-09-09 16:20:00",
+            "symbol": "BNB",
+            "price": 509.7301987466092,
+            "volume_24h": 1447527225.01,
+            "market_cap": 74387180375.35442
+        },
+        {
+            "timestamp": "2024-09-10 16:20:00",
+            "symbol": "BNB",
+            "price": 514.8600083913491,
+            "volume_24h": 1554320549.64,
+            "market_cap": 75135755861.94218
+        },
+        {
+            "timestamp": "2024-09-11 16:20:00",
+            "symbol": "BNB",
+            "price": 520.1583393281484,
+            "volume_24h": 1523477322.95,
+            "market_cap": 75908931300.212
+        },
+        {
+            "timestamp": "2024-09-12 16:20:00",
+            "symbol": "BNB",
+            "price": 537.5090996798593,
+            "volume_24h": 1772887801.46,
+            "market_cap": 78440962351.90765
+        },
+        {
+            "timestamp": "2024-09-13 16:20:00",
+            "symbol": "BNB",
+            "price": 552.2599196451611,
+            "volume_24h": 1710964872.51,
+            "market_cap": 80593577004.236
+        },
+        {
+            "timestamp": "2024-09-14 16:20:00",
+            "symbol": "BNB",
+            "price": 552.411777056728,
+            "volume_24h": 1482138251.54,
+            "market_cap": 80615705200.6464
+        },
+        {
+            "timestamp": "2024-09-15 16:20:00",
+            "symbol": "BNB",
+            "price": 560.1794614048929,
+            "volume_24h": 1432485211.41,
+            "market_cap": 81749247485.61696
+        },
+        {
+            "timestamp": "2024-09-16 16:20:00",
+            "symbol": "BNB",
+            "price": 534.6274244605123,
+            "volume_24h": 1882039575.21,
+            "market_cap": 78020296074.79092
+        },
+        {
+            "timestamp": "2024-09-17 16:20:00",
+            "symbol": "BNB",
+            "price": 548.8940171019087,
+            "volume_24h": 1670736648.51,
+            "market_cap": 80102245052.44133
+        },
+        {
+            "timestamp": "2024-09-18 16:20:00",
+            "symbol": "BNB",
+            "price": 540.2342999337674,
+            "volume_24h": 1467665249.87,
+            "market_cap": 78838466234.79636
+        },
+        {
+            "timestamp": "2024-09-19 16:20:00",
+            "symbol": "BNB",
+            "price": 567.135194620221,
+            "volume_24h": 1959084224.0,
+            "market_cap": 82764178332.3381
+        },
+        {
+            "timestamp": "2024-09-20 16:20:00",
+            "symbol": "BNB",
+            "price": 569.2543384032575,
+            "volume_24h": 1895845821.9,
+            "market_cap": 83073370417.50618
+        },
+        {
+            "timestamp": "2024-09-21 16:20:00",
+            "symbol": "BNB",
+            "price": 583.1502947527787,
+            "volume_24h": 1693261649.81,
+            "market_cap": 85101217947.22713
+        },
+        {
+            "timestamp": "2024-09-22 16:20:00",
+            "symbol": "BNB",
+            "price": 578.9021604056677,
+            "volume_24h": 1535272907.04,
+            "market_cap": 84481239601.80154
+        },
+        {
+            "timestamp": "2024-09-23 16:20:00",
+            "symbol": "BNB",
+            "price": 605.7414865067901,
+            "volume_24h": 2019555821.39,
+            "market_cap": 88397959150.81702
+        },
+        {
+            "timestamp": "2024-09-24 16:20:00",
+            "symbol": "BNB",
+            "price": 606.0413915546618,
+            "volume_24h": 2082640381.1,
+            "market_cap": 88441684252.6182
+        },
+        {
+            "timestamp": "2024-09-25 16:20:00",
+            "symbol": "BNB",
+            "price": 594.7351200810173,
+            "volume_24h": 1797717702.72,
+            "market_cap": 86791680716.41327
+        },
+        {
+            "timestamp": "2024-09-26 16:20:00",
+            "symbol": "BNB",
+            "price": 604.3872051639831,
+            "volume_24h": 1986239255.4,
+            "market_cap": 88200200700.14345
+        },
+        {
+            "timestamp": "2024-09-27 16:20:00",
+            "symbol": "BNB",
+            "price": 609.3814519508348,
+            "volume_24h": 2194256222.26,
+            "market_cap": 88928956175.39816
+        },
+        {
+            "timestamp": "2024-09-28 16:20:00",
+            "symbol": "BNB",
+            "price": 600.9969095162506,
+            "volume_24h": 1980735039.28,
+            "market_cap": 87705258341.19664
+        },
+        {
+            "timestamp": "2024-09-29 16:20:00",
+            "symbol": "BNB",
+            "price": 597.4278195119201,
+            "volume_24h": 1594082155.83,
+            "market_cap": 87184369295.34874
+        },
+        {
+            "timestamp": "2024-09-30 16:20:00",
+            "symbol": "BNB",
+            "price": 572.9903258640147,
+            "volume_24h": 1954891093.99,
+            "market_cap": 83618096085.79085
+        },
+        {
+            "timestamp": "2024-10-01 16:20:00",
+            "symbol": "BNB",
+            "price": 561.2149029600881,
+            "volume_24h": 1862623216.54,
+            "market_cap": 81899628254.02876
+        },
+        {
+            "timestamp": "2024-10-02 16:20:00",
+            "symbol": "BNB",
+            "price": 552.2328008262024,
+            "volume_24h": 2059340551.22,
+            "market_cap": 80588805120.19714
+        },
+        {
+            "timestamp": "2024-10-03 16:20:00",
+            "symbol": "BNB",
+            "price": 541.2518779876723,
+            "volume_24h": 1742359074.09,
+            "market_cap": 78986290848.97601
+        },
+        {
+            "timestamp": "2024-10-04 16:20:00",
+            "symbol": "BNB",
+            "price": 553.8516391705684,
+            "volume_24h": 1520596629.32,
+            "market_cap": 80824973418.98647
+        },
+        {
+            "timestamp": "2024-10-05 16:20:00",
+            "symbol": "BNB",
+            "price": 563.0359058533112,
+            "volume_24h": 1443516639.62,
+            "market_cap": 82165236784.7935
+        },
+        {
+            "timestamp": "2024-10-06 16:20:00",
+            "symbol": "BNB",
+            "price": 567.2668626283178,
+            "volume_24h": 1386934775.75,
+            "market_cap": 82782670880.25813
+        },
+        {
+            "timestamp": "2024-10-07 16:20:00",
+            "symbol": "BNB",
+            "price": 575.3582840733077,
+            "volume_24h": 1650566204.17,
+            "market_cap": 83963382908.05684
+        },
+        {
+            "timestamp": "2024-10-08 16:20:00",
+            "symbol": "BNB",
+            "price": 578.5677861046909,
+            "volume_24h": 2054087198.04,
+            "market_cap": 82194079929.92365
+        },
+        {
+            "timestamp": "2024-10-09 16:20:00",
+            "symbol": "BNB",
+            "price": 577.1342215595982,
+            "volume_24h": 2019980757.05,
+            "market_cap": 84222472286.08095
+        },
+        {
+            "timestamp": "2024-10-10 16:20:00",
+            "symbol": "BNB",
+            "price": 564.656214751709,
+            "volume_24h": 1571473785.63,
+            "market_cap": 82401490189.56892
+        },
+        {
+            "timestamp": "2024-10-11 16:20:00",
+            "symbol": "BNB",
+            "price": 572.0336242880705,
+            "volume_24h": 1669320311.25,
+            "market_cap": 83478055878.65294
+        },
+        {
+            "timestamp": "2024-10-12 16:20:00",
+            "symbol": "BNB",
+            "price": 577.6088675604381,
+            "volume_24h": 1528755374.97,
+            "market_cap": 84291626485.24345
+        },
+        {
+            "timestamp": "2024-10-13 16:20:00",
+            "symbol": "BNB",
+            "price": 568.1954826838465,
+            "volume_24h": 1432638710.25,
+            "market_cap": 82917881462.58774
+        },
+        {
+            "timestamp": "2024-10-14 16:20:00",
+            "symbol": "BNB",
+            "price": 589.8708909279223,
+            "volume_24h": 1771679988.43,
+            "market_cap": 86080976476.04684
+        },
+        {
+            "timestamp": "2024-10-15 16:20:00",
+            "symbol": "BNB",
+            "price": 591.649424145241,
+            "volume_24h": 1993762280.56,
+            "market_cap": 86340479006.91628
+        },
+        {
+            "timestamp": "2024-10-16 16:20:00",
+            "symbol": "BNB",
+            "price": 593.1687455629037,
+            "volume_24h": 1882941906.36,
+            "market_cap": 86562152314.1799
+        },
+        {
+            "timestamp": "2024-10-17 16:20:00",
+            "symbol": "BNB",
+            "price": 592.3334521141604,
+            "volume_24h": 1786757652.6,
+            "market_cap": 86440219518.91974
+        },
+        {
+            "timestamp": "2024-10-18 16:20:00",
+            "symbol": "BNB",
+            "price": 599.5418000596388,
+            "volume_24h": 1688515133.24,
+            "market_cap": 87492106889.84644
+        },
+        {
+            "timestamp": "2024-10-19 16:20:00",
+            "symbol": "BNB",
+            "price": 596.1757580899156,
+            "volume_24h": 1469396512.91,
+            "market_cap": 87000864362.07806
+        },
+        {
+            "timestamp": "2024-10-20 16:20:00",
+            "symbol": "BNB",
+            "price": 598.5760281563457,
+            "volume_24h": 1493119220.37,
+            "market_cap": 87186575326.37338
+        },
+        {
+            "timestamp": "2024-10-21 16:20:00",
+            "symbol": "BNB",
+            "price": 594.1668063295821,
+            "volume_24h": 1932452565.65,
+            "market_cap": 86707625835.49562
+        },
+        {
+            "timestamp": "2024-10-22 16:20:00",
+            "symbol": "BNB",
+            "price": 595.8418195865418,
+            "volume_24h": 1757593572.15,
+            "market_cap": 86952027812.434
+        },
+        {
+            "timestamp": "2024-10-23 16:20:00",
+            "symbol": "BNB",
+            "price": 577.6574687558467,
+            "volume_24h": 1649153072.79,
+            "market_cap": 84298326194.80185
+        },
+        {
+            "timestamp": "2024-10-24 16:20:00",
+            "symbol": "BNB",
+            "price": 590.6464868029733,
+            "volume_24h": 1657164304.68,
+            "market_cap": 86193793594.0063
+        },
+        {
+            "timestamp": "2024-10-25 16:20:00",
+            "symbol": "BNB",
+            "price": 591.0127241915548,
+            "volume_24h": 1516899388.63,
+            "market_cap": 86247205565.93735
+        },
+        {
+            "timestamp": "2024-10-26 16:20:00",
+            "symbol": "BNB",
+            "price": 580.6920248955946,
+            "volume_24h": 1683206020.28,
+            "market_cap": 84741055337.25797
+        },
+        {
+            "timestamp": "2024-10-27 16:20:00",
+            "symbol": "BNB",
+            "price": 587.5753036218072,
+            "volume_24h": 1370965074.17,
+            "market_cap": 85745513904.0646
+        },
+        {
+            "timestamp": "2024-10-28 16:20:00",
+            "symbol": "BNB",
+            "price": 591.8702798248883,
+            "volume_24h": 1539640211.53,
+            "market_cap": 86372254150.83656
+        },
+        {
+            "timestamp": "2024-10-29 16:20:00",
+            "symbol": "BNB",
+            "price": 610.505288828319,
+            "volume_24h": 1807326462.12,
+            "market_cap": 89091643702.0242
+        },
+        {
+            "timestamp": "2024-10-30 16:20:00",
+            "symbol": "BNB",
+            "price": 596.7016481386551,
+            "volume_24h": 1819072938.05,
+            "market_cap": 87077229190.23428
+        },
+        {
+            "timestamp": "2024-10-31 16:20:00",
+            "symbol": "BNB",
+            "price": 578.7084494681583,
+            "volume_24h": 1755501721.27,
+            "market_cap": 84451431286.20555
+        },
+        {
+            "timestamp": "2024-11-01 16:20:00",
+            "symbol": "BNB",
+            "price": 576.4364789904986,
+            "volume_24h": 1761045990.31,
+            "market_cap": 83064463719.53662
+        },
+        {
+            "timestamp": "2024-11-02 16:20:00",
+            "symbol": "BNB",
+            "price": 567.0302045372134,
+            "volume_24h": 1473846573.38,
+            "market_cap": 81708983619.33472
+        },
+        {
+            "timestamp": "2024-11-03 16:20:00",
+            "symbol": "BNB",
+            "price": 554.6005861805178,
+            "volume_24h": 1533791271.2,
+            "market_cap": 79917850075.59285
+        },
+        {
+            "timestamp": "2024-11-04 16:20:00",
+            "symbol": "BNB",
+            "price": 559.2191374792885,
+            "volume_24h": 1508954799.08,
+            "market_cap": 80583352557.5225
+        },
+        {
+            "timestamp": "2024-11-05 16:20:00",
+            "symbol": "BNB",
+            "price": 566.3317843181403,
+            "volume_24h": 1547937668.96,
+            "market_cap": 81608254084.5108
+        },
+        {
+            "timestamp": "2024-11-06 16:20:00",
+            "symbol": "BNB",
+            "price": 583.4315895117498,
+            "volume_24h": 2263741961.48,
+            "market_cap": 84072288320.16641
+        },
+        {
+            "timestamp": "2024-11-07 16:20:00",
+            "symbol": "BNB",
+            "price": 596.8458984180621,
+            "volume_24h": 1941434569.56,
+            "market_cap": 86005242188.56895
+        },
+        {
+            "timestamp": "2024-11-08 16:20:00",
+            "symbol": "BNB",
+            "price": 597.1108605356083,
+            "volume_24h": 1877955191.46,
+            "market_cap": 86043386729.9999
+        },
+        {
+            "timestamp": "2024-11-09 16:20:00",
+            "symbol": "BNB",
+            "price": 618.0231629216248,
+            "volume_24h": 2675443271.91,
+            "market_cap": 89056802647.76582
+        },
+        {
+            "timestamp": "2024-11-10 16:20:00",
+            "symbol": "BNB",
+            "price": 638.3091475625006,
+            "volume_24h": 2649034992.13,
+            "market_cap": 91979959420.71928
+        },
+        {
+            "timestamp": "2024-11-11 16:20:00",
+            "symbol": "BNB",
+            "price": 627.7022170401948,
+            "volume_24h": 3049760896.92,
+            "market_cap": 90451455350.36174
+        },
+        {
+            "timestamp": "2024-11-12 16:20:00",
+            "symbol": "BNB",
+            "price": 620.0538026979358,
+            "volume_24h": 4044496946.58,
+            "market_cap": 89349260478.63867
+        },
+        {
+            "timestamp": "2024-11-13 16:20:00",
+            "symbol": "BNB",
+            "price": 627.6547212201702,
+            "volume_24h": 3066701222.73,
+            "market_cap": 90107800420.6296
+        },
+        {
+            "timestamp": "2024-11-14 16:20:00",
+            "symbol": "BNB",
+            "price": 633.1505367649479,
+            "volume_24h": 3636946777.0,
+            "market_cap": 91236375887.14038
+        },
+        {
+            "timestamp": "2024-11-15 16:20:00",
+            "symbol": "BNB",
+            "price": 610.9118874414984,
+            "volume_24h": 2546230241.95,
+            "market_cap": 88031737177.99939
+        },
+        {
+            "timestamp": "2024-11-16 16:20:00",
+            "symbol": "BNB",
+            "price": 621.568410098449,
+            "volume_24h": 2187563287.91,
+            "market_cap": 89567277079.91266
+        },
+        {
+            "timestamp": "2024-11-17 16:20:00",
+            "symbol": "BNB",
+            "price": 623.4760076676608,
+            "volume_24h": 2426766892.17,
+            "market_cap": 89842114756.4866
+        },
+        {
+            "timestamp": "2024-11-18 16:20:00",
+            "symbol": "BNB",
+            "price": 623.389794308124,
+            "volume_24h": 2174564051.43,
+            "market_cap": 88887732627.18623
+        },
+        {
+            "timestamp": "2024-11-19 16:20:00",
+            "symbol": "BNB",
+            "price": 614.8878288271561,
+            "volume_24h": 2137540843.61,
+            "market_cap": 88550480349.03304
+        },
+        {
+            "timestamp": "2024-11-20 16:20:00",
+            "symbol": "BNB",
+            "price": 610.8678214589926,
+            "volume_24h": 2098121993.36,
+            "market_cap": 87971512422.97383
+        },
+        {
+            "timestamp": "2024-11-21 16:20:00",
+            "symbol": "BNB",
+            "price": 619.1674774214075,
+            "volume_24h": 2685885191.31,
+            "market_cap": 89166701080.89604
+        },
+        {
+            "timestamp": "2024-11-22 16:20:00",
+            "symbol": "BNB",
+            "price": 624.0034065484531,
+            "volume_24h": 2439361422.27,
+            "market_cap": 89863067320.48108
+        },
+        {
+            "timestamp": "2024-11-23 16:20:00",
+            "symbol": "BNB",
+            "price": 666.1191149648721,
+            "volume_24h": 3141547106.61,
+            "market_cap": 95928117383.16742
+        },
+        {
+            "timestamp": "2024-11-24 16:20:00",
+            "symbol": "BNB",
+            "price": 649.9312248963352,
+            "volume_24h": 3246040164.94,
+            "market_cap": 93596837673.21556
+        },
+        {
+            "timestamp": "2024-11-25 16:20:00",
+            "symbol": "BNB",
+            "price": 651.4378856885243,
+            "volume_24h": 2736855648.25,
+            "market_cap": 93813750307.6693
+        },
+        {
+            "timestamp": "2024-11-26 16:20:00",
+            "symbol": "BNB",
+            "price": 615.8913850892551,
+            "volume_24h": 2670743149.16,
+            "market_cap": 88694618196.53824
+        },
+        {
+            "timestamp": "2024-11-27 16:20:00",
+            "symbol": "BNB",
+            "price": 637.6446377015161,
+            "volume_24h": 2393969839.49,
+            "market_cap": 91827242572.33228
+        },
+        {
+            "timestamp": "2024-11-28 16:20:00",
+            "symbol": "BNB",
+            "price": 648.665104558868,
+            "volume_24h": 2695121550.82,
+            "market_cap": 93414238958.83736
+        },
+        {
+            "timestamp": "2024-11-29 16:20:00",
+            "symbol": "BNB",
+            "price": 658.1002533190959,
+            "volume_24h": 2086378938.25,
+            "market_cap": 94772938600.58664
+        },
+        {
+            "timestamp": "2024-11-30 16:20:00",
+            "symbol": "BNB",
+            "price": 655.207421205545,
+            "volume_24h": 2351704696.99,
+            "market_cap": 94356280519.97446
+        },
+        {
+            "timestamp": "2024-12-01 16:20:00",
+            "symbol": "BNB",
+            "price": 662.3647089947666,
+            "volume_24h": 2001547820.89,
+            "market_cap": 95386940131.76622
+        },
+        {
+            "timestamp": "2024-12-02 16:20:00",
+            "symbol": "BNB",
+            "price": 649.3459503287143,
+            "volume_24h": 2516778972.19,
+            "market_cap": 93512053808.6943
+        },
+        {
+            "timestamp": "2024-12-03 16:20:00",
+            "symbol": "BNB",
+            "price": 644.8496839124787,
+            "volume_24h": 2795123216.9,
+            "market_cap": 92864485127.37836
+        },
+        {
+            "timestamp": "2024-12-04 16:20:00",
+            "symbol": "BNB",
+            "price": 751.9506683538903,
+            "volume_24h": 6309373835.32,
+            "market_cap": 108287935177.9716
+        },
+        {
+            "timestamp": "2024-12-05 16:20:00",
+            "symbol": "BNB",
+            "price": 726.4232234161002,
+            "volume_24h": 4138368515.58,
+            "market_cap": 104611657964.21928
+        },
+        {
+            "timestamp": "2024-12-06 16:20:00",
+            "symbol": "BNB",
+            "price": 732.1268484856137,
+            "volume_24h": 3101542821.88,
+            "market_cap": 105432962858.35625
+        },
+        {
+            "timestamp": "2024-12-07 16:20:00",
+            "symbol": "BNB",
+            "price": 750.582347057994,
+            "volume_24h": 2443696736.97,
+            "market_cap": 108090661554.9778
+        },
+        {
+            "timestamp": "2024-12-08 16:20:00",
+            "symbol": "BNB",
+            "price": 742.8281027435667,
+            "volume_24h": 2227469499.24,
+            "market_cap": 106973923438.05698
+        },
+        {
+            "timestamp": "2024-12-09 16:20:00",
+            "symbol": "BNB",
+            "price": 718.2473434634801,
+            "volume_24h": 2468844075.38,
+            "market_cap": 103434009601.5289
+        },
+        {
+            "timestamp": "2024-12-10 16:20:00",
+            "symbol": "BNB",
+            "price": 656.9679261079131,
+            "volume_24h": 3497658291.84,
+            "market_cap": 94609147908.65024
+        },
+        {
+            "timestamp": "2024-12-11 16:20:00",
+            "symbol": "BNB",
+            "price": 697.8259807708563,
+            "volume_24h": 2479646671.41,
+            "market_cap": 100493003098.7548
+        },
+        {
+            "timestamp": "2024-12-12 16:20:00",
+            "symbol": "BNB",
+            "price": 716.6415344018247,
+            "volume_24h": 2421763996.6,
+            "market_cap": 103202525560.20778
+        },
+        {
+            "timestamp": "2024-12-13 16:20:00",
+            "symbol": "BNB",
+            "price": 713.5484014558605,
+            "volume_24h": 2412180325.47,
+            "market_cap": 102757016804.11398
+        },
+        {
+            "timestamp": "2024-12-14 16:20:00",
+            "symbol": "BNB",
+            "price": 712.3929923715609,
+            "volume_24h": 2072452582.24,
+            "market_cap": 102590568633.84737
+        },
+        {
+            "timestamp": "2024-12-15 16:20:00",
+            "symbol": "BNB",
+            "price": 718.318181971341,
+            "volume_24h": 1779584728.71,
+            "market_cap": 103443793210.42668
+        },
+        {
+            "timestamp": "2024-12-16 16:20:00",
+            "symbol": "BNB",
+            "price": 718.9954423915995,
+            "volume_24h": 2222108742.6,
+            "market_cap": 103541256988.93687
+        },
+        {
+            "timestamp": "2024-12-17 16:20:00",
+            "symbol": "BNB",
+            "price": 731.6597104641228,
+            "volume_24h": 2361585559.75,
+            "market_cap": 105364947249.02454
+        },
+        {
+            "timestamp": "2024-12-18 16:20:00",
+            "symbol": "BNB",
+            "price": 711.5749512339789,
+            "volume_24h": 2376689664.31,
+            "market_cap": 102472507166.48686
+        },
+        {
+            "timestamp": "2024-12-19 16:20:00",
+            "symbol": "BNB",
+            "price": 687.8539690751861,
+            "volume_24h": 2804037918.71,
+            "market_cap": 99056424577.95204
+        },
+        {
+            "timestamp": "2024-12-20 16:20:00",
+            "symbol": "BNB",
+            "price": 668.375642513111,
+            "volume_24h": 3489001405.88,
+            "market_cap": 96251314467.2616
+        },
+        {
+            "timestamp": "2024-12-21 16:20:00",
+            "symbol": "BNB",
+            "price": 665.4888465322338,
+            "volume_24h": 2195651306.45,
+            "market_cap": 95835538748.33
+        },
+        {
+            "timestamp": "2024-12-22 16:20:00",
+            "symbol": "BNB",
+            "price": 657.9625955031529,
+            "volume_24h": 1129144595.9,
+            "market_cap": 94751656890.99678
+        },
+        {
+            "timestamp": "2024-12-23 16:20:00",
+            "symbol": "BNB",
+            "price": 675.8211172258883,
+            "volume_24h": 1665510257.17,
+            "market_cap": 97323372302.41428
+        },
+        {
+            "timestamp": "2024-12-24 16:20:00",
+            "symbol": "BNB",
+            "price": 694.5540897734901,
+            "volume_24h": 1317618871.08,
+            "market_cap": 100021009425.12418
+        },
+        {
+            "timestamp": "2024-12-25 16:20:00",
+            "symbol": "BNB",
+            "price": 701.6128515796092,
+            "volume_24h": 953074581.38,
+            "market_cap": 101037477257.32092
+        },
+        {
+            "timestamp": "2024-12-26 16:20:00",
+            "symbol": "BNB",
+            "price": 693.9430266772998,
+            "volume_24h": 1209863991.34,
+            "market_cap": 99932913706.05008
+        },
+        {
+            "timestamp": "2024-12-27 16:20:00",
+            "symbol": "BNB",
+            "price": 686.9725032125606,
+            "volume_24h": 1885525335.08,
+            "market_cap": 98929055306.92436
+        },
+        {
+            "timestamp": "2024-12-28 16:20:00",
+            "symbol": "BNB",
+            "price": 720.688470337918,
+            "volume_24h": 1806576442.54,
+            "market_cap": 103784357210.49628
+        },
+        {
+            "timestamp": "2024-12-29 16:20:00",
+            "symbol": "BNB",
+            "price": 705.8490191203509,
+            "volume_24h": 1665226090.07,
+            "market_cap": 101647324377.6351
+        },
+        {
+            "timestamp": "2024-12-30 16:20:00",
+            "symbol": "BNB",
+            "price": 695.6727373639317,
+            "volume_24h": 1786896345.07,
+            "market_cap": 100181819390.9299
+        },
+        {
+            "timestamp": "2024-12-31 16:20:00",
+            "symbol": "BNB",
+            "price": 710.8921682188345,
+            "volume_24h": 2083270213.0,
+            "market_cap": 102373478631.8444
+        },
+        {
+            "timestamp": "2025-01-01 16:20:00",
+            "symbol": "BNB",
+            "price": 704.6802364571412,
+            "volume_24h": 1867946531.9,
+            "market_cap": 101478875867.79944
+        },
+        {
+            "timestamp": "2025-01-02 16:20:00",
+            "symbol": "BNB",
+            "price": 705.3251880556192,
+            "volume_24h": 1853323683.28,
+            "market_cap": 101571706089.41176
+        },
+        {
+            "timestamp": "2025-01-03 16:20:00",
+            "symbol": "BNB",
+            "price": 710.7834395352048,
+            "volume_24h": 1726749128.93,
+            "market_cap": 102357679198.36192
+        },
+        {
+            "timestamp": "2025-01-04 16:20:00",
+            "symbol": "BNB",
+            "price": 711.2807234982185,
+            "volume_24h": 1665399057.28,
+            "market_cap": 102429249775.34557
+        },
+        {
+            "timestamp": "2025-01-05 16:20:00",
+            "symbol": "BNB",
+            "price": 707.0885360115304,
+            "volume_24h": 1416291280.23,
+            "market_cap": 101825503712.6145
+        },
+        {
+            "timestamp": "2025-01-06 16:20:00",
+            "symbol": "BNB",
+            "price": 729.7646038931226,
+            "volume_24h": 1736913812.58,
+            "market_cap": 105090965885.70296
+        },
+        {
+            "timestamp": "2025-01-07 16:20:00",
+            "symbol": "BNB",
+            "price": 708.2353907147101,
+            "volume_24h": 2257618846.73,
+            "market_cap": 101990547223.482
+        },
+        {
+            "timestamp": "2025-01-08 16:20:00",
+            "symbol": "BNB",
+            "price": 690.6557717232719,
+            "volume_24h": 2156000784.52,
+            "market_cap": 99458905368.90433
+        },
+        {
+            "timestamp": "2025-01-09 16:20:00",
+            "symbol": "BNB",
+            "price": 695.2325599417079,
+            "volume_24h": 2075435829.69,
+            "market_cap": 100117938655.31863
+        },
+        {
+            "timestamp": "2025-01-10 16:20:00",
+            "symbol": "BNB",
+            "price": 691.970592044584,
+            "volume_24h": 1746452688.51,
+            "market_cap": 99648132350.02354
+        },
+        {
+            "timestamp": "2025-01-11 16:20:00",
+            "symbol": "BNB",
+            "price": 694.4240095411122,
+            "volume_24h": 1405683496.09,
+            "market_cap": 100001399787.80206
+        },
+        {
+            "timestamp": "2025-01-12 16:20:00",
+            "symbol": "BNB",
+            "price": 693.9605065729633,
+            "volume_24h": 1303419166.97,
+            "market_cap": 99934616598.10509
+        },
+        {
+            "timestamp": "2025-01-13 16:20:00",
+            "symbol": "BNB",
+            "price": 677.2984413726816,
+            "volume_24h": 1890868790.64,
+            "market_cap": 97535123367.18604
+        },
+        {
+            "timestamp": "2025-01-14 16:20:00",
+            "symbol": "BNB",
+            "price": 694.4045478164475,
+            "volume_24h": 1701050084.92,
+            "market_cap": 99998463011.84843
+        },
+        {
+            "timestamp": "2025-01-15 16:20:00",
+            "symbol": "BNB",
+            "price": 705.2972893704834,
+            "volume_24h": 1721110065.64,
+            "market_cap": 101567036762.85886
+        },
+        {
+            "timestamp": "2025-01-16 16:20:00",
+            "symbol": "BNB",
+            "price": 710.740308508272,
+            "volume_24h": 1976947366.11,
+            "market_cap": 102350812981.53175
+        },
+        {
+            "timestamp": "2025-01-17 16:20:00",
+            "symbol": "BNB",
+            "price": 721.3325866844647,
+            "volume_24h": 1893575153.17,
+            "market_cap": 103876108036.7594
+        },
+        {
+            "timestamp": "2025-01-18 16:20:00",
+            "symbol": "BNB",
+            "price": 698.8210761789701,
+            "volume_24h": 2146662971.64,
+            "market_cap": 100634270172.31187
+        },
+        {
+            "timestamp": "2025-01-19 16:20:00",
+            "symbol": "BNB",
+            "price": 696.6120433456255,
+            "volume_24h": 2499874229.64,
+            "market_cap": 100316094418.5414
+        },
+        {
+            "timestamp": "2025-01-20 16:20:00",
+            "symbol": "BNB",
+            "price": 683.7397441913539,
+            "volume_24h": 3011075673.67,
+            "market_cap": 98462339525.31114
+        },
+        {
+            "timestamp": "2025-01-21 16:20:00",
+            "symbol": "BNB",
+            "price": 692.0922178079813,
+            "volume_24h": 2319463089.42,
+            "market_cap": 99665093062.3854
+        },
+        {
+            "timestamp": "2025-01-22 16:20:00",
+            "symbol": "BNB",
+            "price": 691.0296649226938,
+            "volume_24h": 1790383897.16,
+            "market_cap": 99512038489.37872
+        },
+        {
+            "timestamp": "2025-01-23 16:20:00",
+            "symbol": "BNB",
+            "price": 691.2915570454879,
+            "volume_24h": 2130935633.24,
+            "market_cap": 98496009279.2132
+        },
+        {
+            "timestamp": "2025-01-24 16:20:00",
+            "symbol": "BNB",
+            "price": 685.6482814968987,
+            "volume_24h": 1929518200.93,
+            "market_cap": 97691898734.39449
+        },
+        {
+            "timestamp": "2025-01-25 16:20:00",
+            "symbol": "BNB",
+            "price": 687.9044396787875,
+            "volume_24h": 1501671718.56,
+            "market_cap": 98013321887.28513
+        },
+        {
+            "timestamp": "2025-01-26 16:20:00",
+            "symbol": "BNB",
+            "price": 684.1630883956946,
+            "volume_24h": 1443281745.69,
+            "market_cap": 97480217551.43793
+        },
+        {
+            "timestamp": "2025-01-27 16:20:00",
+            "symbol": "BNB",
+            "price": 666.1685240753872,
+            "volume_24h": 2218798701.66,
+            "market_cap": 94916287977.42313
+        },
+        {
+            "timestamp": "2025-01-28 16:20:00",
+            "symbol": "BNB",
+            "price": 670.9498984325829,
+            "volume_24h": 1736670277.88,
+            "market_cap": 95597502925.87344
+        },
+        {
+            "timestamp": "2025-01-29 16:20:00",
+            "symbol": "BNB",
+            "price": 661.6155598276965,
+            "volume_24h": 1684278640.47,
+            "market_cap": 94267508070.5926
+        },
+        {
+            "timestamp": "2025-01-30 16:20:00",
+            "symbol": "BNB",
+            "price": 680.3821028327457,
+            "volume_24h": 1659605558.74,
+            "market_cap": 96941345746.10709
+        },
+        {
+            "timestamp": "2025-01-31 16:20:00",
+            "symbol": "BNB",
+            "price": 686.7725061757227,
+            "volume_24h": 1500303828.69,
+            "market_cap": 97851824316.45956
+        },
+        {
+            "timestamp": "2025-02-01 16:20:00",
+            "symbol": "BNB",
+            "price": 667.3389230965774,
+            "volume_24h": 1564125134.05,
+            "market_cap": 95082883112.67683
+        },
+        {
+            "timestamp": "2025-02-02 16:20:00",
+            "symbol": "BNB",
+            "price": 642.4150778966552,
+            "volume_24h": 1725372865.24,
+            "market_cap": 91531686422.29802
+        },
+        {
+            "timestamp": "2025-02-03 16:20:00",
+            "symbol": "BNB",
+            "price": 591.5046661735561,
+            "volume_24h": 4275374401.65,
+            "market_cap": 84277870757.9338
+        },
+        {
+            "timestamp": "2025-02-04 16:20:00",
+            "symbol": "BNB",
+            "price": 584.2879748826259,
+            "volume_24h": 2360928225.59,
+            "market_cap": 83249599094.68057
+        },
+        {
+            "timestamp": "2025-02-05 16:20:00",
+            "symbol": "BNB",
+            "price": 565.5474709410743,
+            "volume_24h": 1713823571.75,
+            "market_cap": 80579411243.88348
+        },
+        {
+            "timestamp": "2025-02-06 16:20:00",
+            "symbol": "BNB",
+            "price": 575.3657122080435,
+            "volume_24h": 1687141288.22,
+            "market_cap": 81978250229.14723
+        },
+        {
+            "timestamp": "2025-02-07 16:20:00",
+            "symbol": "BNB",
+            "price": 584.5033080030856,
+            "volume_24h": 1604194376.83,
+            "market_cap": 83280136996.63269
+        },
+        {
+            "timestamp": "2025-02-08 16:20:00",
+            "symbol": "BNB",
+            "price": 600.3013688558716,
+            "volume_24h": 1708145910.28,
+            "market_cap": 85530987382.85683
+        },
+        {
+            "timestamp": "2025-02-09 16:20:00",
+            "symbol": "BNB",
+            "price": 626.7557768411358,
+            "volume_24h": 2921553447.62,
+            "market_cap": 89300018084.37605
+        },
+        {
+            "timestamp": "2025-02-10 16:20:00",
+            "symbol": "BNB",
+            "price": 613.3088285973188,
+            "volume_24h": 1917796884.02,
+            "market_cap": 87384004897.61534
+        },
+        {
+            "timestamp": "2025-02-11 16:20:00",
+            "symbol": "BNB",
+            "price": 636.2989155696162,
+            "volume_24h": 2078981397.91,
+            "market_cap": 90659528440.50314
+        },
+        {
+            "timestamp": "2025-02-12 16:20:00",
+            "symbol": "BNB",
+            "price": 658.4524039712977,
+            "volume_24h": 2308913551.62,
+            "market_cap": 93815861391.03308
+        },
+        {
+            "timestamp": "2025-02-13 16:20:00",
+            "symbol": "BNB",
+            "price": 688.0060652328203,
+            "volume_24h": 4996382419.97,
+            "market_cap": 98026290985.60344
+        },
+        {
+            "timestamp": "2025-02-14 16:20:00",
+            "symbol": "BNB",
+            "price": 665.235915158492,
+            "volume_24h": 3270179756.4,
+            "market_cap": 94781467545.9204
+        },
+        {
+            "timestamp": "2025-02-15 16:20:00",
+            "symbol": "BNB",
+            "price": 668.5701019344118,
+            "volume_24h": 1993370279.85,
+            "market_cap": 95256342747.49892
+        },
+        {
+            "timestamp": "2025-02-16 16:20:00",
+            "symbol": "BNB",
+            "price": 676.1689969747524,
+            "volume_24h": 2001235180.55,
+            "market_cap": 96338899410.81429
+        },
+        {
+            "timestamp": "2025-02-17 16:20:00",
+            "symbol": "BNB",
+            "price": 669.3496398985967,
+            "volume_24h": 1930078040.65,
+            "market_cap": 95367187206.90475
+        },
+        {
+            "timestamp": "2025-02-18 16:20:00",
+            "symbol": "BNB",
+            "price": 649.0861572520064,
+            "volume_24h": 1906240730.09,
+            "market_cap": 92479978490.6783
+        },
+        {
+            "timestamp": "2025-02-19 16:20:00",
+            "symbol": "BNB",
+            "price": 656.1036897730294,
+            "volume_24h": 2009700716.86,
+            "market_cap": 93479689311.60886
+        },
+        {
+            "timestamp": "2025-02-20 16:20:00",
+            "symbol": "BNB",
+            "price": 650.6062762887103,
+            "volume_24h": 1728014024.8,
+            "market_cap": 92696339153.23209
+        },
+        {
+            "timestamp": "2025-02-21 16:20:00",
+            "symbol": "BNB",
+            "price": 660.8793141364175,
+            "volume_24h": 1818623882.56,
+            "market_cap": 94159936893.08257
+        },
+        {
+            "timestamp": "2025-02-22 16:20:00",
+            "symbol": "BNB",
+            "price": 659.1511553573947,
+            "volume_24h": 1714421601.91,
+            "market_cap": 93913663513.96356
+        },
+        {
+            "timestamp": "2025-02-23 16:20:00",
+            "symbol": "BNB",
+            "price": 650.9465919721242,
+            "volume_24h": 1870711864.43,
+            "market_cap": 92744646263.36334
+        },
+        {
+            "timestamp": "2025-02-24 16:20:00",
+            "symbol": "BNB",
+            "price": 635.5586782071434,
+            "volume_24h": 1684461827.56,
+            "market_cap": 90552165287.34958
+        },
+        {
+            "timestamp": "2025-02-25 16:20:00",
+            "symbol": "BNB",
+            "price": 606.9963303535579,
+            "volume_24h": 2643081695.01,
+            "market_cap": 86482641497.36893
+        },
+        {
+            "timestamp": "2025-02-26 16:20:00",
+            "symbol": "BNB",
+            "price": 616.809900178337,
+            "volume_24h": 1841579479.2,
+            "market_cap": 87880796365.37076
+        },
+        {
+            "timestamp": "2025-02-27 16:20:00",
+            "symbol": "BNB",
+            "price": 607.6211256735539,
+            "volume_24h": 2079662168.05,
+            "market_cap": 86571554324.14662
+        },
+        {
+            "timestamp": "2025-02-28 16:20:00",
+            "symbol": "BNB",
+            "price": 587.5161301054595,
+            "volume_24h": 2245159167.12,
+            "market_cap": 83707009342.7104
+        },
+        {
+            "timestamp": "2025-03-01 16:20:00",
+            "symbol": "BNB",
+            "price": 605.5493724478823,
+            "volume_24h": 1714092946.36,
+            "market_cap": 86276272032.90613
+        },
+        {
+            "timestamp": "2025-03-02 16:20:00",
+            "symbol": "BNB",
+            "price": 618.8092238267812,
+            "volume_24h": 1619465205.01,
+            "market_cap": 88165441711.65955
+        },
+        {
+            "timestamp": "2025-03-03 16:20:00",
+            "symbol": "BNB",
+            "price": 591.2572566940127,
+            "volume_24h": 2402058223.84,
+            "market_cap": 84239883213.82193
+        },
+        {
+            "timestamp": "2025-03-04 16:20:00",
+            "symbol": "BNB",
+            "price": 568.4040499493423,
+            "volume_24h": 2115609848.0,
+            "market_cap": 80983805648.25385
+        },
+        {
+            "timestamp": "2025-03-05 16:20:00",
+            "symbol": "BNB",
+            "price": 589.6095541047514,
+            "volume_24h": 1641036106.43,
+            "market_cap": 84005030321.66357
+        },
+        {
+            "timestamp": "2025-03-06 16:20:00",
+            "symbol": "BNB",
+            "price": 599.9512692257565,
+            "volume_24h": 1606301038.17,
+            "market_cap": 85478433762.34404
+        },
+        {
+            "timestamp": "2025-03-07 16:20:00",
+            "symbol": "BNB",
+            "price": 602.3268151145583,
+            "volume_24h": 1778704389.0,
+            "market_cap": 85816847238.68947
+        },
+        {
+            "timestamp": "2025-03-08 16:20:00",
+            "symbol": "BNB",
+            "price": 597.6524432291898,
+            "volume_24h": 1548024022.2,
+            "market_cap": 85150827824.49826
+        },
+        {
+            "timestamp": "2025-03-09 16:20:00",
+            "symbol": "BNB",
+            "price": 569.5462282791229,
+            "volume_24h": 1135137101.83,
+            "market_cap": 81146348978.90326
+        },
+        {
+            "timestamp": "2025-03-10 16:20:00",
+            "symbol": "BNB",
+            "price": 546.7561606650444,
+            "volume_24h": 1830854823.46,
+            "market_cap": 77899279056.94765
+        },
+        {
+            "timestamp": "2025-03-11 16:20:00",
+            "symbol": "BNB",
+            "price": 548.1218267279648,
+            "volume_24h": 2626224533.51,
+            "market_cap": 78093792895.8128
+        },
+        {
+            "timestamp": "2025-03-12 16:20:00",
+            "symbol": "BNB",
+            "price": 554.9832468634315,
+            "volume_24h": 1781377005.67,
+            "market_cap": 79071336722.94022
+        },
+        {
+            "timestamp": "2025-03-13 16:20:00",
+            "symbol": "BNB",
+            "price": 582.4975821810976,
+            "volume_24h": 2369079776.7,
+            "market_cap": 82991398317.74736
+        },
+        {
+            "timestamp": "2025-03-14 16:20:00",
+            "symbol": "BNB",
+            "price": 585.1116063680635,
+            "volume_24h": 1626237343.85,
+            "market_cap": 83363778539.65189
+        },
+        {
+            "timestamp": "2025-03-15 16:20:00",
+            "symbol": "BNB",
+            "price": 604.0987312504998,
+            "volume_24h": 1252312885.63,
+            "market_cap": 86068906101.5253
+        },
+        {
+            "timestamp": "2025-03-16 16:20:00",
+            "symbol": "BNB",
+            "price": 606.1130813778229,
+            "volume_24h": 1560499482.99,
+            "market_cap": 86355816929.53613
+        },
+        {
+            "timestamp": "2025-03-17 16:20:00",
+            "symbol": "BNB",
+            "price": 628.6725155329406,
+            "volume_24h": 2438104635.14,
+            "market_cap": 89569808588.44965
+        },
+        {
+            "timestamp": "2025-03-18 16:20:00",
+            "symbol": "BNB",
+            "price": 630.0671877811188,
+            "volume_24h": 2178874538.92,
+            "market_cap": 89768352990.03984
+        },
+        {
+            "timestamp": "2025-03-19 16:20:00",
+            "symbol": "BNB",
+            "price": 608.2521005666042,
+            "volume_24h": 1892923725.77,
+            "market_cap": 86660126795.02014
+        },
+        {
+            "timestamp": "2025-03-20 16:20:00",
+            "symbol": "BNB",
+            "price": 622.1476057679571,
+            "volume_24h": 2407789544.8,
+            "market_cap": 88639745375.46727
+        },
+        {
+            "timestamp": "2025-03-21 16:20:00",
+            "symbol": "BNB",
+            "price": 632.1027989643544,
+            "volume_24h": 1753214274.41,
+            "market_cap": 90057922122.87021
+        },
+        {
+            "timestamp": "2025-03-22 16:20:00",
+            "symbol": "BNB",
+            "price": 625.0685393227709,
+            "volume_24h": 1238280129.14,
+            "market_cap": 89055538150.42764
+        },
+        {
+            "timestamp": "2025-03-23 16:20:00",
+            "symbol": "BNB",
+            "price": 620.2845536092078,
+            "volume_24h": 1191098257.03,
+            "market_cap": 88373824919.84314
+        },
+        {
+            "timestamp": "2025-03-24 16:20:00",
+            "symbol": "BNB",
+            "price": 635.2946443051111,
+            "volume_24h": 1695199333.2,
+            "market_cap": 90512243646.2426
+        },
+        {
+            "timestamp": "2025-03-25 16:20:00",
+            "symbol": "BNB",
+            "price": 632.5311036305113,
+            "volume_24h": 2286142445.85,
+            "market_cap": 90118385887.7531
+        },
+        {
+            "timestamp": "2025-03-26 16:20:00",
+            "symbol": "BNB",
+            "price": 623.3885085884945,
+            "volume_24h": 1566952168.21,
+            "market_cap": 88815737835.6824
+        },
+        {
+            "timestamp": "2025-03-27 16:20:00",
+            "symbol": "BNB",
+            "price": 638.1732926098946,
+            "volume_24h": 2345223766.04,
+            "market_cap": 90922060358.41364
+        },
+        {
+            "timestamp": "2025-03-28 16:20:00",
+            "symbol": "BNB",
+            "price": 624.4228247643204,
+            "volume_24h": 1718713598.11,
+            "market_cap": 88962898613.4794
+        },
+        {
+            "timestamp": "2025-03-29 16:20:00",
+            "symbol": "BNB",
+            "price": 605.8923189687541,
+            "volume_24h": 1375390049.85,
+            "market_cap": 86322748991.25543
+        },
+        {
+            "timestamp": "2025-03-30 16:20:00",
+            "symbol": "BNB",
+            "price": 601.9228060982522,
+            "volume_24h": 1227070375.08,
+            "market_cap": 85757115344.40553
+        },
+        {
+            "timestamp": "2025-03-31 16:20:00",
+            "symbol": "BNB",
+            "price": 603.4845594116127,
+            "volume_24h": 1522704545.83,
+            "market_cap": 85979547806.01097
+        },
+        {
+            "timestamp": "2025-04-01 16:20:00",
+            "symbol": "BNB",
+            "price": 613.8886294045419,
+            "volume_24h": 1835521171.97,
+            "market_cap": 87461763265.79338
+        },
+        {
+            "timestamp": "2025-04-02 16:20:00",
+            "symbol": "BNB",
+            "price": 606.7376849830844,
+            "volume_24h": 1954009670.85,
+            "market_cap": 86442869623.32942
+        },
+        {
+            "timestamp": "2025-04-03 16:20:00",
+            "symbol": "BNB",
+            "price": 588.9604069049713,
+            "volume_24h": 2296401013.68,
+            "market_cap": 83910042033.5373
+        },
+        {
+            "timestamp": "2025-04-04 16:20:00",
+            "symbol": "BNB",
+            "price": 593.2756639705042,
+            "volume_24h": 1508360961.09,
+            "market_cap": 84524787514.89041
+        },
+        {
+            "timestamp": "2025-04-05 16:20:00",
+            "symbol": "BNB",
+            "price": 592.5656435457098,
+            "volume_24h": 1071649416.98,
+            "market_cap": 84423585595.54222
+        },
+        {
+            "timestamp": "2025-04-06 16:20:00",
+            "symbol": "BNB",
+            "price": 579.4191380946683,
+            "volume_24h": 1063779932.41,
+            "market_cap": 82550538406.61752
+        },
+        {
+            "timestamp": "2025-04-07 16:20:00",
+            "symbol": "BNB",
+            "price": 550.5239659115275,
+            "volume_24h": 3051566694.32,
+            "market_cap": 78433740471.45038
+        },
+        {
+            "timestamp": "2025-04-08 16:20:00",
+            "symbol": "BNB",
+            "price": 559.7289749653315,
+            "volume_24h": 1737688827.38,
+            "market_cap": 79745142723.05609
+        },
+        {
+            "timestamp": "2025-04-09 16:20:00",
+            "symbol": "BNB",
+            "price": 564.7625431979579,
+            "volume_24h": 1783561681.88,
+            "market_cap": 80462234830.05272
+        },
+        {
+            "timestamp": "2025-04-10 16:20:00",
+            "symbol": "BNB",
+            "price": 568.0769520047648,
+            "volume_24h": 1960372732.7,
+            "market_cap": 80934388533.29254
+        },
+        {
+            "timestamp": "2025-04-11 16:20:00",
+            "symbol": "BNB",
+            "price": 584.0938077590589,
+            "volume_24h": 1402459045.46,
+            "market_cap": 83216279082.70201
+        },
+        {
+            "timestamp": "2025-04-12 16:20:00",
+            "symbol": "BNB",
+            "price": 598.5656650847458,
+            "volume_24h": 1356359627.46,
+            "market_cap": 85278043035.52791
+        },
+        {
+            "timestamp": "2025-04-13 16:20:00",
+            "symbol": "BNB",
+            "price": 585.0284772833235,
+            "volume_24h": 1272356321.07,
+            "market_cap": 83349336552.98894
+        },
+        {
+            "timestamp": "2025-04-14 16:20:00",
+            "symbol": "BNB",
+            "price": 585.4927777688871,
+            "volume_24h": 1382252853.51,
+            "market_cap": 83415427647.1231
+        },
+        {
+            "timestamp": "2025-04-15 16:20:00",
+            "symbol": "BNB",
+            "price": 584.4945990924218,
+            "volume_24h": 1340922501.77,
+            "market_cap": 83273157002.84329
+        },
+        {
+            "timestamp": "2025-04-16 16:20:00",
+            "symbol": "BNB",
+            "price": 583.6110981455955,
+            "volume_24h": 1388261568.58,
+            "market_cap": 82225589659.6219
+        },
+        {
+            "timestamp": "2025-04-17 16:20:00",
+            "symbol": "BNB",
+            "price": 591.272943501092,
+            "volume_24h": 1428205010.73,
+            "market_cap": 83305037217.0236
+        },
+        {
+            "timestamp": "2025-04-18 16:20:00",
+            "symbol": "BNB",
+            "price": 594.6909894402118,
+            "volume_24h": 1437252710.03,
+            "market_cap": 83786568485.7035
+        },
+        {
+            "timestamp": "2025-04-19 16:20:00",
+            "symbol": "BNB",
+            "price": 589.8276834007421,
+            "volume_24h": 1262144754.92,
+            "market_cap": 83101343267.83536
+        },
+        {
+            "timestamp": "2025-04-20 16:20:00",
+            "symbol": "BNB",
+            "price": 588.3433730694924,
+            "volume_24h": 1298378829.65,
+            "market_cap": 82892184162.2764
+        },
+        {
+            "timestamp": "2025-04-21 16:20:00",
+            "symbol": "BNB",
+            "price": 603.8685911053017,
+            "volume_24h": 1395599947.19,
+            "market_cap": 85079509680.60027
+        },
+        {
+            "timestamp": "2025-04-22 16:20:00",
+            "symbol": "BNB",
+            "price": 609.9912862282988,
+            "volume_24h": 1636340103.49,
+            "market_cap": 85942092161.5075
+        },
+        {
+            "timestamp": "2025-04-23 16:20:00",
+            "symbol": "BNB",
+            "price": 604.3769774933221,
+            "volume_24h": 1831443359.26,
+            "market_cap": 85151042817.94627
+        }
+    ],
+    "investment_thesis": "BNB represents a moderate opportunity with a balanced risk-reward profile (score: 59.2/100). Technical indicators are moderately positive (67.0/100), suggesting potential for price appreciation. Fundamentals remain relatively strong (66.0/100), supporting a stable market position. Negative sentiment trends (37.0/100) suggest monitoring closely for changes. Chart analysis reveals a double bottom pattern, supporting a bullish outlook. Chart analysis reveals a double top pattern, suggesting potential downside risk. This analysis is set against a broader market that is currently in a strong bullish trend with sentiment showing greed. The current recommendation for BNB is Hold, suggesting investors maintain existing positions while monitoring for changes in market conditions.",
+    "risk_assessment": "BNB is classified as a conservative risk investment. As a large-cap cryptocurrency (market cap: $85.06B) ranked #5 globally, it presents relatively lower volatility compared to smaller cryptocurrencies. Historical volatility (35.3% annualized) is moderate for the crypto market. With a daily trading volume of $1879.59M and liquidity ratio of 0.022, BNB offers sufficient liquidity for most investors. Primary risks include regulatory changes, market-wide corrections, and competition from other established cryptocurrencies. The RSI of 71.0 indicates overbought conditions, increasing the risk of a short-term correction. The current bullish market environment potentially reduces short-term downside risk, though caution is warranted for any sudden sentiment changes. High Bitcoin dominance (63.5%) may limit altcoin performance in the near term.",
+    "analysis_time": "2025-04-23 20:16:22"
+}

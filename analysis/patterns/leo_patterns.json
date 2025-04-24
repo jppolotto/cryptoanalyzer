@@ -1,0 +1,12 @@
+{
+    "head_and_shoulders": false,
+    "inverse_head_and_shoulders": false,
+    "double_top": true,
+    "double_bottom": true,
+    "ascending_triangle": false,
+    "descending_triangle": true,
+    "symmetric_triangle": false,
+    "bullish_flag": false,
+    "bearish_flag": false,
+    "pattern_strength": 7
+}

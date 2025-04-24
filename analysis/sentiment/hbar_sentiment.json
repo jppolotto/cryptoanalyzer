@@ -1,0 +1,20 @@
+{
+    "symbol": "HBAR",
+    "price_change_1h": -1.49210112,
+    "price_change_24h": 1.98798593,
+    "price_change_7d": 12.56887622,
+    "market_avg_change_24h": 3.4300381724999993,
+    "market_avg_change_7d": 10.064568308,
+    "relative_performance_24h": -1.4420522424999993,
+    "relative_performance_7d": 2.504307912,
+    "fear_greed_value": 72,
+    "fear_greed_classification": "Greed",
+    "market_trend": "Strong Bullish",
+    "sentiment_score": 45,
+    "score_components": {
+        "momentum_score": 16,
+        "market_sentiment_score": 10,
+        "relative_score": 9,
+        "alignment_score": 10
+    }
+}

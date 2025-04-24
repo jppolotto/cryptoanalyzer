@@ -1,0 +1,2 @@
+result
+"{'symbol': 'BTCUSDT', 'worstDate': '2025-03-03', 'worstLoss': -8.539, '99% VaR': -6.365, '95% VaR': -3.946, '90% VaR': -3.101, 'Method': 'Historical Simulation'}"

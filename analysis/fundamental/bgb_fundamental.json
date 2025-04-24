@@ -1,0 +1,18 @@
+{
+    "symbol": "BGB",
+    "market_cap_usd": 5346987341.662245,
+    "volume_24h_usd": 119193518.99814098,
+    "volume_mcap_ratio": 0.022291715199962807,
+    "market_share": 0.2045423433357605,
+    "cmc_rank": 24,
+    "price_change_30d": -5.52247358,
+    "fundamental_score": 46,
+    "score_components": {
+        "market_cap_score": 15,
+        "volume_mcap_score": 5,
+        "rank_score": 7,
+        "stability_score": 12,
+        "growth_score": 3,
+        "market_position_score": 4
+    }
+}

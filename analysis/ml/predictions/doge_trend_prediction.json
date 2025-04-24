@@ -1,0 +1,14 @@
+{
+    "symbol": "DOGE",
+    "current_price": 0.1773953977469673,
+    "predicted_price": 0.18073341995956813,
+    "prediction_days": 30,
+    "price_change_percent": 1.8816847872018077,
+    "trend": "Bullish",
+    "trend_strength": "Weak",
+    "confidence": 66.66666666666666,
+    "best_model": "Random Forest",
+    "model_agreement": 2,
+    "available_models": 3,
+    "prediction_date": "2025-04-23 20:16:26"
+}

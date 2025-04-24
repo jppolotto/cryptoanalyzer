@@ -1,0 +1,18 @@
+{
+    "symbol": "USDC",
+    "market_cap_usd": 61633960134.18783,
+    "volume_24h_usd": 15803318972.037155,
+    "volume_mcap_ratio": 0.2564060290403308,
+    "market_share": 2.2936605762866344,
+    "cmc_rank": 7,
+    "price_change_30d": 0.02751484,
+    "fundamental_score": 79,
+    "score_components": {
+        "market_cap_score": 22,
+        "volume_mcap_score": 18,
+        "rank_score": 12,
+        "stability_score": 15,
+        "growth_score": 5,
+        "market_position_score": 7
+    }
+}

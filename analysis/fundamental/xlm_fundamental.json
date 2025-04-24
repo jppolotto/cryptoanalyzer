@@ -1,0 +1,18 @@
+{
+    "symbol": "XLM",
+    "market_cap_usd": 8244013961.031562,
+    "volume_24h_usd": 312238642.5652444,
+    "volume_mcap_ratio": 0.0378745892524149,
+    "market_share": 0.30679465949626805,
+    "cmc_rank": 15,
+    "price_change_30d": -8.26323833,
+    "fundamental_score": 49,
+    "score_components": {
+        "market_cap_score": 15,
+        "volume_mcap_score": 5,
+        "rank_score": 10,
+        "stability_score": 12,
+        "growth_score": 3,
+        "market_position_score": 4
+    }
+}

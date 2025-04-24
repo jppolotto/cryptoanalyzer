@@ -1,0 +1,18 @@
+{
+    "symbol": "XRP",
+    "market_cap_usd": 129208641277.9729,
+    "volume_24h_usd": 5786652529.500299,
+    "volume_mcap_ratio": 0.04478533689593709,
+    "market_share": 4.80840053064284,
+    "cmc_rank": 4,
+    "price_change_30d": -10.51526996,
+    "fundamental_score": 65,
+    "score_components": {
+        "market_cap_score": 25,
+        "volume_mcap_score": 5,
+        "rank_score": 14,
+        "stability_score": 12,
+        "growth_score": 2,
+        "market_position_score": 7
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "symbol": "SOL",
+    "market_cap_usd": 77358981185.99165,
+    "volume_24h_usd": 5376334710.987209,
+    "volume_mcap_ratio": 0.06949852012736653,
+    "market_share": 2.878855179542272,
+    "cmc_rank": 6,
+    "price_change_30d": 4.87033994,
+    "fundamental_score": 63,
+    "score_components": {
+        "market_cap_score": 22,
+        "volume_mcap_score": 8,
+        "rank_score": 12,
+        "stability_score": 9,
+        "growth_score": 5,
+        "market_position_score": 7
+    }
+}

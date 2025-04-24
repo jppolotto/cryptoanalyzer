@@ -1,0 +1,14 @@
+{
+    "symbol": "TRX",
+    "current_price": 0.2448412533050629,
+    "predicted_price": 0.24445244640746103,
+    "prediction_days": 30,
+    "price_change_percent": -0.15879958640688488,
+    "trend": "Neutral",
+    "trend_strength": "Neutral",
+    "confidence": 66.66666666666666,
+    "best_model": "Random Forest",
+    "model_agreement": 2,
+    "available_models": 3,
+    "prediction_date": "2025-04-23 20:16:28"
+}

@@ -1,0 +1,2641 @@
+{
+    "symbol": "SUI",
+    "name": "Sui",
+    "price_usd": 2.960003312624378,
+    "market_cap_usd": 9619960151.33089,
+    "volume_24h_usd": 3095551508.6790347,
+    "percent_change_24h": 20.72548478,
+    "percent_change_7d": 42.30450888,
+    "technical_score": 69,
+    "fundamental_score": 64,
+    "sentiment_score": 71,
+    "total_score": 68.0,
+    "technical_weight": 0.45,
+    "fundamental_weight": 0.3,
+    "sentiment_weight": 0.25,
+    "risk_profile": "Aggressive",
+    "market_opportunity": "Good",
+    "recommendation": "Strong Buy",
+    "rank": 2,
+    "technical_data": {
+        "symbol": "SUI",
+        "price": 2.938654291387224,
+        "ma_7": 2.2929628221589957,
+        "ma_30": 2.2788348028551213,
+        "ma_90": 2.788986437551939,
+        "ma_200": 3.171692287536103,
+        "rsi_14": 82.5243282346057,
+        "macd": 0.021503830401881974,
+        "macd_signal": -0.05524853588358464,
+        "bb_upper": 2.604857487665811,
+        "bb_middle": 2.1909350736976734,
+        "bb_lower": 1.777012659729536,
+        "bb_width": 0.37785000471926766,
+        "roc_7": 40.558828345228946,
+        "roc_30": 20.887433583614378,
+        "obv": 14557575424.249985,
+        "tenkan_sen": 2.5146738969377047,
+        "kijun_sen": 2.451937460256705,
+        "adx": 23.90808945202392,
+        "stoch_k": 99.83214832800174,
+        "stoch_d": 93.64817655532725,
+        "mfi": 70.12868514200265,
+        "psar": 2.0908523306361317,
+        "technical_score": 69,
+        "score_components": {
+            "trend_score": 14,
+            "momentum_score": 10,
+            "volatility_score": 4,
+            "support_resistance_score": 3,
+            "volume_score": 10,
+            "ichimoku_score": 10,
+            "obv_score": 5,
+            "adx_score": 3,
+            "psar_score": 5,
+            "ma_cross_score": 5
+        }
+    },
+    "fundamental_data": {
+        "symbol": "SUI",
+        "market_cap_usd": 9619960151.33089,
+        "volume_24h_usd": 3095551508.6790347,
+        "volume_mcap_ratio": 0.3217842340283265,
+        "market_share": 0.3579994421341238,
+        "cmc_rank": 12,
+        "price_change_30d": 21.34742804,
+        "fundamental_score": 64,
+        "score_components": {
+            "market_cap_score": 15,
+            "volume_mcap_score": 20,
+            "rank_score": 10,
+            "stability_score": 6,
+            "growth_score": 9,
+            "market_position_score": 4
+        }
+    },
+    "sentiment_data": {
+        "symbol": "SUI",
+        "price_change_1h": -2.15277438,
+        "price_change_24h": 20.72548478,
+        "price_change_7d": 42.30450888,
+        "market_avg_change_24h": 3.7310203413333327,
+        "market_avg_change_7d": 11.602763898000001,
+        "relative_performance_24h": 16.994464438666665,
+        "relative_performance_7d": 30.701744982,
+        "fear_greed_value": 72,
+        "fear_greed_classification": "Greed",
+        "market_trend": "Strong Bullish",
+        "sentiment_score": 71,
+        "score_components": {
+            "momentum_score": 26,
+            "market_sentiment_score": 10,
+            "relative_score": 25,
+            "alignment_score": 10
+        }
+    },
+    "pattern_data": {
+        "head_and_shoulders": false,
+        "inverse_head_and_shoulders": true,
+        "double_top": true,
+        "double_bottom": true,
+        "ascending_triangle": false,
+        "descending_triangle": false,
+        "symmetric_triangle": false,
+        "bullish_flag": false,
+        "bearish_flag": false,
+        "pattern_strength": 10
+    },
+    "divergence_data": {
+        "bearish_divergence": false,
+        "bullish_divergence": false,
+        "bearish_divergence_strength": 0,
+        "bullish_divergence_strength": 0,
+        "rsi_divergences": [],
+        "macd_divergences": []
+    },
+    "historical_data": [
+        {
+            "timestamp": "2024-04-29 16:20:00",
+            "symbol": "SUI",
+            "price": 1.200872578914294,
+            "volume_24h": 152555749.67,
+            "market_cap": 1556212539.5892098
+        },
+        {
+            "timestamp": "2024-04-30 16:20:00",
+            "symbol": "SUI",
+            "price": 1.080173638709646,
+            "volume_24h": 239198970.7,
+            "market_cap": 1399798605.6217766
+        },
+        {
+            "timestamp": "2024-05-01 16:20:00",
+            "symbol": "SUI",
+            "price": 1.099288625243375,
+            "volume_24h": 231291990.17,
+            "market_cap": 2571452616.630805
+        },
+        {
+            "timestamp": "2024-05-02 16:20:00",
+            "symbol": "SUI",
+            "price": 1.1328456534233566,
+            "volume_24h": 183119359.42,
+            "market_cap": 2649949115.128335
+        },
+        {
+            "timestamp": "2024-05-03 16:20:00",
+            "symbol": "SUI",
+            "price": 1.1388814180090374,
+            "volume_24h": 184594455.04,
+            "market_cap": 2664067957.33302
+        },
+        {
+            "timestamp": "2024-05-04 16:20:00",
+            "symbol": "SUI",
+            "price": 1.0939621380941933,
+            "volume_24h": 324387267.04,
+            "market_cap": 2558992914.05344
+        },
+        {
+            "timestamp": "2024-05-05 16:20:00",
+            "symbol": "SUI",
+            "price": 1.1020323265452447,
+            "volume_24h": 215774285.93,
+            "market_cap": 2577870674.391009
+        },
+        {
+            "timestamp": "2024-05-06 16:20:00",
+            "symbol": "SUI",
+            "price": 1.0951230304763884,
+            "volume_24h": 307822789.72,
+            "market_cap": 2561708469.99141
+        },
+        {
+            "timestamp": "2024-05-07 16:20:00",
+            "symbol": "SUI",
+            "price": 1.1312280717953012,
+            "volume_24h": 256161821.98,
+            "market_cap": 2646165273.092167
+        },
+        {
+            "timestamp": "2024-05-08 16:20:00",
+            "symbol": "SUI",
+            "price": 1.057604292097348,
+            "volume_24h": 212821515.81,
+            "market_cap": 2473944751.0171413
+        },
+        {
+            "timestamp": "2024-05-09 16:20:00",
+            "symbol": "SUI",
+            "price": 1.0127204807885588,
+            "volume_24h": 203877987.76,
+            "market_cap": 2368952675.7932234
+        },
+        {
+            "timestamp": "2024-05-10 16:20:00",
+            "symbol": "SUI",
+            "price": 1.0438521711254167,
+            "volume_24h": 286587531.88,
+            "market_cap": 2441775831.367248
+        },
+        {
+            "timestamp": "2024-05-11 16:20:00",
+            "symbol": "SUI",
+            "price": 1.0160689122430249,
+            "volume_24h": 153994328.04,
+            "market_cap": 2376785316.4914656
+        },
+        {
+            "timestamp": "2024-05-12 16:20:00",
+            "symbol": "SUI",
+            "price": 1.018474237698744,
+            "volume_24h": 85528312.94,
+            "market_cap": 2382411846.4990764
+        },
+        {
+            "timestamp": "2024-05-13 16:20:00",
+            "symbol": "SUI",
+            "price": 0.9844776501643424,
+            "volume_24h": 167275610.39,
+            "market_cap": 2302887132.0934305
+        },
+        {
+            "timestamp": "2024-05-14 16:20:00",
+            "symbol": "SUI",
+            "price": 0.9053557738268152,
+            "volume_24h": 157905433.41,
+            "market_cap": 2117805479.0418224
+        },
+        {
+            "timestamp": "2024-05-15 16:20:00",
+            "symbol": "SUI",
+            "price": 0.9615686535138988,
+            "volume_24h": 183856429.73,
+            "market_cap": 2249298476.640794
+        },
+        {
+            "timestamp": "2024-05-16 16:20:00",
+            "symbol": "SUI",
+            "price": 1.0396181598598044,
+            "volume_24h": 304084992.36,
+            "market_cap": 2431871645.061861
+        },
+        {
+            "timestamp": "2024-05-17 16:20:00",
+            "symbol": "SUI",
+            "price": 1.0821684365430548,
+            "volume_24h": 197929639.4,
+            "market_cap": 2531405123.170292
+        },
+        {
+            "timestamp": "2024-05-18 16:20:00",
+            "symbol": "SUI",
+            "price": 1.0810523795633216,
+            "volume_24h": 179985517.99,
+            "market_cap": 2528794446.069718
+        },
+        {
+            "timestamp": "2024-05-19 16:20:00",
+            "symbol": "SUI",
+            "price": 1.028965604839875,
+            "volume_24h": 113697240.6,
+            "market_cap": 2406953220.6819696
+        },
+        {
+            "timestamp": "2024-05-20 16:20:00",
+            "symbol": "SUI",
+            "price": 1.1066042799554483,
+            "volume_24h": 182201339.29,
+            "market_cap": 2588565373.9356165
+        },
+        {
+            "timestamp": "2024-05-21 16:20:00",
+            "symbol": "SUI",
+            "price": 1.1410288138194098,
+            "volume_24h": 276464431.61,
+            "market_cap": 2669091139.0968647
+        },
+        {
+            "timestamp": "2024-05-22 16:20:00",
+            "symbol": "SUI",
+            "price": 1.1332909055680194,
+            "volume_24h": 194642261.34,
+            "market_cap": 2650990647.594115
+        },
+        {
+            "timestamp": "2024-05-23 16:20:00",
+            "symbol": "SUI",
+            "price": 1.0644366958860534,
+            "volume_24h": 231630307.74,
+            "market_cap": 2489927089.228323
+        },
+        {
+            "timestamp": "2024-05-24 16:20:00",
+            "symbol": "SUI",
+            "price": 1.0495927518046244,
+            "volume_24h": 203320529.78,
+            "market_cap": 2455204180.273578
+        },
+        {
+            "timestamp": "2024-05-25 16:20:00",
+            "symbol": "SUI",
+            "price": 1.0643021245603148,
+            "volume_24h": 103103019.92,
+            "market_cap": 2489612300.391481
+        },
+        {
+            "timestamp": "2024-05-26 16:20:00",
+            "symbol": "SUI",
+            "price": 1.03455317389878,
+            "volume_24h": 115211675.68,
+            "market_cap": 2420023645.270368
+        },
+        {
+            "timestamp": "2024-05-27 16:20:00",
+            "symbol": "SUI",
+            "price": 1.0771238026885606,
+            "volume_24h": 122500163.87,
+            "market_cap": 2519604730.96464
+        },
+        {
+            "timestamp": "2024-05-28 16:20:00",
+            "symbol": "SUI",
+            "price": 1.038400370200627,
+            "volume_24h": 167596071.4,
+            "market_cap": 2429022995.1862154
+        },
+        {
+            "timestamp": "2024-05-29 16:20:00",
+            "symbol": "SUI",
+            "price": 1.020047685016097,
+            "volume_24h": 132474764.28,
+            "market_cap": 2386092449.6895657
+        },
+        {
+            "timestamp": "2024-05-30 16:20:00",
+            "symbol": "SUI",
+            "price": 1.0214729756952772,
+            "volume_24h": 159012354.78,
+            "market_cap": 2389426485.3215866
+        },
+        {
+            "timestamp": "2024-05-31 16:20:00",
+            "symbol": "SUI",
+            "price": 0.9979433651609664,
+            "volume_24h": 114613347.7,
+            "market_cap": 2334386091.754918
+        },
+        {
+            "timestamp": "2024-06-01 16:20:00",
+            "symbol": "SUI",
+            "price": 1.0283244414166208,
+            "volume_24h": 90732658.05,
+            "market_cap": 2494863050.9274635
+        },
+        {
+            "timestamp": "2024-06-02 16:20:00",
+            "symbol": "SUI",
+            "price": 1.0327234487261454,
+            "volume_24h": 92566498.89,
+            "market_cap": 2505535675.592665
+        },
+        {
+            "timestamp": "2024-06-03 16:20:00",
+            "symbol": "SUI",
+            "price": 1.0360583967414454,
+            "volume_24h": 153880930.49,
+            "market_cap": 2513626739.3124714
+        },
+        {
+            "timestamp": "2024-06-04 16:20:00",
+            "symbol": "SUI",
+            "price": 1.031228232736685,
+            "volume_24h": 125857871.06,
+            "market_cap": 2501908066.4694963
+        },
+        {
+            "timestamp": "2024-06-05 16:20:00",
+            "symbol": "SUI",
+            "price": 1.0955116266942757,
+            "volume_24h": 184985153.07,
+            "market_cap": 2657868829.350975
+        },
+        {
+            "timestamp": "2024-06-06 16:20:00",
+            "symbol": "SUI",
+            "price": 1.114680677859055,
+            "volume_24h": 170314289.35,
+            "market_cap": 2704375705.533421
+        },
+        {
+            "timestamp": "2024-06-07 16:20:00",
+            "symbol": "SUI",
+            "price": 1.1544540240613863,
+            "volume_24h": 255274511.04,
+            "market_cap": 2800871566.037568
+        },
+        {
+            "timestamp": "2024-06-08 16:20:00",
+            "symbol": "SUI",
+            "price": 1.110781053853251,
+            "volume_24h": 428630231.71,
+            "market_cap": 2694914656.61467
+        },
+        {
+            "timestamp": "2024-06-09 16:20:00",
+            "symbol": "SUI",
+            "price": 1.0918952196542728,
+            "volume_24h": 331941044.98,
+            "market_cap": 2649094905.540715
+        },
+        {
+            "timestamp": "2024-06-10 16:20:00",
+            "symbol": "SUI",
+            "price": 1.0641943971127026,
+            "volume_24h": 306781826.32,
+            "market_cap": 2581888724.440851
+        },
+        {
+            "timestamp": "2024-06-11 16:20:00",
+            "symbol": "SUI",
+            "price": 1.000758422529069,
+            "volume_24h": 291521284.54,
+            "market_cap": 2427983922.8878937
+        },
+        {
+            "timestamp": "2024-06-12 16:20:00",
+            "symbol": "SUI",
+            "price": 1.0465973221351923,
+            "volume_24h": 247834749.97,
+            "market_cap": 2539195688.6657696
+        },
+        {
+            "timestamp": "2024-06-13 16:20:00",
+            "symbol": "SUI",
+            "price": 0.9839848503959838,
+            "volume_24h": 211541793.13,
+            "market_cap": 2387288823.499561
+        },
+        {
+            "timestamp": "2024-06-14 16:20:00",
+            "symbol": "SUI",
+            "price": 0.926117423076872,
+            "volume_24h": 178410797.02,
+            "market_cap": 2246894118.816867
+        },
+        {
+            "timestamp": "2024-06-15 16:20:00",
+            "symbol": "SUI",
+            "price": 0.9523340155797416,
+            "volume_24h": 140942114.87,
+            "market_cap": 2310499344.2907724
+        },
+        {
+            "timestamp": "2024-06-16 16:20:00",
+            "symbol": "SUI",
+            "price": 0.9500103628929796,
+            "volume_24h": 93016786.82,
+            "market_cap": 2304861828.5438886
+        },
+        {
+            "timestamp": "2024-06-17 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8848765945987279,
+            "volume_24h": 162152896.94,
+            "market_cap": 2146837935.169207
+        },
+        {
+            "timestamp": "2024-06-18 16:20:00",
+            "symbol": "SUI",
+            "price": 0.7757622589375465,
+            "volume_24h": 275881609.34,
+            "market_cap": 1882110857.407095
+        },
+        {
+            "timestamp": "2024-06-19 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8488625048882548,
+            "volume_24h": 178594263.35,
+            "market_cap": 2059462571.798802
+        },
+        {
+            "timestamp": "2024-06-20 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8812432222886407,
+            "volume_24h": 175298825.83,
+            "market_cap": 2138022851.172748
+        },
+        {
+            "timestamp": "2024-06-21 16:20:00",
+            "symbol": "SUI",
+            "price": 0.9008992380897498,
+            "volume_24h": 175102293.35,
+            "market_cap": 2185711173.627748
+        },
+        {
+            "timestamp": "2024-06-22 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8958783837193203,
+            "volume_24h": 132473531.73,
+            "market_cap": 2173529858.520994
+        },
+        {
+            "timestamp": "2024-06-23 16:20:00",
+            "symbol": "SUI",
+            "price": 0.9069920651892952,
+            "volume_24h": 123279683.77,
+            "market_cap": 2200493248.811534
+        },
+        {
+            "timestamp": "2024-06-24 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8542011343372607,
+            "volume_24h": 178325267.28,
+            "market_cap": 2072414854.967886
+        },
+        {
+            "timestamp": "2024-06-25 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8906302269634003,
+            "volume_24h": 188104508.11,
+            "market_cap": 2160797075.122612
+        },
+        {
+            "timestamp": "2024-06-26 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8294606721084725,
+            "volume_24h": 129623676.4,
+            "market_cap": 2012390933.9255743
+        },
+        {
+            "timestamp": "2024-06-27 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8531735470632974,
+            "volume_24h": 113005652.09,
+            "market_cap": 2069921780.391264
+        },
+        {
+            "timestamp": "2024-06-28 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8123675180117194,
+            "volume_24h": 113839921.22,
+            "market_cap": 1970920482.711704
+        },
+        {
+            "timestamp": "2024-06-29 16:20:00",
+            "symbol": "SUI",
+            "price": 0.7970409097039045,
+            "volume_24h": 99458948.5,
+            "market_cap": 1933735925.75366
+        },
+        {
+            "timestamp": "2024-06-30 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8023252204308585,
+            "volume_24h": 87062971.12,
+            "market_cap": 1946556423.8876293
+        },
+        {
+            "timestamp": "2024-07-01 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8141806334106607,
+            "volume_24h": 94890280.71,
+            "market_cap": 2045391510.7858305
+        },
+        {
+            "timestamp": "2024-07-02 16:20:00",
+            "symbol": "SUI",
+            "price": 0.810130571990642,
+            "volume_24h": 91521486.53,
+            "market_cap": 2035216912.046033
+        },
+        {
+            "timestamp": "2024-07-03 16:20:00",
+            "symbol": "SUI",
+            "price": 0.7900310929943763,
+            "volume_24h": 124236676.81,
+            "market_cap": 1984722829.992077
+        },
+        {
+            "timestamp": "2024-07-04 16:20:00",
+            "symbol": "SUI",
+            "price": 0.713486983286942,
+            "volume_24h": 217920101.85,
+            "market_cap": 1792428066.6784458
+        },
+        {
+            "timestamp": "2024-07-05 16:20:00",
+            "symbol": "SUI",
+            "price": 0.6418029365370557,
+            "volume_24h": 298703757.14,
+            "market_cap": 1612342794.8551865
+        },
+        {
+            "timestamp": "2024-07-06 16:20:00",
+            "symbol": "SUI",
+            "price": 0.6740667077914791,
+            "volume_24h": 104298730.2,
+            "market_cap": 1693396115.3613355
+        },
+        {
+            "timestamp": "2024-07-07 16:20:00",
+            "symbol": "SUI",
+            "price": 0.6726570506626856,
+            "volume_24h": 112612427.02,
+            "market_cap": 1689854762.7351072
+        },
+        {
+            "timestamp": "2024-07-08 16:20:00",
+            "symbol": "SUI",
+            "price": 0.665051216835989,
+            "volume_24h": 152075536.15,
+            "market_cap": 1670747322.318103
+        },
+        {
+            "timestamp": "2024-07-09 16:20:00",
+            "symbol": "SUI",
+            "price": 0.7076235728698382,
+            "volume_24h": 116004528.99,
+            "market_cap": 1777697957.1680317
+        },
+        {
+            "timestamp": "2024-07-10 16:20:00",
+            "symbol": "SUI",
+            "price": 0.7372235721371437,
+            "volume_24h": 178867655.4,
+            "market_cap": 1852059327.0362785
+        },
+        {
+            "timestamp": "2024-07-11 16:20:00",
+            "symbol": "SUI",
+            "price": 0.7541413976142737,
+            "volume_24h": 132767421.6,
+            "market_cap": 1894560432.0636983
+        },
+        {
+            "timestamp": "2024-07-12 16:20:00",
+            "symbol": "SUI",
+            "price": 0.742659550621012,
+            "volume_24h": 136227534.98,
+            "market_cap": 1865715638.4092736
+        },
+        {
+            "timestamp": "2024-07-13 16:20:00",
+            "symbol": "SUI",
+            "price": 0.7608293189257609,
+            "volume_24h": 78621682.08,
+            "market_cap": 1911361884.8543591
+        },
+        {
+            "timestamp": "2024-07-14 16:20:00",
+            "symbol": "SUI",
+            "price": 0.7973678980435362,
+            "volume_24h": 127195953.79,
+            "market_cap": 2003154414.026419
+        },
+        {
+            "timestamp": "2024-07-15 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8071030493342561,
+            "volume_24h": 114704134.86,
+            "market_cap": 2027611143.8835769
+        },
+        {
+            "timestamp": "2024-07-16 16:20:00",
+            "symbol": "SUI",
+            "price": 0.85982532973502,
+            "volume_24h": 181094944.13,
+            "market_cap": 2160060505.0397773
+        },
+        {
+            "timestamp": "2024-07-17 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8592836567673645,
+            "volume_24h": 153057350.75,
+            "market_cap": 2158699709.6042194
+        },
+        {
+            "timestamp": "2024-07-18 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8127888373374634,
+            "volume_24h": 145783548.54,
+            "market_cap": 2041895028.855356
+        },
+        {
+            "timestamp": "2024-07-19 16:20:00",
+            "symbol": "SUI",
+            "price": 0.853191051547121,
+            "volume_24h": 133384465.19,
+            "market_cap": 2143393814.9603584
+        },
+        {
+            "timestamp": "2024-07-20 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8569848854475988,
+            "volume_24h": 147435663.47,
+            "market_cap": 2152924716.7466884
+        },
+        {
+            "timestamp": "2024-07-21 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8456035306010277,
+            "volume_24h": 95271330.54,
+            "market_cap": 2124332380.3177328
+        },
+        {
+            "timestamp": "2024-07-22 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8410280814543676,
+            "volume_24h": 179913617.25,
+            "market_cap": 2112837898.0633376
+        },
+        {
+            "timestamp": "2024-07-23 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8246290710656832,
+            "volume_24h": 117969423.92,
+            "market_cap": 2071640164.712948
+        },
+        {
+            "timestamp": "2024-07-24 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8059712668902408,
+            "volume_24h": 111365074.63,
+            "market_cap": 2024767870.4034057
+        },
+        {
+            "timestamp": "2024-07-25 16:20:00",
+            "symbol": "SUI",
+            "price": 0.7368036397214262,
+            "volume_24h": 125463622.43,
+            "market_cap": 1851004369.2505417
+        },
+        {
+            "timestamp": "2024-07-26 16:20:00",
+            "symbol": "SUI",
+            "price": 0.7856389791792195,
+            "volume_24h": 111678856.39,
+            "market_cap": 1973688924.3165095
+        },
+        {
+            "timestamp": "2024-07-27 16:20:00",
+            "symbol": "SUI",
+            "price": 0.7870045556818795,
+            "volume_24h": 73287870.84,
+            "market_cap": 1977119537.2189176
+        },
+        {
+            "timestamp": "2024-07-28 16:20:00",
+            "symbol": "SUI",
+            "price": 0.7632076736639717,
+            "volume_24h": 76868568.97,
+            "market_cap": 1917336807.85246
+        },
+        {
+            "timestamp": "2024-07-29 16:20:00",
+            "symbol": "SUI",
+            "price": 0.7546153591301661,
+            "volume_24h": 91136333.08,
+            "market_cap": 1895751122.21434
+        },
+        {
+            "timestamp": "2024-07-30 16:20:00",
+            "symbol": "SUI",
+            "price": 0.7318420736185917,
+            "volume_24h": 83497418.82,
+            "market_cap": 1838539880.6954305
+        },
+        {
+            "timestamp": "2024-07-31 16:20:00",
+            "symbol": "SUI",
+            "price": 0.7204133251667006,
+            "volume_24h": 86460170.85,
+            "market_cap": 1809828481.6481705
+        },
+        {
+            "timestamp": "2024-08-01 16:20:00",
+            "symbol": "SUI",
+            "price": 0.6837861043350357,
+            "volume_24h": 106537846.64,
+            "market_cap": 1775167619.067073
+        },
+        {
+            "timestamp": "2024-08-02 16:20:00",
+            "symbol": "SUI",
+            "price": 0.6549424553153351,
+            "volume_24h": 112659564.44,
+            "market_cap": 1700287022.0047784
+        },
+        {
+            "timestamp": "2024-08-03 16:20:00",
+            "symbol": "SUI",
+            "price": 0.6191952569417932,
+            "volume_24h": 93977045.28,
+            "market_cap": 1607484216.2402637
+        },
+        {
+            "timestamp": "2024-08-04 16:20:00",
+            "symbol": "SUI",
+            "price": 0.5806260884143439,
+            "volume_24h": 104487371.24,
+            "market_cap": 1507355332.9093409
+        },
+        {
+            "timestamp": "2024-08-05 16:20:00",
+            "symbol": "SUI",
+            "price": 0.5535970258971257,
+            "volume_24h": 322107081.8,
+            "market_cap": 1437185558.6917646
+        },
+        {
+            "timestamp": "2024-08-06 16:20:00",
+            "symbol": "SUI",
+            "price": 0.5988663463853934,
+            "volume_24h": 194798424.06,
+            "market_cap": 1554708613.5746818
+        },
+        {
+            "timestamp": "2024-08-07 16:20:00",
+            "symbol": "SUI",
+            "price": 0.6289970865138219,
+            "volume_24h": 218729441.39,
+            "market_cap": 1632930610.0080926
+        },
+        {
+            "timestamp": "2024-08-08 16:20:00",
+            "symbol": "SUI",
+            "price": 0.7130739666607241,
+            "volume_24h": 243670695.63,
+            "market_cap": 1851201432.130321
+        },
+        {
+            "timestamp": "2024-08-09 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8523806504367939,
+            "volume_24h": 391960213.61,
+            "market_cap": 2212853581.2323875
+        },
+        {
+            "timestamp": "2024-08-10 16:20:00",
+            "symbol": "SUI",
+            "price": 0.9257632304411604,
+            "volume_24h": 312666852.28,
+            "market_cap": 2403361079.1202407
+        },
+        {
+            "timestamp": "2024-08-11 16:20:00",
+            "symbol": "SUI",
+            "price": 0.907917928554951,
+            "volume_24h": 288132253.74,
+            "market_cap": 2357033138.4673934
+        },
+        {
+            "timestamp": "2024-08-12 16:20:00",
+            "symbol": "SUI",
+            "price": 1.0653257904223203,
+            "volume_24h": 752261291.78,
+            "market_cap": 2765677504.8884845
+        },
+        {
+            "timestamp": "2024-08-13 16:20:00",
+            "symbol": "SUI",
+            "price": 0.944380908282024,
+            "volume_24h": 429657498.35,
+            "market_cap": 2451694174.273533
+        },
+        {
+            "timestamp": "2024-08-14 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8990956319398881,
+            "volume_24h": 342964661.49,
+            "market_cap": 2334129696.619749
+        },
+        {
+            "timestamp": "2024-08-15 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8658900194234268,
+            "volume_24h": 275506140.13,
+            "market_cap": 2247925066.638516
+        },
+        {
+            "timestamp": "2024-08-16 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8132184536655083,
+            "volume_24h": 273587818.24,
+            "market_cap": 2111185145.504924
+        },
+        {
+            "timestamp": "2024-08-17 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8441815417937493,
+            "volume_24h": 196947493.46,
+            "market_cap": 2191567989.033201
+        },
+        {
+            "timestamp": "2024-08-18 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8411793074204236,
+            "volume_24h": 180759984.88,
+            "market_cap": 2183773930.027629
+        },
+        {
+            "timestamp": "2024-08-19 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8610848200184027,
+            "volume_24h": 211825788.43,
+            "market_cap": 2235450355.1272984
+        },
+        {
+            "timestamp": "2024-08-20 16:20:00",
+            "symbol": "SUI",
+            "price": 0.87692909329473,
+            "volume_24h": 287429043.71,
+            "market_cap": 2276583453.166981
+        },
+        {
+            "timestamp": "2024-08-21 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8396426412772904,
+            "volume_24h": 163041129.96,
+            "market_cap": 2179784612.3721323
+        },
+        {
+            "timestamp": "2024-08-22 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8374049587525019,
+            "volume_24h": 149016012.48,
+            "market_cap": 2173975395.81366
+        },
+        {
+            "timestamp": "2024-08-23 16:20:00",
+            "symbol": "SUI",
+            "price": 0.9893959331410732,
+            "volume_24h": 282730951.71,
+            "market_cap": 2568557055.8013644
+        },
+        {
+            "timestamp": "2024-08-24 16:20:00",
+            "symbol": "SUI",
+            "price": 1.0206031874184338,
+            "volume_24h": 354916120.11,
+            "market_cap": 2649573775.6819715
+        },
+        {
+            "timestamp": "2024-08-25 16:20:00",
+            "symbol": "SUI",
+            "price": 1.00865174657877,
+            "volume_24h": 238640679.71,
+            "market_cap": 2618546805.924523
+        },
+        {
+            "timestamp": "2024-08-26 16:20:00",
+            "symbol": "SUI",
+            "price": 0.9571251321517276,
+            "volume_24h": 204550694.84,
+            "market_cap": 2484779277.056719
+        },
+        {
+            "timestamp": "2024-08-27 16:20:00",
+            "symbol": "SUI",
+            "price": 0.9372880044587742,
+            "volume_24h": 262027168.85,
+            "market_cap": 2433280385.06026
+        },
+        {
+            "timestamp": "2024-08-28 16:20:00",
+            "symbol": "SUI",
+            "price": 0.7721741352509109,
+            "volume_24h": 303757646.7,
+            "market_cap": 2004630559.8905723
+        },
+        {
+            "timestamp": "2024-08-29 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8406386966323162,
+            "volume_24h": 248949604.03,
+            "market_cap": 2182370457.8607
+        },
+        {
+            "timestamp": "2024-08-30 16:20:00",
+            "symbol": "SUI",
+            "price": 0.7753794214153722,
+            "volume_24h": 172613479.44,
+            "market_cap": 2012951758.8341053
+        },
+        {
+            "timestamp": "2024-08-31 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8070470563078106,
+            "volume_24h": 140264661.25,
+            "market_cap": 2095163666.442499
+        },
+        {
+            "timestamp": "2024-09-01 16:20:00",
+            "symbol": "SUI",
+            "price": 0.7998874142658513,
+            "volume_24h": 109991715.07,
+            "market_cap": 2143669274.017756
+        },
+        {
+            "timestamp": "2024-09-02 16:20:00",
+            "symbol": "SUI",
+            "price": 0.7811420079651052,
+            "volume_24h": 196933830.08,
+            "market_cap": 2093432264.6596708
+        },
+        {
+            "timestamp": "2024-09-03 16:20:00",
+            "symbol": "SUI",
+            "price": 0.7895590523560884,
+            "volume_24h": 212973074.12,
+            "market_cap": 2115989638.506532
+        },
+        {
+            "timestamp": "2024-09-04 16:20:00",
+            "symbol": "SUI",
+            "price": 0.819105991019741,
+            "volume_24h": 279436686.12,
+            "market_cap": 2195174363.0376625
+        },
+        {
+            "timestamp": "2024-09-05 16:20:00",
+            "symbol": "SUI",
+            "price": 0.7939423272754659,
+            "volume_24h": 226167679.88,
+            "market_cap": 2127736656.3951263
+        },
+        {
+            "timestamp": "2024-09-06 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8320374332418677,
+            "volume_24h": 315381011.17,
+            "market_cap": 2229830159.4233966
+        },
+        {
+            "timestamp": "2024-09-07 16:20:00",
+            "symbol": "SUI",
+            "price": 0.8694623254154807,
+            "volume_24h": 336431722.45,
+            "market_cap": 2330127513.782491
+        },
+        {
+            "timestamp": "2024-09-08 16:20:00",
+            "symbol": "SUI",
+            "price": 0.9335522084187352,
+            "volume_24h": 400746188.56,
+            "market_cap": 2501886076.9492407
+        },
+        {
+            "timestamp": "2024-09-09 16:20:00",
+            "symbol": "SUI",
+            "price": 0.9141092482420436,
+            "volume_24h": 294727772.19,
+            "market_cap": 2449779648.490208
+        },
+        {
+            "timestamp": "2024-09-10 16:20:00",
+            "symbol": "SUI",
+            "price": 0.9136385146041146,
+            "volume_24h": 329545078.48,
+            "market_cap": 2448518099.404826
+        },
+        {
+            "timestamp": "2024-09-11 16:20:00",
+            "symbol": "SUI",
+            "price": 0.895982499101224,
+            "volume_24h": 263698236.25,
+            "market_cap": 2401200617.8941746
+        },
+        {
+            "timestamp": "2024-09-12 16:20:00",
+            "symbol": "SUI",
+            "price": 1.0224777546857755,
+            "volume_24h": 573134896.72,
+            "market_cap": 2740203317.3609543
+        },
+        {
+            "timestamp": "2024-09-13 16:20:00",
+            "symbol": "SUI",
+            "price": 1.0214200116780667,
+            "volume_24h": 353164263.27,
+            "market_cap": 2737368604.44387
+        },
+        {
+            "timestamp": "2024-09-14 16:20:00",
+            "symbol": "SUI",
+            "price": 1.024214445560879,
+            "volume_24h": 305226743.58,
+            "market_cap": 2744857585.950545
+        },
+        {
+            "timestamp": "2024-09-15 16:20:00",
+            "symbol": "SUI",
+            "price": 1.095554119781326,
+            "volume_24h": 406515532.95,
+            "market_cap": 2936045326.771757
+        },
+        {
+            "timestamp": "2024-09-16 16:20:00",
+            "symbol": "SUI",
+            "price": 1.0586013141322403,
+            "volume_24h": 529502989.38,
+            "market_cap": 2837013147.1850843
+        },
+        {
+            "timestamp": "2024-09-17 16:20:00",
+            "symbol": "SUI",
+            "price": 1.1465782352944798,
+            "volume_24h": 603535525.99,
+            "market_cap": 3072788106.703943
+        },
+        {
+            "timestamp": "2024-09-18 16:20:00",
+            "symbol": "SUI",
+            "price": 1.1801134094679169,
+            "volume_24h": 554349212.67,
+            "market_cap": 3162661157.826281
+        },
+        {
+            "timestamp": "2024-09-19 16:20:00",
+            "symbol": "SUI",
+            "price": 1.329543491880341,
+            "volume_24h": 915695426.09,
+            "market_cap": 3563128361.7958026
+        },
+        {
+            "timestamp": "2024-09-20 16:20:00",
+            "symbol": "SUI",
+            "price": 1.4973971167423967,
+            "volume_24h": 973627090.73,
+            "market_cap": 4012969991.670105
+        },
+        {
+            "timestamp": "2024-09-21 16:20:00",
+            "symbol": "SUI",
+            "price": 1.481048504127124,
+            "volume_24h": 567925143.27,
+            "market_cap": 3969156302.50443
+        },
+        {
+            "timestamp": "2024-09-22 16:20:00",
+            "symbol": "SUI",
+            "price": 1.5062898595261744,
+            "volume_24h": 522099131.51,
+            "market_cap": 4036802219.9654126
+        },
+        {
+            "timestamp": "2024-09-23 16:20:00",
+            "symbol": "SUI",
+            "price": 1.5408758588001428,
+            "volume_24h": 914119906.83,
+            "market_cap": 4129491444.264377
+        },
+        {
+            "timestamp": "2024-09-24 16:20:00",
+            "symbol": "SUI",
+            "price": 1.5833276658740127,
+            "volume_24h": 733809214.57,
+            "market_cap": 4243260748.328635
+        },
+        {
+            "timestamp": "2024-09-25 16:20:00",
+            "symbol": "SUI",
+            "price": 1.7072704522253048,
+            "volume_24h": 858999799.89,
+            "market_cap": 4575422922.778234
+        },
+        {
+            "timestamp": "2024-09-26 16:20:00",
+            "symbol": "SUI",
+            "price": 1.718885409941727,
+            "volume_24h": 693921279.33,
+            "market_cap": 4606550588.411731
+        },
+        {
+            "timestamp": "2024-09-27 16:20:00",
+            "symbol": "SUI",
+            "price": 1.6804273319812797,
+            "volume_24h": 733383563.38,
+            "market_cap": 4503484333.597287
+        },
+        {
+            "timestamp": "2024-09-28 16:20:00",
+            "symbol": "SUI",
+            "price": 1.6475772525925227,
+            "volume_24h": 406065338.01,
+            "market_cap": 4415447311.662951
+        },
+        {
+            "timestamp": "2024-09-29 16:20:00",
+            "symbol": "SUI",
+            "price": 1.803102670153536,
+            "volume_24h": 646411327.74,
+            "market_cap": 4832249792.872536
+        },
+        {
+            "timestamp": "2024-09-30 16:20:00",
+            "symbol": "SUI",
+            "price": 1.7732593969913302,
+            "volume_24h": 692548474.12,
+            "market_cap": 4752270902.627518
+        },
+        {
+            "timestamp": "2024-10-01 16:20:00",
+            "symbol": "SUI",
+            "price": 1.787304483759439,
+            "volume_24h": 1144662992.81,
+            "market_cap": 4939826077.665695
+        },
+        {
+            "timestamp": "2024-10-02 16:20:00",
+            "symbol": "SUI",
+            "price": 1.8802683070586848,
+            "volume_24h": 1345239673.62,
+            "market_cap": 5196763338.656157
+        },
+        {
+            "timestamp": "2024-10-03 16:20:00",
+            "symbol": "SUI",
+            "price": 1.6835280127303252,
+            "volume_24h": 1469118732.86,
+            "market_cap": 4653004373.531968
+        },
+        {
+            "timestamp": "2024-10-04 16:20:00",
+            "symbol": "SUI",
+            "price": 1.74840667171234,
+            "volume_24h": 1302934087.31,
+            "market_cap": 4832318695.425916
+        },
+        {
+            "timestamp": "2024-10-05 16:20:00",
+            "symbol": "SUI",
+            "price": 1.707399585736865,
+            "volume_24h": 532520905.75,
+            "market_cap": 4718981614.636723
+        },
+        {
+            "timestamp": "2024-10-06 16:20:00",
+            "symbol": "SUI",
+            "price": 1.771899438697932,
+            "volume_24h": 512204596.51,
+            "market_cap": 4897248976.777781
+        },
+        {
+            "timestamp": "2024-10-07 16:20:00",
+            "symbol": "SUI",
+            "price": 2.066661689586438,
+            "volume_24h": 1235295984.7,
+            "market_cap": 5711925080.867083
+        },
+        {
+            "timestamp": "2024-10-08 16:20:00",
+            "symbol": "SUI",
+            "price": 1.9720784883473743,
+            "volume_24h": 1365349960.01,
+            "market_cap": 5450512116.128661
+        },
+        {
+            "timestamp": "2024-10-09 16:20:00",
+            "symbol": "SUI",
+            "price": 1.9637051411755464,
+            "volume_24h": 864173317.85,
+            "market_cap": 5427369512.787937
+        },
+        {
+            "timestamp": "2024-10-10 16:20:00",
+            "symbol": "SUI",
+            "price": 1.8020786935558368,
+            "volume_24h": 823768016.29,
+            "market_cap": 4980659649.948599
+        },
+        {
+            "timestamp": "2024-10-11 16:20:00",
+            "symbol": "SUI",
+            "price": 2.009318257517368,
+            "volume_24h": 953321300.07,
+            "market_cap": 5553436930.867134
+        },
+        {
+            "timestamp": "2024-10-12 16:20:00",
+            "symbol": "SUI",
+            "price": 2.235840902808428,
+            "volume_24h": 1084780788.46,
+            "market_cap": 6179509589.755627
+        },
+        {
+            "timestamp": "2024-10-13 16:20:00",
+            "symbol": "SUI",
+            "price": 2.164162946022564,
+            "volume_24h": 903437461.72,
+            "market_cap": 5981403087.286705
+        },
+        {
+            "timestamp": "2024-10-14 16:20:00",
+            "symbol": "SUI",
+            "price": 2.240418569104348,
+            "volume_24h": 1279881316.85,
+            "market_cap": 6192161533.254294
+        },
+        {
+            "timestamp": "2024-10-15 16:20:00",
+            "symbol": "SUI",
+            "price": 2.09320242277371,
+            "volume_24h": 1327149776.25,
+            "market_cap": 5785279457.309468
+        },
+        {
+            "timestamp": "2024-10-16 16:20:00",
+            "symbol": "SUI",
+            "price": 2.004379904881699,
+            "volume_24h": 986506645.87,
+            "market_cap": 5539788107.540136
+        },
+        {
+            "timestamp": "2024-10-17 16:20:00",
+            "symbol": "SUI",
+            "price": 2.054359125996452,
+            "volume_24h": 812762972.18,
+            "market_cap": 5677922746.627914
+        },
+        {
+            "timestamp": "2024-10-18 16:20:00",
+            "symbol": "SUI",
+            "price": 2.073461970036877,
+            "volume_24h": 590500297.06,
+            "market_cap": 5730719977.321359
+        },
+        {
+            "timestamp": "2024-10-19 16:20:00",
+            "symbol": "SUI",
+            "price": 2.058495537425511,
+            "volume_24h": 504005767.24,
+            "market_cap": 5689355131.669684
+        },
+        {
+            "timestamp": "2024-10-20 16:20:00",
+            "symbol": "SUI",
+            "price": 2.12528581948354,
+            "volume_24h": 513303451.59,
+            "market_cap": 5873952876.509956
+        },
+        {
+            "timestamp": "2024-10-21 16:20:00",
+            "symbol": "SUI",
+            "price": 2.0138945734680656,
+            "volume_24h": 660649244.94,
+            "market_cap": 5566085142.225809
+        },
+        {
+            "timestamp": "2024-10-22 16:20:00",
+            "symbol": "SUI",
+            "price": 1.9284933362588528,
+            "volume_24h": 668293275.07,
+            "market_cap": 5330049669.554906
+        },
+        {
+            "timestamp": "2024-10-23 16:20:00",
+            "symbol": "SUI",
+            "price": 1.9146077943696889,
+            "volume_24h": 532831627.25,
+            "market_cap": 5291672234.400526
+        },
+        {
+            "timestamp": "2024-10-24 16:20:00",
+            "symbol": "SUI",
+            "price": 1.970308689572472,
+            "volume_24h": 711502713.88,
+            "market_cap": 5445620673.053392
+        },
+        {
+            "timestamp": "2024-10-25 16:20:00",
+            "symbol": "SUI",
+            "price": 1.87171600415328,
+            "volume_24h": 465295279.51,
+            "market_cap": 5173126130.055106
+        },
+        {
+            "timestamp": "2024-10-26 16:20:00",
+            "symbol": "SUI",
+            "price": 1.7743476401158618,
+            "volume_24h": 861922121.43,
+            "market_cap": 4904015417.145138
+        },
+        {
+            "timestamp": "2024-10-27 16:20:00",
+            "symbol": "SUI",
+            "price": 1.7746304295913369,
+            "volume_24h": 310788812.53,
+            "market_cap": 4904797002.397195
+        },
+        {
+            "timestamp": "2024-10-28 16:20:00",
+            "symbol": "SUI",
+            "price": 1.6467421972703418,
+            "volume_24h": 661847318.72,
+            "market_cap": 4551334214.838469
+        },
+        {
+            "timestamp": "2024-10-29 16:20:00",
+            "symbol": "SUI",
+            "price": 2.0314680776646505,
+            "volume_24h": 1245899819.07,
+            "market_cap": 5614655520.186066
+        },
+        {
+            "timestamp": "2024-10-30 16:20:00",
+            "symbol": "SUI",
+            "price": 1.986398800813597,
+            "volume_24h": 1127134825.38,
+            "market_cap": 5490091188.19151
+        },
+        {
+            "timestamp": "2024-10-31 16:20:00",
+            "symbol": "SUI",
+            "price": 2.0210537809457185,
+            "volume_24h": 726831543.46,
+            "market_cap": 5585872056.047646
+        },
+        {
+            "timestamp": "2024-11-01 16:20:00",
+            "symbol": "SUI",
+            "price": 1.994460890539911,
+            "volume_24h": 896826236.86,
+            "market_cap": 5675738466.561058
+        },
+        {
+            "timestamp": "2024-11-02 16:20:00",
+            "symbol": "SUI",
+            "price": 1.9077686467516115,
+            "volume_24h": 559330784.83,
+            "market_cap": 5429033953.499113
+        },
+        {
+            "timestamp": "2024-11-03 16:20:00",
+            "symbol": "SUI",
+            "price": 1.8611710983115568,
+            "volume_24h": 523091027.07,
+            "market_cap": 5296428947.613506
+        },
+        {
+            "timestamp": "2024-11-04 16:20:00",
+            "symbol": "SUI",
+            "price": 1.8901266613864731,
+            "volume_24h": 644833169.58,
+            "market_cap": 5378829261.37486
+        },
+        {
+            "timestamp": "2024-11-05 16:20:00",
+            "symbol": "SUI",
+            "price": 1.9976360789426928,
+            "volume_24h": 753338625.43,
+            "market_cap": 5684774261.166873
+        },
+        {
+            "timestamp": "2024-11-06 16:20:00",
+            "symbol": "SUI",
+            "price": 2.2462191942850165,
+            "volume_24h": 1952739523.07,
+            "market_cap": 6392179834.561732
+        },
+        {
+            "timestamp": "2024-11-07 16:20:00",
+            "symbol": "SUI",
+            "price": 2.317217011020966,
+            "volume_24h": 1046348301.28,
+            "market_cap": 6594221920.922723
+        },
+        {
+            "timestamp": "2024-11-08 16:20:00",
+            "symbol": "SUI",
+            "price": 2.300250948078338,
+            "volume_24h": 956603311.38,
+            "market_cap": 6545940735.502485
+        },
+        {
+            "timestamp": "2024-11-09 16:20:00",
+            "symbol": "SUI",
+            "price": 2.378925066144725,
+            "volume_24h": 829667247.32,
+            "market_cap": 6769827661.714048
+        },
+        {
+            "timestamp": "2024-11-10 16:20:00",
+            "symbol": "SUI",
+            "price": 2.996996941005712,
+            "volume_24h": 3129451805.35,
+            "market_cap": 8528706129.518136
+        },
+        {
+            "timestamp": "2024-11-11 16:20:00",
+            "symbol": "SUI",
+            "price": 3.2278916034292733,
+            "volume_24h": 3371707942.1,
+            "market_cap": 9185774775.715696
+        },
+        {
+            "timestamp": "2024-11-12 16:20:00",
+            "symbol": "SUI",
+            "price": 2.990432688982753,
+            "volume_24h": 3026246935.25,
+            "market_cap": 8510025904.757838
+        },
+        {
+            "timestamp": "2024-11-13 16:20:00",
+            "symbol": "SUI",
+            "price": 3.3692526114297188,
+            "volume_24h": 2848585857.77,
+            "market_cap": 9588052962.560854
+        },
+        {
+            "timestamp": "2024-11-14 16:20:00",
+            "symbol": "SUI",
+            "price": 3.337166731612071,
+            "volume_24h": 2516054139.4,
+            "market_cap": 9496744547.751486
+        },
+        {
+            "timestamp": "2024-11-15 16:20:00",
+            "symbol": "SUI",
+            "price": 3.365302803462949,
+            "volume_24h": 1876415672.59,
+            "market_cap": 9576812793.792011
+        },
+        {
+            "timestamp": "2024-11-16 16:20:00",
+            "symbol": "SUI",
+            "price": 3.618184309626988,
+            "volume_24h": 2271167896.32,
+            "market_cap": 10296450515.857643
+        },
+        {
+            "timestamp": "2024-11-17 16:20:00",
+            "symbol": "SUI",
+            "price": 3.8318606373505153,
+            "volume_24h": 1791958943.88,
+            "market_cap": 10904520074.10585
+        },
+        {
+            "timestamp": "2024-11-18 16:20:00",
+            "symbol": "SUI",
+            "price": 3.7416264061124647,
+            "volume_24h": 1705858975.18,
+            "market_cap": 10647735947.795042
+        },
+        {
+            "timestamp": "2024-11-19 16:20:00",
+            "symbol": "SUI",
+            "price": 3.665237543464768,
+            "volume_24h": 1194043400.42,
+            "market_cap": 10430352288.780792
+        },
+        {
+            "timestamp": "2024-11-20 16:20:00",
+            "symbol": "SUI",
+            "price": 3.6663101428820033,
+            "volume_24h": 1541916171.5,
+            "market_cap": 10433404639.31847
+        },
+        {
+            "timestamp": "2024-11-21 16:20:00",
+            "symbol": "SUI",
+            "price": 3.565500007310232,
+            "volume_24h": 1974194012.79,
+            "market_cap": 10146524125.893587
+        },
+        {
+            "timestamp": "2024-11-22 16:20:00",
+            "symbol": "SUI",
+            "price": 3.472956023168821,
+            "volume_24h": 1451993204.73,
+            "market_cap": 9883167018.651424
+        },
+        {
+            "timestamp": "2024-11-23 16:20:00",
+            "symbol": "SUI",
+            "price": 3.54635173760338,
+            "volume_24h": 1564567295.21,
+            "market_cap": 10092032924.05616
+        },
+        {
+            "timestamp": "2024-11-24 16:20:00",
+            "symbol": "SUI",
+            "price": 3.3202692349473217,
+            "volume_24h": 1770824508.35,
+            "market_cap": 9448658484.864216
+        },
+        {
+            "timestamp": "2024-11-25 16:20:00",
+            "symbol": "SUI",
+            "price": 3.313284879712361,
+            "volume_24h": 1405578955.54,
+            "market_cap": 9428782751.096148
+        },
+        {
+            "timestamp": "2024-11-26 16:20:00",
+            "symbol": "SUI",
+            "price": 3.4116345345664136,
+            "volume_24h": 2180739736.77,
+            "market_cap": 9708661349.80712
+        },
+        {
+            "timestamp": "2024-11-27 16:20:00",
+            "symbol": "SUI",
+            "price": 3.437178228102174,
+            "volume_24h": 1659967972.18,
+            "market_cap": 9781352333.454191
+        },
+        {
+            "timestamp": "2024-11-28 16:20:00",
+            "symbol": "SUI",
+            "price": 3.4446778436621983,
+            "volume_24h": 1421261482.24,
+            "market_cap": 9802694369.650717
+        },
+        {
+            "timestamp": "2024-11-29 16:20:00",
+            "symbol": "SUI",
+            "price": 3.5241448528909967,
+            "volume_24h": 1006170830.78,
+            "market_cap": 10028837666.43923
+        },
+        {
+            "timestamp": "2024-11-30 16:20:00",
+            "symbol": "SUI",
+            "price": 3.4935885038784744,
+            "volume_24h": 978620290.67,
+            "market_cap": 9941881914.98246
+        },
+        {
+            "timestamp": "2024-12-01 16:20:00",
+            "symbol": "SUI",
+            "price": 3.5215729733610783,
+            "volume_24h": 818320238.93,
+            "market_cap": 10309968396.55069
+        },
+        {
+            "timestamp": "2024-12-02 16:20:00",
+            "symbol": "SUI",
+            "price": 3.2975781839570306,
+            "volume_24h": 1215564503.99,
+            "market_cap": 9654187807.24669
+        },
+        {
+            "timestamp": "2024-12-03 16:20:00",
+            "symbol": "SUI",
+            "price": 3.7486051868302166,
+            "volume_24h": 3050835270.64,
+            "market_cap": 10974641530.849464
+        },
+        {
+            "timestamp": "2024-12-04 16:20:00",
+            "symbol": "SUI",
+            "price": 3.621395629034631,
+            "volume_24h": 1854476126.24,
+            "market_cap": 10602215194.51263
+        },
+        {
+            "timestamp": "2024-12-05 16:20:00",
+            "symbol": "SUI",
+            "price": 4.253248137671295,
+            "volume_24h": 3801660764.36,
+            "market_cap": 12452064521.675028
+        },
+        {
+            "timestamp": "2024-12-06 16:20:00",
+            "symbol": "SUI",
+            "price": 4.137088169839774,
+            "volume_24h": 3566683945.38,
+            "market_cap": 12111987628.097467
+        },
+        {
+            "timestamp": "2024-12-07 16:20:00",
+            "symbol": "SUI",
+            "price": 4.3215632870357705,
+            "volume_24h": 1669674013.23,
+            "market_cap": 12652068053.13136
+        },
+        {
+            "timestamp": "2024-12-08 16:20:00",
+            "symbol": "SUI",
+            "price": 4.185345982017784,
+            "volume_24h": 1232570503.8,
+            "market_cap": 12253270095.394209
+        },
+        {
+            "timestamp": "2024-12-09 16:20:00",
+            "symbol": "SUI",
+            "price": 4.014604119795031,
+            "volume_24h": 1672863821.01,
+            "market_cap": 11753395971.870173
+        },
+        {
+            "timestamp": "2024-12-10 16:20:00",
+            "symbol": "SUI",
+            "price": 3.6198636549517857,
+            "volume_24h": 3023790730.39,
+            "market_cap": 10597730095.240814
+        },
+        {
+            "timestamp": "2024-12-11 16:20:00",
+            "symbol": "SUI",
+            "price": 4.135759803505355,
+            "volume_24h": 1933383355.4,
+            "market_cap": 12108098623.090187
+        },
+        {
+            "timestamp": "2024-12-12 16:20:00",
+            "symbol": "SUI",
+            "price": 4.652282873871166,
+            "volume_24h": 4037136919.69,
+            "market_cap": 13620302564.864029
+        },
+        {
+            "timestamp": "2024-12-13 16:20:00",
+            "symbol": "SUI",
+            "price": 4.817003766323895,
+            "volume_24h": 2112099999.13,
+            "market_cap": 14102549335.919403
+        },
+        {
+            "timestamp": "2024-12-14 16:20:00",
+            "symbol": "SUI",
+            "price": 4.512022643139106,
+            "volume_24h": 1378745202.61,
+            "market_cap": 13209668295.155775
+        },
+        {
+            "timestamp": "2024-12-15 16:20:00",
+            "symbol": "SUI",
+            "price": 4.6154750081989535,
+            "volume_24h": 1299532318.0,
+            "market_cap": 13512541648.166964
+        },
+        {
+            "timestamp": "2024-12-16 16:20:00",
+            "symbol": "SUI",
+            "price": 4.736762808812458,
+            "volume_24h": 2092100712.66,
+            "market_cap": 13867631092.762196
+        },
+        {
+            "timestamp": "2024-12-17 16:20:00",
+            "symbol": "SUI",
+            "price": 4.7110844105836,
+            "volume_24h": 1556094366.63,
+            "market_cap": 13792453472.926908
+        },
+        {
+            "timestamp": "2024-12-18 16:20:00",
+            "symbol": "SUI",
+            "price": 4.573503227909133,
+            "volume_24h": 1468418939.7,
+            "market_cap": 13389662545.104671
+        },
+        {
+            "timestamp": "2024-12-19 16:20:00",
+            "symbol": "SUI",
+            "price": 4.3426989115847805,
+            "volume_24h": 2888681766.33,
+            "market_cap": 12713945976.09079
+        },
+        {
+            "timestamp": "2024-12-20 16:20:00",
+            "symbol": "SUI",
+            "price": 4.354107381375289,
+            "volume_24h": 4484185729.77,
+            "market_cap": 12747346096.96941
+        },
+        {
+            "timestamp": "2024-12-21 16:20:00",
+            "symbol": "SUI",
+            "price": 4.647057099088834,
+            "volume_24h": 4209945166.23,
+            "market_cap": 13605003272.967796
+        },
+        {
+            "timestamp": "2024-12-22 16:20:00",
+            "symbol": "SUI",
+            "price": 4.266016011086502,
+            "volume_24h": 2419706661.1,
+            "market_cap": 12489444514.194763
+        },
+        {
+            "timestamp": "2024-12-23 16:20:00",
+            "symbol": "SUI",
+            "price": 4.145060462445068,
+            "volume_24h": 1991508447.07,
+            "market_cap": 12135327790.41425
+        },
+        {
+            "timestamp": "2024-12-24 16:20:00",
+            "symbol": "SUI",
+            "price": 4.608891125360426,
+            "volume_24h": 2167936911.38,
+            "market_cap": 13493266277.613724
+        },
+        {
+            "timestamp": "2024-12-25 16:20:00",
+            "symbol": "SUI",
+            "price": 4.515409332565874,
+            "volume_24h": 1374751007.87,
+            "market_cap": 13219583370.385803
+        },
+        {
+            "timestamp": "2024-12-26 16:20:00",
+            "symbol": "SUI",
+            "price": 4.279601400430626,
+            "volume_24h": 1235074087.38,
+            "market_cap": 12529217915.414127
+        },
+        {
+            "timestamp": "2024-12-27 16:20:00",
+            "symbol": "SUI",
+            "price": 4.087816957558541,
+            "volume_24h": 1262120413.14,
+            "market_cap": 11967738269.83572
+        },
+        {
+            "timestamp": "2024-12-28 16:20:00",
+            "symbol": "SUI",
+            "price": 4.09231260480642,
+            "volume_24h": 1052850009.63,
+            "market_cap": 11980899996.540884
+        },
+        {
+            "timestamp": "2024-12-29 16:20:00",
+            "symbol": "SUI",
+            "price": 4.1162153803022,
+            "volume_24h": 731107053.49,
+            "market_cap": 12050879196.692495
+        },
+        {
+            "timestamp": "2024-12-30 16:20:00",
+            "symbol": "SUI",
+            "price": 4.038156487790456,
+            "volume_24h": 936292289.24,
+            "market_cap": 11822349297.99279
+        },
+        {
+            "timestamp": "2024-12-31 16:20:00",
+            "symbol": "SUI",
+            "price": 4.25030240006089,
+            "volume_24h": 1496774732.36,
+            "market_cap": 12443440403.447876
+        },
+        {
+            "timestamp": "2025-01-01 16:20:00",
+            "symbol": "SUI",
+            "price": 4.175872879847809,
+            "volume_24h": 702250370.66,
+            "market_cap": 12567578993.316557
+        },
+        {
+            "timestamp": "2025-01-02 16:20:00",
+            "symbol": "SUI",
+            "price": 4.38518971685149,
+            "volume_24h": 993716911.34,
+            "market_cap": 13197532528.628866
+        },
+        {
+            "timestamp": "2025-01-03 16:20:00",
+            "symbol": "SUI",
+            "price": 4.680077289314867,
+            "volume_24h": 988490948.25,
+            "market_cap": 14085017125.912851
+        },
+        {
+            "timestamp": "2025-01-04 16:20:00",
+            "symbol": "SUI",
+            "price": 5.17038056105969,
+            "volume_24h": 2648491258.07,
+            "market_cap": 15560618820.607924
+        },
+        {
+            "timestamp": "2025-01-05 16:20:00",
+            "symbol": "SUI",
+            "price": 5.224311047702473,
+            "volume_24h": 1677553731.36,
+            "market_cap": 15722926359.781836
+        },
+        {
+            "timestamp": "2025-01-06 16:20:00",
+            "symbol": "SUI",
+            "price": 5.348744356524908,
+            "volume_24h": 1300337489.42,
+            "market_cap": 16097417031.078972
+        },
+        {
+            "timestamp": "2025-01-07 16:20:00",
+            "symbol": "SUI",
+            "price": 4.872338004341146,
+            "volume_24h": 1527880348.6,
+            "market_cap": 14663639079.43658
+        },
+        {
+            "timestamp": "2025-01-08 16:20:00",
+            "symbol": "SUI",
+            "price": 4.582262312346876,
+            "volume_24h": 2004470333.2,
+            "market_cap": 13790636170.087524
+        },
+        {
+            "timestamp": "2025-01-09 16:20:00",
+            "symbol": "SUI",
+            "price": 4.799946797215188,
+            "volume_24h": 2270256913.99,
+            "market_cap": 14445772721.873947
+        },
+        {
+            "timestamp": "2025-01-10 16:20:00",
+            "symbol": "SUI",
+            "price": 4.98096486974532,
+            "volume_24h": 2463134442.69,
+            "market_cap": 14990559163.223488
+        },
+        {
+            "timestamp": "2025-01-11 16:20:00",
+            "symbol": "SUI",
+            "price": 4.977146580676592,
+            "volume_24h": 1498810518.76,
+            "market_cap": 14979067757.505142
+        },
+        {
+            "timestamp": "2025-01-12 16:20:00",
+            "symbol": "SUI",
+            "price": 4.803011548952413,
+            "volume_24h": 905539189.14,
+            "market_cap": 14454996304.7417
+        },
+        {
+            "timestamp": "2025-01-13 16:20:00",
+            "symbol": "SUI",
+            "price": 4.5516329019239175,
+            "volume_24h": 2072984257.52,
+            "market_cap": 13698454835.529448
+        },
+        {
+            "timestamp": "2025-01-14 16:20:00",
+            "symbol": "SUI",
+            "price": 4.58250838667801,
+            "volume_24h": 1626217745.46,
+            "market_cap": 13791376747.850245
+        },
+        {
+            "timestamp": "2025-01-15 16:20:00",
+            "symbol": "SUI",
+            "price": 4.773567814192122,
+            "volume_24h": 1644715470.27,
+            "market_cap": 14366383343.306986
+        },
+        {
+            "timestamp": "2025-01-16 16:20:00",
+            "symbol": "SUI",
+            "price": 4.738216537650469,
+            "volume_24h": 1543154381.7,
+            "market_cap": 14259991225.24328
+        },
+        {
+            "timestamp": "2025-01-17 16:20:00",
+            "symbol": "SUI",
+            "price": 4.909117560126983,
+            "volume_24h": 1891132977.02,
+            "market_cap": 14774329702.924726
+        },
+        {
+            "timestamp": "2025-01-18 16:20:00",
+            "symbol": "SUI",
+            "price": 4.7851529157717385,
+            "volume_24h": 1685519234.85,
+            "market_cap": 14401249509.839512
+        },
+        {
+            "timestamp": "2025-01-19 16:20:00",
+            "symbol": "SUI",
+            "price": 4.895860393712388,
+            "volume_24h": 2554543247.71,
+            "market_cap": 14734431341.3278
+        },
+        {
+            "timestamp": "2025-01-20 16:20:00",
+            "symbol": "SUI",
+            "price": 4.536377378500775,
+            "volume_24h": 2963499851.72,
+            "market_cap": 13652542279.946163
+        },
+        {
+            "timestamp": "2025-01-21 16:20:00",
+            "symbol": "SUI",
+            "price": 4.511547357823636,
+            "volume_24h": 1982283711.26,
+            "market_cap": 13577814610.966692
+        },
+        {
+            "timestamp": "2025-01-22 16:20:00",
+            "symbol": "SUI",
+            "price": 4.598240292299352,
+            "volume_24h": 1196639178.62,
+            "market_cap": 13838723008.692076
+        },
+        {
+            "timestamp": "2025-01-23 16:20:00",
+            "symbol": "SUI",
+            "price": 4.426171110693599,
+            "volume_24h": 1018594057.79,
+            "market_cap": 13320868875.109243
+        },
+        {
+            "timestamp": "2025-01-24 16:20:00",
+            "symbol": "SUI",
+            "price": 4.408774142593864,
+            "volume_24h": 1221806320.79,
+            "market_cap": 13268511493.280706
+        },
+        {
+            "timestamp": "2025-01-25 16:20:00",
+            "symbol": "SUI",
+            "price": 4.178750751205317,
+            "volume_24h": 897596229.06,
+            "market_cap": 12576240146.72298
+        },
+        {
+            "timestamp": "2025-01-26 16:20:00",
+            "symbol": "SUI",
+            "price": 4.112207814815696,
+            "volume_24h": 601656058.78,
+            "market_cap": 12375974565.469397
+        },
+        {
+            "timestamp": "2025-01-27 16:20:00",
+            "symbol": "SUI",
+            "price": 3.811145878185055,
+            "volume_24h": 2080115298.45,
+            "market_cap": 11469907791.08417
+        },
+        {
+            "timestamp": "2025-01-28 16:20:00",
+            "symbol": "SUI",
+            "price": 3.779480732934211,
+            "volume_24h": 1159610097.58,
+            "market_cap": 11374609340.742136
+        },
+        {
+            "timestamp": "2025-01-29 16:20:00",
+            "symbol": "SUI",
+            "price": 3.649099223828737,
+            "volume_24h": 814220435.13,
+            "market_cap": 10982217148.235888
+        },
+        {
+            "timestamp": "2025-01-30 16:20:00",
+            "symbol": "SUI",
+            "price": 4.127668180364193,
+            "volume_24h": 1841817581.04,
+            "market_cap": 12422503607.632998
+        },
+        {
+            "timestamp": "2025-01-31 16:20:00",
+            "symbol": "SUI",
+            "price": 4.194263979113341,
+            "volume_24h": 1127297646.3,
+            "market_cap": 12622928281.823135
+        },
+        {
+            "timestamp": "2025-02-01 16:20:00",
+            "symbol": "SUI",
+            "price": 3.899296193546315,
+            "volume_24h": 761206085.42,
+            "market_cap": 12047683502.725508
+        },
+        {
+            "timestamp": "2025-02-02 16:20:00",
+            "symbol": "SUI",
+            "price": 3.548852088973055,
+            "volume_24h": 1005765146.25,
+            "market_cap": 10964913831.551891
+        },
+        {
+            "timestamp": "2025-02-03 16:20:00",
+            "symbol": "SUI",
+            "price": 3.557200903417568,
+            "volume_24h": 4719700823.91,
+            "market_cap": 10990709223.60673
+        },
+        {
+            "timestamp": "2025-02-04 16:20:00",
+            "symbol": "SUI",
+            "price": 3.692987575661164,
+            "volume_24h": 2255597391.19,
+            "market_cap": 11410250281.756342
+        },
+        {
+            "timestamp": "2025-02-05 16:20:00",
+            "symbol": "SUI",
+            "price": 3.4635506529350346,
+            "volume_24h": 1691322304.59,
+            "market_cap": 10701357370.923183
+        },
+        {
+            "timestamp": "2025-02-06 16:20:00",
+            "symbol": "SUI",
+            "price": 3.219946549902302,
+            "volume_24h": 1383552412.75,
+            "market_cap": 9948692021.170795
+        },
+        {
+            "timestamp": "2025-02-07 16:20:00",
+            "symbol": "SUI",
+            "price": 3.218252009179153,
+            "volume_24h": 1416814504.45,
+            "market_cap": 9943456386.507092
+        },
+        {
+            "timestamp": "2025-02-08 16:20:00",
+            "symbol": "SUI",
+            "price": 2.9379598077393525,
+            "volume_24h": 1122380144.33,
+            "market_cap": 9077435555.153494
+        },
+        {
+            "timestamp": "2025-02-09 16:20:00",
+            "symbol": "SUI",
+            "price": 3.080023066308041,
+            "volume_24h": 783948563.77,
+            "market_cap": 9516369427.228706
+        },
+        {
+            "timestamp": "2025-02-10 16:20:00",
+            "symbol": "SUI",
+            "price": 3.252550758114213,
+            "volume_24h": 1529381021.76,
+            "market_cap": 10049429477.85444
+        },
+        {
+            "timestamp": "2025-02-11 16:20:00",
+            "symbol": "SUI",
+            "price": 3.463514476483249,
+            "volume_24h": 1278572534.77,
+            "market_cap": 10701245596.27983
+        },
+        {
+            "timestamp": "2025-02-12 16:20:00",
+            "symbol": "SUI",
+            "price": 3.191629371630884,
+            "volume_24h": 1364386816.83,
+            "market_cap": 9861200231.737371
+        },
+        {
+            "timestamp": "2025-02-13 16:20:00",
+            "symbol": "SUI",
+            "price": 3.5148641957632125,
+            "volume_24h": 1529669168.63,
+            "market_cap": 10859901193.375204
+        },
+        {
+            "timestamp": "2025-02-14 16:20:00",
+            "symbol": "SUI",
+            "price": 3.6079144717453615,
+            "volume_24h": 938681420.51,
+            "market_cap": 11147399300.528393
+        },
+        {
+            "timestamp": "2025-02-15 16:20:00",
+            "symbol": "SUI",
+            "price": 3.4272652818329905,
+            "volume_24h": 771746883.47,
+            "market_cap": 10589246198.773735
+        },
+        {
+            "timestamp": "2025-02-16 16:20:00",
+            "symbol": "SUI",
+            "price": 3.3317079088067736,
+            "volume_24h": 512085541.88,
+            "market_cap": 10294001895.846155
+        },
+        {
+            "timestamp": "2025-02-17 16:20:00",
+            "symbol": "SUI",
+            "price": 3.2151153855089545,
+            "volume_24h": 714679616.91,
+            "market_cap": 9933765137.78681
+        },
+        {
+            "timestamp": "2025-02-18 16:20:00",
+            "symbol": "SUI",
+            "price": 3.0421606146038123,
+            "volume_24h": 882300058.23,
+            "market_cap": 9399385537.796362
+        },
+        {
+            "timestamp": "2025-02-19 16:20:00",
+            "symbol": "SUI",
+            "price": 3.2301989458278726,
+            "volume_24h": 1094270183.46,
+            "market_cap": 9980368922.622995
+        },
+        {
+            "timestamp": "2025-02-20 16:20:00",
+            "symbol": "SUI",
+            "price": 3.327752539339359,
+            "volume_24h": 878259994.76,
+            "market_cap": 10281780962.34574
+        },
+        {
+            "timestamp": "2025-02-21 16:20:00",
+            "symbol": "SUI",
+            "price": 3.4613942222469176,
+            "volume_24h": 1158222369.71,
+            "market_cap": 10694694631.511648
+        },
+        {
+            "timestamp": "2025-02-22 16:20:00",
+            "symbol": "SUI",
+            "price": 3.4384516099251083,
+            "volume_24h": 962375642.24,
+            "market_cap": 10623808677.1601
+        },
+        {
+            "timestamp": "2025-02-23 16:20:00",
+            "symbol": "SUI",
+            "price": 3.304389976403493,
+            "volume_24h": 612445212.98,
+            "market_cap": 10209597483.560602
+        },
+        {
+            "timestamp": "2025-02-24 16:20:00",
+            "symbol": "SUI",
+            "price": 3.041611701993012,
+            "volume_24h": 1101036971.25,
+            "market_cap": 9397689558.553614
+        },
+        {
+            "timestamp": "2025-02-25 16:20:00",
+            "symbol": "SUI",
+            "price": 2.7782615574195884,
+            "volume_24h": 2180334528.44,
+            "market_cap": 8584014722.18986
+        },
+        {
+            "timestamp": "2025-02-26 16:20:00",
+            "symbol": "SUI",
+            "price": 2.9569862715321573,
+            "volume_24h": 1287624045.81,
+            "market_cap": 9136221757.220207
+        },
+        {
+            "timestamp": "2025-02-27 16:20:00",
+            "symbol": "SUI",
+            "price": 2.859870804431616,
+            "volume_24h": 1205171949.43,
+            "market_cap": 8836163399.821465
+        },
+        {
+            "timestamp": "2025-02-28 16:20:00",
+            "symbol": "SUI",
+            "price": 2.7754713630661456,
+            "volume_24h": 1250698414.66,
+            "market_cap": 8575393838.621947
+        },
+        {
+            "timestamp": "2025-03-01 16:20:00",
+            "symbol": "SUI",
+            "price": 2.8184726508329088,
+            "volume_24h": 698873455.61,
+            "market_cap": 8934121573.700523
+        },
+        {
+            "timestamp": "2025-03-02 16:20:00",
+            "symbol": "SUI",
+            "price": 3.029800487261714,
+            "volume_24h": 773378265.98,
+            "market_cap": 9603998069.399036
+        },
+        {
+            "timestamp": "2025-03-03 16:20:00",
+            "symbol": "SUI",
+            "price": 2.8683281422263223,
+            "volume_24h": 1412199338.65,
+            "market_cap": 9092155756.183617
+        },
+        {
+            "timestamp": "2025-03-04 16:20:00",
+            "symbol": "SUI",
+            "price": 2.3435528292050267,
+            "volume_24h": 1408252248.42,
+            "market_cap": 7428699329.163297
+        },
+        {
+            "timestamp": "2025-03-05 16:20:00",
+            "symbol": "SUI",
+            "price": 2.482160041176559,
+            "volume_24h": 1062604542.59,
+            "market_cap": 7868062713.576268
+        },
+        {
+            "timestamp": "2025-03-06 16:20:00",
+            "symbol": "SUI",
+            "price": 2.974439263701576,
+            "volume_24h": 1565521368.67,
+            "market_cap": 9428511569.0745
+        },
+        {
+            "timestamp": "2025-03-07 16:20:00",
+            "symbol": "SUI",
+            "price": 2.728317726194312,
+            "volume_24h": 1741561055.18,
+            "market_cap": 8648344432.328934
+        },
+        {
+            "timestamp": "2025-03-08 16:20:00",
+            "symbol": "SUI",
+            "price": 2.5033057584461287,
+            "volume_24h": 794639785.11,
+            "market_cap": 7935091360.738626
+        },
+        {
+            "timestamp": "2025-03-09 16:20:00",
+            "symbol": "SUI",
+            "price": 2.350165235103218,
+            "volume_24h": 563693831.29,
+            "market_cap": 7449659631.251605
+        },
+        {
+            "timestamp": "2025-03-10 16:20:00",
+            "symbol": "SUI",
+            "price": 2.206629300525448,
+            "volume_24h": 1026172585.25,
+            "market_cap": 6994672959.894847
+        },
+        {
+            "timestamp": "2025-03-11 16:20:00",
+            "symbol": "SUI",
+            "price": 2.1740134822289843,
+            "volume_24h": 1324915909.74,
+            "market_cap": 6891285869.798295
+        },
+        {
+            "timestamp": "2025-03-12 16:20:00",
+            "symbol": "SUI",
+            "price": 2.25040309446748,
+            "volume_24h": 1009043254.32,
+            "market_cap": 7133429103.8314085
+        },
+        {
+            "timestamp": "2025-03-13 16:20:00",
+            "symbol": "SUI",
+            "price": 2.187761927939781,
+            "volume_24h": 735519035.77,
+            "market_cap": 6934866312.345213
+        },
+        {
+            "timestamp": "2025-03-14 16:20:00",
+            "symbol": "SUI",
+            "price": 2.331450343114548,
+            "volume_24h": 813192124.06,
+            "market_cap": 7390336323.567196
+        },
+        {
+            "timestamp": "2025-03-15 16:20:00",
+            "symbol": "SUI",
+            "price": 2.367437664127672,
+            "volume_24h": 600176679.26,
+            "market_cap": 7504410554.85272
+        },
+        {
+            "timestamp": "2025-03-16 16:20:00",
+            "symbol": "SUI",
+            "price": 2.2926465232886164,
+            "volume_24h": 480923751.35,
+            "market_cap": 7267334227.468661
+        },
+        {
+            "timestamp": "2025-03-17 16:20:00",
+            "symbol": "SUI",
+            "price": 2.34422211881587,
+            "volume_24h": 690326343.8,
+            "market_cap": 7430820873.521557
+        },
+        {
+            "timestamp": "2025-03-18 16:20:00",
+            "symbol": "SUI",
+            "price": 2.250839508058593,
+            "volume_24h": 720286709.18,
+            "market_cap": 7134812467.291849
+        },
+        {
+            "timestamp": "2025-03-19 16:20:00",
+            "symbol": "SUI",
+            "price": 2.4069163933794044,
+            "volume_24h": 671807318.77,
+            "market_cap": 7629552009.252129
+        },
+        {
+            "timestamp": "2025-03-20 16:20:00",
+            "symbol": "SUI",
+            "price": 2.381075924403428,
+            "volume_24h": 792489764.07,
+            "market_cap": 7547641726.644068
+        },
+        {
+            "timestamp": "2025-03-21 16:20:00",
+            "symbol": "SUI",
+            "price": 2.2517727278223454,
+            "volume_24h": 587771733.23,
+            "market_cap": 7137770629.338192
+        },
+        {
+            "timestamp": "2025-03-22 16:20:00",
+            "symbol": "SUI",
+            "price": 2.292047151697434,
+            "volume_24h": 421537309.66,
+            "market_cap": 7265434312.398751
+        },
+        {
+            "timestamp": "2025-03-23 16:20:00",
+            "symbol": "SUI",
+            "price": 2.2765046124969106,
+            "volume_24h": 432083826.42,
+            "market_cap": 7216166871.488708
+        },
+        {
+            "timestamp": "2025-03-24 16:20:00",
+            "symbol": "SUI",
+            "price": 2.4309013801295074,
+            "volume_24h": 704884239.13,
+            "market_cap": 7705580700.715816
+        },
+        {
+            "timestamp": "2025-03-25 16:20:00",
+            "symbol": "SUI",
+            "price": 2.4712462819417698,
+            "volume_24h": 704778449.49,
+            "market_cap": 7833467787.916483
+        },
+        {
+            "timestamp": "2025-03-26 16:20:00",
+            "symbol": "SUI",
+            "price": 2.5748310091778546,
+            "volume_24h": 809076060.0,
+            "market_cap": 8161815322.540353
+        },
+        {
+            "timestamp": "2025-03-27 16:20:00",
+            "symbol": "SUI",
+            "price": 2.7518805189192936,
+            "volume_24h": 1450348751.11,
+            "market_cap": 8723034834.153015
+        },
+        {
+            "timestamp": "2025-03-28 16:20:00",
+            "symbol": "SUI",
+            "price": 2.5456918786478795,
+            "volume_24h": 1170373904.75,
+            "market_cap": 8069448793.942038
+        },
+        {
+            "timestamp": "2025-03-29 16:20:00",
+            "symbol": "SUI",
+            "price": 2.307862946518457,
+            "volume_24h": 859536412.23,
+            "market_cap": 7315567931.284133
+        },
+        {
+            "timestamp": "2025-03-30 16:20:00",
+            "symbol": "SUI",
+            "price": 2.3705407377114014,
+            "volume_24h": 755851931.21,
+            "market_cap": 7514246817.284071
+        },
+        {
+            "timestamp": "2025-03-31 16:20:00",
+            "symbol": "SUI",
+            "price": 2.2885246925168445,
+            "volume_24h": 966162831.86,
+            "market_cap": 7254268662.610209
+        },
+        {
+            "timestamp": "2025-04-01 16:20:00",
+            "symbol": "SUI",
+            "price": 2.492368545215633,
+            "volume_24h": 1040869665.23,
+            "market_cap": 8100155153.595175
+        },
+        {
+            "timestamp": "2025-04-02 16:20:00",
+            "symbol": "SUI",
+            "price": 2.4956119049987944,
+            "volume_24h": 1006311946.36,
+            "market_cap": 8110696017.430488
+        },
+        {
+            "timestamp": "2025-04-03 16:20:00",
+            "symbol": "SUI",
+            "price": 2.247784096052242,
+            "volume_24h": 1555722267.58,
+            "market_cap": 7305259876.095725
+        },
+        {
+            "timestamp": "2025-04-04 16:20:00",
+            "symbol": "SUI",
+            "price": 2.2383208431982977,
+            "volume_24h": 1387127509.26,
+            "market_cap": 7274504466.137676
+        },
+        {
+            "timestamp": "2025-04-05 16:20:00",
+            "symbol": "SUI",
+            "price": 2.205622608809885,
+            "volume_24h": 613953728.91,
+            "market_cap": 7168235763.500103
+        },
+        {
+            "timestamp": "2025-04-06 16:20:00",
+            "symbol": "SUI",
+            "price": 2.079111652118026,
+            "volume_24h": 440825280.89,
+            "market_cap": 6757077317.530725
+        },
+        {
+            "timestamp": "2025-04-07 16:20:00",
+            "symbol": "SUI",
+            "price": 2.0034853768224234,
+            "volume_24h": 2227212210.6,
+            "market_cap": 6511293215.994535
+        },
+        {
+            "timestamp": "2025-04-08 16:20:00",
+            "symbol": "SUI",
+            "price": 1.9939331304703165,
+            "volume_24h": 1061719980.97,
+            "market_cap": 6480248578.689207
+        },
+        {
+            "timestamp": "2025-04-09 16:20:00",
+            "symbol": "SUI",
+            "price": 1.965220629126186,
+            "volume_24h": 1369520882.66,
+            "market_cap": 6386933440.291348
+        },
+        {
+            "timestamp": "2025-04-10 16:20:00",
+            "symbol": "SUI",
+            "price": 2.065784148687291,
+            "volume_24h": 1726376327.02,
+            "market_cap": 6713763159.275015
+        },
+        {
+            "timestamp": "2025-04-11 16:20:00",
+            "symbol": "SUI",
+            "price": 2.1778609144524044,
+            "volume_24h": 942518181.26,
+            "market_cap": 7078010731.550493
+        },
+        {
+            "timestamp": "2025-04-12 16:20:00",
+            "symbol": "SUI",
+            "price": 2.304965101974336,
+            "volume_24h": 963609783.86,
+            "market_cap": 7491097167.57363
+        },
+        {
+            "timestamp": "2025-04-13 16:20:00",
+            "symbol": "SUI",
+            "price": 2.273589895107819,
+            "volume_24h": 987350646.0,
+            "market_cap": 7389128281.759056
+        },
+        {
+            "timestamp": "2025-04-14 16:20:00",
+            "symbol": "SUI",
+            "price": 2.212402685372468,
+            "volume_24h": 1085186430.28,
+            "market_cap": 7190270896.392305
+        },
+        {
+            "timestamp": "2025-04-15 16:20:00",
+            "symbol": "SUI",
+            "price": 2.1569712302128563,
+            "volume_24h": 885971085.84,
+            "market_cap": 7010119614.975953
+        },
+        {
+            "timestamp": "2025-04-16 16:20:00",
+            "symbol": "SUI",
+            "price": 2.0906935024881856,
+            "volume_24h": 641834510.18,
+            "market_cap": 6794718133.18943
+        },
+        {
+            "timestamp": "2025-04-17 16:20:00",
+            "symbol": "SUI",
+            "price": 2.117893088750102,
+            "volume_24h": 658343352.04,
+            "market_cap": 6883116323.440245
+        },
+        {
+            "timestamp": "2025-04-18 16:20:00",
+            "symbol": "SUI",
+            "price": 2.1131184552569784,
+            "volume_24h": 471783061.91,
+            "market_cap": 6867598846.231629
+        },
+        {
+            "timestamp": "2025-04-19 16:20:00",
+            "symbol": "SUI",
+            "price": 2.1417594838237752,
+            "volume_24h": 343855784.24,
+            "market_cap": 6960681699.325306
+        },
+        {
+            "timestamp": "2025-04-20 16:20:00",
+            "symbol": "SUI",
+            "price": 2.0992875227245693,
+            "volume_24h": 402151349.39,
+            "market_cap": 6822648552.003884
+        },
+        {
+            "timestamp": "2025-04-21 16:20:00",
+            "symbol": "SUI",
+            "price": 2.242487909537158,
+            "volume_24h": 783010001.89,
+            "market_cap": 7288047360.484055
+        },
+        {
+            "timestamp": "2025-04-22 16:20:00",
+            "symbol": "SUI",
+            "price": 2.397539003633164,
+            "volume_24h": 1144047052.28,
+            "market_cap": 7791960764.993688
+        },
+        {
+            "timestamp": "2025-04-23 16:20:00",
+            "symbol": "SUI",
+            "price": 2.938654291387224,
+            "volume_24h": 2857205101.21,
+            "market_cap": 9550576197.371876
+        }
+    ],
+    "investment_thesis": "SUI presents a good investment opportunity based on its overall score of 68.0/100. Technical indicators are favorable with a score of 69.0/100, showing balanced price action. Fundamentals are reasonably solid (64.0/100), suggesting adequate market position. Market sentiment is highly positive (71.0/100), indicating strong investor confidence. Multiple bullish patterns (inverse head and shoulders, double bottom) have been identified, strengthening the positive case. Chart analysis reveals a double top pattern, suggesting potential downside risk. This analysis is set against a broader market that is currently in a strong bullish trend with sentiment showing greed. Based on comprehensive analysis, SUI is rated as a Strong Buy with above-average potential for significant price appreciation.",
+    "risk_assessment": "SUI is classified as a aggressive risk investment. With a market cap of $9.62B and rank #2, it offers higher growth potential with corresponding volatility. Annualized volatility of 121.1% indicates significant price swings are common. Daily trading volume of $3095.55M and liquidity ratio of 0.322 suggest good liquidity. Key risks include high competition, technological challenges, potential regulatory scrutiny, and pronounced market cycle effects. The RSI of 82.5 indicates overbought conditions, increasing the risk of a short-term correction. The current bullish market environment potentially reduces short-term downside risk, though caution is warranted for any sudden sentiment changes. High Bitcoin dominance (63.5%) may limit altcoin performance in the near term.",
+    "analysis_time": "2025-04-23 20:16:22"
+}

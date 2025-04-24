@@ -1,0 +1,18 @@
+{
+    "symbol": "SUI",
+    "market_cap_usd": 9619960151.33089,
+    "volume_24h_usd": 3095551508.6790347,
+    "volume_mcap_ratio": 0.3217842340283265,
+    "market_share": 0.3579994421341238,
+    "cmc_rank": 12,
+    "price_change_30d": 21.34742804,
+    "fundamental_score": 64,
+    "score_components": {
+        "market_cap_score": 15,
+        "volume_mcap_score": 20,
+        "rank_score": 10,
+        "stability_score": 6,
+        "growth_score": 9,
+        "market_position_score": 4
+    }
+}

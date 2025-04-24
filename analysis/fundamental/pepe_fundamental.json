@@ -1,0 +1,18 @@
+{
+    "symbol": "PEPE",
+    "market_cap_usd": 3329175773.1798854,
+    "volume_24h_usd": 570994871.5321535,
+    "volume_mcap_ratio": 0.1715123833749288,
+    "market_share": 0.12735347411747627,
+    "cmc_rank": 29,
+    "price_change_30d": 9.72979472,
+    "fundamental_score": 48,
+    "score_components": {
+        "market_cap_score": 10,
+        "volume_mcap_score": 15,
+        "rank_score": 7,
+        "stability_score": 6,
+        "growth_score": 7,
+        "market_position_score": 3
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "symbol": "BNB",
+    "market_cap_usd": 85063103909.6674,
+    "volume_24h_usd": 1879587848.9212496,
+    "volume_mcap_ratio": 0.022096393883266643,
+    "market_share": 3.165558200534222,
+    "cmc_rank": 5,
+    "price_change_30d": -5.11594204,
+    "fundamental_score": 66,
+    "score_components": {
+        "market_cap_score": 22,
+        "volume_mcap_score": 5,
+        "rank_score": 14,
+        "stability_score": 15,
+        "growth_score": 3,
+        "market_position_score": 7
+    }
+}

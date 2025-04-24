@@ -1,0 +1,14 @@
+{
+    "symbol": "BTC",
+    "current_price": 93115.44632961876,
+    "predicted_price": 95441.7308998321,
+    "prediction_days": 30,
+    "price_change_percent": 2.4982799974759664,
+    "trend": "Bullish",
+    "trend_strength": "Weak",
+    "confidence": 66.66666666666666,
+    "best_model": "Random Forest",
+    "model_agreement": 2,
+    "available_models": 3,
+    "prediction_date": "2025-04-23 20:16:22"
+}

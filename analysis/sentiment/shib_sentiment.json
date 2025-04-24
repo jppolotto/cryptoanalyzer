@@ -1,0 +1,20 @@
+{
+    "symbol": "SHIB",
+    "price_change_1h": -1.95068056,
+    "price_change_24h": 2.05095778,
+    "price_change_7d": 11.08642697,
+    "market_avg_change_24h": 3.4300381724999993,
+    "market_avg_change_7d": 10.064568308,
+    "relative_performance_24h": -1.3790803924999993,
+    "relative_performance_7d": 1.0218586619999996,
+    "fear_greed_value": 72,
+    "fear_greed_classification": "Greed",
+    "market_trend": "Strong Bullish",
+    "sentiment_score": 46,
+    "score_components": {
+        "momentum_score": 17,
+        "market_sentiment_score": 10,
+        "relative_score": 9,
+        "alignment_score": 10
+    }
+}

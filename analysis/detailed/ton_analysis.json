@@ -1,0 +1,2641 @@
+{
+    "symbol": "TON",
+    "name": "Toncoin",
+    "price_usd": 3.0778952095292187,
+    "market_cap_usd": 7726353366.039958,
+    "volume_24h_usd": 196024763.71383023,
+    "percent_change_24h": 3.66666763,
+    "percent_change_7d": 6.03361934,
+    "technical_score": 35,
+    "fundamental_score": 45,
+    "sentiment_score": 41,
+    "total_score": 39.5,
+    "technical_weight": 0.45,
+    "fundamental_weight": 0.3,
+    "sentiment_weight": 0.25,
+    "risk_profile": "Moderate",
+    "market_opportunity": "Limited",
+    "recommendation": "Sell",
+    "rank": 20,
+    "technical_data": {
+        "symbol": "TON",
+        "price": 2.9298316714971326,
+        "ma_7": 2.9610077831763584,
+        "ma_30": 3.318346371347586,
+        "ma_90": 3.587113789118055,
+        "ma_200": 4.674367808940427,
+        "rsi_14": 38.680534914336604,
+        "macd": -0.13644527434850673,
+        "macd_signal": -0.1442009891478009,
+        "bb_upper": 3.5320933362160627,
+        "bb_middle": 3.0609628899194563,
+        "bb_lower": 2.58983244362285,
+        "bb_width": 0.3078315309526692,
+        "roc_7": 0.04632995497715342,
+        "roc_30": -21.160429452876784,
+        "obv": 1732227550.1799989,
+        "tenkan_sen": 2.9310876523255462,
+        "kijun_sen": 3.4746395013328524,
+        "adx": 40.57601925635489,
+        "stoch_k": 45.13806165491218,
+        "stoch_d": 57.046200828577106,
+        "mfi": 35.54238658621638,
+        "psar": 2.8292072519522566,
+        "technical_score": 35,
+        "score_components": {
+            "trend_score": 0,
+            "momentum_score": 9,
+            "volatility_score": 4,
+            "support_resistance_score": 8,
+            "volume_score": 5,
+            "ichimoku_score": 0,
+            "obv_score": 0,
+            "adx_score": 3,
+            "psar_score": 5,
+            "ma_cross_score": 1
+        }
+    },
+    "fundamental_data": {
+        "symbol": "TON",
+        "market_cap_usd": 7726353366.039958,
+        "volume_24h_usd": 196024763.71383023,
+        "volume_mcap_ratio": 0.025370929133972573,
+        "market_share": 0.28525811605795864,
+        "cmc_rank": 17,
+        "price_change_30d": -17.40008448,
+        "fundamental_score": 45,
+        "score_components": {
+            "market_cap_score": 15,
+            "volume_mcap_score": 5,
+            "rank_score": 10,
+            "stability_score": 9,
+            "growth_score": 2,
+            "market_position_score": 4
+        }
+    },
+    "sentiment_data": {
+        "symbol": "TON",
+        "price_change_1h": -1.14525598,
+        "price_change_24h": 3.66666763,
+        "price_change_7d": 6.03361934,
+        "market_avg_change_24h": 3.4300381724999993,
+        "market_avg_change_7d": 10.064568308,
+        "relative_performance_24h": 0.23662945750000075,
+        "relative_performance_7d": -4.030948968,
+        "fear_greed_value": 72,
+        "fear_greed_classification": "Greed",
+        "market_trend": "Strong Bullish",
+        "sentiment_score": 41,
+        "score_components": {
+            "momentum_score": 16,
+            "market_sentiment_score": 10,
+            "relative_score": 8,
+            "alignment_score": 7
+        }
+    },
+    "pattern_data": {
+        "head_and_shoulders": false,
+        "inverse_head_and_shoulders": true,
+        "double_top": true,
+        "double_bottom": true,
+        "ascending_triangle": false,
+        "descending_triangle": false,
+        "symmetric_triangle": false,
+        "bullish_flag": false,
+        "bearish_flag": true,
+        "pattern_strength": 4
+    },
+    "divergence_data": {
+        "bearish_divergence": false,
+        "bullish_divergence": false,
+        "bearish_divergence_strength": 0,
+        "bullish_divergence_strength": 0,
+        "rsi_divergences": [],
+        "macd_divergences": []
+    },
+    "historical_data": [
+        {
+            "timestamp": "2024-04-28 07:15:00",
+            "symbol": "TON",
+            "price": 5.5546376074326,
+            "volume_24h": 137990535.88,
+            "market_cap": 19287867958.915398
+        },
+        {
+            "timestamp": "2024-04-29 07:15:00",
+            "symbol": "TON",
+            "price": 5.233081292268189,
+            "volume_24h": 122532447.53,
+            "market_cap": 18171714272.889484
+        },
+        {
+            "timestamp": "2024-04-30 07:15:00",
+            "symbol": "TON",
+            "price": 5.386765130439707,
+            "volume_24h": 124754917.54,
+            "market_cap": 18706450514.91655
+        },
+        {
+            "timestamp": "2024-05-01 07:15:00",
+            "symbol": "TON",
+            "price": 4.820904067349948,
+            "volume_24h": 271554304.11,
+            "market_cap": 16742580986.773386
+        },
+        {
+            "timestamp": "2024-05-02 07:15:00",
+            "symbol": "TON",
+            "price": 4.756692344045113,
+            "volume_24h": 249273257.74,
+            "market_cap": 16519812236.129328
+        },
+        {
+            "timestamp": "2024-05-03 07:15:00",
+            "symbol": "TON",
+            "price": 5.316859164902213,
+            "volume_24h": 226760320.17,
+            "market_cap": 18466275368.88935
+        },
+        {
+            "timestamp": "2024-05-04 07:15:00",
+            "symbol": "TON",
+            "price": 5.792047301650529,
+            "volume_24h": 318879346.8,
+            "market_cap": 20116947722.875523
+        },
+        {
+            "timestamp": "2024-05-05 07:15:00",
+            "symbol": "TON",
+            "price": 5.641290829325996,
+            "volume_24h": 154269251.29,
+            "market_cap": 19593645495.933235
+        },
+        {
+            "timestamp": "2024-05-06 07:15:00",
+            "symbol": "TON",
+            "price": 6.048762428264788,
+            "volume_24h": 196608594.89,
+            "market_cap": 21009131935.18663
+        },
+        {
+            "timestamp": "2024-05-07 07:15:00",
+            "symbol": "TON",
+            "price": 5.8271276945462445,
+            "volume_24h": 248707920.81,
+            "market_cap": 20239644213.625675
+        },
+        {
+            "timestamp": "2024-05-08 07:15:00",
+            "symbol": "TON",
+            "price": 5.652356085282457,
+            "volume_24h": 178556828.63,
+            "market_cap": 19632836175.45108
+        },
+        {
+            "timestamp": "2024-05-09 07:15:00",
+            "symbol": "TON",
+            "price": 6.028291089331005,
+            "volume_24h": 221973696.17,
+            "market_cap": 20938853160.209454
+        },
+        {
+            "timestamp": "2024-05-10 07:15:00",
+            "symbol": "TON",
+            "price": 6.79387126756942,
+            "volume_24h": 521853063.34,
+            "market_cap": 23598311783.475945
+        },
+        {
+            "timestamp": "2024-05-11 07:15:00",
+            "symbol": "TON",
+            "price": 6.896420430949201,
+            "volume_24h": 735298759.11,
+            "market_cap": 23956875551.79576
+        },
+        {
+            "timestamp": "2024-05-12 07:15:00",
+            "symbol": "TON",
+            "price": 6.910280857611984,
+            "volume_24h": 259907019.13,
+            "market_cap": 24006058826.51424
+        },
+        {
+            "timestamp": "2024-05-13 07:15:00",
+            "symbol": "TON",
+            "price": 7.176098121371351,
+            "volume_24h": 482750588.44,
+            "market_cap": 24929775147.233185
+        },
+        {
+            "timestamp": "2024-05-14 07:15:00",
+            "symbol": "TON",
+            "price": 7.0332012788198535,
+            "volume_24h": 721289881.97,
+            "market_cap": 24433665842.371857
+        },
+        {
+            "timestamp": "2024-05-15 07:15:00",
+            "symbol": "TON",
+            "price": 6.994126848915843,
+            "volume_24h": 409410996.37,
+            "market_cap": 24298539154.87709
+        },
+        {
+            "timestamp": "2024-05-16 07:15:00",
+            "symbol": "TON",
+            "price": 6.73729502121687,
+            "volume_24h": 437941103.08,
+            "market_cap": 23406613095.238087
+        },
+        {
+            "timestamp": "2024-05-17 07:15:00",
+            "symbol": "TON",
+            "price": 6.705322830222195,
+            "volume_24h": 754327619.08,
+            "market_cap": 23295717439.457794
+        },
+        {
+            "timestamp": "2024-05-18 07:15:00",
+            "symbol": "TON",
+            "price": 6.409073024941246,
+            "volume_24h": 340972369.75,
+            "market_cap": 22266644438.843437
+        },
+        {
+            "timestamp": "2024-05-19 07:15:00",
+            "symbol": "TON",
+            "price": 6.511107872566984,
+            "volume_24h": 185026293.87,
+            "market_cap": 22622659626.467617
+        },
+        {
+            "timestamp": "2024-05-20 07:15:00",
+            "symbol": "TON",
+            "price": 6.327030064795093,
+            "volume_24h": 185216837.46,
+            "market_cap": 21983225950.33342
+        },
+        {
+            "timestamp": "2024-05-21 07:15:00",
+            "symbol": "TON",
+            "price": 6.608606696015095,
+            "volume_24h": 275571091.38,
+            "market_cap": 22961787136.2545
+        },
+        {
+            "timestamp": "2024-05-22 07:15:00",
+            "symbol": "TON",
+            "price": 6.303864633569767,
+            "volume_24h": 254404020.57,
+            "market_cap": 21902771224.58215
+        },
+        {
+            "timestamp": "2024-05-23 07:15:00",
+            "symbol": "TON",
+            "price": 6.425341314850176,
+            "volume_24h": 355777842.64,
+            "market_cap": 22325417445.56428
+        },
+        {
+            "timestamp": "2024-05-24 07:15:00",
+            "symbol": "TON",
+            "price": 6.104983427773534,
+            "volume_24h": 299258229.17,
+            "market_cap": 21212474460.81432
+        },
+        {
+            "timestamp": "2024-05-25 07:15:00",
+            "symbol": "TON",
+            "price": 6.309574181905783,
+            "volume_24h": 139996769.48,
+            "market_cap": 21923503533.84152
+        },
+        {
+            "timestamp": "2024-05-26 07:15:00",
+            "symbol": "TON",
+            "price": 6.366713542146174,
+            "volume_24h": 127561697.91,
+            "market_cap": 22122277983.821056
+        },
+        {
+            "timestamp": "2024-05-27 07:15:00",
+            "symbol": "TON",
+            "price": 6.381305670235996,
+            "volume_24h": 112983157.52,
+            "market_cap": 22173190342.153397
+        },
+        {
+            "timestamp": "2024-05-28 07:15:00",
+            "symbol": "TON",
+            "price": 6.324494243303972,
+            "volume_24h": 171010242.86,
+            "market_cap": 21975973917.413334
+        },
+        {
+            "timestamp": "2024-05-29 07:15:00",
+            "symbol": "TON",
+            "price": 6.534478547820249,
+            "volume_24h": 168522561.48,
+            "market_cap": 22706371744.309635
+        },
+        {
+            "timestamp": "2024-05-30 07:15:00",
+            "symbol": "TON",
+            "price": 6.431639525597806,
+            "volume_24h": 170098703.62,
+            "market_cap": 15508418133.458347
+        },
+        {
+            "timestamp": "2024-05-31 07:15:00",
+            "symbol": "TON",
+            "price": 6.436598313314383,
+            "volume_24h": 151985630.1,
+            "market_cap": 15526948880.451847
+        },
+        {
+            "timestamp": "2024-06-01 07:15:00",
+            "symbol": "TON",
+            "price": 6.292098635227451,
+            "volume_24h": 139417621.01,
+            "market_cap": 15178557409.87751
+        },
+        {
+            "timestamp": "2024-06-02 07:15:00",
+            "symbol": "TON",
+            "price": 6.391701671576704,
+            "volume_24h": 151931501.86,
+            "market_cap": 15419018452.380388
+        },
+        {
+            "timestamp": "2024-06-03 07:15:00",
+            "symbol": "TON",
+            "price": 6.660264226564058,
+            "volume_24h": 501411528.24,
+            "market_cap": 16067022570.18214
+        },
+        {
+            "timestamp": "2024-06-04 07:15:00",
+            "symbol": "TON",
+            "price": 6.754994918764537,
+            "volume_24h": 213656956.53,
+            "market_cap": 16303851783.44746
+        },
+        {
+            "timestamp": "2024-06-05 07:15:00",
+            "symbol": "TON",
+            "price": 7.434475111000984,
+            "volume_24h": 559205549.09,
+            "market_cap": 17944018191.890617
+        },
+        {
+            "timestamp": "2024-06-06 07:15:00",
+            "symbol": "TON",
+            "price": 7.286601186906546,
+            "volume_24h": 320421295.6,
+            "market_cap": 17597656903.753685
+        },
+        {
+            "timestamp": "2024-06-07 07:15:00",
+            "symbol": "TON",
+            "price": 7.638428727720922,
+            "volume_24h": 361592068.67,
+            "market_cap": 18562689833.13901
+        },
+        {
+            "timestamp": "2024-06-08 07:15:00",
+            "symbol": "TON",
+            "price": 7.384653842681398,
+            "volume_24h": 402121700.31,
+            "market_cap": 17946157963.194912
+        },
+        {
+            "timestamp": "2024-06-09 07:15:00",
+            "symbol": "TON",
+            "price": 7.068248933542562,
+            "volume_24h": 304384746.94,
+            "market_cap": 17187492355.239555
+        },
+        {
+            "timestamp": "2024-06-10 07:15:00",
+            "symbol": "TON",
+            "price": 7.0152066674295295,
+            "volume_24h": 220020631.96,
+            "market_cap": 17058773340.425455
+        },
+        {
+            "timestamp": "2024-06-11 07:15:00",
+            "symbol": "TON",
+            "price": 6.912382384829621,
+            "volume_24h": 301669518.78,
+            "market_cap": 16808981445.531143
+        },
+        {
+            "timestamp": "2024-06-12 07:15:00",
+            "symbol": "TON",
+            "price": 7.080003822459784,
+            "volume_24h": 228203272.02,
+            "market_cap": 17216886663.292553
+        },
+        {
+            "timestamp": "2024-06-13 07:15:00",
+            "symbol": "TON",
+            "price": 7.543375707813424,
+            "volume_24h": 511242846.4,
+            "market_cap": 18351536695.26708
+        },
+        {
+            "timestamp": "2024-06-14 07:15:00",
+            "symbol": "TON",
+            "price": 7.825420625731855,
+            "volume_24h": 524832525.65,
+            "market_cap": 19038013156.897503
+        },
+        {
+            "timestamp": "2024-06-15 07:15:00",
+            "symbol": "TON",
+            "price": 8.003347844719734,
+            "volume_24h": 608906332.25,
+            "market_cap": 19471222343.2426
+        },
+        {
+            "timestamp": "2024-06-16 07:15:00",
+            "symbol": "TON",
+            "price": 7.826130799711894,
+            "volume_24h": 296832165.26,
+            "market_cap": 19040380820.77213
+        },
+        {
+            "timestamp": "2024-06-17 07:15:00",
+            "symbol": "TON",
+            "price": 7.862083413497141,
+            "volume_24h": 275740481.77,
+            "market_cap": 19128248457.82321
+        },
+        {
+            "timestamp": "2024-06-18 07:15:00",
+            "symbol": "TON",
+            "price": 7.385502498478633,
+            "volume_24h": 473647791.12,
+            "market_cap": 18006474984.432808
+        },
+        {
+            "timestamp": "2024-06-19 07:15:00",
+            "symbol": "TON",
+            "price": 7.052944770303579,
+            "volume_24h": 411226623.53,
+            "market_cap": 17195993987.37424
+        },
+        {
+            "timestamp": "2024-06-20 07:15:00",
+            "symbol": "TON",
+            "price": 7.1991607293881446,
+            "volume_24h": 280576370.12,
+            "market_cap": 17555963199.6359
+        },
+        {
+            "timestamp": "2024-06-21 07:15:00",
+            "symbol": "TON",
+            "price": 7.280045877991971,
+            "volume_24h": 244600841.89,
+            "market_cap": 17895370382.74515
+        },
+        {
+            "timestamp": "2024-06-22 07:15:00",
+            "symbol": "TON",
+            "price": 7.187636746851944,
+            "volume_24h": 273641054.22,
+            "market_cap": 17668569627.71738
+        },
+        {
+            "timestamp": "2024-06-23 07:15:00",
+            "symbol": "TON",
+            "price": 7.624122081911838,
+            "volume_24h": 203120184.25,
+            "market_cap": 18741885187.368828
+        },
+        {
+            "timestamp": "2024-06-24 07:15:00",
+            "symbol": "TON",
+            "price": 7.213176113036267,
+            "volume_24h": 332468136.13,
+            "market_cap": 17731997492.323437
+        },
+        {
+            "timestamp": "2024-06-25 07:15:00",
+            "symbol": "TON",
+            "price": 7.601658668813681,
+            "volume_24h": 392973523.28,
+            "market_cap": 18687338396.362736
+        },
+        {
+            "timestamp": "2024-06-26 07:15:00",
+            "symbol": "TON",
+            "price": 7.4826828307963265,
+            "volume_24h": 269953377.18,
+            "market_cap": 18395178810.4552
+        },
+        {
+            "timestamp": "2024-06-27 07:15:00",
+            "symbol": "TON",
+            "price": 7.597933545685415,
+            "volume_24h": 236141248.15,
+            "market_cap": 18687961530.804424
+        },
+        {
+            "timestamp": "2024-06-28 07:15:00",
+            "symbol": "TON",
+            "price": 7.611695128432274,
+            "volume_24h": 266247233.05,
+            "market_cap": 18722156696.689148
+        },
+        {
+            "timestamp": "2024-06-29 07:15:00",
+            "symbol": "TON",
+            "price": 7.495236922044573,
+            "volume_24h": 209862843.97,
+            "market_cap": 18436062416.6832
+        },
+        {
+            "timestamp": "2024-06-30 07:15:00",
+            "symbol": "TON",
+            "price": 7.691853396869789,
+            "volume_24h": 143520486.74,
+            "market_cap": 18921602028.942574
+        },
+        {
+            "timestamp": "2024-07-01 07:15:00",
+            "symbol": "TON",
+            "price": 7.69928567683425,
+            "volume_24h": 174704742.78,
+            "market_cap": 18940265409.22737
+        },
+        {
+            "timestamp": "2024-07-02 07:15:00",
+            "symbol": "TON",
+            "price": 7.928016168498048,
+            "volume_24h": 210927737.79,
+            "market_cap": 19503407817.07596
+        },
+        {
+            "timestamp": "2024-07-03 07:15:00",
+            "symbol": "TON",
+            "price": 7.969701977675161,
+            "volume_24h": 326278977.43,
+            "market_cap": 19608255383.30889
+        },
+        {
+            "timestamp": "2024-07-04 07:15:00",
+            "symbol": "TON",
+            "price": 7.486825329366488,
+            "volume_24h": 455334552.05,
+            "market_cap": 18420559274.83828
+        },
+        {
+            "timestamp": "2024-07-05 07:15:00",
+            "symbol": "TON",
+            "price": 6.609897072541942,
+            "volume_24h": 695635531.44,
+            "market_cap": 16488789437.009466
+        },
+        {
+            "timestamp": "2024-07-06 07:15:00",
+            "symbol": "TON",
+            "price": 7.553241320571447,
+            "volume_24h": 521915613.29,
+            "market_cap": 18892539297.217148
+        },
+        {
+            "timestamp": "2024-07-07 07:15:00",
+            "symbol": "TON",
+            "price": 7.5598565113397,
+            "volume_24h": 296075090.06,
+            "market_cap": 18945454448.867214
+        },
+        {
+            "timestamp": "2024-07-08 07:15:00",
+            "symbol": "TON",
+            "price": 7.138459831873884,
+            "volume_24h": 371315746.96,
+            "market_cap": 17889746203.82947
+        },
+        {
+            "timestamp": "2024-07-09 07:15:00",
+            "symbol": "TON",
+            "price": 7.287717236386578,
+            "volume_24h": 366720248.88,
+            "market_cap": 18264157457.79068
+        },
+        {
+            "timestamp": "2024-07-10 07:15:00",
+            "symbol": "TON",
+            "price": 7.405124659020217,
+            "volume_24h": 246139774.66,
+            "market_cap": 18558750148.641518
+        },
+        {
+            "timestamp": "2024-07-11 07:15:00",
+            "symbol": "TON",
+            "price": 7.162366587856215,
+            "volume_24h": 199571364.17,
+            "market_cap": 17954547710.641083
+        },
+        {
+            "timestamp": "2024-07-12 07:15:00",
+            "symbol": "TON",
+            "price": 7.368986113749286,
+            "volume_24h": 252869748.48,
+            "market_cap": 18472804666.415066
+        },
+        {
+            "timestamp": "2024-07-13 07:15:00",
+            "symbol": "TON",
+            "price": 7.3341515947389855,
+            "volume_24h": 185103060.88,
+            "market_cap": 18385784757.27132
+        },
+        {
+            "timestamp": "2024-07-14 07:15:00",
+            "symbol": "TON",
+            "price": 7.344562449993425,
+            "volume_24h": 172586880.6,
+            "market_cap": 18412185650.725075
+        },
+        {
+            "timestamp": "2024-07-15 07:15:00",
+            "symbol": "TON",
+            "price": 7.505300241642314,
+            "volume_24h": 191839151.78,
+            "market_cap": 18815463321.917446
+        },
+        {
+            "timestamp": "2024-07-16 07:15:00",
+            "symbol": "TON",
+            "price": 7.395996892121648,
+            "volume_24h": 290982188.97,
+            "market_cap": 18575341735.493008
+        },
+        {
+            "timestamp": "2024-07-17 07:15:00",
+            "symbol": "TON",
+            "price": 7.314972667006057,
+            "volume_24h": 252636153.76,
+            "market_cap": 18375366057.994045
+        },
+        {
+            "timestamp": "2024-07-18 07:15:00",
+            "symbol": "TON",
+            "price": 7.239273659334314,
+            "volume_24h": 220020375.38,
+            "market_cap": 18185546238.42396
+        },
+        {
+            "timestamp": "2024-07-19 07:15:00",
+            "symbol": "TON",
+            "price": 7.287729161101115,
+            "volume_24h": 201812319.99,
+            "market_cap": 18307632063.91092
+        },
+        {
+            "timestamp": "2024-07-20 07:15:00",
+            "symbol": "TON",
+            "price": 7.339866616333138,
+            "volume_24h": 189310971.41,
+            "market_cap": 18458023776.501453
+        },
+        {
+            "timestamp": "2024-07-21 07:15:00",
+            "symbol": "TON",
+            "price": 7.2544944591736815,
+            "volume_24h": 131397662.52,
+            "market_cap": 18243672599.909466
+        },
+        {
+            "timestamp": "2024-07-22 07:15:00",
+            "symbol": "TON",
+            "price": 7.073683387129657,
+            "volume_24h": 222526711.25,
+            "market_cap": 17789333865.14683
+        },
+        {
+            "timestamp": "2024-07-23 07:15:00",
+            "symbol": "TON",
+            "price": 6.840433486360507,
+            "volume_24h": 234396865.6,
+            "market_cap": 17203086566.700565
+        },
+        {
+            "timestamp": "2024-07-24 07:15:00",
+            "symbol": "TON",
+            "price": 6.930965974428785,
+            "volume_24h": 211603570.71,
+            "market_cap": 17431279736.2879
+        },
+        {
+            "timestamp": "2024-07-25 07:15:00",
+            "symbol": "TON",
+            "price": 6.613355102476156,
+            "volume_24h": 263532953.9,
+            "market_cap": 16641770031.95117
+        },
+        {
+            "timestamp": "2024-07-26 07:15:00",
+            "symbol": "TON",
+            "price": 6.741777689248121,
+            "volume_24h": 221129546.0,
+            "market_cap": 16965335528.450563
+        },
+        {
+            "timestamp": "2024-07-27 07:15:00",
+            "symbol": "TON",
+            "price": 6.696690753611688,
+            "volume_24h": 155451402.79,
+            "market_cap": 16852202482.22883
+        },
+        {
+            "timestamp": "2024-07-28 07:15:00",
+            "symbol": "TON",
+            "price": 6.5389711546643925,
+            "volume_24h": 159523543.32,
+            "market_cap": 16455631922.555569
+        },
+        {
+            "timestamp": "2024-07-29 07:15:00",
+            "symbol": "TON",
+            "price": 6.764159374015652,
+            "volume_24h": 139865096.12,
+            "market_cap": 17022678012.771915
+        },
+        {
+            "timestamp": "2024-07-30 07:15:00",
+            "symbol": "TON",
+            "price": 6.632137614053079,
+            "volume_24h": 176305110.02,
+            "market_cap": 16690743657.671816
+        },
+        {
+            "timestamp": "2024-07-31 07:15:00",
+            "symbol": "TON",
+            "price": 6.771944109324251,
+            "volume_24h": 159464623.73,
+            "market_cap": 17042832914.867798
+        },
+        {
+            "timestamp": "2024-08-01 07:15:00",
+            "symbol": "TON",
+            "price": 6.75011413108568,
+            "volume_24h": 221335191.62,
+            "market_cap": 16989841062.44271
+        },
+        {
+            "timestamp": "2024-08-02 07:15:00",
+            "symbol": "TON",
+            "price": 6.559643530858526,
+            "volume_24h": 265632651.0,
+            "market_cap": 16510667829.691689
+        },
+        {
+            "timestamp": "2024-08-03 07:15:00",
+            "symbol": "TON",
+            "price": 6.144390973326817,
+            "volume_24h": 299417985.91,
+            "market_cap": 15471903323.066517
+        },
+        {
+            "timestamp": "2024-08-04 07:15:00",
+            "symbol": "TON",
+            "price": 6.021391566969985,
+            "volume_24h": 240240707.48,
+            "market_cap": 15162450567.00768
+        },
+        {
+            "timestamp": "2024-08-05 07:15:00",
+            "symbol": "TON",
+            "price": 5.082527725871659,
+            "volume_24h": 812285314.97,
+            "market_cap": 12798041682.459064
+        },
+        {
+            "timestamp": "2024-08-06 07:15:00",
+            "symbol": "TON",
+            "price": 5.5458786273298335,
+            "volume_24h": 673469443.62,
+            "market_cap": 13965657482.719748
+        },
+        {
+            "timestamp": "2024-08-07 07:15:00",
+            "symbol": "TON",
+            "price": 5.759791609763258,
+            "volume_24h": 348756903.95,
+            "market_cap": 14504581885.9864
+        },
+        {
+            "timestamp": "2024-08-08 07:15:00",
+            "symbol": "TON",
+            "price": 6.356517263175908,
+            "volume_24h": 610569373.5,
+            "market_cap": 16007572594.39076
+        },
+        {
+            "timestamp": "2024-08-09 07:15:00",
+            "symbol": "TON",
+            "price": 6.494310940224816,
+            "volume_24h": 990550772.19,
+            "market_cap": 16354885811.01986
+        },
+        {
+            "timestamp": "2024-08-10 07:15:00",
+            "symbol": "TON",
+            "price": 6.698504526790542,
+            "volume_24h": 581419116.96,
+            "market_cap": 16869355006.592749
+        },
+        {
+            "timestamp": "2024-08-11 07:15:00",
+            "symbol": "TON",
+            "price": 6.640359527414782,
+            "volume_24h": 273382806.26,
+            "market_cap": 16723346123.685226
+        },
+        {
+            "timestamp": "2024-08-12 07:15:00",
+            "symbol": "TON",
+            "price": 6.082070936266757,
+            "volume_24h": 328418058.24,
+            "market_cap": 15317633754.292212
+        },
+        {
+            "timestamp": "2024-08-13 07:15:00",
+            "symbol": "TON",
+            "price": 6.313730619180806,
+            "volume_24h": 481833662.21,
+            "market_cap": 15901361902.02224
+        },
+        {
+            "timestamp": "2024-08-14 07:15:00",
+            "symbol": "TON",
+            "price": 6.698765861046951,
+            "volume_24h": 352522943.16,
+            "market_cap": 16871344319.254602
+        },
+        {
+            "timestamp": "2024-08-15 07:15:00",
+            "symbol": "TON",
+            "price": 6.7068695636150055,
+            "volume_24h": 701073084.42,
+            "market_cap": 16892014070.384336
+        },
+        {
+            "timestamp": "2024-08-16 07:15:00",
+            "symbol": "TON",
+            "price": 6.678889553574296,
+            "volume_24h": 537193900.8,
+            "market_cap": 16821829459.889652
+        },
+        {
+            "timestamp": "2024-08-17 07:15:00",
+            "symbol": "TON",
+            "price": 6.517053170002302,
+            "volume_24h": 340438188.44,
+            "market_cap": 16416984011.29548
+        },
+        {
+            "timestamp": "2024-08-18 07:15:00",
+            "symbol": "TON",
+            "price": 6.527948231189234,
+            "volume_24h": 182256905.27,
+            "market_cap": 16444785021.599808
+        },
+        {
+            "timestamp": "2024-08-19 07:15:00",
+            "symbol": "TON",
+            "price": 6.898933608527842,
+            "volume_24h": 446249708.58,
+            "market_cap": 17386538233.647278
+        },
+        {
+            "timestamp": "2024-08-20 07:15:00",
+            "symbol": "TON",
+            "price": 6.865181991736602,
+            "volume_24h": 330376802.92,
+            "market_cap": 17316794737.866837
+        },
+        {
+            "timestamp": "2024-08-21 07:15:00",
+            "symbol": "TON",
+            "price": 6.67872443382261,
+            "volume_24h": 229430412.35,
+            "market_cap": 16866968756.968948
+        },
+        {
+            "timestamp": "2024-08-22 07:15:00",
+            "symbol": "TON",
+            "price": 6.494595358009145,
+            "volume_24h": 333296617.39,
+            "market_cap": 16402368093.646055
+        },
+        {
+            "timestamp": "2024-08-23 07:15:00",
+            "symbol": "TON",
+            "price": 6.596147516335313,
+            "volume_24h": 198475425.63,
+            "market_cap": 16660781735.04043
+        },
+        {
+            "timestamp": "2024-08-24 07:15:00",
+            "symbol": "TON",
+            "price": 6.707184273563983,
+            "volume_24h": 256919779.07,
+            "market_cap": 16950028265.9155
+        },
+        {
+            "timestamp": "2024-08-25 07:15:00",
+            "symbol": "TON",
+            "price": 5.622052614251056,
+            "volume_24h": 1882292097.02,
+            "market_cap": 14208002835.490486
+        },
+        {
+            "timestamp": "2024-08-26 07:15:00",
+            "symbol": "TON",
+            "price": 5.603990366372189,
+            "volume_24h": 1375385357.63,
+            "market_cap": 14204545080.515608
+        },
+        {
+            "timestamp": "2024-08-27 07:15:00",
+            "symbol": "TON",
+            "price": 5.380168986636441,
+            "volume_24h": 956077831.52,
+            "market_cap": 13637385719.870506
+        },
+        {
+            "timestamp": "2024-08-28 07:15:00",
+            "symbol": "TON",
+            "price": 5.342050455259084,
+            "volume_24h": 688282345.68,
+            "market_cap": 13540861238.632769
+        },
+        {
+            "timestamp": "2024-08-29 07:15:00",
+            "symbol": "TON",
+            "price": 5.579206445298348,
+            "volume_24h": 1388260567.49,
+            "market_cap": 14142027314.148914
+        },
+        {
+            "timestamp": "2024-08-30 07:15:00",
+            "symbol": "TON",
+            "price": 5.448492465088874,
+            "volume_24h": 299436650.1,
+            "market_cap": 13810933680.044538
+        },
+        {
+            "timestamp": "2024-08-31 07:15:00",
+            "symbol": "TON",
+            "price": 5.3608648884413,
+            "volume_24h": 242816604.2,
+            "market_cap": 13589078869.732904
+        },
+        {
+            "timestamp": "2024-09-01 07:15:00",
+            "symbol": "TON",
+            "price": 5.373792251315178,
+            "volume_24h": 214837648.34,
+            "market_cap": 13622132935.347872
+        },
+        {
+            "timestamp": "2024-09-02 07:15:00",
+            "symbol": "TON",
+            "price": 5.188753628420082,
+            "volume_24h": 196579765.1,
+            "market_cap": 13153321218.609495
+        },
+        {
+            "timestamp": "2024-09-03 07:15:00",
+            "symbol": "TON",
+            "price": 5.240479441852406,
+            "volume_24h": 212685791.16,
+            "market_cap": 13284606334.42102
+        },
+        {
+            "timestamp": "2024-09-04 07:15:00",
+            "symbol": "TON",
+            "price": 4.762269146462069,
+            "volume_24h": 363393090.07,
+            "market_cap": 12069220338.021584
+        },
+        {
+            "timestamp": "2024-09-05 07:15:00",
+            "symbol": "TON",
+            "price": 4.576689997008165,
+            "volume_24h": 304792120.87,
+            "market_cap": 11602454676.76947
+        },
+        {
+            "timestamp": "2024-09-06 07:15:00",
+            "symbol": "TON",
+            "price": 4.893119361671871,
+            "volume_24h": 360383103.78,
+            "market_cap": 12404844361.86475
+        },
+        {
+            "timestamp": "2024-09-07 07:15:00",
+            "symbol": "TON",
+            "price": 4.657087741254728,
+            "volume_24h": 371438076.44,
+            "market_cap": 11794964274.151114
+        },
+        {
+            "timestamp": "2024-09-08 07:15:00",
+            "symbol": "TON",
+            "price": 4.724005718120784,
+            "volume_24h": 146633784.84,
+            "market_cap": 11964578372.45007
+        },
+        {
+            "timestamp": "2024-09-09 07:15:00",
+            "symbol": "TON",
+            "price": 4.903479954344951,
+            "volume_24h": 207128987.61,
+            "market_cap": 12419330463.336676
+        },
+        {
+            "timestamp": "2024-09-10 07:15:00",
+            "symbol": "TON",
+            "price": 5.201662244479927,
+            "volume_24h": 317696031.42,
+            "market_cap": 13174726217.057028
+        },
+        {
+            "timestamp": "2024-09-11 07:15:00",
+            "symbol": "TON",
+            "price": 5.290222421972729,
+            "volume_24h": 309886041.81,
+            "market_cap": 13399174224.365082
+        },
+        {
+            "timestamp": "2024-09-12 07:15:00",
+            "symbol": "TON",
+            "price": 5.397574984069802,
+            "volume_24h": 233041047.23,
+            "market_cap": 13671249252.5079
+        },
+        {
+            "timestamp": "2024-09-13 07:15:00",
+            "symbol": "TON",
+            "price": 5.501475441439958,
+            "volume_24h": 303189654.41,
+            "market_cap": 13934700641.0176
+        },
+        {
+            "timestamp": "2024-09-14 07:15:00",
+            "symbol": "TON",
+            "price": 5.77441078559163,
+            "volume_24h": 319749907.75,
+            "market_cap": 14512106648.07908
+        },
+        {
+            "timestamp": "2024-09-15 07:15:00",
+            "symbol": "TON",
+            "price": 5.715473601769573,
+            "volume_24h": 192777672.85,
+            "market_cap": 14477264653.908644
+        },
+        {
+            "timestamp": "2024-09-16 07:15:00",
+            "symbol": "TON",
+            "price": 5.545436011430574,
+            "volume_24h": 245960281.74,
+            "market_cap": 14039049467.114666
+        },
+        {
+            "timestamp": "2024-09-17 07:15:00",
+            "symbol": "TON",
+            "price": 5.493334167044398,
+            "volume_24h": 202842788.24,
+            "market_cap": 13915088298.144556
+        },
+        {
+            "timestamp": "2024-09-18 07:15:00",
+            "symbol": "TON",
+            "price": 5.5381179768661095,
+            "volume_24h": 244927683.3,
+            "market_cap": 14025503832.368229
+        },
+        {
+            "timestamp": "2024-09-19 07:15:00",
+            "symbol": "TON",
+            "price": 5.785952837679687,
+            "volume_24h": 312918991.12,
+            "market_cap": 14653415538.996054
+        },
+        {
+            "timestamp": "2024-09-20 07:15:00",
+            "symbol": "TON",
+            "price": 5.773170165129356,
+            "volume_24h": 250718201.68,
+            "market_cap": 14621297626.820156
+        },
+        {
+            "timestamp": "2024-09-21 07:15:00",
+            "symbol": "TON",
+            "price": 5.5172184652276055,
+            "volume_24h": 248923951.59,
+            "market_cap": 13973279039.409538
+        },
+        {
+            "timestamp": "2024-09-22 07:15:00",
+            "symbol": "TON",
+            "price": 5.647667508083044,
+            "volume_24h": 164572442.61,
+            "market_cap": 14303869254.513851
+        },
+        {
+            "timestamp": "2024-09-23 07:15:00",
+            "symbol": "TON",
+            "price": 5.657712297145304,
+            "volume_24h": 209024269.46,
+            "market_cap": 14329536584.1935
+        },
+        {
+            "timestamp": "2024-09-24 07:15:00",
+            "symbol": "TON",
+            "price": 5.608802432892268,
+            "volume_24h": 206209394.47,
+            "market_cap": 14205872343.39936
+        },
+        {
+            "timestamp": "2024-09-25 07:15:00",
+            "symbol": "TON",
+            "price": 5.593303619305035,
+            "volume_24h": 296845550.58,
+            "market_cap": 14183291081.209484
+        },
+        {
+            "timestamp": "2024-09-26 07:15:00",
+            "symbol": "TON",
+            "price": 5.786600373719179,
+            "volume_24h": 254599956.05,
+            "market_cap": 14673915228.706654
+        },
+        {
+            "timestamp": "2024-09-27 07:15:00",
+            "symbol": "TON",
+            "price": 5.821271281373632,
+            "volume_24h": 334892508.52,
+            "market_cap": 14761892385.334663
+        },
+        {
+            "timestamp": "2024-09-28 07:15:00",
+            "symbol": "TON",
+            "price": 5.947390222101024,
+            "volume_24h": 372415478.33,
+            "market_cap": 15081788968.265833
+        },
+        {
+            "timestamp": "2024-09-29 07:15:00",
+            "symbol": "TON",
+            "price": 5.798212239465698,
+            "volume_24h": 214019693.65,
+            "market_cap": 14703579516.479988
+        },
+        {
+            "timestamp": "2024-09-30 07:15:00",
+            "symbol": "TON",
+            "price": 5.817079541445315,
+            "volume_24h": 223189683.24,
+            "market_cap": 14751504729.084105
+        },
+        {
+            "timestamp": "2024-10-01 07:15:00",
+            "symbol": "TON",
+            "price": 5.809715390599694,
+            "volume_24h": 233375272.22,
+            "market_cap": 14674874368.157988
+        },
+        {
+            "timestamp": "2024-10-02 07:15:00",
+            "symbol": "TON",
+            "price": 5.483471635023563,
+            "volume_24h": 433160755.71,
+            "market_cap": 13868125187.83842
+        },
+        {
+            "timestamp": "2024-10-03 07:15:00",
+            "symbol": "TON",
+            "price": 5.302927427426708,
+            "volume_24h": 305929013.29,
+            "market_cap": 13427725092.316889
+        },
+        {
+            "timestamp": "2024-10-04 07:15:00",
+            "symbol": "TON",
+            "price": 5.321647354812661,
+            "volume_24h": 242548530.67,
+            "market_cap": 13475399444.852287
+        },
+        {
+            "timestamp": "2024-10-05 07:15:00",
+            "symbol": "TON",
+            "price": 5.418068156383721,
+            "volume_24h": 143357569.05,
+            "market_cap": 13736166594.886154
+        },
+        {
+            "timestamp": "2024-10-06 07:15:00",
+            "symbol": "TON",
+            "price": 5.194484668350678,
+            "volume_24h": 147925689.25,
+            "market_cap": 13169604467.739552
+        },
+        {
+            "timestamp": "2024-10-07 07:15:00",
+            "symbol": "TON",
+            "price": 5.355448956571664,
+            "volume_24h": 175779670.87,
+            "market_cap": 13581365654.294024
+        },
+        {
+            "timestamp": "2024-10-08 07:15:00",
+            "symbol": "TON",
+            "price": 5.174261295040466,
+            "volume_24h": 214126723.4,
+            "market_cap": 13122144482.53762
+        },
+        {
+            "timestamp": "2024-10-09 07:15:00",
+            "symbol": "TON",
+            "price": 5.209173102821806,
+            "volume_24h": 184766050.69,
+            "market_cap": 13211033946.060402
+        },
+        {
+            "timestamp": "2024-10-10 07:15:00",
+            "symbol": "TON",
+            "price": 5.108734392734839,
+            "volume_24h": 189596185.98,
+            "market_cap": 12959996060.871103
+        },
+        {
+            "timestamp": "2024-10-11 07:15:00",
+            "symbol": "TON",
+            "price": 5.175302816417966,
+            "volume_24h": 157330700.22,
+            "market_cap": 13129203951.218052
+        },
+        {
+            "timestamp": "2024-10-12 07:15:00",
+            "symbol": "TON",
+            "price": 5.232882582328044,
+            "volume_24h": 131458017.35,
+            "market_cap": 13280869922.691082
+        },
+        {
+            "timestamp": "2024-10-13 07:15:00",
+            "symbol": "TON",
+            "price": 5.291955566615933,
+            "volume_24h": 132000379.43,
+            "market_cap": 13431141085.62404
+        },
+        {
+            "timestamp": "2024-10-14 07:15:00",
+            "symbol": "TON",
+            "price": 5.270131128569608,
+            "volume_24h": 192586828.14,
+            "market_cap": 13376050596.937916
+        },
+        {
+            "timestamp": "2024-10-15 07:15:00",
+            "symbol": "TON",
+            "price": 5.2723284449122,
+            "volume_24h": 188127060.56,
+            "market_cap": 13381954368.257025
+        },
+        {
+            "timestamp": "2024-10-16 07:15:00",
+            "symbol": "TON",
+            "price": 5.181473765579365,
+            "volume_24h": 246407570.32,
+            "market_cap": 13151593666.463566
+        },
+        {
+            "timestamp": "2024-10-17 07:15:00",
+            "symbol": "TON",
+            "price": 5.181177543350761,
+            "volume_24h": 162428521.66,
+            "market_cap": 13156092748.774492
+        },
+        {
+            "timestamp": "2024-10-18 07:15:00",
+            "symbol": "TON",
+            "price": 5.213113089776868,
+            "volume_24h": 180165823.62,
+            "market_cap": 13237488403.360962
+        },
+        {
+            "timestamp": "2024-10-19 07:15:00",
+            "symbol": "TON",
+            "price": 5.272784188167563,
+            "volume_24h": 143792449.1,
+            "market_cap": 13389350141.379017
+        },
+        {
+            "timestamp": "2024-10-20 07:15:00",
+            "symbol": "TON",
+            "price": 5.299023953736588,
+            "volume_24h": 97781620.61,
+            "market_cap": 13456312340.769396
+        },
+        {
+            "timestamp": "2024-10-21 07:15:00",
+            "symbol": "TON",
+            "price": 5.352615110963403,
+            "volume_24h": 154597220.26,
+            "market_cap": 13592707384.437244
+        },
+        {
+            "timestamp": "2024-10-22 07:15:00",
+            "symbol": "TON",
+            "price": 5.271179481651731,
+            "volume_24h": 179496396.63,
+            "market_cap": 13386227565.975758
+        },
+        {
+            "timestamp": "2024-10-23 07:15:00",
+            "symbol": "TON",
+            "price": 5.194076064451813,
+            "volume_24h": 153361237.18,
+            "market_cap": 13190775009.164976
+        },
+        {
+            "timestamp": "2024-10-24 07:15:00",
+            "symbol": "TON",
+            "price": 5.152832929085273,
+            "volume_24h": 170280554.73,
+            "market_cap": 13095177915.594868
+        },
+        {
+            "timestamp": "2024-10-25 07:15:00",
+            "symbol": "TON",
+            "price": 5.096442830360091,
+            "volume_24h": 138764616.09,
+            "market_cap": 12954196318.239395
+        },
+        {
+            "timestamp": "2024-10-26 07:15:00",
+            "symbol": "TON",
+            "price": 4.959017431004239,
+            "volume_24h": 314900219.07,
+            "market_cap": 12605125354.12843
+        },
+        {
+            "timestamp": "2024-10-27 07:15:00",
+            "symbol": "TON",
+            "price": 4.94362047508018,
+            "volume_24h": 139060331.7,
+            "market_cap": 12566280855.831776
+        },
+        {
+            "timestamp": "2024-10-28 07:15:00",
+            "symbol": "TON",
+            "price": 4.970522983109779,
+            "volume_24h": 124355569.92,
+            "market_cap": 12643274155.057371
+        },
+        {
+            "timestamp": "2024-10-29 07:15:00",
+            "symbol": "TON",
+            "price": 5.02794526799448,
+            "volume_24h": 164822671.79,
+            "market_cap": 12789340762.182257
+        },
+        {
+            "timestamp": "2024-10-30 07:15:00",
+            "symbol": "TON",
+            "price": 5.025602646336948,
+            "volume_24h": 207960665.56,
+            "market_cap": 12783381948.977633
+        },
+        {
+            "timestamp": "2024-10-31 07:15:00",
+            "symbol": "TON",
+            "price": 4.929083351987336,
+            "volume_24h": 187371397.78,
+            "market_cap": 12539083488.443428
+        },
+        {
+            "timestamp": "2024-11-01 07:15:00",
+            "symbol": "TON",
+            "price": 4.806915696533569,
+            "volume_24h": 168877931.22,
+            "market_cap": 12228644878.88259
+        },
+        {
+            "timestamp": "2024-11-02 07:15:00",
+            "symbol": "TON",
+            "price": 4.936912165647193,
+            "volume_24h": 151955189.3,
+            "market_cap": 12559687907.854734
+        },
+        {
+            "timestamp": "2024-11-03 07:15:00",
+            "symbol": "TON",
+            "price": 4.8172982478605,
+            "volume_24h": 155961810.4,
+            "market_cap": 12255731804.220505
+        },
+        {
+            "timestamp": "2024-11-04 07:15:00",
+            "symbol": "TON",
+            "price": 4.872896058766309,
+            "volume_24h": 192919496.79,
+            "market_cap": 12397535632.49456
+        },
+        {
+            "timestamp": "2024-11-05 07:15:00",
+            "symbol": "TON",
+            "price": 4.605275621266372,
+            "volume_24h": 195010555.06,
+            "market_cap": 11716929633.501482
+        },
+        {
+            "timestamp": "2024-11-06 07:15:00",
+            "symbol": "TON",
+            "price": 4.802524103781844,
+            "volume_24h": 277600145.06,
+            "market_cap": 12219150589.404236
+        },
+        {
+            "timestamp": "2024-11-07 07:15:00",
+            "symbol": "TON",
+            "price": 4.846807081528625,
+            "volume_24h": 400517115.71,
+            "market_cap": 12332182672.277966
+        },
+        {
+            "timestamp": "2024-11-08 07:15:00",
+            "symbol": "TON",
+            "price": 4.861419269123924,
+            "volume_24h": 231334595.34,
+            "market_cap": 12371248963.568306
+        },
+        {
+            "timestamp": "2024-11-09 07:15:00",
+            "symbol": "TON",
+            "price": 5.063601512043783,
+            "volume_24h": 250931264.12,
+            "market_cap": 12886125331.014688
+        },
+        {
+            "timestamp": "2024-11-10 07:15:00",
+            "symbol": "TON",
+            "price": 5.4280775958905485,
+            "volume_24h": 443839639.88,
+            "market_cap": 13816218169.429974
+        },
+        {
+            "timestamp": "2024-11-11 07:15:00",
+            "symbol": "TON",
+            "price": 5.2497492845498,
+            "volume_24h": 530071226.89,
+            "market_cap": 13362663861.513868
+        },
+        {
+            "timestamp": "2024-11-12 07:15:00",
+            "symbol": "TON",
+            "price": 5.579412731339542,
+            "volume_24h": 577021647.6,
+            "market_cap": 14202132045.56776
+        },
+        {
+            "timestamp": "2024-11-13 07:15:00",
+            "symbol": "TON",
+            "price": 5.2122403476475405,
+            "volume_24h": 743502544.09,
+            "market_cap": 13267873359.21075
+        },
+        {
+            "timestamp": "2024-11-14 07:15:00",
+            "symbol": "TON",
+            "price": 5.369155809878033,
+            "volume_24h": 549173674.26,
+            "market_cap": 13667685189.963036
+        },
+        {
+            "timestamp": "2024-11-15 07:15:00",
+            "symbol": "TON",
+            "price": 5.2818999129529285,
+            "volume_24h": 450665900.39,
+            "market_cap": 13446445377.95628
+        },
+        {
+            "timestamp": "2024-11-16 07:15:00",
+            "symbol": "TON",
+            "price": 5.388533865891412,
+            "volume_24h": 355728237.46,
+            "market_cap": 13718321772.477877
+        },
+        {
+            "timestamp": "2024-11-17 07:15:00",
+            "symbol": "TON",
+            "price": 5.631910558686834,
+            "volume_24h": 549017502.9,
+            "market_cap": 14338318746.990637
+        },
+        {
+            "timestamp": "2024-11-18 07:15:00",
+            "symbol": "TON",
+            "price": 5.534466083102313,
+            "volume_24h": 290781556.3,
+            "market_cap": 14090675818.497744
+        },
+        {
+            "timestamp": "2024-11-19 07:15:00",
+            "symbol": "TON",
+            "price": 5.635167348868983,
+            "volume_24h": 330597729.29,
+            "market_cap": 14347462791.362743
+        },
+        {
+            "timestamp": "2024-11-20 07:15:00",
+            "symbol": "TON",
+            "price": 5.419458544637961,
+            "volume_24h": 282500631.49,
+            "market_cap": 13799534340.00688
+        },
+        {
+            "timestamp": "2024-11-21 07:15:00",
+            "symbol": "TON",
+            "price": 5.442732002005766,
+            "volume_24h": 381632746.51,
+            "market_cap": 13859205571.194193
+        },
+        {
+            "timestamp": "2024-11-22 07:15:00",
+            "symbol": "TON",
+            "price": 5.531662433570445,
+            "volume_24h": 438736857.76,
+            "market_cap": 14087850257.46976
+        },
+        {
+            "timestamp": "2024-11-23 07:15:00",
+            "symbol": "TON",
+            "price": 5.601390970931891,
+            "volume_24h": 434911602.31,
+            "market_cap": 14265831992.313574
+        },
+        {
+            "timestamp": "2024-11-24 07:15:00",
+            "symbol": "TON",
+            "price": 6.462388060187017,
+            "volume_24h": 1296907068.11,
+            "market_cap": 16459099598.999334
+        },
+        {
+            "timestamp": "2024-11-25 07:15:00",
+            "symbol": "TON",
+            "price": 6.098479982772282,
+            "volume_24h": 697816218.65,
+            "market_cap": 15532694358.343191
+        },
+        {
+            "timestamp": "2024-11-26 07:15:00",
+            "symbol": "TON",
+            "price": 6.194859581565983,
+            "volume_24h": 633132031.4,
+            "market_cap": 15778613212.369244
+        },
+        {
+            "timestamp": "2024-11-27 07:15:00",
+            "symbol": "TON",
+            "price": 6.264235447353166,
+            "volume_24h": 580707588.83,
+            "market_cap": 15955768688.349104
+        },
+        {
+            "timestamp": "2024-11-28 07:15:00",
+            "symbol": "TON",
+            "price": 6.35437500409332,
+            "volume_24h": 459478087.43,
+            "market_cap": 16185758693.841255
+        },
+        {
+            "timestamp": "2024-11-29 07:15:00",
+            "symbol": "TON",
+            "price": 6.380219779995198,
+            "volume_24h": 441928144.01,
+            "market_cap": 16252001930.406857
+        },
+        {
+            "timestamp": "2024-11-30 07:15:00",
+            "symbol": "TON",
+            "price": 6.581101768288317,
+            "volume_24h": 288811347.74,
+            "market_cap": 16764151689.564562
+        },
+        {
+            "timestamp": "2024-12-01 07:15:00",
+            "symbol": "TON",
+            "price": 6.699963677853558,
+            "volume_24h": 453761931.73,
+            "market_cap": 17067423145.875883
+        },
+        {
+            "timestamp": "2024-12-02 07:15:00",
+            "symbol": "TON",
+            "price": 6.675866266503552,
+            "volume_24h": 419693958.55,
+            "market_cap": 17006524809.514685
+        },
+        {
+            "timestamp": "2024-12-03 07:15:00",
+            "symbol": "TON",
+            "price": 6.633739702538587,
+            "volume_24h": 489832415.0,
+            "market_cap": 16899693889.98
+        },
+        {
+            "timestamp": "2024-12-04 07:15:00",
+            "symbol": "TON",
+            "price": 7.18061984682242,
+            "volume_24h": 696681684.56,
+            "market_cap": 18310094859.349564
+        },
+        {
+            "timestamp": "2024-12-05 07:15:00",
+            "symbol": "TON",
+            "price": 6.883524363860646,
+            "volume_24h": 652618710.03,
+            "market_cap": 17552990554.944923
+        },
+        {
+            "timestamp": "2024-12-06 07:15:00",
+            "symbol": "TON",
+            "price": 6.878770172547794,
+            "volume_24h": 520708415.41,
+            "market_cap": 17541389484.366528
+        },
+        {
+            "timestamp": "2024-12-07 07:15:00",
+            "symbol": "TON",
+            "price": 6.855410718154388,
+            "volume_24h": 352935586.36,
+            "market_cap": 17481975093.73662
+        },
+        {
+            "timestamp": "2024-12-08 07:15:00",
+            "symbol": "TON",
+            "price": 6.781167469348294,
+            "volume_24h": 264164278.31,
+            "market_cap": 17293508653.12201
+        },
+        {
+            "timestamp": "2024-12-09 07:15:00",
+            "symbol": "TON",
+            "price": 6.552052702343781,
+            "volume_24h": 289784903.37,
+            "market_cap": 16711998768.924955
+        },
+        {
+            "timestamp": "2024-12-10 07:15:00",
+            "symbol": "TON",
+            "price": 5.877760826298933,
+            "volume_24h": 799081018.29,
+            "market_cap": 14992865670.37334
+        },
+        {
+            "timestamp": "2024-12-11 07:15:00",
+            "symbol": "TON",
+            "price": 6.094804438899464,
+            "volume_24h": 512294206.19,
+            "market_cap": 15546935610.923824
+        },
+        {
+            "timestamp": "2024-12-12 07:15:00",
+            "symbol": "TON",
+            "price": 6.512528576108721,
+            "volume_24h": 323294508.73,
+            "market_cap": 16612689427.848436
+        },
+        {
+            "timestamp": "2024-12-13 07:15:00",
+            "symbol": "TON",
+            "price": 6.30577345861415,
+            "volume_24h": 308441820.7,
+            "market_cap": 16085901693.758778
+        },
+        {
+            "timestamp": "2024-12-14 07:15:00",
+            "symbol": "TON",
+            "price": 6.331325045200432,
+            "volume_24h": 244305169.92,
+            "market_cap": 16151512758.125511
+        },
+        {
+            "timestamp": "2024-12-15 07:15:00",
+            "symbol": "TON",
+            "price": 6.168026911574863,
+            "volume_24h": 228357325.4,
+            "market_cap": 15735397886.363844
+        },
+        {
+            "timestamp": "2024-12-16 07:15:00",
+            "symbol": "TON",
+            "price": 6.350451843252265,
+            "volume_24h": 231186687.21,
+            "market_cap": 16201275042.194304
+        },
+        {
+            "timestamp": "2024-12-17 07:15:00",
+            "symbol": "TON",
+            "price": 6.035548913733992,
+            "volume_24h": 430553573.82,
+            "market_cap": 15398336299.055525
+        },
+        {
+            "timestamp": "2024-12-18 07:15:00",
+            "symbol": "TON",
+            "price": 5.697318378533999,
+            "volume_24h": 365305044.45,
+            "market_cap": 14535859796.817932
+        },
+        {
+            "timestamp": "2024-12-19 07:15:00",
+            "symbol": "TON",
+            "price": 5.453706894910264,
+            "volume_24h": 570472935.03,
+            "market_cap": 13914740882.804472
+        },
+        {
+            "timestamp": "2024-12-20 07:15:00",
+            "symbol": "TON",
+            "price": 5.260279564704198,
+            "volume_24h": 542613395.11,
+            "market_cap": 13421621914.74117
+        },
+        {
+            "timestamp": "2024-12-21 07:15:00",
+            "symbol": "TON",
+            "price": 5.6291217529234086,
+            "volume_24h": 573615493.64,
+            "market_cap": 14363863869.538988
+        },
+        {
+            "timestamp": "2024-12-22 07:15:00",
+            "symbol": "TON",
+            "price": 5.323415403402732,
+            "volume_24h": 268304309.07,
+            "market_cap": 13584229899.75195
+        },
+        {
+            "timestamp": "2024-12-23 07:15:00",
+            "symbol": "TON",
+            "price": 5.4005549369368095,
+            "volume_24h": 233574956.09,
+            "market_cap": 13781509280.462934
+        },
+        {
+            "timestamp": "2024-12-24 07:15:00",
+            "symbol": "TON",
+            "price": 5.58931085159918,
+            "volume_24h": 224469832.35,
+            "market_cap": 14263634123.26477
+        },
+        {
+            "timestamp": "2024-12-25 07:15:00",
+            "symbol": "TON",
+            "price": 5.845931389603521,
+            "volume_24h": 198947754.38,
+            "market_cap": 14918972139.305683
+        },
+        {
+            "timestamp": "2024-12-26 07:15:00",
+            "symbol": "TON",
+            "price": 5.8778107113607705,
+            "volume_24h": 247392409.88,
+            "market_cap": 15000779409.90034
+        },
+        {
+            "timestamp": "2024-12-27 07:15:00",
+            "symbol": "TON",
+            "price": 5.767796501666245,
+            "volume_24h": 198899695.7,
+            "market_cap": 14721178270.987137
+        },
+        {
+            "timestamp": "2024-12-28 07:15:00",
+            "symbol": "TON",
+            "price": 5.650123294052068,
+            "volume_24h": 210713702.24,
+            "market_cap": 14421298010.965622
+        },
+        {
+            "timestamp": "2024-12-29 07:15:00",
+            "symbol": "TON",
+            "price": 5.789077694835655,
+            "volume_24h": 152881390.88,
+            "market_cap": 14776429208.248213
+        },
+        {
+            "timestamp": "2024-12-30 07:15:00",
+            "symbol": "TON",
+            "price": 5.630173555508125,
+            "volume_24h": 152800199.49,
+            "market_cap": 14371278300.473688
+        },
+        {
+            "timestamp": "2024-12-31 07:15:00",
+            "symbol": "TON",
+            "price": 5.511492087035578,
+            "volume_24h": 180114155.78,
+            "market_cap": 14068754029.359436
+        },
+        {
+            "timestamp": "2025-01-01 07:15:00",
+            "symbol": "TON",
+            "price": 5.467427452997447,
+            "volume_24h": 142613166.8,
+            "market_cap": 13882336943.83442
+        },
+        {
+            "timestamp": "2025-01-02 07:15:00",
+            "symbol": "TON",
+            "price": 5.641980770787963,
+            "volume_24h": 158623807.2,
+            "market_cap": 14326020136.91034
+        },
+        {
+            "timestamp": "2025-01-03 07:15:00",
+            "symbol": "TON",
+            "price": 5.59836167276597,
+            "volume_24h": 165020610.4,
+            "market_cap": 14215727425.926483
+        },
+        {
+            "timestamp": "2025-01-04 07:15:00",
+            "symbol": "TON",
+            "price": 5.787173384011962,
+            "volume_24h": 197501678.25,
+            "market_cap": 14695646365.848484
+        },
+        {
+            "timestamp": "2025-01-05 07:15:00",
+            "symbol": "TON",
+            "price": 5.689989768243977,
+            "volume_24h": 150075405.68,
+            "market_cap": 14449325314.583418
+        },
+        {
+            "timestamp": "2025-01-06 07:15:00",
+            "symbol": "TON",
+            "price": 5.699879917966872,
+            "volume_24h": 143492904.71,
+            "market_cap": 14474907342.358566
+        },
+        {
+            "timestamp": "2025-01-07 07:15:00",
+            "symbol": "TON",
+            "price": 5.717071986193011,
+            "volume_24h": 174157788.61,
+            "market_cap": 14513877050.882618
+        },
+        {
+            "timestamp": "2025-01-08 07:15:00",
+            "symbol": "TON",
+            "price": 5.151350643140447,
+            "volume_24h": 280057222.45,
+            "market_cap": 13082744596.356691
+        },
+        {
+            "timestamp": "2025-01-09 07:15:00",
+            "symbol": "TON",
+            "price": 5.266319201443396,
+            "volume_24h": 245579633.14,
+            "market_cap": 13375125107.93921
+        },
+        {
+            "timestamp": "2025-01-10 07:15:00",
+            "symbol": "TON",
+            "price": 5.248917713659785,
+            "volume_24h": 208056612.95,
+            "market_cap": 13331377416.47553
+        },
+        {
+            "timestamp": "2025-01-11 07:15:00",
+            "symbol": "TON",
+            "price": 5.360746316944372,
+            "volume_24h": 198235698.43,
+            "market_cap": 13615816352.557756
+        },
+        {
+            "timestamp": "2025-01-12 07:15:00",
+            "symbol": "TON",
+            "price": 5.352119664925805,
+            "volume_24h": 136215047.94,
+            "market_cap": 13594333029.11266
+        },
+        {
+            "timestamp": "2025-01-13 07:15:00",
+            "symbol": "TON",
+            "price": 5.149165821232704,
+            "volume_24h": 187601699.46,
+            "market_cap": 13079248320.630257
+        },
+        {
+            "timestamp": "2025-01-14 07:15:00",
+            "symbol": "TON",
+            "price": 5.252800424106022,
+            "volume_24h": 223103208.0,
+            "market_cap": 13342909802.247091
+        },
+        {
+            "timestamp": "2025-01-15 07:15:00",
+            "symbol": "TON",
+            "price": 5.376430528384755,
+            "volume_24h": 169841549.81,
+            "market_cap": 13657382843.366364
+        },
+        {
+            "timestamp": "2025-01-16 07:15:00",
+            "symbol": "TON",
+            "price": 5.559348957763276,
+            "volume_24h": 203581957.77,
+            "market_cap": 13816655922.183006
+        },
+        {
+            "timestamp": "2025-01-17 07:15:00",
+            "symbol": "TON",
+            "price": 5.501411762956679,
+            "volume_24h": 184757212.96,
+            "market_cap": 13667829023.899628
+        },
+        {
+            "timestamp": "2025-01-18 07:15:00",
+            "symbol": "TON",
+            "price": 5.366173515428264,
+            "volume_24h": 203373824.42,
+            "market_cap": 13337705844.981112
+        },
+        {
+            "timestamp": "2025-01-19 07:15:00",
+            "symbol": "TON",
+            "price": 5.2018876363285695,
+            "volume_24h": 205032850.89,
+            "market_cap": 12929764903.821327
+        },
+        {
+            "timestamp": "2025-01-20 07:15:00",
+            "symbol": "TON",
+            "price": 5.207629861602428,
+            "volume_24h": 479433794.91,
+            "market_cap": 12944425792.933865
+        },
+        {
+            "timestamp": "2025-01-21 07:15:00",
+            "symbol": "TON",
+            "price": 4.95569587640752,
+            "volume_24h": 355111795.23,
+            "market_cap": 12318589100.78184
+        },
+        {
+            "timestamp": "2025-01-22 07:15:00",
+            "symbol": "TON",
+            "price": 5.20954084529598,
+            "volume_24h": 229369665.84,
+            "market_cap": 12964151873.792925
+        },
+        {
+            "timestamp": "2025-01-23 07:15:00",
+            "symbol": "TON",
+            "price": 5.199974898172106,
+            "volume_24h": 226101223.97,
+            "market_cap": 12940665880.7228
+        },
+        {
+            "timestamp": "2025-01-24 07:15:00",
+            "symbol": "TON",
+            "price": 5.129627970323606,
+            "volume_24h": 227414893.28,
+            "market_cap": 12765978910.785372
+        },
+        {
+            "timestamp": "2025-01-25 07:15:00",
+            "symbol": "TON",
+            "price": 5.035321564343504,
+            "volume_24h": 164008527.59,
+            "market_cap": 12531671511.15607
+        },
+        {
+            "timestamp": "2025-01-26 07:15:00",
+            "symbol": "TON",
+            "price": 5.07422050746187,
+            "volume_24h": 104085336.18,
+            "market_cap": 12628887061.592249
+        },
+        {
+            "timestamp": "2025-01-27 07:15:00",
+            "symbol": "TON",
+            "price": 4.80332478717896,
+            "volume_24h": 150496187.94,
+            "market_cap": 11956997800.577845
+        },
+        {
+            "timestamp": "2025-01-28 07:15:00",
+            "symbol": "TON",
+            "price": 4.989610466422594,
+            "volume_24h": 213275154.46,
+            "market_cap": 12421114698.282043
+        },
+        {
+            "timestamp": "2025-01-29 07:15:00",
+            "symbol": "TON",
+            "price": 4.864487127228782,
+            "volume_24h": 125166231.26,
+            "market_cap": 12101013834.18362
+        },
+        {
+            "timestamp": "2025-01-30 07:15:00",
+            "symbol": "TON",
+            "price": 4.893342473241755,
+            "volume_24h": 138584407.72,
+            "market_cap": 12182248930.320704
+        },
+        {
+            "timestamp": "2025-01-31 07:15:00",
+            "symbol": "TON",
+            "price": 4.845324883705223,
+            "volume_24h": 173238783.7,
+            "market_cap": 12063052341.941343
+        },
+        {
+            "timestamp": "2025-02-01 07:15:00",
+            "symbol": "TON",
+            "price": 4.898367059011079,
+            "volume_24h": 156741121.48,
+            "market_cap": 12195507038.772911
+        },
+        {
+            "timestamp": "2025-02-02 07:15:00",
+            "symbol": "TON",
+            "price": 4.585162477481254,
+            "volume_24h": 172867287.37,
+            "market_cap": 11416098010.819168
+        },
+        {
+            "timestamp": "2025-02-03 07:15:00",
+            "symbol": "TON",
+            "price": 3.714060237766309,
+            "volume_24h": 748343453.97,
+            "market_cap": 9247512026.403343
+        },
+        {
+            "timestamp": "2025-02-04 07:15:00",
+            "symbol": "TON",
+            "price": 3.828048724567891,
+            "volume_24h": 453176850.23,
+            "market_cap": 9543126716.488474
+        },
+        {
+            "timestamp": "2025-02-05 07:15:00",
+            "symbol": "TON",
+            "price": 3.778513565060461,
+            "volume_24h": 210590702.38,
+            "market_cap": 9419919980.565687
+        },
+        {
+            "timestamp": "2025-02-06 07:15:00",
+            "symbol": "TON",
+            "price": 3.8784656962961703,
+            "volume_24h": 133828357.13,
+            "market_cap": 9671372876.439398
+        },
+        {
+            "timestamp": "2025-02-07 07:15:00",
+            "symbol": "TON",
+            "price": 3.7411707285735054,
+            "volume_24h": 155769671.23,
+            "market_cap": 9329298413.686356
+        },
+        {
+            "timestamp": "2025-02-08 07:15:00",
+            "symbol": "TON",
+            "price": 3.691511130342402,
+            "volume_24h": 155440783.48,
+            "market_cap": 9205743114.315607
+        },
+        {
+            "timestamp": "2025-02-09 07:15:00",
+            "symbol": "TON",
+            "price": 3.813638666856873,
+            "volume_24h": 110896465.64,
+            "market_cap": 9510593500.540108
+        },
+        {
+            "timestamp": "2025-02-10 07:15:00",
+            "symbol": "TON",
+            "price": 3.830908216901609,
+            "volume_24h": 148185882.12,
+            "market_cap": 9553962218.491585
+        },
+        {
+            "timestamp": "2025-02-11 07:15:00",
+            "symbol": "TON",
+            "price": 3.870498673749945,
+            "volume_24h": 109517094.46,
+            "market_cap": 9652993463.002329
+        },
+        {
+            "timestamp": "2025-02-12 07:15:00",
+            "symbol": "TON",
+            "price": 3.715202329401616,
+            "volume_24h": 121615615.44,
+            "market_cap": 9265970701.470663
+        },
+        {
+            "timestamp": "2025-02-13 07:15:00",
+            "symbol": "TON",
+            "price": 3.713914782865125,
+            "volume_24h": 172197309.96,
+            "market_cap": 9263054035.794231
+        },
+        {
+            "timestamp": "2025-02-14 07:15:00",
+            "symbol": "TON",
+            "price": 3.78186104011808,
+            "volume_24h": 144458562.91,
+            "market_cap": 9432821406.942034
+        },
+        {
+            "timestamp": "2025-02-15 07:15:00",
+            "symbol": "TON",
+            "price": 3.812348283065232,
+            "volume_24h": 119488227.09,
+            "market_cap": 9509170600.920263
+        },
+        {
+            "timestamp": "2025-02-16 07:15:00",
+            "symbol": "TON",
+            "price": 3.792292648455974,
+            "volume_24h": 104307536.45,
+            "market_cap": 9459449953.010418
+        },
+        {
+            "timestamp": "2025-02-17 07:15:00",
+            "symbol": "TON",
+            "price": 3.8001390766648058,
+            "volume_24h": 109989487.42,
+            "market_cap": 9479329401.587198
+        },
+        {
+            "timestamp": "2025-02-18 07:15:00",
+            "symbol": "TON",
+            "price": 3.620419201433542,
+            "volume_24h": 141017568.55,
+            "market_cap": 9031309155.047634
+        },
+        {
+            "timestamp": "2025-02-19 07:15:00",
+            "symbol": "TON",
+            "price": 3.6482303117107246,
+            "volume_24h": 138403209.33,
+            "market_cap": 9100988622.63015
+        },
+        {
+            "timestamp": "2025-02-20 07:15:00",
+            "symbol": "TON",
+            "price": 3.553874555464118,
+            "volume_24h": 183092687.18,
+            "market_cap": 8865886368.699701
+        },
+        {
+            "timestamp": "2025-02-21 07:15:00",
+            "symbol": "TON",
+            "price": 3.59856153971218,
+            "volume_24h": 166611841.41,
+            "market_cap": 8977671855.874088
+        },
+        {
+            "timestamp": "2025-02-22 07:15:00",
+            "symbol": "TON",
+            "price": 3.643039898152588,
+            "volume_24h": 214323221.14,
+            "market_cap": 9088934121.42132
+        },
+        {
+            "timestamp": "2025-02-23 07:15:00",
+            "symbol": "TON",
+            "price": 3.762114464080062,
+            "volume_24h": 155703195.17,
+            "market_cap": 9386309927.307652
+        },
+        {
+            "timestamp": "2025-02-24 07:15:00",
+            "symbol": "TON",
+            "price": 3.7676706772201887,
+            "volume_24h": 162236073.45,
+            "market_cap": 9400482082.517365
+        },
+        {
+            "timestamp": "2025-02-25 07:15:00",
+            "symbol": "TON",
+            "price": 3.401344388795374,
+            "volume_24h": 205500910.47,
+            "market_cap": 8486766053.326604
+        },
+        {
+            "timestamp": "2025-02-26 07:15:00",
+            "symbol": "TON",
+            "price": 3.578042647253205,
+            "volume_24h": 210706313.02,
+            "market_cap": 8927926414.397722
+        },
+        {
+            "timestamp": "2025-02-27 07:15:00",
+            "symbol": "TON",
+            "price": 3.483200324027537,
+            "volume_24h": 212913137.62,
+            "market_cap": 8691558379.693464
+        },
+        {
+            "timestamp": "2025-02-28 07:15:00",
+            "symbol": "TON",
+            "price": 3.2018988594555022,
+            "volume_24h": 217551855.48,
+            "market_cap": 7990599871.673961
+        },
+        {
+            "timestamp": "2025-03-01 07:15:00",
+            "symbol": "TON",
+            "price": 3.2863697567500787,
+            "volume_24h": 174910473.54,
+            "market_cap": 8201667028.697063
+        },
+        {
+            "timestamp": "2025-03-02 07:15:00",
+            "symbol": "TON",
+            "price": 3.29456166431828,
+            "volume_24h": 126679540.15,
+            "market_cap": 8222387270.156746
+        },
+        {
+            "timestamp": "2025-03-03 07:15:00",
+            "symbol": "TON",
+            "price": 3.3266467272272213,
+            "volume_24h": 235050908.48,
+            "market_cap": 8302735905.960766
+        },
+        {
+            "timestamp": "2025-03-04 07:15:00",
+            "symbol": "TON",
+            "price": 2.999281826864855,
+            "volume_24h": 263534431.03,
+            "market_cap": 7421212932.333359
+        },
+        {
+            "timestamp": "2025-03-05 07:15:00",
+            "symbol": "TON",
+            "price": 3.0069606116613032,
+            "volume_24h": 234702641.27,
+            "market_cap": 7446474404.093392
+        },
+        {
+            "timestamp": "2025-03-06 07:15:00",
+            "symbol": "TON",
+            "price": 3.051860743055625,
+            "volume_24h": 155039012.72,
+            "market_cap": 7557911190.716598
+        },
+        {
+            "timestamp": "2025-03-07 07:15:00",
+            "symbol": "TON",
+            "price": 3.0292972274984997,
+            "volume_24h": 196507977.5,
+            "market_cap": 7502297777.63845
+        },
+        {
+            "timestamp": "2025-03-08 07:15:00",
+            "symbol": "TON",
+            "price": 2.973403528669486,
+            "volume_24h": 174510307.6,
+            "market_cap": 7364117824.607928
+        },
+        {
+            "timestamp": "2025-03-09 07:15:00",
+            "symbol": "TON",
+            "price": 2.9109052986488124,
+            "volume_24h": 117690246.09,
+            "market_cap": 7214874529.555231
+        },
+        {
+            "timestamp": "2025-03-10 07:15:00",
+            "symbol": "TON",
+            "price": 2.692672287789644,
+            "volume_24h": 206192433.01,
+            "market_cap": 6674194368.92422
+        },
+        {
+            "timestamp": "2025-03-11 07:15:00",
+            "symbol": "TON",
+            "price": 2.5955960761202643,
+            "volume_24h": 299970752.89,
+            "market_cap": 6433790802.214398
+        },
+        {
+            "timestamp": "2025-03-12 07:15:00",
+            "symbol": "TON",
+            "price": 2.64595950112152,
+            "volume_24h": 185676935.87,
+            "market_cap": 6564707557.240428
+        },
+        {
+            "timestamp": "2025-03-13 07:15:00",
+            "symbol": "TON",
+            "price": 2.7051490192367127,
+            "volume_24h": 149325358.6,
+            "market_cap": 6711785033.757148
+        },
+        {
+            "timestamp": "2025-03-14 07:15:00",
+            "symbol": "TON",
+            "price": 2.799349147034787,
+            "volume_24h": 173681026.69,
+            "market_cap": 6945740415.860624
+        },
+        {
+            "timestamp": "2025-03-15 07:15:00",
+            "symbol": "TON",
+            "price": 2.922670976541105,
+            "volume_24h": 136816988.19,
+            "market_cap": 7251974338.506638
+        },
+        {
+            "timestamp": "2025-03-16 07:15:00",
+            "symbol": "TON",
+            "price": 3.4803920019972843,
+            "volume_24h": 781025008.21,
+            "market_cap": 8636131714.128736
+        },
+        {
+            "timestamp": "2025-03-17 07:15:00",
+            "symbol": "TON",
+            "price": 3.459681369386917,
+            "volume_24h": 375365992.31,
+            "market_cap": 8585026055.07646
+        },
+        {
+            "timestamp": "2025-03-18 07:15:00",
+            "symbol": "TON",
+            "price": 3.456535845143593,
+            "volume_24h": 255984424.93,
+            "market_cap": 8577522373.383941
+        },
+        {
+            "timestamp": "2025-03-19 07:15:00",
+            "symbol": "TON",
+            "price": 3.621179773270659,
+            "volume_24h": 295496609.81,
+            "market_cap": 8986400199.44217
+        },
+        {
+            "timestamp": "2025-03-20 07:15:00",
+            "symbol": "TON",
+            "price": 3.640832408947315,
+            "volume_24h": 303938600.08,
+            "market_cap": 9035478512.539068
+        },
+        {
+            "timestamp": "2025-03-21 07:15:00",
+            "symbol": "TON",
+            "price": 3.727287822784606,
+            "volume_24h": 268997556.28,
+            "market_cap": 9250347422.804895
+        },
+        {
+            "timestamp": "2025-03-22 07:15:00",
+            "symbol": "TON",
+            "price": 3.607327026894427,
+            "volume_24h": 165150994.92,
+            "market_cap": 8952940773.922894
+        },
+        {
+            "timestamp": "2025-03-23 07:15:00",
+            "symbol": "TON",
+            "price": 3.7161943566726334,
+            "volume_24h": 110774004.5,
+            "market_cap": 9223453302.256948
+        },
+        {
+            "timestamp": "2025-03-24 07:15:00",
+            "symbol": "TON",
+            "price": 3.668559808459644,
+            "volume_24h": 121183544.77,
+            "market_cap": 9105542379.016285
+        },
+        {
+            "timestamp": "2025-03-25 07:15:00",
+            "symbol": "TON",
+            "price": 3.671405336053983,
+            "volume_24h": 129417768.59,
+            "market_cap": 9112914874.122393
+        },
+        {
+            "timestamp": "2025-03-26 07:15:00",
+            "symbol": "TON",
+            "price": 3.62365019852572,
+            "volume_24h": 109935058.66,
+            "market_cap": 8995184970.652481
+        },
+        {
+            "timestamp": "2025-03-27 07:15:00",
+            "symbol": "TON",
+            "price": 3.798307453080032,
+            "volume_24h": 164693923.1,
+            "market_cap": 9429063799.882467
+        },
+        {
+            "timestamp": "2025-03-28 07:15:00",
+            "symbol": "TON",
+            "price": 3.984892748196623,
+            "volume_24h": 405169383.12,
+            "market_cap": 9899828102.333055
+        },
+        {
+            "timestamp": "2025-03-29 07:15:00",
+            "symbol": "TON",
+            "price": 3.697932034660171,
+            "volume_24h": 301375747.96,
+            "market_cap": 9187228153.72466
+        },
+        {
+            "timestamp": "2025-03-30 07:15:00",
+            "symbol": "TON",
+            "price": 3.857997019018345,
+            "volume_24h": 184597708.87,
+            "market_cap": 9585225464.278654
+        },
+        {
+            "timestamp": "2025-03-31 07:15:00",
+            "symbol": "TON",
+            "price": 3.905930561137296,
+            "volume_24h": 290883292.79,
+            "market_cap": 9704634687.41858
+        },
+        {
+            "timestamp": "2025-04-01 07:15:00",
+            "symbol": "TON",
+            "price": 4.124316767395668,
+            "volume_24h": 344648420.29,
+            "market_cap": 10147163507.226383
+        },
+        {
+            "timestamp": "2025-04-02 07:15:00",
+            "symbol": "TON",
+            "price": 3.9981414155109776,
+            "volume_24h": 221245887.33,
+            "market_cap": 9837069178.980286
+        },
+        {
+            "timestamp": "2025-04-03 07:15:00",
+            "symbol": "TON",
+            "price": 3.774438937058821,
+            "volume_24h": 252685881.86,
+            "market_cap": 9291897441.291416
+        },
+        {
+            "timestamp": "2025-04-04 07:15:00",
+            "symbol": "TON",
+            "price": 3.522078124472056,
+            "volume_24h": 205544922.73,
+            "market_cap": 8710190971.889498
+        },
+        {
+            "timestamp": "2025-04-05 07:15:00",
+            "symbol": "TON",
+            "price": 3.3049701425446045,
+            "volume_24h": 213018329.4,
+            "market_cap": 8173542912.831607
+        },
+        {
+            "timestamp": "2025-04-06 07:15:00",
+            "symbol": "TON",
+            "price": 3.244374938723764,
+            "volume_24h": 101952274.62,
+            "market_cap": 8023949169.066949
+        },
+        {
+            "timestamp": "2025-04-07 07:15:00",
+            "symbol": "TON",
+            "price": 2.933609070621445,
+            "volume_24h": 288094435.63,
+            "market_cap": 7255602430.584307
+        },
+        {
+            "timestamp": "2025-04-08 07:15:00",
+            "symbol": "TON",
+            "price": 3.1069191835985466,
+            "volume_24h": 339030543.43,
+            "market_cap": 7684503132.969446
+        },
+        {
+            "timestamp": "2025-04-09 07:15:00",
+            "symbol": "TON",
+            "price": 3.057480653535628,
+            "volume_24h": 140543884.25,
+            "market_cap": 7571708565.375802
+        },
+        {
+            "timestamp": "2025-04-10 07:15:00",
+            "symbol": "TON",
+            "price": 3.035953232260274,
+            "volume_24h": 249027159.29,
+            "market_cap": 7518631688.509379
+        },
+        {
+            "timestamp": "2025-04-11 07:15:00",
+            "symbol": "TON",
+            "price": 2.9226845908865093,
+            "volume_24h": 165253087.66,
+            "market_cap": 7244721889.284823
+        },
+        {
+            "timestamp": "2025-04-12 07:15:00",
+            "symbol": "TON",
+            "price": 2.917892103197805,
+            "volume_24h": 175541867.41,
+            "market_cap": 7233072493.697436
+        },
+        {
+            "timestamp": "2025-04-13 07:15:00",
+            "symbol": "TON",
+            "price": 2.9183651935954997,
+            "volume_24h": 153705484.03,
+            "market_cap": 7234479712.56256
+        },
+        {
+            "timestamp": "2025-04-14 07:15:00",
+            "symbol": "TON",
+            "price": 2.824962235270036,
+            "volume_24h": 168879931.61,
+            "market_cap": 7003162169.956416
+        },
+        {
+            "timestamp": "2025-04-15 07:15:00",
+            "symbol": "TON",
+            "price": 2.928474910389632,
+            "volume_24h": 143572507.09,
+            "market_cap": 7272980661.703888
+        },
+        {
+            "timestamp": "2025-04-16 07:15:00",
+            "symbol": "TON",
+            "price": 2.8650340697290257,
+            "volume_24h": 184576492.46,
+            "market_cap": 7179751353.969096
+        },
+        {
+            "timestamp": "2025-04-17 07:15:00",
+            "symbol": "TON",
+            "price": 2.9573981324816447,
+            "volume_24h": 147465629.38,
+            "market_cap": 7422332627.700248
+        },
+        {
+            "timestamp": "2025-04-18 07:15:00",
+            "symbol": "TON",
+            "price": 2.9733916097829423,
+            "volume_24h": 95270412.76,
+            "market_cap": 7462713440.141851
+        },
+        {
+            "timestamp": "2025-04-19 07:15:00",
+            "symbol": "TON",
+            "price": 2.995295109300352,
+            "volume_24h": 80349471.21,
+            "market_cap": 7517931539.031887
+        },
+        {
+            "timestamp": "2025-04-20 07:15:00",
+            "symbol": "TON",
+            "price": 2.968890820062351,
+            "volume_24h": 72787517.87,
+            "market_cap": 7451907484.162367
+        },
+        {
+            "timestamp": "2025-04-21 07:15:00",
+            "symbol": "TON",
+            "price": 3.0372130693810564,
+            "volume_24h": 80560057.26,
+            "market_cap": 7623647266.475504
+        },
+        {
+            "timestamp": "2025-04-22 07:15:00",
+            "symbol": "TON",
+            "price": 2.9298316714971326,
+            "volume_24h": 122160315.87,
+            "market_cap": 7354333344.33458
+        }
+    ],
+    "investment_thesis": "TON presents a limited opportunity with significant risks (score: 39.5/100). Technical indicators are weak (35.0/100), showing negative price momentum. While some fundamental metrics remain adequate (45.0/100), they may be outweighed by other concerns. Despite relatively neutral sentiment (41.0/100), other factors suggest downside risk. Multiple bullish patterns (inverse head and shoulders, double bottom) have been identified, strengthening the positive case. Multiple bearish patterns (double top, bearish flag) have been identified, indicating caution is warranted. This analysis is set against a broader market that is currently in a strong bullish trend with sentiment showing greed. The analysis supports a Sell rating for TON, indicating potential for price depreciation and suggesting reducing exposure.",
+    "risk_assessment": "TON is classified as a moderate risk investment. With a market cap of $7.73B and global rank of #20, it balances growth potential with reasonable stability. Annualized volatility of 76.7% indicates moderate price fluctuations. Daily trading volume of $196.02M and liquidity ratio of 0.025 suggest adequate liquidity for most trading activities. Investors should be aware of risks including increased competition, potential regulatory impacts, and higher sensitivity to market sentiment. The current bullish market environment potentially reduces short-term downside risk, though caution is warranted for any sudden sentiment changes. High Bitcoin dominance (63.3%) may limit altcoin performance in the near term.",
+    "analysis_time": "2025-04-23 12:42:25"
+}

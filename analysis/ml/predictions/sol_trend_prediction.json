@@ -1,0 +1,14 @@
+{
+    "symbol": "SOL",
+    "current_price": 150.43906735679698,
+    "predicted_price": 153.16769447616718,
+    "prediction_days": 30,
+    "price_change_percent": 1.8137756151457025,
+    "trend": "Bullish",
+    "trend_strength": "Weak",
+    "confidence": 66.66666666666666,
+    "best_model": "Random Forest",
+    "model_agreement": 2,
+    "available_models": 3,
+    "prediction_date": "2025-04-23 20:16:25"
+}

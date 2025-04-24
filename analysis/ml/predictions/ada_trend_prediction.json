@@ -1,0 +1,14 @@
+{
+    "symbol": "ADA",
+    "current_price": 0.6987974635283608,
+    "predicted_price": 0.7286320374528983,
+    "prediction_days": 30,
+    "price_change_percent": 4.26941645922655,
+    "trend": "Bullish",
+    "trend_strength": "Weak",
+    "confidence": 66.66666666666666,
+    "best_model": "Random Forest",
+    "model_agreement": 2,
+    "available_models": 3,
+    "prediction_date": "2025-04-23 20:16:27"
+}

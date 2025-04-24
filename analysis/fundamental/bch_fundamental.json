@@ -1,0 +1,18 @@
+{
+    "symbol": "BCH",
+    "market_cap_usd": 7104126466.288547,
+    "volume_24h_usd": 320182446.893842,
+    "volume_mcap_ratio": 0.045069924981377324,
+    "market_share": 0.26228540632352865,
+    "cmc_rank": 19,
+    "price_change_30d": 7.84256937,
+    "fundamental_score": 50,
+    "score_components": {
+        "market_cap_score": 15,
+        "volume_mcap_score": 5,
+        "rank_score": 10,
+        "stability_score": 9,
+        "growth_score": 7,
+        "market_position_score": 4
+    }
+}

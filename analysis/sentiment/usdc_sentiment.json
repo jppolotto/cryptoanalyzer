@@ -1,0 +1,20 @@
+{
+    "symbol": "USDC",
+    "price_change_1h": -0.00122578,
+    "price_change_24h": -0.00590637,
+    "price_change_7d": 0.01925935,
+    "market_avg_change_24h": 3.7310203413333327,
+    "market_avg_change_7d": 11.602763898000001,
+    "relative_performance_24h": -3.7369267113333327,
+    "relative_performance_7d": -11.583504548,
+    "fear_greed_value": 72,
+    "fear_greed_classification": "Greed",
+    "market_trend": "Strong Bullish",
+    "sentiment_score": 36,
+    "score_components": {
+        "momentum_score": 14,
+        "market_sentiment_score": 10,
+        "relative_score": 5,
+        "alignment_score": 7
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "symbol": "LINK",
+    "market_cap_usd": 9755383149.591995,
+    "volume_24h_usd": 578668109.5268118,
+    "volume_mcap_ratio": 0.0593178249027578,
+    "market_share": 0.3630391051958153,
+    "cmc_rank": 11,
+    "price_change_30d": -2.43676389,
+    "fundamental_score": 49,
+    "score_components": {
+        "market_cap_score": 15,
+        "volume_mcap_score": 8,
+        "rank_score": 10,
+        "stability_score": 9,
+        "growth_score": 3,
+        "market_position_score": 4
+    }
+}

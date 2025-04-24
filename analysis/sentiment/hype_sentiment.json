@@ -1,0 +1,20 @@
+{
+    "symbol": "HYPE",
+    "price_change_1h": -0.87782417,
+    "price_change_24h": -0.26121315,
+    "price_change_7d": 14.2246763,
+    "market_avg_change_24h": -1.144852533,
+    "market_avg_change_7d": 1.3021946,
+    "relative_performance_24h": 0.8836393829999999,
+    "relative_performance_7d": 12.9224817,
+    "fear_greed_value": 47,
+    "fear_greed_classification": "Neutral",
+    "market_trend": "Neutral",
+    "sentiment_score": 54,
+    "score_components": {
+        "momentum_score": 16,
+        "market_sentiment_score": 15,
+        "relative_score": 13,
+        "alignment_score": 10
+    }
+}
