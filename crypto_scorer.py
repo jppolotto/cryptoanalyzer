@@ -151,4 +151,130 @@ class CryptoScorer:
         # Calculate market trends
         self._calculate_market_trends()
 
+    def _load_data(self):
+        """Load cryptocurrency data from files."""
+        try:
+            # Load top cryptocurrencies
+            if os.path.exists(f"{self.data_dir}/top_cryptos.csv"):
+                self.top_cryptos = pd.read_csv(f"{self.data_dir}/top_cryptos.csv")
+                logger.info(f"Loaded data for {len(self.top_cryptos)} cryptocurrencies")
+            else:
+                logger.warning("Top cryptocurrencies data not found")
+                
+            # Load global metrics
+            if os.path.exists(f"{self.data_dir}/global_metrics.csv"):
+                self.global_metrics = pd.read_csv(f"{self.data_dir}/global_metrics.csv").iloc[0].to_dict()
+                logger.info("Loaded global market metrics")
+            else:
+                logger.warning("Global metrics data not found")
+                
+            # Load Fear & Greed Index
+            if os.path.exists(f"{self.data_dir}/fear_greed_index.csv"):
+                self.fear_greed = pd.read_csv(f"{self.data_dir}/fear_greed_index.csv").iloc[0].to_dict()
+                logger.info("Loaded Fear & Greed Index")
+            else:
+                logger.warning("Fear & Greed Index data not found")
+                
+            # Load historical data for each cryptocurrency
+            if self.top_cryptos is not None:
+                for _, row in self.top_cryptos.iterrows():
+                    symbol = row['symbol']
+                    daily_file = f"{self.data_dir}/{symbol.lower()}_historical_daily.csv"
+                    
+                    if os.path.exists(daily_file):
+                        try:
+                            df = pd.read_csv(daily_file)
+                            # Convert timestamp to datetime
+                            df['timestamp'] = pd.to_datetime(df['timestamp'])
+                            # Sort by timestamp
+                            df = df.sort_values('timestamp')
+                            # Store data
+                            self.historical_data[symbol] = {'daily': df}
+                        except Exception as e:
+                            logger.error(f"Error loading historical data for {symbol}: {e}")
+                            continue
+                
+                logger.info(f"Loaded historical data for {len(self.historical_data)} cryptocurrencies")
+            
+        except Exception as e:
+            logger.error(f"Error loading data: {e}")
+            logger.error(traceback.format_exc())
+
+    def _calculate_market_trends(self):
+        """Calculate overall market trends and metrics."""
+        try:
+            if self.top_cryptos is None or self.top_cryptos.empty:
+                logger.warning("No cryptocurrency data available for market trends")
+                return
+            
+            # Calculate market caps by category
+            total_market_cap = self.top_cryptos['market_cap_usd'].sum()
+            
+            # Get top 5, top 10, top 20 market caps
+            top5_market_cap = self.top_cryptos.head(5)['market_cap_usd'].sum()
+            top10_market_cap = self.top_cryptos.head(10)['market_cap_usd'].sum()
+            top20_market_cap = self.top_cryptos.head(20)['market_cap_usd'].sum()
+            
+            # Calculate percentages
+            top5_dominance = (top5_market_cap / total_market_cap) * 100
+            top10_dominance = (top10_market_cap / total_market_cap) * 100
+            top20_dominance = (top20_market_cap / total_market_cap) * 100
+            
+            # Calculate average changes
+            avg_change_24h = self.top_cryptos['percent_change_24h'].mean()
+            avg_change_7d = self.top_cryptos['percent_change_7d'].mean()
+            
+            # Get BTC dominance from global metrics
+            btc_dominance = self.global_metrics.get('btc_dominance', 0) if self.global_metrics else 0
+            
+            # Determine market trend
+            if avg_change_24h > 3 and avg_change_7d > 7:
+                market_trend = "Strong Bullish"
+            elif avg_change_24h > 1 and avg_change_7d > 3:
+                market_trend = "Bullish"
+            elif avg_change_24h < -3 and avg_change_7d < -7:
+                market_trend = "Strong Bearish"
+            elif avg_change_24h < -1 and avg_change_7d < -3:
+                market_trend = "Bearish"
+            else:
+                market_trend = "Neutral"
+            
+            # Calculate market sentiment
+            if self.fear_greed:
+                fear_greed_value = self.fear_greed.get('value', 50)
+                if fear_greed_value <= 25:
+                    market_sentiment = "Extreme Fear"
+                elif fear_greed_value <= 40:
+                    market_sentiment = "Fear"
+                elif fear_greed_value <= 60:
+                    market_sentiment = "Neutral"
+                elif fear_greed_value <= 75:
+                    market_sentiment = "Greed"
+                else:
+                    market_sentiment = "Extreme Greed"
+            else:
+                market_sentiment = "Unknown"
+            
+            # Store market trends
+            self.market_trends = {
+                'total_market_cap': total_market_cap,
+                'top5_market_cap': top5_market_cap,
+                'top10_market_cap': top10_market_cap,
+                'top20_market_cap': top20_market_cap,
+                'top5_dominance': top5_dominance,
+                'top10_dominance': top10_dominance,
+                'top20_dominance': top20_dominance,
+                'btc_dominance': btc_dominance,
+                'avg_change_24h': avg_change_24h,
+                'avg_change_7d': avg_change_7d,
+                'market_trend': market_trend,
+                'market_sentiment': market_sentiment
+            }
+            
+            logger.info(f"Calculated market trends: {market_trend}, {market_sentiment}")
+            
+        except Exception as e:
+            logger.error(f"Error calculating market trends: {e}")
+            logger.error(traceback.format_exc())
+
 # ... rest of the existing code ... 
