@@ -9,4 +9,5 @@ joblib>=1.1.0
 scipy>=1.7.0
 plotly>=5.3.0
 python-dateutil>=2.8.2
-pytz>=2021.3 
+pytz>=2021.3
+schedule>=1.2.0 
